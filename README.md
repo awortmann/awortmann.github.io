@@ -1,25 +1,21 @@
-## Welcome to GitHub Pages
+Hello! I am a software engineering researcher RWTH Aachen University with interests in model-driven systems engineering, software architecture, and software language engineering, and their application to automotive, digital transformation, smart manufacturing, and robotics. 
 
-You can use the [editor on GitHub](https://github.com/awortmann/awortmann.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-# Resesarch Areas
+# Research Areas
 
 I am conducting research in various areas related to model-driven systems engineering for cyber-physical systems, including the model-driven development of semantically well-defined software architectures, digital shadows and digital twins, modeling methods, software languages, and more.
 The resulting publications are available as PDF and Bibtex from my [personal website at the Chair for Software Engineering](https://www.se-rwth.de/staff/wortmann/) of RWTH Aachen University and from my [Google Scholar profile page](https://scholar.google.de/citations?user=6ImtercAAAAJ&hl=de&oi=ao). The following research areas highlight selected publications. 
 
 ## Digital Twins of Industry 4.0
 
-TEXT
+<!-- TEXT -->
 
-- [BDH+20 ]P. Bibow, M. Dalibor, C. Hopmann, B. Mainz, B. Rumpe, D. Schmalzing, M. Schmitz, A. Wortmann. [Model-Driven Development of a Digital Twin for Injection Molding](https://link.springer.com/chapter/10.1007/978-3-030-49435-3_6), In: Advanced Information Systems Engineering, 32nd International Conference, CAiSE 2020, Grenoble, France, June 8–12, 2020, Proceedings, pages 85-100, Springer, 2020. 
+- [BDH+20 ] P. Bibow, M. Dalibor, C. Hopmann, B. Mainz, B. Rumpe, D. Schmalzing, M. Schmitz, A. Wortmann. [Model-Driven Development of a Digital Twin for Injection Molding](https://link.springer.com/chapter/10.1007/978-3-030-49435-3_6), In: Advanced Information Systems Engineering, 32nd International Conference, CAiSE 2020, Grenoble, France, June 8–12, 2020, Proceedings, pages 85-100, Springer, 2020. 
 - [SSH+20] G. Schuh, C. Häfner, C. Hopmann, B. Rumpe, M. Brockmann, A. Wortmann, J. Maibaum, M. Dalibor, P. Bibow, P. Sapel, and M. Kröger. [Effizientere Produktion mit Digitalen Schatten](http://www.se-rwth.de/publications/Effizientere-Produktion-mit-Digitalen-Schatten.pdf), Wilh elm Bauer, Wolfram Volk, Michael Zäh, editors, ZWF Zeitschrift für wirtschaftlichen Fabrikbetrieb, 115, pages 105-107, Munich, April, 2020.
 - [WBCW20] A. Wortmann, O. Barais, B. Combemale, and M. Wimmer. [Modeling Languages in Industry 4.0: an Extended Systematic Mapping Study](http://www.se-rwth.de/publications/Modeling-languages-in-Industry-4-0-an-extended-systematic-mapping-study.pdf), Jeff Gray, Vinay Kulkarni, editors, Software and Systems Modeling, 19, pages 67-94, January, 2020.
 
 ## Model-Driven Systems Engineering
 
-TEXT
+<!-- TEXT -->
 
 - [KMS+18] S. Kriebel, M. Markthaler, K. S. Salman, T. Greifenberg, S. Hillemacher, B. Rumpe, C. Schulze, A. Wortmann, P. Orth, and J. Richenhagen. [Improving Model-based Testing in Automotive Software Engineering](http://www.se-rwth.de/publications/Improving-Model-based-Testing-in-Automotive-Software-Engineering.pdf), In: International Conference on Software Engineering: Software Engineering in Practice (ICSE'18), pages 172-180, June, 2018, ACM.
 - [DJR+19] M. Dalibor, N. Jansen, B. Rumpe, L. Wachtmeister, and A. Wortmann. [Model-Driven Systems Engineering for Virtual Product Design](http://www.se-rwth.de/publications/Model-Driven-Systems-Engineering-for-Virtual-Product-Design.pdf), In: Loli Burgueño, Alexander Pretschner, Sebastian Voss, Michel Chaudron, Jörg Kienzle, Markus Völter, Sébastien Gérard, Mansooreh Zahedi, Erwan Bousse, Arend Rensink, Fiona Polack, Gregor Engels, Gerti Kappel, editors, Proceedings of MODELS 2019. Workshop MPM4CPS, pages 430-435, September, 2019, IEEE.
@@ -28,7 +24,7 @@ TEXT
 ## Software Language Engineering
 
 The efficient engineering of suitable (domain-specific) modeling languages is a crucial prerequisite for the vision of model-driven systems engineering. 
-This demands for concepts, methods, and tools facilitating the creation, maintenance, and reuse of holistic languages (comprising realizations of syntax and semantics), which demands for novel understanding of languages as holistic units that can be subjected to integrated engineerin, reuse, and tailoring.
+This demands for concepts, methods, and tools facilitating the creation, maintenance, and reuse of holistic languages (comprising realizations of syntax and semantics), which demands for a novel understanding of languages as holistic units that can be subjected to integrated engineering, reuse, and tailoring.
 
 Our research in software language engineering addresses these challenges through novel concepts and models the systematic reuse of syntaxes [BEK+19],
 the black-box composition of code generators [BEK+18b], and their holistic reuse through combination [Wor19].
@@ -46,11 +42,11 @@ The [Center for Systems Engineering](https://cse.rwth-campus.com/) aims to shape
 
 ## Collaborative Embedded Systems (CrESt)
 
-With the transition from classical embedded systems to networked, collaborative embedded systems, a wide range of new applications for German industry is emerging. The ability of a company to efficiently develop collaborative embedded systems with highest quality will therefore become a decisive competitive factor. The project [Collaborative Embedded Systems (CrESt)](https://crest.in.tum.de/) aims to create a comprehensive framework for the Model-Driven development of collaborative embedded systems that addresses novel challenges in their engineering based on the SPES development methodology.
+With the transition from classical embedded systems to networked, collaborative embedded systems, a wide range of new applications for the German industry is emerging. The ability of a company to efficiently develop collaborative embedded systems with highest quality will therefore become a decisive competitive factor. The project [Collaborative Embedded Systems (CrESt)](https://crest.in.tum.de/) aims to create a comprehensive framework for the model-driven development of collaborative embedded systems that addresses novel challenges in their engineering based on the SPES development methodology.
 
 ## Intelligent Modular Service Robotics in Human Environments (iserveU)
 
-While various challenging issues for service robotics have been solved to a degree where their deployment is possible, integration of the corresponding hardware components and software components requires intensive collaboration of domain experts, robotics experts, and software experts. The [iserveU project](https://www.se-rwth.de/materials/iserveu/) investigates the feasibility of pervasive model-driven software engineering for complex service robotics applications.
+While various challenging issues for service robotics have been solved to a degree where their deployment is possible, integration of the corresponding hardware components and software components requires the intensive collaboration of domain experts, robotics experts, and software experts. The [iserveU project](https://www.se-rwth.de/materials/iserveu/) investigates the feasibility of pervasive model-driven software engineering for complex service robotics applications.
 
 ## Systematic Engineering of Consistent Digital Twins
 
