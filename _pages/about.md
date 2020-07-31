@@ -14,7 +14,7 @@ profile:
     <p>52074 Aachen</p>
     <p>Germany</p>
 
-news: true
+news: false
 social: true
 ---
 
