@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MontiArcAutomaton
+title: Model-Driven Architecture
 description: 
 img: /assets/img/project_montiarc.png
 importance: 1

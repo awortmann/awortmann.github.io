@@ -6,6 +6,8 @@ description:
 nav: true
 ---
 
+Research projects are vital to advancing the our knowledge about the fundations and application of software engineering methods. During the last years, I have conducted and lead various projects. The most important are highlighted below.
+
 <div class="projects grid">
 
   {% assign sorted_projects = site.projects | sort: "importance" %}
@@ -21,7 +23,7 @@ nav: true
         <img src="{{ project.img | relative_url }}" alt="project thumbnail">
         {% endif %}
         <div class="card-body">
-          <h2 class="card-title">{{ project.title }}</h2>
+          <h5 class="card-title">{{ project.title }}</h5>
           <p class="card-text">{{ project.description }}</p>
           <div class="row ml-1 mr-1 p-0">
             {% if project.github %}

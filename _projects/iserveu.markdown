@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intelligent Modular Service Robotics in Human Environments
+title: Intelligent Modular Service Robotics
 description: 
 img: /assets/img/project_iserveu.png
 importance: 3

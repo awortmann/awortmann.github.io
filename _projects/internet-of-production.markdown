@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Internet of Production
+title: Internet of Production Excellence Cluster
 description: 
 img: /assets/img/project_iop.jpg
 importance: 3
