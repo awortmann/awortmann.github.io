@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Systematic Engineering of Consistent Digital Twins
+title: Systematic Engineering of Digital Twins
 description: 
-img: /assets/img/project_twins.png
+img: /assets/img/project_twins.jpg
 importance: 3
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Systematic Software Language Engineering
 description: 
-img: /assets/img/project_scolar.png
+img: /assets/img/project_scolar.jpg
 importance: 1
 ---
 
