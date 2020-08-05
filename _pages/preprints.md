@@ -6,6 +6,8 @@ description:
 nav: false
 ---
 
+The full list of publications is available from my [publications](../publications/) website
+
 #### 23rd International Conference on Model Driven Engineering Languages and Systems (MODELS)
 
 The following papers have been accepted to [MODELS'20](http://www.modelsconference.org/) and will be presented between October 18 and 23 during the virtual conference.
