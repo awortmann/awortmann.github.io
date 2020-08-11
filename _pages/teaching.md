@@ -70,7 +70,7 @@ In this lab course, students develop architecture description languages (ADLs) f
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FBshxHeUX8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-##ä# Model-based Development of Robotics Applications
+#### Model-based Development of Robotics Applications
 
 This lab course focuses on the development of a service robotics assistance system to solve logistics and guide&follow tasks. In this lab, students use the MontiArcAutomaton modeling language on Robotino3 robots operated by the Robot Operating System (ROS) in its Python implementation.
 
