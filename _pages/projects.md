@@ -23,7 +23,7 @@ Research projects are vital to advancing our knowledge about the fundations and 
         <img src="{{ project.img | relative_url }}" alt="project thumbnail">
         {% endif %}
         <div class="card-body">
-          <h5 class="card-title">{{ project.title }}</h5>
+          <h2 class="card-title">{{ project.title }}</h2>
           <p class="card-text">{{ project.description }}</p>
           <div class="row ml-1 mr-1 p-0">
             {% if project.github %}
