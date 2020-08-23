@@ -83,6 +83,20 @@ collections:
 
 news_limit: 5
 
+# -----
+# SEO
+# -----
+twitter:
+  username: andwor
+  card: summary
+
+social:
+  name: Andreas Wortmann
+  links:
+    - https://twitter.com/andwor
+    - https://www.linkedin.com/in/andreaswortmann/
+    - https://www.xing.com/profile/Andreas_Wortmann7/cv
+
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
@@ -111,6 +125,8 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
   # - bootstrap
   # - material-sass
 
