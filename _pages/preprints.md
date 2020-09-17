@@ -10,8 +10,7 @@ The full list of publications is available from my [publications](../publication
 
 #### Journal on Empirical Software Engineering
 
-- Rodi Jolak, Maxime Savary-Leblanc, Manuela Dalibor, Andreas Wortmann, Regina Hebig, Juraj Vincur, Ivan Polasek, Xavier Le Pallec, Sébastien Gérard, and Michel R. V. Chaudron: [Software engineering whispers: The effect of textual vs. graphical software design descriptions on software design communication](https://link.springer.com/article/10.1007/s10664-020-09835-6?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst). The paper investigate the effect of using a graphical versus textual design description on co-located software design communication.
-
+- Rodi Jolak, Maxime Savary-Leblanc, Manuela Dalibor, Andreas Wortmann, Regina Hebig, Juraj Vincur, Ivan Polasek, Xavier Le Pallec, Sébastien Gérard, and Michel R. V. Chaudron: [Software engineering whispers: The effect of textual vs. graphical software design descriptions on software design communication](https://link.springer.com/article/10.1007/s10664-020-09835-6?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst). The paper investigate the effect of using a graphical versus textual design description on co-located software design communication through a family of experiments involving a mix of 240 software engineering students from four European universities. In these, we examined how different design representations affect the ability to explain, understand, recall, and actively communicate knowledge.
 
 #### 23rd International Conference on Model Driven Engineering Languages and Systems (MODELS)
 
