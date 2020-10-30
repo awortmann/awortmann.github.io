@@ -12,9 +12,11 @@ The full list of publications is available from my [publications](../publication
 
 - Rodi Jolak, Maxime Savary-Leblanc, Manuela Dalibor, Andreas Wortmann, Regina Hebig, Juraj Vincur, Ivan Polasek, Xavier Le Pallec, Sébastien Gérard, and Michel R. V. Chaudron: [Software engineering whispers: The effect of textual vs. graphical software design descriptions on software design communication](https://link.springer.com/article/10.1007/s10664-020-09835-6?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst). Through a family of experiments involving a mix of 240 software engineering students from four European universities, we examined how different design representations affect the ability to explain, understand, recall, and actively communicate knowledge.
 
-#### 23rd International Conference on Model Driven Engineering Languages and Systems (MODELS)
+#### 39th International Conference on Conceptual Modeling (ER 2020)
 
-The following papers have been accepted to [MODELS'20](http://www.modelsconference.org/) and will be presented between October 18 and 23 during the virtual conference.
+- Manuela Dalibor, Judith Michael, Bernhard Rumpe, Simon Varga, Andreas Wortmann: [A Compositional Framework for Systematic Language Reuse](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/2020/er/Towards_a_Model-Driven_Architecture_for_Interactive_Digital_Twin_Cockpits.pdf). The paper presents a model-driven architecture for digital twins, its integration with an interactive cockpit, and a systematic method of realizing both, which facilitates modeling, deploying, and monitoring interactive digital twins and, hence, their successful application in smart manufacturing.
+
+#### 23rd International Conference on Model Driven Engineering Languages and Systems (MODELS)
 
 - Arvid Butting, Jerome Pfeiffer, Bernhard Rumpe, Andreas Wortmann: [A Compositional Framework for Systematic Language Reuse](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/2020/models/A_Compositional_Frameworkfor_Systematic_Modeling_Language_Reuse.pdf). The paper presents results on the systematic reuse of textual, external, and translational modeling languages via composing language components encapsulating grammars, well-formedness rules, and generators with explicit interfaces.
 
