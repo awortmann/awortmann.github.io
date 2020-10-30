@@ -14,7 +14,7 @@ The full list of publications is available from my [publications](../publication
 
 #### 39th International Conference on Conceptual Modeling (ER 2020)
 
-- Manuela Dalibor, Judith Michael, Bernhard Rumpe, Simon Varga, Andreas Wortmann: [A Compositional Framework for Systematic Language Reuse](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/2020/er/Towards_a_Model-Driven_Architecture_for_Interactive_Digital_Twin_Cockpits.pdf). The paper presents a model-driven architecture for digital twins, its integration with an interactive cockpit, and a systematic method of realizing both, which facilitates modeling, deploying, and monitoring interactive digital twins and, hence, their successful application in smart manufacturing.
+- Manuela Dalibor, Judith Michael, Bernhard Rumpe, Simon Varga, Andreas Wortmann: [Towards a Model-Driven Architecture for Interactive Digital Twin Cockpits](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/2020/er/Towards_a_Model-Driven_Architecture_for_Interactive_Digital_Twin_Cockpits.pdf). The paper presents a model-driven architecture for digital twins, its integration with an interactive cockpit, and a systematic method of realizing both, which facilitates modeling, deploying, and monitoring interactive digital twins and, hence, their successful application in smart manufacturing.
 
 #### 23rd International Conference on Model Driven Engineering Languages and Systems (MODELS)
 
