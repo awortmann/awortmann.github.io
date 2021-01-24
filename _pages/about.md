@@ -20,7 +20,7 @@ social: true
 
 ## About Me
 
-I am a professor for model-driven development in production automation at the Institute for Machine Tools and Manufacturing Units (ISW) of the University of Stuttgart. Before, I was senior researcher at the Chair for Software Engineering at RWTH Aachen University and head of the [Model-Driven Systems Engineering](https://www.se-rwth.de/teams/mdse/) research group. 
+I am a professor for model-driven development in production automation at the [Institute for Machine Tools and Manufacturing Units](https://www.isw.uni-stuttgart.de/en/) (ISW) of the University of Stuttgart. Before, I was senior researcher at the Chair for Software Engineering at RWTH Aachen University and head of the [Model-Driven Systems Engineering](https://www.se-rwth.de/teams/mdse/) research group. 
 My research interests are modeling languages, methods, and tools to facilitate the systematic engineering of the cyber-physical systems of the future and transfer this into practice in a variety of research projects. 
 Among these are the [Internet of Production](https://www.iop.rwth-aachen.de/cms/~gpfz/Produktionstechnik/?lidx=1), the [Center for Systems Engineering](https://cse.rwth-campus.com/), and the [Systematic Engineering of Consistent Digital Twins](https://www.rwth-aachen.de/go/id/vuc/lidx/1).
 
