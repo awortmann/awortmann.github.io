@@ -25,3 +25,7 @@ My research interests are modeling languages, methods, and tools to facilitate t
 Among these are the [Internet of Production](https://www.iop.rwth-aachen.de/cms/~gpfz/Produktionstechnik/?lidx=1), the [Center for Systems Engineering](https://cse.rwth-campus.com/), and the [Systematic Engineering of Consistent Digital Twins](https://www.rwth-aachen.de/go/id/vuc/lidx/1).
 
 Moreover, I serve on the board of the [European Association for Programming Languages and Systems (EAPLS)](https://eapls.org/), on the editorial boards of the [International Journal on Software and Systems Modeling (SoSyM)](https://sosym.org/) and the [Journal of Object Technology](http://www.jot.fm/), co-organize the [working group on Model-Based Systems Engineering](https://www.gfse.de/arbeitsgruppen.html#tab2-mbse) of the German Society for Systems Engineering (GfSE), and engage in a variety of academic and community service.
+
+<a href="http://www.sosym.org/" target="_blank">
+<img src="http://www.sosym.org/banner/sosymed.jpg">
+</a> 
