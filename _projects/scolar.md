@@ -6,8 +6,8 @@ img: /assets/img/project_scolar.jpg
 importance: 1
 ---
 
-SCOLAR is a framework for Systematic Compositional LAnguage Reuse that aims to facilitate the engineering of textual, external, and translational, software languages.
-To this effect, it leverages concepts from component-based software engineering, software product lines, and software language engineering in a systematic reuse process.
+Systematic Compositional Language Engineering (SCOLAR) is a basic research project funded by the DFG under no. 441207927 in which we investigate novel methods for the black-box composition of modeling languages. 
+To this effect, we investigate combining concepts from component-based software engineering, software product lines, and software language engineering in a systematic reuse process.
 This process focuses on language components comprising syntax, in the form of grammars and well-formedness rules, and semantics, in the form of code generators, that explicate their required and provided extensions through novel interfaces. 
 By carefully arranging language components through feature models of language product lines, novel language components can be derived through the black-box composition of the components of selected features. 
 This includes embedding of grammars, aggregation of well-formedness rules, and composition of code generators. 
