@@ -10,7 +10,7 @@ nav: true
 
 Development of software for automotive systems has become increasingly complex. Sophisticated driver assistance, collaboration, and Car2X-communication systems as well as advanced active and passive safety-systems result in complex, software-intensive automotive systems. As these feature-driven subsystems may be arbitrarily combined by the customer, a huge amount of distinct variants needs to be managed, developed and tested. Thus, we are carrying out numerous projects in the automotive software engineering, here we concentrate modeling of functional [DRW+20] and logical [KRW20,BKRW19] architectures for collaborative systems [BBD+21], on managing variability [KRSW20], and on model-driven testing [DGH+19].
 
-## Selected Publications
+### Selected Publications
 
 - [BBD+21] B. Böhm, W. Böhm, M. Daun, A. Hayward, S. Kranz, N. Regnat, S. Schröck, I. Stierand, A. Vogelsang, J. Vollmar, S. Voss, T. Weyer, A. Wortmann:
 **Engineering of Collaborative Embedded Systems**. In: W. Böhm, M. Broy, C. Klein, K. Pohl, B. Rumpe, S. Schröck, editors, Model-Based Engineering of Collaborative Embedded Systems, pp. 15–48, Springer, Jan. 2021. 
@@ -26,7 +26,7 @@ In: Automated Software Engineering Journal, 27, pp. 119-151, Springer, April 202
 
 Industr 4.0, the fourth industrial revolution, raises new challenges for future manufacturing which are driven by four disruptions: (1) data volumes, computational power, and connectivity; (2) the emergence of analytics and business-intelligencecapabilities; (3) new forms of human–machine interaction; (4) and improvements in transferring digital instructions to the physical world, such as advanced robotics and 3D printing. One of the most promising concepts of Industry 4.0 are digital twins, integrated digital data, models, and services that foster a better understanding of the production systems of Industry 4.0 and a more sustainable handling of resources. We, therefore, conduct research on modeling languages in Industry 4.0 [WBCW20], on the efficient management of manfuacturing data [SHH+20], and on the systematic conception, engienering, and deployment of self-adaptive digital twins [BDH+20,DMR+20,KMR+20].
 
-## Selected Publications
+### Selected Publications
 
 - [BDH+20] P. Bibow, M. Dalibor, C. Hopmann, B. Mainz, B. Rumpe, D. Schmalzing, M. Schmitz, A. Wortmann: **Model-Driven Development of a Digital Twin for Injection Molding**. In: S. Dustdar, E. Yu, C. Salinesi, D. Rieu, V. Pant, editors, International Conference on Advanced Information Systems Engineering (CAiSE'20), pp. 85-100, Grenoble, Springer International Publishing, June 2020. 
 - [DMR+20] M. Dalibor, J. Michael, B. Rumpe, S. Varga, A. Wortmann:
@@ -40,7 +40,7 @@ In: G. Dobbie, U. Frank, G. Kappel, S. Liddle, H. Mayr, editors, Conceptual Mode
 
 Deploying robotics applications requires expertise from multiple domains, including general software engineering and the application domain itself. Consequently, successfulrobotics applications are developed by teams of software experts, robotics experts, andapplication domain experts. The conceptual gap between application domain challengesand implementation domain solutions gives rise to accidental complexities from solvingproblem domain challenges with programming domain details. This complicates develop-ment and may lead to failure. Domain and robotics experts are rarely software engineeringexperts. Their involvement into the software engineering of reusable robotics applicationsrequires that they become software experts or that implementation details can be abstracted. To enable the efficient engineering of robotics systems in heterogeneous teams with experts from manifold domains, we conduct research on the model-driven development of service robotics software [RRRW15b,ABH+16,ABH+17,AHRW17b] and robotic manufacturing [THR+13,BRS+15]
 
-## Selected Publications
+### Selected Publications
 
 - [ABH+17] K. Adam, A. Butting, R. Heim, O. Kautz, J. Pfeiffer, B. Rumpe, A. Wortmann: **Modeling Robotics Tasks for Better Separation of Concerns, Platform-Independence, and Reuse.** In: Aachener Informatik-Berichte, Software Engineering, Band 28. ISBN 978-3-8440-5319-7. Shaker Verlag, Dec. 2017.
 - [AHRW17b] K. Adam, K. Hölldobler, B. Rumpe, A. Wortmann: **Modeling Robotics Software Architectures with Modular Model Transformations.** In: Journal of Software Engineering for Robotics (JOSER), 8(1):3–16, 2017. 
@@ -51,11 +51,13 @@ Deploying robotics applications requires expertise from multiple domains, includ
 
 # Software Language Engienering
 
-## Selected Publications
+Identifying or engineering appropriate languages for the various activities in software and systems development is one of the most important issues in Software Engineering. Programming and modeling languages are still subject of improvement. In various domains, it is appropriate to employ Domain Specific Languages (DSLs) to enable non-software developers specifying properties, configuring their systems, etc. in terms of established domain concepts and corresponding language elements. With increasing digitalization, we expect a growth in DSLs and increasing efforts in their efficient engineering, integration, and composition. But designing DSLs is challenging, because, on one hand, they need to be precise enough for being processed by a computer and, on the other hand, comprehensible by humans. Monolithic design of a language can already benefit from methods for language engineering in the small including design guidelines and tooling. Therefore, we conduct research on the systematic engineering [BPR+20] of (domain-specific) modeling languages and reusable modeling language libaries [BEH+20] leveraging concepts from component-based software engineering [Wor19] and software product lines for a variety of different domains [BW21].
+
+### Selected Publications
 
 - [BW21] A. Butting, A. Wortmann: **Language Engineering for Heterogeneous Collaborative Embedded Systems**. In: W. Böhm, M. Broy, C. Klein, K. Pohl, B. Rumpe, S. Schröck, editors, Model-Based Engineering of Collaborative Embedded Systems, pp. 239–253, Springer, Jan. 2021. 
 - [BEH+20] A. Butting, R. Eikermann, K. Hölldobler, N. Jansen, B. Rumpe, **A. Wortmann: A Library of Literals, Expressions, Types, and Statements for Compositional Language Design**. In: L. Hamann, R. Paige, A. Pierantonio, B. Rumpe, A. Vallecillo, editors, Special Issue dedicated to Martin Gogolla on his 65th Birthday, Journal of Object Technology, 19(3), pp. 3:1-16, AITO, Oct. 2020. 
-- [BPR+20] A. Butting, J. Pfeiffer, B. Rumpe, A. Wortmann: A Compositional Framework for Systematic Modeling Language Reuse. In: Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'20), pp. 35-46, ACM, Oct. 2020. 
+- [BPR+20] A. Butting, J. Pfeiffer, B. Rumpe, A. Wortmann: **A Compositional Framework for Systematic Modeling Language Reuse**. In: Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'20), pp. 35-46, ACM, Oct. 2020. 
 - [Wor19] A. Wortmann: **Towards Component-Based Development of Textual Domain-Specific Languages.** In: L. Lavazza, H. Mannaert, K. Kavi, editors, International Conference on Software Engineering Advances (ICSEA 2019), Valencia, pp. 68-73, IARIA XPS Press, Nov. 2019.
 
 The full list of publications is available from my [publications](../publications/) website.
