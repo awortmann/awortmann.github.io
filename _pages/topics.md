@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /topics/
-title: Research Topics
+title: Research
 description: 
 nav: true
 ---
 
-The full list of publications is available from my [publications](../publications/) website.
+This website presents selected research topics and related publicaitons. The full list of publications is available from my [publications](../publications/) website.
 
 ## Automotive Systems Engineering
 
