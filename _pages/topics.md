@@ -3,7 +3,7 @@ layout: page
 permalink: /topics/
 title: Topics
 description: 
-nav: false
+nav: true
 ---
 
 # Automotive Systems Engineering
