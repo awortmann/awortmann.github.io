@@ -6,6 +6,8 @@ description:
 nav: true
 ---
 
+The full list of publications is available from my [publications](../publications/) website.
+
 ## Automotive Systems Engineering
 
 Developing software for automotive systems has become increasingly complex. Sophisticated driver assistance, collaboration, and Car2X-communication systems as well as advanced active and passive safety-systems result in complex, software-intensive automotive systems. As these feature-driven subsystems may be arbitrarily combined by the customer, a huge amount of distinct variants needs to be managed, developed, and tested. Thus, we are carrying out numerous projects in automotive software engineering, here we concentrate on the modeling of functional [DRW+20] and logical [KRW20, BKRW19] architectures for collaborative systems [BBD+21], on managing variability [KRSW20], and on model-driven testing [DGH+19].
@@ -60,4 +62,3 @@ Identifying or engineering appropriate languages for the various activities in s
 - [BPR+20] A. Butting, J. Pfeiffer, B. Rumpe, A. Wortmann: **A Compositional Framework for Systematic Modeling Language Reuse**. In: Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'20), pp. 35-46, ACM, Oct. 2020. 
 - [Wor19] A. Wortmann: **Towards Component-Based Development of Textual Domain-Specific Languages.** In: L. Lavazza, H. Mannaert, K. Kavi, editors, International Conference on Software Engineering Advances (ICSEA 2019), Valencia, pp. 68-73, IARIA XPS Press, Nov. 2019.
 
-The full list of publications is available from my [publications](../publications/) website.
