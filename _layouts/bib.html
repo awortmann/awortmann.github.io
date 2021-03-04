@@ -53,19 +53,37 @@
 
       <span class="periodical">
       {% if entry.type == "article" %}
-        <em>{{entry.journal}}</em>
+        <em>In {{entry.journal}},
+        {% if entry.year %}
+          pp. {{entry.pages}}, 
+        {% endif %}
+        {{entry.publisher}}</em>
+
       {% elsif entry.type == "inproceedings" %}
-        <em>In {{entry.booktitle}}</em>
+        <em>In {{entry.booktitle}},
+        {% if entry.year %}
+          pp. {{entry.pages}}, 
+        {% endif %}
+        {{entry.publisher}}</em>
+
       {% elsif entry.type == "inbook" %}
-        <em>In {{entry.booktitle}},  pages {{entry.pages}}, {{entry.publisher}}</em>
+        <em>In {{entry.booktitle}},
+        {% if entry.year %}
+          pp. {{entry.pages}}, 
+        {% endif %}
+        {{entry.publisher}}</em>
+
       {% elsif entry.type == "incollection" %}
-        <em>In {{entry.booktitle}}</em>
+        <em>In {{entry.booktitle}},
+        {% if entry.year %}
+          pp. {{entry.pages}}, 
+        {% endif %}
+        {{entry.publisher}}</em>
       {% endif %}
       
       {% if entry.year %}
         , {{entry.year}}
-      {% endif %}
-      .
+      {% endif %}.
       </span>
     {% endif %}
 
