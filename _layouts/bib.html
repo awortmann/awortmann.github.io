@@ -61,21 +61,21 @@
 
       {% elsif entry.type == "inproceedings" %}
         <em>In {{entry.booktitle}},
-        {% if entry.year %}
+        {% if entry.pages %}
           pp. {{entry.pages}}, 
         {% endif %}
         {{entry.publisher}}</em>
 
       {% elsif entry.type == "inbook" %}
         <em>In {{entry.booktitle}},
-        {% if entry.year %}
+        {% if entry.pages %}
           pp. {{entry.pages}}, 
         {% endif %}
         {{entry.publisher}}</em>
 
       {% elsif entry.type == "incollection" %}
         <em>In {{entry.booktitle}},
-        {% if entry.year %}
+        {% if entry.pages %}
           pp. {{entry.pages}}, 
         {% endif %}
         {{entry.publisher}}</em>
