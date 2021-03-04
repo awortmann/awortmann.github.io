@@ -43,7 +43,7 @@
                 {% if site.data.coauthors[author.last] %}
                   and <a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.last}}, {{author.first}}</a>
                 {% else %}
-                  and {{author.last}}, {{author.first}}
+                  and {{author.last}}, {{author.first}}.
                 {% endif %}
               {% endif %}
             {% endunless %}
@@ -54,7 +54,7 @@
       <span class="periodical">
       {% if entry.type == "article" %}
         <em>In {{entry.journal}},
-        {% if entry.year %}
+        {% if entry.pages %}
           pp. {{entry.pages}}, 
         {% endif %}
         {{entry.publisher}}</em>

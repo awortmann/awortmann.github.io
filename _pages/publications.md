@@ -22,4 +22,6 @@ Preprints of publications in press are available from my [preprints](../preprint
 
 </div>
 
+<!--
 Older publications are available from my [website at the Chair for Software Engineering](https://www.se-rwth.de/staff/wortmann/).
+-->
