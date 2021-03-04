@@ -52,37 +52,51 @@
       </span>
 
       <span class="periodical">
+
+      <!-- ARTICLE -->      
       {% if entry.type == "article" %}
         <em>In {{entry.journal}},
         {% if entry.pages %}
           pp. {{entry.pages}}, 
         {% endif %}
-        {{entry.publisher}}</em>
+        {% if entry.publisher %}
+          {{entry.publisher}}, 
+        {% endif %}</em>
 
+      <!-- INPROCEEDING -->      
       {% elsif entry.type == "inproceedings" %}
         <em>In {{entry.booktitle}},
         {% if entry.pages %}
           pp. {{entry.pages}}, 
         {% endif %}
-        {{entry.publisher}}</em>
+        {% if entry.publisher %}
+          {{entry.publisher}}, 
+        {% endif %}</em>
 
+      <!-- INBOOK -->      
       {% elsif entry.type == "inbook" %}
         <em>In {{entry.booktitle}},
         {% if entry.pages %}
           pp. {{entry.pages}}, 
         {% endif %}
-        {{entry.publisher}}</em>
-
+        {% if entry.publisher %}
+          {{entry.publisher}}, 
+        {% endif %}</em>
+      
+      <!-- INCOLLECTION -->      
       {% elsif entry.type == "incollection" %}
         <em>In {{entry.booktitle}},
         {% if entry.pages %}
           pp. {{entry.pages}}, 
         {% endif %}
-        {{entry.publisher}}</em>
+        {% if entry.publisher %}
+          {{entry.publisher}}, 
+        {% endif %}</em>
+
       {% endif %}
       
       {% if entry.year %}
-        , {{entry.year}}
+        {{entry.year}}
       {% endif %}.
       </span>
     {% endif %}
