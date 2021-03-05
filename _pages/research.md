@@ -21,7 +21,7 @@ Developing software for automotive systems has become increasingly complex. Soph
 In: Automated Software Engineering Journal, 27, pp. 119-151, Springer, April 2020. 
 - [KRSW20] J. C. Kirchhof, B. Rumpe, D. Schmalzing, A. Wortmann:
 **Structurally Evolving Component-Port-Connector Architectures of Centrally Controlled Systems**. In: M. Cordy, M. Acher, D. Beuche, G. Saake, editors, International Working Conference on Variability Modelling of Software-Intensive Systems (VAMOS'20), Magdeburg, article 23, ACM, Feb. 2020. 
--[BKRW19] A. Butting, O. Kautz, B. Rumpe, A. Wortmann: **Continuously Analyzing Finite, Message-Driven, Time-Synchronous Component &amp; Connector Systems During Architecture Evolution*. In: P. Pelliccione, J. Bosch, M. Marija, editors, Journal of Systems and Software (JSS), 149, pp. 437-461, Elsevier, March 2019. 
+- [BKRW19] A. Butting, O. Kautz, B. Rumpe, A. Wortmann: **Continuously Analyzing Finite, Message-Driven, Time-Synchronous Component &amp; Connector Systems During Architecture Evolution**. In: P. Pelliccione, J. Bosch, M. Marija, editors, Journal of Systems and Software (JSS), 149, pp. 437-461, Elsevier, March 2019. 
 - [DGH+19] I. Drave, T. Greifenberg, S. Hillemacher, S. Kriebel, E. Kusmenko, M. Markthaler, P. Orth, K. S. Salman, J. Richenhagen, B. Rumpe, C. Schulze, M. von Wenckstern, A. Wortmann: **SMArDT Modeling for Automotive Software Testing**. In: R. Buyya, J. Bishop, K. Cooper, R. Jonas, A. Poggi, S. Srirama, editors, Software: Practice and Experience, 49(2):301-328, Wiley Online Library, Feb. 2019. 
 
 ## Modeling in Industry 4.0
