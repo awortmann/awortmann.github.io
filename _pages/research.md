@@ -34,9 +34,9 @@ Industry 4.0, the fourth industrial revolution, raises new challenges for future
 - [DMR+20] M. Dalibor, J. Michael, B. Rumpe, S. Varga, A. Wortmann:
 **Towards a Model-Driven Architecture for Interactive Digital Twin Cockpits**.
 In: G. Dobbie, U. Frank, G. Kappel, S. Liddle, H. Mayr, editors, Conceptual Modeling, pp. 377-387, Springer, Oct. 2020. 
-[KMR+20] J. C. Kirchhof, J. Michael, B. Rumpe, S. Varga, A. Wortmann: **Model-driven Digital Twin Construction: Synthesizing the Integration of Cyber-Physical Systems with Their Information Systems.** In: Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'20), pp. 90-101, ACM, Oct. 2020. 
+- [KMR+20] J. C. Kirchhof, J. Michael, B. Rumpe, S. Varga, A. Wortmann: **Model-Driven Digital Twin Construction: Synthesizing the Integration of Cyber-Physical Systems with Their Information Systems.** In: Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'20), pp. 90-101, ACM, Oct. 2020. 
 - [SHH+20] G. Schuh, C. Häfner, C. Hopmann, B. Rumpe, M. Brockmann, A. Wortmann, J. Maibaum, M. Dalibor, P. Bibow, P. Sapel, M. Kröger: **Effizientere Produktion mit Digitalen Schatten.** In: W. Bauer, W. Volk, M. Zäh, editors, ZWF Zeitschrift für wirtschaftlichen Fabrikbetrieb 115(special), pp. 105-107, Carl Hanser Verlag, Munich, April 2020. 
-[WBCW20] A. Wortmann, O. Barais, B. Combemale, M. Wimmer: **Modeling Languages in Industry 4.0: an Extended Systematic Mapping Study.** In: J. Gray and V. Kulkarni, editors, Software and Systems Modeling, 19(1), pp. 67-94, Springer, Jan. 2020. 
+- [WBCW20] A. Wortmann, O. Barais, B. Combemale, M. Wimmer: **Modeling Languages in Industry 4.0: an Extended Systematic Mapping Study.** In: J. Gray and V. Kulkarni, editors, Software and Systems Modeling, 19(1), pp. 67-94, Springer, Jan. 2020. 
 
 ## Robotics
 
@@ -48,7 +48,7 @@ Deploying robotics applications requires expertise from multiple domains, includ
 - [AHRW17b] K. Adam, K. Hölldobler, B. Rumpe, A. Wortmann: **Modeling Robotics Software Architectures with Modular Model Transformations.** In: Journal of Software Engineering for Robotics (JOSER), 8(1):3–16, 2017. 
 - [ABH+16] K. Adam, A. Butting, R. Heim, O. Kautz, B. Rumpe, A. Wortmann: **Model-Driven Separation of Concerns for Service Robotics.** In: International Workshop on Domain-Specific Modeling (DSM'16), pp. 22-27. ACM, October 2016. 
 - [BRS+15] A. Butting, B. Rumpe, C. Schulze, U. Thomas, A. Wortmann: **Modeling Reusable, Platform-Independent Robot Assembly Processes.** In: Proceedings of the Sixth International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob 2015), 2015. 
-[RRRW15b] J. O. Ringert, A. Roth, B. Rumpe, A. Wortmann: **Language and Code Generator Composition for Model-Driven Engineering of Robotics Component & Connector Systems.** In: Journal of Software Engineering for Robotics (JOSER), 6(1):33–57, 2015. 
+- [RRRW15b] J. O. Ringert, A. Roth, B. Rumpe, A. Wortmann: **Language and Code Generator Composition for Model-Driven Engineering of Robotics Component & Connector Systems.** In: Journal of Software Engineering for Robotics (JOSER), 6(1):33–57, 2015. 
 - [THR+13] U. Thomas, G. Hirzinger, B. Rumpe, C. Schulze, A. Wortmann: **A New Skill Based Robot Programming Language Using UML/P Statecharts.** In: Proceedings of the 2013 IEEE International Conference on Robotics and Automation (ICRA), May 6-10, 2013, Karlsruhe, Germany. 
 
 ## Software Language Engineering
