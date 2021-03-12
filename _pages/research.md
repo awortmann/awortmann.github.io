@@ -24,13 +24,13 @@ In: Automated Software Engineering Journal, 27, pp. 119-151, Springer, April 202
 - [BKRW19] A. Butting, O. Kautz, B. Rumpe, A. Wortmann: **Continuously Analyzing Finite, Message-Driven, Time-Synchronous Component &amp; Connector Systems During Architecture Evolution**. In: P. Pelliccione, J. Bosch, M. Marija, editors, Journal of Systems and Software (JSS), 149, pp. 437-461, Elsevier, March 2019. 
 - [DGH+19] I. Drave, T. Greifenberg, S. Hillemacher, S. Kriebel, E. Kusmenko, M. Markthaler, P. Orth, K. S. Salman, J. Richenhagen, B. Rumpe, C. Schulze, M. von Wenckstern, A. Wortmann: **SMArDT Modeling for Automotive Software Testing**. In: R. Buyya, J. Bishop, K. Cooper, R. Jonas, A. Poggi, S. Srirama, editors, Software: Practice and Experience, 49(2):301-328, Wiley Online Library, Feb. 2019. 
 
-## Modeling in Industry 4.0
+## Modeling in Industry 4.0 &amp; Digital Twins
 
 Industry 4.0, the fourth industrial revolution, raises new challenges for future manufacturing which are driven by four disruptions: (1) data volumes, computational power, and connectivity; (2) the emergence of analytics and business-intelligence capabilities; (3) new forms of human-machine interaction; (4) and improvements in transferring digital instructions to the physical world, such as advanced robotics and 3D printing. One of the most promising concepts of Industry 4.0 are digital twins, integrated digital data, models, and services that foster a better understanding of the production systems of Industry 4.0 and a more sustainable handling of resources. We, therefore, conduct research on modeling languages in Industry 4.0 [WBCW20], on the efficient management of manufacturing data [SHH+20], and on the systematic conception, engineering, and deployment of self-adaptive digital twins [BDH+20, DMR+20, KMR+20].
 
 #### Selected Publications
 
-- [BDH+20] P. Bibow, M. Dalibor, C. Hopmann, B. Mainz, B. Rumpe, D. Schmalzing, M. Schmitz, A. Wortmann: **Model-Driven Development of a Digital Twin for Injection Molding**. In: S. Dustdar, E. Yu, C. Salinesi, D. Rieu, V. Pant, editors, International Conference on Advanced Information Systems Engineering (CAiSE'20), pp. 85-100, Grenoble, Springer International Publishing, June 2020. 
+- [BDH+20] P. Bibow, M. Dalibor, C. Hopmann, B. Mainz, B. Rumpe, D. Schmalzing, M. Schmitz, A. Wortmann: [Model-Driven Development of a Digital Twin for Injection Molding](../downloads/paper/2020/Model-Driven-Development-of-a-Digital-Twin-for-Injection-Molding.pdf). In: S. Dustdar, E. Yu, C. Salinesi, D. Rieu, V. Pant, editors, International Conference on Advanced Information Systems Engineering (CAiSE'20), pp. 85-100, Grenoble, Springer International Publishing, June 2020. 
 - [DMR+20] M. Dalibor, J. Michael, B. Rumpe, S. Varga, A. Wortmann:
 **Towards a Model-Driven Architecture for Interactive Digital Twin Cockpits**.
 In: G. Dobbie, U. Frank, G. Kappel, S. Liddle, H. Mayr, editors, Conceptual Modeling, pp. 377-387, Springer, Oct. 2020. 
