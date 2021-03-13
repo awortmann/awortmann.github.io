@@ -20,4 +20,4 @@ In: Automated Software Engineering Journal, 27, pp. 119-151, Springer, April 202
 - [BKRW19] A. Butting, O. Kautz, B. Rumpe, A. Wortmann: [Continuously Analyzing Finite, Message-Driven, Time-Synchronous Component &amp; Connector Systems During Architecture Evolution](../downloads/paper/2019/Continuously-Analyzing-Finite-Message-Driven-Time-Synchronous-Component-and-Connector-Systems-During-Architecture-Evolution.pdf). In: P. Pelliccione, J. Bosch, M. Marija, editors, Journal of Systems and Software (JSS), 149, pp. 437-461, Elsevier, March 2019. 
 - [DGH+19] I. Drave, T. Greifenberg, S. Hillemacher, S. Kriebel, E. Kusmenko, M. Markthaler, P. Orth, K. S. Salman, J. Richenhagen, B. Rumpe, C. Schulze, M. von Wenckstern, A. Wortmann: [SMArDT Modeling for Automotive Software Testing](../downloads/paper/2019/SMArDT-modeling-for-automotive-software-testing.pdf). In: R. Buyya, J. Bishop, K. Cooper, R. Jonas, A. Poggi, S. Srirama, editors, Software: Practice and Experience, 49(2):301-328, Wiley Online Library, Feb. 2019. 
 
-Find other research topics from my [research](./research/) website.
+Find other research topics from my [research](../research/) website.

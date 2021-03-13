@@ -18,4 +18,4 @@ In: G. Dobbie, U. Frank, G. Kappel, S. Liddle, H. Mayr, editors, Conceptual Mode
 - [SHH+20] G. Schuh, C. Häfner, C. Hopmann, B. Rumpe, M. Brockmann, A. Wortmann, J. Maibaum, M. Dalibor, P. Bibow, P. Sapel, M. Kröger: Effizientere Produktion mit Digitalen Schatten. In: W. Bauer, W. Volk, M. Zäh, editors, ZWF Zeitschrift für wirtschaftlichen Fabrikbetrieb 115 (special), pp. 105-107, Carl Hanser Verlag, Munich, April 2020. 
 - [WBCW20] A. Wortmann, O. Barais, B. Combemale, M. Wimmer: [Modeling Languages in Industry 4.0: an Extended Systematic Mapping Study](../downloads/paper/2020/Modeling-languages-in-Industry-4-0-an-extended-systematic-mapping-study.pdf). In: J. Gray and V. Kulkarni, editors, Software and Systems Modeling, 19(1), pp. 67-94, Springer, Jan. 2020. 
 
-Find other research topics from my [research](./research/) website.
+Find other research topics from my [research](../research/) website.

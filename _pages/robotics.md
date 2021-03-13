@@ -17,4 +17,4 @@ Deploying robotics applications requires expertise from multiple domains, includ
 - [RRRW15b] J. O. Ringert, A. Roth, B. Rumpe, A. Wortmann: [Language and Code Generator Composition for Model-Driven Engineering of Robotics Component & Connector Systems](../downloads/paper/2015/Language-and-Code-Generator-Composition-for-Model-Driven-Engineering-of-Robotics-Component-and-Connector-Systems.pdf) In: Journal of Software Engineering for Robotics (JOSER), 6(1):33–57, 2015. 
 - [THR+13] U. Thomas, G. Hirzinger, B. Rumpe, C. Schulze, A. Wortmann: [A New Skill Based Robot Programming Language Using UML/P Statecharts](../downloads/paper/2013/A-New-Skill-Based-Robot-Programming-Language-Using-UML-P-Statecharts.pdf) In: Proceedings of the 2013 IEEE International Conference on Robotics and Automation (ICRA), May 6-10, 2013, Karlsruhe, Germany. 
 
-Find other research topics from my [research](./research/) website.
+Find other research topics from my [research](../research/) website.
