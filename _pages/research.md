@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-This website presents selected research topics and related publicaitons. The full list of publications is available from my [publications](../publications/) website.
+This website presents selected research topics and related publications. The full list of publications is available from my [publications](../publications) website.
 
 ## Automotive Systems Engineering
 
@@ -24,7 +24,7 @@ In: Automated Software Engineering Journal, 27, pp. 119-151, Springer, April 202
 - [BKRW19] A. Butting, O. Kautz, B. Rumpe, A. Wortmann: [Continuously Analyzing Finite, Message-Driven, Time-Synchronous Component &amp; Connector Systems During Architecture Evolution](../downloads/paper/2019/Continuously-Analyzing-Finite-Message-Driven-Time-Synchronous-Component-and-Connector-Systems-During-Architecture-Evolution.pdf). In: P. Pelliccione, J. Bosch, M. Marija, editors, Journal of Systems and Software (JSS), 149, pp. 437-461, Elsevier, March 2019. 
 - [DGH+19] I. Drave, T. Greifenberg, S. Hillemacher, S. Kriebel, E. Kusmenko, M. Markthaler, P. Orth, K. S. Salman, J. Richenhagen, B. Rumpe, C. Schulze, M. von Wenckstern, A. Wortmann: [SMArDT Modeling for Automotive Software Testing](../downloads/paper/2019/SMArDT-modeling-for-automotive-software-testing.pdf). In: R. Buyya, J. Bishop, K. Cooper, R. Jonas, A. Poggi, S. Srirama, editors, Software: Practice and Experience, 49(2):301-328, Wiley Online Library, Feb. 2019. 
 
-## Modeling in Industry 4.0 &amp; Digital Twins
+## Industry 4.0
 
 Industry 4.0, the fourth industrial revolution, raises new challenges for future manufacturing which are driven by four disruptions: (1) data volumes, computational power, and connectivity; (2) the emergence of analytics and business-intelligence capabilities; (3) new forms of human-machine interaction; (4) and improvements in transferring digital instructions to the physical world, such as advanced robotics and 3D printing. One of the most promising concepts of Industry 4.0 are digital twins, integrated digital data, models, and services that foster a better understanding of the production systems of Industry 4.0 and a more sustainable handling of resources. We, therefore, conduct research on modeling languages in Industry 4.0 [WBCW20], on the efficient management of manufacturing data [SHH+20], and on the systematic conception, engineering, and deployment of self-adaptive digital twins [BDH+20, DMR+20, KMR+20].
 
