@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /robotics/
-title: Robotics Software Engineering
+permalink: /writing/
+title: Notes on Scientifc Writing and Presentation
 description: 
 nav: false
 ---
