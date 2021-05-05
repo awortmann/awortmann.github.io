@@ -34,21 +34,21 @@ nav: false
 - For instance "transmission-control protocol/internet protocol (TCP/IP)" is correct
 
 ## Phrasing and wording
-- Correct use of "enable" and "allow"
-  - Semantic: https://www.merriam-webster.com/dictionary/allow vs https://www.merriam-webster.com/dictionary/enable 
-  - Grammatic: https://www.grammaring.com/to-infinitive-or-gerund-advise-recommend-allow-permit-forbid-require
+- Correct use of "enable" and "allow": 
+  - Semantically: [allow](https://www.merriam-webster.com/dictionary/allow) vs [enable](https://www.merriam-webster.com/dictionary/enable)
+  - [Grammatically](https://www.grammaring.com/to-infinitive-or-gerund-advise-recommend-allow-permit-forbid-require)
 
 ## Spelling
 - Consistently used american english?
-- Capitalization correct and consistent: https://blog.apastyle.org/apastyle/2012/02/do-i-capitalize-this-word.html
-  - Capitalize "proper nouns" only: https://en.wikipedia.org/wiki/Proper_noun
-- Oxford comma used consistently:: https://www.chicagomanualofstyle.org/book/ed17/part2/ch06/psec019.html 
-- Proper dashes used: https://www.chicagomanualofstyle.org/book/ed17/part2/ch06/psec085.html
-- Correct hyphens used: https://dictionary.cambridge.org/grammar/british-grammar/hyphens
-- Captions use [Heading Style](https://www.chicagomanualofstyle.org/book/ed17/part1/ch02/psec058.html )
+- [Capitalization correct](https://blog.apastyle.org/apastyle/2012/02/do-i-capitalize-this-word.html) and consistent
+  - Capitalize [proper nouns](https://en.wikipedia.org/wiki/Proper_noun) only
+- [Oxford comma](https://www.chicagomanualofstyle.org/book/ed17/part2/ch06/psec019.html) used consistently
+- [Proper dashes](https://www.chicagomanualofstyle.org/book/ed17/part2/ch06/psec085.html) used
+- [Correct hyphens](https://dictionary.cambridge.org/grammar/british-grammar/hyphens) used
+- Captions use [Heading Style](https://www.chicagomanualofstyle.org/book/ed17/part1/ch02/psec058.html)
 
 ## Numbering
-- Numbers between 0 and 10 [proper number words](https://www.chicagomanualofstyle.org/book/ed17/part2/ch09/psec003.html)
+- Numbers between 0 and 10 represented as [proper number words](https://www.chicagomanualofstyle.org/book/ed17/part2/ch09/psec003.html)
 - Words used with index numbers (e.g., "Section 1", "Figure 2", "Table 3") are captitalized
 
 ## Latex
