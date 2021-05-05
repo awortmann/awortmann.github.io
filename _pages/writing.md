@@ -15,7 +15,7 @@ nav: false
 ## Guides and tools
 
 - [APA Style](https://apastyle.apa.org/)
-- [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) (kostenlos aus RWTH Netz)
+- [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)
 - [Elements of Style](https://www.bartleby.com/141/)
 - [Merriam Webster Dictionary](https://www.merriam-webster.com/)
 - The [Hemingway Tool](http://www.hemingwayapp.com/) can help writing less complicated sentences
