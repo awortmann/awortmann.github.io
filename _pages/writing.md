@@ -14,8 +14,47 @@ nav: false
 
 ## Writing
 
+### Guides and tools
+
+- [APA Style](https://apastyle.apa.org/)
+- [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html) (kostenlos aus RWTH Netz)
+- [Elements of Style](https://www.bartleby.com/141/)
+- [Merriam Webster Dictionary](https://www.merriam-webster.com/)
 - The [Hemingway Tool](http://www.hemingwayapp.com/) can help writing less complicated sentences
-- Convert [ISBN-to-Bibtex](https://manas.tungare.name/software/isbn-to-bibtex)
+
+### Figures
+- Illustrations are suitable for b/w printing
+- No undesired oblique lines
+- ISW template used
+- Captions: in complete sentences end with period, in incomplete sentences end without period
+- Captions use [Sentence style](https://www.chicagomanualofstyle.org/book/ed17/part1/ch03/psec021.html) 
+
+### Abbreviations
+- All abbreviations introduced
+- Only abbreviations introduced that have been used at least five times
+- The full form is written in lower case in [most cases](https://www.chicagomanualofstyle.org/book/ed17/part2/ch10/psec006.html): 
+- For instance "transmission-control protocol/internet protocol (TCP/IP)" is correct
+
+### Phrasing and wording
+- Correct use of "enable" and "allow"
+  - Semantic: https://www.merriam-webster.com/dictionary/allow vs https://www.merriam-webster.com/dictionary/enable 
+  - Grammatic: https://www.grammaring.com/to-infinitive-or-gerund-advise-recommend-allow-permit-forbid-require
+
+### Spelling
+- Consistently used american english?
+- Capitalization correct and consistent: https://blog.apastyle.org/apastyle/2012/02/do-i-capitalize-this-word.html
+  - Capitalize "proper nouns" only: https://en.wikipedia.org/wiki/Proper_noun
+- Oxford comma used consistently:: https://www.chicagomanualofstyle.org/book/ed17/part2/ch06/psec019.html 
+- Proper dashes used: https://www.chicagomanualofstyle.org/book/ed17/part2/ch06/psec085.html
+- Correct hyphens used: https://dictionary.cambridge.org/grammar/british-grammar/hyphens
+- Captions use [Heading Style](https://www.chicagomanualofstyle.org/book/ed17/part1/ch02/psec058.html )
+
+### Numbering
+- Numbers between 0 and 10 [proper number words](https://www.chicagomanualofstyle.org/book/ed17/part2/ch09/psec003.html)
+- Words used with index numbers (e.g., "Section 1", "Figure 2", "Table 3") are captitalized
+
+### Latex
+- Use \autoref{} instead of \ref{} consistently
 
 ## Reviewing
 
@@ -23,8 +62,32 @@ nav: false
 
 ## Presenting
 
-- [ICSE 2019 Presentation 101 Guidelines](ICSE-2019-Presentation)
 - [List of logical symbols in Unicode](https://en.wikipedia.org/wiki/List_of_logic_symbols)
+
+### ICSE 2919 Presentation 101 Guidelines in a Nutshell
+
+- No bullet pointing
+- Few nesting levels only
+- No weird color schemes
+- No powerpoint default template
+- Don't put things on the slide that no sane person understands in a few seconds
+- No font craze
+- Communication message is 38% in voice, tone; 55% in body language; 7% in spoken word when it comes to people liking each other. Not the same for presentations.
+- Form without content is meaningless; content without form goes unnoticed
+- A good presentation goes under; a decent presentation is decent; a good presentation can change your life
+- Tailor to your audience!
+- Respect the golden ratio in your layout
+- 80% of your material will be on 20% of your slides
+- Aesthetic-Usability effect: „if it looks cool, it’s easier to use"
+- Alignment! Creates an sense of unity and cohesion, leads to invisible cues to aid understanding
+- Gestalt principles: preference for simplify over complexity, pattern over randomness
+- Ockham’s Razor: Remove unneccessary stuff: page numbers, title, name, university logo
+- Use Grid lines & powerpoints. Rule of thirds. Ca. golden ratio
+- Serial positon effect improves recall: first list item (primacy), last item (recency)
+- Good fonts: Helvetica Neue, Calibri, Gill Sans Light, Menlo, Optima, Times New Roman Italic, Frutiger, Fira Sans, Proxima Nova Condensed.
+- Design principles are CRAP: Contrast, Repetition, Alignment, Proximity.
+- You can make your slides detailed, or you can make them effective. Not all details are important, because not all of them will fit anyway, so be as effective as possible
+- Giving presentations at academic conferences is mostly about selling yourself. This is the main thing that matters. Stand out. Make yourself be remembered. This is what you want to reach
 
 # People
 
