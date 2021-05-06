@@ -93,7 +93,7 @@ nav: false
 
 ## Selected German Software Engineering Researchers
 
- [Sven Apel - Universität des Saarlandes](https://scholar.google.de/citations?user=_4ssMloAAAAJ&hl=de&oi=ao)
+- [Sven Apel - Universität des Saarlandes](https://scholar.google.de/citations?user=_4ssMloAAAAJ&hl=de&oi=ao)
 - [Uwe Aßmann - Dresden](https://scholar.google.de/citations?hl=de&user=KiiBpMgAAAAJ)
 - [Manfred Broy - TUM](https://dblp.uni-trier.de/pers/hd/b/Broy:Manfred)
 - [Jürgen Ebert - Universität Koblenz-Landau](https://dblp.uni-trier.de/pers/hd/e/Ebert:J=uuml=rgen)
