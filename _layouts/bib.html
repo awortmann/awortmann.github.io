@@ -93,8 +93,16 @@
           {{entry.publisher}}, 
         {% endif %}</em>
 
+      <!-- PROCEEDINGS --> 
+      {% elsif entry.type == "proceedings" %}
+        <em>In {{entry.editor}} (Eds.) {{entry.title}},
+        {% if entry.publisher %}
+          {{entry.publisher}}, 
+        {% endif %}</em>
+
       {% endif %}
-      
+
+
       {% if entry.year %}
         &nbsp;{{entry.year}}{% endif %}.
       </span>
