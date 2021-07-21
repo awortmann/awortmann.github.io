@@ -8,5 +8,6 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'jekyll-seo-tag'
+    gem 'nokogiri', '1.8'
     #gem 'jekyll-twitter-plugin'
 end
