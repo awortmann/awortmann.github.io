@@ -42,6 +42,8 @@ After completing this course, the students will have a deeper understanding of t
 
 ## Project Classes
 
+Videos of project class results are available from my [youtube channel](https://www.youtube.com/channel/UCLGrX_2F2ZrsFH6YMryP-jA).
+
 #### Model-Driven Engineering for Industry 4.0
 
 In this lab course, students develop a small-scale demonstrator of a typical Industry 4.0 application. This involves building up the factory using Lego NXT and Fischertechnik, and developing models in the architecture description language MontiArc that are deployed to the factory through code generators. By the end of the semester, the students have built a smart factory demonstrator and implemented models to describe a variable, dynamic production system, which are deployed to Lego NXT and Fischertechnik.
