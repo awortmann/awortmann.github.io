@@ -20,6 +20,8 @@ nav: false
 
 # Software Language Engineering
 
+- Jérôme Pfeiffer and Andreas Wortmann. [Towards the Black-Box Aggregation of Language Components](../downloads/preprints/2021/Towards_the_Black-Box_Aggregation_of_Language_Components.pdf). To appear in proceedings of the [3rd International Workshop on Modelling Language Engineering](https://mleworkshop.github.io/editions/mle2021) (MLE 2021).
+
 - Rohit Gupta, Sieglinde Kranz, Nikolaus Regnat, Bernhard Rumpe and Andreas Wortmann. [Towards a Systematic Engineering of Industrial Domain-Specific Languages](../downloads/preprints/2021/Towards_a_Systematic_Engineering_of_Industrial_Domain-Specific_Languages.pdf). To appear in proceedings of the [8th International Virtual Workshop on Software Engineering Research and Industrial Practice](https://dumari.github.io/serip2021/) (SER&amp;IP).
 
 
