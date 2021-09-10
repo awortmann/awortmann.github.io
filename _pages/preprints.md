@@ -6,9 +6,16 @@ description:
 nav: false
 ---
 
+# Architecture Modeling
+
+
+
 # Collaborative Software Engineering
 
-- Rodi Jolak, Andreas Wortmann, Grischa Liebel, Eric Umuhoza, Michel R.V. Chaudron. [Design Thinking and Creativity of Co-located vs. Globally Distributed Software Developers](../downloads/preprints/2021/Design_Thinking_and_Creativity_of_Co-located_vs._Globally_Distributed_Software_Developers). To appear in Journal of Software: Evolution and Process. 
+- Rodi Jolak, Andreas Wortmann, Grischa Liebel, Eric Umuhoza, Michel R.V. Chaudron. [Design Thinking and Creativity of Co-located vs. Globally Distributed Software Developers](../downloads/preprints/2021/Design_Thinking_and_Creativity_of_Co-located_vs._Globally_Distributed_Software_Developers.pdf). To appear in Journal of Software: Evolution and Process. 
+
+- Jörg Christian Kirchhof, Bernhard Rumpe, David Schmalzing, Andreas Wortmanna. [MontiThings: Model-driven Development and Deployment of Reliable IoT Applications](../downloads/preprints/2021/MontiThings_-_Model-driven_Development_and_Deployment_of_Reliable_IoT_Applications.pdf). To appear in Journal of Systems and Software.
+
 
 # Digital Twins and Digital Shadows
 
