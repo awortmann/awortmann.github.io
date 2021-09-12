@@ -8,7 +8,7 @@ nav: false
 
 # Architecture Modeling
 
-- J&ouml;rg Christian Kirchhof, Bernhard Rumpe, David Schmalzing, Andreas Wortmanna. [MontiThings: Model-driven Development and Deployment of Reliable IoT Applications](../downloads/preprints/2021/MontiThings_-_Model-driven_Development_and_Deployment_of_Reliable_IoT_Applications.pdf). To appear in Journal of Systems and Software.
+- J&ouml;rg Christian Kirchhof, Bernhard Rumpe, David Schmalzing, Andreas Wortmann. [MontiThings: Model-driven Development and Deployment of Reliable IoT Applications](../downloads/preprints/2021/MontiThings_-_Model-driven_Development_and_Deployment_of_Reliable_IoT_Applications.pdf). To appear in Journal of Systems and Software.
 
 # Collaborative Software Engineering
 
