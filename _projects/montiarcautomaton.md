@@ -2,7 +2,7 @@
 layout: page
 title: Model-Driven Architecture
 description: 
-img: /assets/img/project_montiarc.jpg
+img: /assets/img/project-montiarc.jpg
 importance: 1
 ---
 

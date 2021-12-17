@@ -2,7 +2,7 @@
 layout: page
 title: Systematic Engineering of Digital Twins
 description: 
-img: /assets/img/project_twins.jpg
+img: /assets/img/project-digital-twins.jpg
 importance: 3
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Center for Systems Engineering
 description: 
-img: /assets/img/project_cse.jpg
+img: /assets/img/project-cse.jpg
 importance: 1
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Intelligent Modular Service Robotics
 description: 
-img: /assets/img/project_iserveu.png
+img: /assets/img/project-iserveu.png
 importance: 3
 ---
 

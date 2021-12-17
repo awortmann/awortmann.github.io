@@ -2,7 +2,7 @@
 layout: page
 title: Collaborative Embedded Systems
 description: 
-img: /assets/img/project_crest.jpg
+img: /assets/img/project-crest.jpg
 importance: 2
 ---
 

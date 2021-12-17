@@ -6,7 +6,7 @@ description: <a href="#">Affiliations</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: portrait.jpg
   address: >
     <p>&nbsp;</p>
     <p>+49 711 685-84624</p>
