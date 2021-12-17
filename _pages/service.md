@@ -8,10 +8,10 @@ nav: true
 
 ## Conference and Workshop Organization
 
-I have chaired for over 25 conferences and workshops. 
+Overall, I have chaired for over 25 conferences and workshops. Please find selected highlights below.
 
-- Program chair of tje [Euromicro Conference on Software Engineering and Advanced Applications 2022](https://dsd-seaa2022.iuma.ulpgc.es/).
-- Workshop chair of tje [Modellierung 2022](https://qfam.gi.de/modellierung2022) conference
+- Program chair of the [Euromicro Conference on Software Engineering and Advanced Applications 2022](https://dsd-seaa2022.iuma.ulpgc.es/).
+- Workshop chair of the [Modellierung 2022](https://qfam.gi.de/modellierung2022) conference
 - Workshop chair of the [Software Engineering 2021 Conference](https://www.se-2022.de/)
 - Track chair of the track "Industry 4.0" at the [International Conference on Business Informatics 2021](https://cbi2021.events.unibz.it/)
 - Organizer of the [1st International Workshop on Model-Driven Engineering for Digital Twins](http://gemoc.org/events/moddit2021.html) at the MODELS 2021 conference. 
@@ -28,6 +28,8 @@ I have chaired for over 25 conferences and workshops.
 - [Journal of Object Technology](http://www.jot.fm/)
 
 ## Reviewing
+
+I am regularly reviewing for various journals, conferences, and workshops related to my research interests. 
 
 ### Journals
 
