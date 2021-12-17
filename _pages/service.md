@@ -20,16 +20,15 @@ Overall, I have chaired for over 25 conferences and workshops. Please find selec
 - Steering committee member of the [Robotics Software Engineering](https://rose-workshops.github.io/) (RoSE) workshop series.
 - Organizer of the [1st International Workshop on Conceptual Modeling for Digital Twins](https://comodity.github.io/)
 
+## Reviewing
 
-## Editorial Boards 
+I serve in the editorial boards of the following journals:
 
 - [International Journal on Software and Systems Modeling](https://www.sosym.org/) 
 - [Journal of Automotive Software Engineering](https://www.atlantis-press.com/journals/jase)
 - [Journal of Object Technology](http://www.jot.fm/)
 
-## Reviewing
-
-I am regularly reviewing for various journals, conferences, and workshops related to my research interests. This includes the following journals:
+Moreover, I am regularly reviewing for various other journals, conferences, and workshops related to my research interests. This includes the following journals:
 
 - IEEE Transactions on Systems, Man and Cybernetics: Systems
 - IEEE Robotics and Automation Letters
@@ -38,7 +37,6 @@ I am regularly reviewing for various journals, conferences, and workshops relate
 - Journal of Empirical Software Engineering
 - Journal of Software Engineering for Robotics
 - Journal of Systems and Software
-- Journal on Software and Systems Modeling
 
 As well as selected conferences and workshops. Program committee memberships for conferences are highlighted below.
 
