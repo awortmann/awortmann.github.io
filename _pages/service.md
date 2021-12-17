@@ -49,5 +49,8 @@ Program committee memberships for conferences are highlighted below.
 - **SWQD 2022**, **CBI 2021**, **MODELS 2021**,  MPM4CPS 2021,  **QUATIC 2021**  **ICSMM 2020**,  **IROS 2020**,  **MODELS 2020**,  **QUATIC 2020**,  AMMoRe 2020, Future@STAF 2020,  LowCode 2020,  MPM4CPS 2020,  **IRC 2019**,  **SEAA 2019**, CommitMDE 2019, JRC of STAF 2019,  MiSE 2019,  **IRC 2018**,  **SEAA 2018**,  **SLE 2018**,  CBI 2018,  CommitMDE 2018, EXE 2018, GEMOC 2018,  ME 2018,  MEKES 2018,  MODELS Tools Track 2018,  SPLTea 2018,  **ETFA 2017**,  **IRC 2017**, **SLE 2017**,  EXE 2017, MiSE 2017,  **ETFA 2016**,  MORSE 2016, 
 **ETFA 2015**,  DSLRob 2015,  MORSE 2015,  DSLRob 2014
 
-## Further Academic Service 
+## Further Engagement
+
+- Board member of the [European Association for Programming Languages and Systems](https://eapls.org/) (EAPLS) 
+- Co-chair of the [GfSE working group on Model-Based Systems Engineering](https://www.gfse.de/mbse-home)
 
