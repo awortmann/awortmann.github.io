@@ -3,7 +3,7 @@ layout: page
 permalink: /presentations/
 title: Presentations
 description: 
-nav: true
+nav: false
 ---
 
 ## Digital Twins and Digital Shadows
