@@ -11,8 +11,7 @@ profile:
     <p>&nbsp;</p>
     <p>+49 711 685-84624</p>
     <p>Seidenstr. 36</p>
-    <p>70174 Stuttgart</p>
-    <p>Germany</p>
+    <p>70174 Stuttgart, Germany</p>
 
 news: false
 social: true
