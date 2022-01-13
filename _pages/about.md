@@ -8,6 +8,7 @@ profile:
   align: right
   image: portrait.jpg
   address: >
+    <p>&nbsp;</p>
     <p>University of Stuttgart</p>
     <p><a href="https://www.isw.uni-stuttgart.de/wortmann">Institute for Control Engineering of Machine Tools and Manufacturing Units (ISW)</a></p>
     <p>+49 711 685-84624</p>
