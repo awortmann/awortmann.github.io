@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /t/automotive/
+permalink: /research/automotive/
 title: Automotive Software Engineering
 description: 
 nav: false

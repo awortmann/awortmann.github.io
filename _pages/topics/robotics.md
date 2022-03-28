@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /t/robotics/
+permalink: /research/robotics/
 title: Robotics Software Engineering
 description:  
 nav: false

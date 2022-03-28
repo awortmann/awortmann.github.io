@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /t/digital_twins/
+permalink: /research/digital_twins/
 title: Digital Twins
 description:  
 nav: false

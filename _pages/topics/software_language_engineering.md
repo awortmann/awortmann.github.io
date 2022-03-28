@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /t/software_language_engineering/
+permalink: /research/software_language_engineering/
 title: Digital Twins
 description:  
 nav: false
