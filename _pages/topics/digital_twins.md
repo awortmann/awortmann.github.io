@@ -10,11 +10,19 @@ Research and industry leverage digital twins to monitor and control (cyber-physi
 The various digital twins serve different purposes, including analysis, control, and behavior prediction, and they are used at different times relative to the represented system, e.g., before it exists to explore its design space or during its runtime to optimize its behavior. Despite a plethora of definitions, there is little consensus about what a digital twin is.
 
 This also is reflected in many of the available definitions being 
-- ambiguous, by deferring to another undefined term, such as a ``virtual representation'', a ``computable virtual abstraction'' , or a ``a virtual projection of the industrial facility into the cloud''
- - narrow, by focusing on specific use cases, domains, or technologies, such as a ``digital model of the real network environment'' or a ''virtual representation based on AR technology''
-- utopian, due to all-encompassing aspirations, such as an ``integrated virtual model of a real-world system containing all of its physical information'', a ``complete digital representation''
+- ambiguous, by deferring to another undefined term, such as a "virtual representation", a "computable virtual abstraction" , or a "a virtual projection of the industrial facility into the cloud"
+ - narrow, by focusing on specific use cases, domains, or technologies, such as a "digital model of the real network environment" or a "virtual representation based on AR technology"
+- utopian, due to all-encompassing aspirations, such as an "integrated virtual model of a real-world system containing all of its physical information", a "complete digital representation".
 
-For us, a digital twin is a software system that leverages models and data from and about a cyber-physical system, to represent, predict, and prescribe its behavior. 
+For us, a digital twin is a software system that leverages models and data from and about an original (cyber-physical) system, to represent, predict, and prescribe its behavior for a specific purpose. 
+
+This entails that a digital twin 
+- is neither bound to specific technology or application domain
+- does not need to be complete (which is impossible most of the time)
+- does not need to be a model but may use models
+- may change the behavior of the original system
+
+From this, interesting questions arise. Some of which I have discussed in my talk [Ceci n’est pas un jumeau numérique](https://edt.community/events/event/ceci-nest-pas-un-jumeau-numerique/) in the [Engineering Digital Twins Community](https://edt.community/). 
 
 Selected publications below highlight how we leverage this notion of digital twins to facilitate their engineering and operations
 
