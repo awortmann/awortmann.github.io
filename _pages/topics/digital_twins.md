@@ -38,5 +38,12 @@ Selected publications below highlight how we leverage this notion of digital twi
 In. G. Dobbie, U. Frank, G. Kappel, S. Liddle, H. Mayr, editors, Conceptual Modeling, pp. 377-387, Springer, Oct. 2020. 
 - [KMR+20] J. C. Kirchhof, J. Michael, B. Rumpe, S. Varga, A. Wortmann. [Model-Driven Digital Twin Construction. Synthesizing the Integration of Cyber-Physical Systems with Their Information Systems](../downloads/paper/2020/Model-driven-Digital-Twin-Construction-Synthesizing-the-Integration-of-Cyber-Physical-Systems-with-Their-Information-Systems.pdf). In. Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'20), pp. 90-101, ACM, Oct. 2020. 
 
+### Related Events
+
+- [1st International Workshop on Model-Driven Engineering of Digital Twins
+ModDiT’21](https://gemoc.org/events/moddit2021)
+- [1st International Workshop on Conceptual Modeling for Digital Twins (CoMoDiTy 2020)](https://comodity.github.io/)
+
+
 
 Find other research topics from my [research](../../research/) website.

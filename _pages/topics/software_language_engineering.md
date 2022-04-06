@@ -15,5 +15,11 @@ Identifying or engineering appropriate languages for the various activities in s
 - [BPR+20] A. Butting, J. Pfeiffer, B. Rumpe, A. Wortmann: [A Compositional Framework for Systematic Modeling Language Reuse](../downloads/paper/2020/A-Compositional-Framework-for-Systematic-Modeling-Language-Reuse.pdf) In: Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'20), pp. 35-46, ACM, Oct. 2020. 
 - [Wor19] A. Wortmann: [Towards Component-Based Development of Textual Domain-Specific Languages](../downloads/paper/2019/Towards-Component-Based-Development-of-Textual-Domain-Specific-Languages.pdf) In: L. Lavazza, H. Mannaert, K. Kavi, editors, International Conference on Software Engineering Advances (ICSEA 2019), Valencia, pp. 68-73, IARIA XPS Press, Nov. 2019.
 
+### Related Events
+
+- [International Workshop on Modeling Language Engineering and Execution (MLE) Workshop Series](https://mleworkshop.github.io/)
+- [5th International Workshop on The Globalization of Modeling Languages (GEMOC'17)](https://gemoc.org/events/gemoc2017.html)
+- [Tutorial on Language Engineering with The GEMOC Studio at ICSA 2017](https://github.com/gemoc/ICSA2017Tutorial) 
+
 
 Find other research topics from my [research](../../research/) website.

@@ -16,5 +16,13 @@ Deploying robotics applications requires expertise from multiple domains, includ
 - [ABH+16] K. Adam, A. Butting, R. Heim, O. Kautz, B. Rumpe, A. Wortmann. [Model-Driven Separation of Concerns for Service Robotics](../downloads/paper/2016/Model-Driven-Separation-of-Concerns-for-Service-Robotics.pdf) In. International Workshop on Domain-Specific Modeling (DSM'16), pp. 22-27. ACM, October 2016. 
 - [BRS+15] A. Butting, B. Rumpe, C. Schulze, U. Thomas, A. Wortmann. [Modeling Reusable, Platform-Independent Robot Assembly Processes](../downloads/paper/2015/Modeling-Reusable-Platform-Independent-Robot-Assembly-Processes.pdf) In. Proceedings of the Sixth International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob 2015), 2015. 
 
+### Related Events
+
+- [International Workshop on Robotics Software Engineering (RoSE)](https://rose-workshops.github.io/) Workshop Series
+- [The 6th International Workshop on Model-driven Robot Software Engineering (MORSE'19)](http://st.inf.tu-dresden.de/MORSE19/)
+- [5th International Workshop on Model-driven Robot Software Engineering](http://st.inf.tu-dresden.de/MORSE18/)
+- [4th International Workshop on Model-driven Robot Software Engineering](http://st.inf.tu-dresden.de/MORSE17/)
+
+
 
 Find other research topics from my [research](../../research/) website.
