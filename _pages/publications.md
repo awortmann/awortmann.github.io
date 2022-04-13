@@ -11,6 +11,7 @@ I am researching various areas related to model-driven systems engineering for c
 
 - Preprints of publications in press are available from my [preprints](../preprints/) website.
 - Selected presentations can be found on my [presentations](../presentations) website.
+- [Collected bibtex sources](https://github.com/awortmann/awortmann.github.io/raw/master/_bibliography/andreaswortmann.bib) of my publications.
 
 ## Publications
 
