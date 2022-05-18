@@ -14,6 +14,11 @@ Abstract: Digital Twins are currently investigated as the technological backbone
 
 - [Presentation slides](https://github.com/awortmann/awortmann.github.io/blob/master/downloads/presentations/22.01.10.EDT_Community_Digital_Twins.pdf)
 
+### Über Digitale Zwillinge
+
+Abstract: Reflektionen über Digitale Modelle, Digitale Schatten und Digitale Zwillinge.
+
+- [Presentation slides](https://github.com/awortmann/awortmann.github.io/blob/master/downloads/presentations/22.05.18.Ueber_Digitale_Zwillinge.pdf)
 
 ## Further Reading
 
