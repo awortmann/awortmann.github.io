@@ -12,7 +12,7 @@ nav: false
 
 Reflektionen über Digitale Modelle, Digitale Schatten und Digitale Zwillinge.
 
-### [Modellgetriebene Entwicklung Digitaler Zwillinge](https://github.com/awortmann/awortmann.github.io/blob/master/downloads/presentations/22.05.30.Modellgetriebene_Entwicklung_Digitaler_Zwillinge.pdf) (German)
+### Inaugural lecture: [Modellgetriebene Entwicklung Digitaler Zwillinge](https://github.com/awortmann/awortmann.github.io/blob/master/downloads/presentations/22.05.30.Modellgetriebene_Entwicklung_Digitaler_Zwillinge.pdf) (German)
 
 Digitale Zwillinge müssen Systeme sein, welche ein cyber-physisches Original nicht nur repräsentieren, sondern auch adaptieren dürfen. Da diese Adaption, bspw. Änderungen am Betriebsmodus des Originals oder Einspielen von Software-Aktualisierungen, basierend auf Daten vom Original aber auch darüber, d.h. aus anderen Quellen, geschehen kann bilden Digitale Zwillinge mit ihrem cyber-physischen Original ein selbst-adaptives System. Dieser Vortrag argumentiert für diese Interpretation digitaler Zwillinge und skizziert eine modellgetriebene Methodik für deren Entwicklung und Betrieb, welche die Rollen der Software-Experten und Domänenexperten trennt und unterstützt.
 
