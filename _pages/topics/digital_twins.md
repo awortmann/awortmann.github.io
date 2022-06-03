@@ -29,10 +29,10 @@ Selected publications below highlight how we leverage this notion of digital twi
 #### Selected Publications
 
 - [LPT+22] D. Lehner, J. Pfeiffer, E. Tinsel, M. Strljic, S. Sint, M. Vierhauser, A. Wortmann, M. Wimmer: [Digital Twin Platforms: Requirements, Capabilities, and Future Prospects](https://ieeexplore.ieee.org/abstract/document/9640612). In IEEE Software, vol. 39, no. 2, pp. 53-61, 2022.
-- [EBC+22] R. Eramo, F. Bordeleau, B. Combemale, M. van den Brand, M. Wimmer, A. Wortmann: [Conceptualizing Digital Twins](../downloads/paper/Conceptualizing_digital_twins.pdf). In IEEE Software, vol. 39, no. 2, pp. 39-46, 2022.
-- [BBD+21a] T. Bolender, G. Bürvenich, M. Dalibor, B. Rumpe, and A. Wortmann. [Self-Adaptive Manufacturing with Digital Twins](..downloads/paper/Self_Adaptive_Manufacturing_with_Digital_Twins.pdf), In: 2021 International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), pages 156-166, May, 2021, IEEE Computer Society.
-- [BDH+20] P. Bibow, M. Dalibor, C. Hopmann, B. Mainz, B. Rumpe, D. Schmalzing, M. Schmitz, A. Wortmann. [Model-Driven Development of a Digital Twin for Injection Molding](../downloads/paper/Model_Driven_Development_of_a_Digital_Twin_for_Injection_Molding.pdf). In. S. Dustdar, E. Yu, C. Salinesi, D. Rieu, V. Pant, editors, International Conference on Advanced Information Systems Engineering (CAiSE'20), pp. 85-100, Grenoble, Springer International Publishing, June 2020. 
-- [KMR+20] J. C. Kirchhof, J. Michael, B. Rumpe, S. Varga, A. Wortmann. [Model-Driven Digital Twin Construction. Synthesizing the Integration of Cyber-Physical Systems with Their Information Systems](../downloads/paper/Model_Driven_Digital_Twin_Construction__Synthesizing_the_Integration_of_Cyber_Physical_Systems_with_Their_Information_Systems.pdf). In. Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'20), pp. 90-101, ACM, Oct. 2020. 
+- [EBC+22] R. Eramo, F. Bordeleau, B. Combemale, M. van den Brand, M. Wimmer, A. Wortmann: [Conceptualizing Digital Twins](https://awortmann.github.io/downloads/paper/Conceptualizing_digital_twins.pdf). In IEEE Software, vol. 39, no. 2, pp. 39-46, 2022.
+- [BBD+21a] T. Bolender, G. Bürvenich, M. Dalibor, B. Rumpe, and A. Wortmann. [Self-Adaptive Manufacturing with Digital Twins](https://awortmann.github.io/downloads/paper/Self_Adaptive_Manufacturing_with_Digital_Twins.pdf), In: 2021 International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), pages 156-166, May, 2021, IEEE Computer Society.
+- [BDH+20] P. Bibow, M. Dalibor, C. Hopmann, B. Mainz, B. Rumpe, D. Schmalzing, M. Schmitz, A. Wortmann. [Model-Driven Development of a Digital Twin for Injection Molding](https://awortmann.github.io/downloads/paper/Model_Driven_Development_of_a_Digital_Twin_for_Injection_Molding.pdf). In. S. Dustdar, E. Yu, C. Salinesi, D. Rieu, V. Pant, editors, International Conference on Advanced Information Systems Engineering (CAiSE'20), pp. 85-100, Grenoble, Springer International Publishing, June 2020. 
+- [KMR+20] J. C. Kirchhof, J. Michael, B. Rumpe, S. Varga, A. Wortmann. [Model-Driven Digital Twin Construction. Synthesizing the Integration of Cyber-Physical Systems with Their Information Systems](https://awortmann.github.io/downloads/paper/Model_Driven_Digital_Twin_Construction__Synthesizing_the_Integration_of_Cyber_Physical_Systems_with_Their_Information_Systems.pdf). In. Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'20), pp. 90-101, ACM, Oct. 2020. 
 
 ### Related Events
 
@@ -40,6 +40,8 @@ Selected publications below highlight how we leverage this notion of digital twi
 ModDiT’21](https://gemoc.org/events/moddit2021)
 - [1st International Workshop on Conceptual Modeling for Digital Twins (CoMoDiTy 2020)](https://comodity.github.io/)
 
+### Related Presentations
 
+- Find [related presentations here](https://www.wortmann.ac/presentations).
 
 Find other research topics from my [research](../../research/) website.
