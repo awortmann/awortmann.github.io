@@ -8,17 +8,13 @@ nav: false
 
 ## Digital Twins and Digital Shadows
 
+### [Herausforderungen in der Entwicklung Digitaler Zwillinge](https://github.com/awortmann/awortmann.github.io/blob/master/downloads/presentations/22.06.01.SECPPS.Herausforderungen.pdf.pdf) (SECPPS'22 keynote, German)
+
 ### [Über Digitale Zwillinge](https://github.com/awortmann/awortmann.github.io/blob/master/downloads/presentations/22.05.18.Ueber_Digitale_Zwillinge.pdf) (German)
 
-Reflektionen über Digitale Modelle, Digitale Schatten und Digitale Zwillinge.
+### [Modellgetriebene Entwicklung Digitaler Zwillinge](https://github.com/awortmann/awortmann.github.io/blob/master/downloads/presentations/22.05.30.Modellgetriebene_Entwicklung_Digitaler_Zwillinge.pdf) (Inaugural lecture, German)
 
-### Inaugural lecture: [Modellgetriebene Entwicklung Digitaler Zwillinge](https://github.com/awortmann/awortmann.github.io/blob/master/downloads/presentations/22.05.30.Modellgetriebene_Entwicklung_Digitaler_Zwillinge.pdf) (German)
-
-Digitale Zwillinge müssen Systeme sein, welche ein cyber-physisches Original nicht nur repräsentieren, sondern auch adaptieren dürfen. Da diese Adaption, bspw. Änderungen am Betriebsmodus des Originals oder Einspielen von Software-Aktualisierungen, basierend auf Daten vom Original aber auch darüber, d.h. aus anderen Quellen, geschehen kann bilden Digitale Zwillinge mit ihrem cyber-physischen Original ein selbst-adaptives System. Dieser Vortrag argumentiert für diese Interpretation digitaler Zwillinge und skizziert eine modellgetriebene Methodik für deren Entwicklung und Betrieb, welche die Rollen der Software-Experten und Domänenexperten trennt und unterstützt.
-
-### [Ceci n’est pas un jumeau numérique](https://github.com/awortmann/awortmann.github.io/blob/master/downloads/presentations/22.01.10.EDT_Community_Digital_Twins.pdf) (English)
-
-Digital Twins are currently investigated as the technological backbone for providing an enhanced understanding and management of existing systems as well as for designing new systems in various domains, e.g., ranging from single manufacturing components, such as sensors to large-scale systems such as smart cities. Given the diverse application domains of Digital Twins, it is not surprising that the characterization of the term Digital Twin, as well as the needs for developing and operating Digital Twins are multi-faceted. Providing a better understanding what the commonalities and differences of Digital Twins in different contexts are, may allow to build reusable support for developing, running, and managing Digital Twins by providing dedicated concepts, techniques, and tool support. Yet there is neither commonly accepted definition of the term “Digital Twin”, nor agreements about what such a software should comprise or do. This is partly due to the different communities involved in digital twin research and partly due to the different challenges digital twins are applied to. In this talk, we will discuss different perspectives on digital twins, lay out insights on digital twin features based on the largest literature study on digital twins, discuss the interpretation of digital twins by large US platform providers, and illustrate a toolchain for the model-driven engineering of self-adaptive digital twins.
+### [Ceci n’est pas un jumeau numérique](https://github.com/awortmann/awortmann.github.io/blob/master/downloads/presentations/22.01.10.EDT_Community_Digital_Twins.pdf) (EDT.Community invited talk, English)
 
 ## Further Reading
 
