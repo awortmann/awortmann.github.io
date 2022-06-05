@@ -12,7 +12,11 @@ nav: false
 
 # Writing
 
-## Guides and tools
+## Overall guidelines
+
+- How to Write a Great Research Paper by Simon Peyton Jones: [Presentation](../downloads/writing/peyton-jones.pdf)
+
+## Style guidelines and tools
 
 - [APA Style](https://apastyle.apa.org/)
 - [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)
