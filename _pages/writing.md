@@ -14,7 +14,10 @@ nav: false
 
 ## Overall guidelines
 
-- How to Write a Great Research Paper by Simon Peyton Jones: [Presentation](../downloads/writing/peyton-jones.pdf)
+- How to Write a Great Research Paper by Simon Peyton Jones: [Video](https://www.youtube.com/watch?v=WP-FkUaOcOM), [Presentation slides](../downloads/writing/peyton-jones.pdf), [Comments](https://eelcovisser.org/wiki/teaching/how-to-write-a-great-research-paper/) by Prof. Eelco Visser.
+- [How to Write More Clearly, Think More Clearly, and
+Learn Complex Material More Easily](http://www.covingtoninnovations.com/mc/WriteThinkLearn.pdf) by Michael A. Covington
+
 
 ## Style guidelines and tools
 
