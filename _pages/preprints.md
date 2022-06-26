@@ -17,9 +17,18 @@ pdf). To appear in **ECMFA 2022**.
 
 - S. Fur, A, Mages, A. Wortmann, O. Riedel: [Auf dem Weg zum digitalen Zwilling/Investigation and compensation of the discrepancy between simulation models and their twins – On the way to the digital twin](https://elibrary.vdi-verlag.de/10.37544/1436-4980-2022-04-58/auf-dem-weg-zum-digitalen-zwilling-investigation-and-compensation-of-the-discrepancy-between-simulation-models-and-their-twins-on-the-way-to-the-digital-twin-jahrgang-112-2022-heft-04?page=1). To appear in **wt Werkstattstechnik online**.
 
-## Low Code
+# Internet of Things
+
+- J. C. Kirchhof, A. Kleiss, J. Michael, B. Rumpe, A. Wortmann: [Efficiently Engineering IoT Architecture Languages—An Experience Report](../downloads/preprints/2022/Efficiently_Engineering_IoT_Architecture_Languages-An_Experience_Report.pdf). To appear in **Proceedings of the International workshop on MDE for Smart IoT Systems**.
+
+- J. C. Kirchhof, A. Kleiss, B. Rumpe, D. Schmalzing, P. Schneider, A. Wortmann: [Model-Driven Self-Adaptive Deployment of Internet of Things Applications with Automated Modification Proposals](../downloads/preprints/2022/Model-Driven_Self-Adaptive_Deployment_of_Internet_of_Things_Applications_with_Automated_Modification_Proposals.pdf). To appear in **ACM Transactions on Internet of Things**.
+
+
+## Model-Driven Development and Low Code
 
 - M. Dalibor, M. Heithoff, J. Michael, L. Netz, J. Pfeiffer, B. Rumpe, S. Varga, A. Wortmann: [Generating Customized Low-Code Development Platforms for Digital Twins](../downloads/preprints/2022/Generating_Customized_Low-Code_Development_Platforms_for_Digital_Twins.pdf). To appear in **Journal of Computer Languages**.
+
+- J. C. Kirchhof, L. Malcher, J. Michael, B. Rumpe, A. Wortmann: [Web-Based Tracing for Model-Driven Applications](../downloads/preprints/2022/Web-Based_Tracing_for_Model-Driven_Applications.pdf). To appear in **SEAA 2022**.
 
 ## SysML v2
 
