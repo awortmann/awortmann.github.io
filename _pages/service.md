@@ -30,8 +30,8 @@ I serve in the editorial boards of the following journals:
 
 Moreover, I am regularly reviewing for various other journals, conferences, and workshops related to my research interests. This includes the following journals:
 
-- IEEE Transactions on Systems, Man and Cybernetics: Systems
 - IEEE Robotics and Automation Letters
+- IEEE Transactions on Systems, Man and Cybernetics: Systems
 - Journal of Business & Information Systems Engineering 
 - Journal of Computer Standards & Interfaces
 - Journal of Empirical Software Engineering
