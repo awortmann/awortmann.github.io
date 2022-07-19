@@ -20,6 +20,8 @@ The goal of the lecture is to teach the basics of object-oriented programming wi
 
 The lecture teaches the model-based development of complex software systems. It covers the use of models in software development processes, the simulation and generation of code and test cases from models, the analysis of models, and the evolution of models by refactoring. The modeling languages UML, SysML, and MontiArc are focused on in this lecture.
 
+- [Summer 2022](https://campus.uni-stuttgart.de/cusonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/337982?$ctx=design=ca;lang=de&$scrollTo=toc_overview)
+
 - [Winter 2019/20](https://www.se-rwth.de/teaching/ws1920/mbse/) 
 
 #### Software Language Engineering
