@@ -57,6 +57,16 @@ We have conducted the largest systematic mapping study on  digital twins across 
 
 You can find the domains in which digital twins are used and the related publications below. If there are mistakes in the author names, please inform the publisher of your choice to provide proper publication data export.
 
+#### Domains
+
+1. [Cosntruction](#construction)
+2. [Education](#education)
+3. [Energy](#energy)
+4. [Health](#health)
+5. [ICT](#ict)
+6. [Manufacturing](#manufacturing)
+7. [Transport and Storage](#transport-and-storage)
+
 #### Construction
 
 - Trancossi M., Cannistraro M., Pascoa J.. [Can constructal law and exergy analysis produce a robust design method that couples with industry 4.0 paradigms? The case of a container house](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059542326&doi=10.18280%2fmmep.050405&partnerID=40&md5=8a46f72942310ce786f8fc4263fac3cb)
@@ -428,7 +438,7 @@ You can find the domains in which digital twins are used and the related publica
 - Xie J., Wang X., Yang Z., Hao S.. [Virtual monitoring method for hydraulic supports based on digital twin theory](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060570903&doi=10.1080%2f25726668.2019.1569367&partnerID=40&md5=1b35293ede2b80f40058ad5ed448d592)
 - Burrafato S., Maliardi A., Ferrara P., Grasso T., De Marchi E., Campaci R.. [Virtual reality in D&C: New approaches towards well digital twins](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066805784&partnerID=40&md5=c7f49445cb1691c4a1707874b3df74f4)
 
-#### Transport and storage
+#### Transport and Storage
 
 - Kaewunruen S., Lian Q.. [Digital twin aided sustainability-based lifecycle management for railway turnout systems](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065500423&doi=10.1016%2fj.jclepro.2019.04.156&partnerID=40&md5=0e84e0f706252c9d902bb9b7bfe1a1ae)
 - Petković T., Puljiz D., Marković I., Hein B.. [Human intention estimation based on hidden Markov model motion validation for safe flexible robotized warehouses](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058231091&doi=10.1016%2fj.rcim.2018.11.004&partnerID=40&md5=670b9f03eace5c86151e43ad8489d9b7)
