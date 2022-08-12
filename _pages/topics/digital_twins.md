@@ -36,6 +36,9 @@ Selected publications below highlight how we leverage this notion of digital twi
 
 ### Related Events
 
+- [2nd International Workshop on Model-Driven Engineering of Digital Twins
+ModDiT’22](https://gemoc.org/events/moddit2022)
+- [Dagstuhl Seminar on the Model-Driven Development of Digital Twins](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=22362)
 - [1st International Workshop on Model-Driven Engineering of Digital Twins
 ModDiT’21](https://gemoc.org/events/moddit2021)
 - [1st International Workshop on Conceptual Modeling for Digital Twins (CoMoDiTy 2020)](https://comodity.github.io/)
@@ -47,6 +50,12 @@ ModDiT’21](https://gemoc.org/events/moddit2021)
 Find other research topics from my [research](../../research/) website.
 
 ### Digital Twins in Various Domains
+
+We have conducted the largest systematic mapping study on  digital twins across domains. In this study, we have, ultimately, investigated a corpus of over 300 publications to find out how digital twins are engineered, operated, and what the major challenges are. 
+
+- M. Dalibor, N. Jansen, B. Rumpe, D. Schmalzing, L. Wachtmeister, M. Wimmer, A. Wortmann: [A Cross-Domain Systematic Mapping Study on Software Engineering for Digital Twins](../downloads/preprints/2022/Systematic_Mapping_Study_on_Digital_Twins__DT_SMS.pdf). To appear in: **Journal of Systems and Software**. 
+
+You can find the domains in which digital twins are used and the related publications below:
 
 #### Construction
 
