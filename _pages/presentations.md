@@ -10,17 +10,17 @@ nav: false
 
 ### Reflections on Digital Twins
 
-- Invited talk to the Dagstuhl Seminar 22362 on Model-Driven Engineering of Digital Twins (English)
+- Invited talk to the [Dagstuhl Seminar 22362 on Model-Driven Engineering of Digital Twins](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=22362) (English)
 - [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/presentations/22.09.04.Dagstuhl.Reflections_on_Digital_Twins.pdf)
 
 ### Herausforderungen in der Entwicklung Digitaler Zwillinge
 
-- Software Engineering for Cyber-Physical Systems (SECPPS'22) keynote (German)
+- [Software Engineering for Cyber-Physical Systems](https://rickrabiser.github.io/secpps-ws/) (SECPPS) seminar keynote (German)
 - [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/presentations/22.06.01.SECPPS.Herausforderungen.pdf) 
 
 ### Über Digitale Zwillinge
 
-- Invited talk to the Software-Defined Car channel meeting on metamodels of digital twins (German)
+- Invited talk to the [Software-Defined Car](https://sofdcar.de/language/en/) (SofDCar) project channel meeting on metamodels of digital twins (German)
 - [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/presentations/22.05.18.Ueber_Digitale_Zwillinge.pdf) 
 
 ### Modellgetriebene Entwicklung Digitaler Zwillinge
@@ -30,7 +30,7 @@ nav: false
 
 ### Ceci n’est pas un jumeau numérique
 
-- Invited talk in the EDT.Community seminar series (English)
+- Invited talk in the [EDT.Community](https://edt.community/) seminar series (English)
 - [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/presentations/22.01.10.EDT_Community_Digital_Twins.pdf) 
 
 ## Further Reading
