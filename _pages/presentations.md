@@ -8,6 +8,10 @@ nav: false
 
 ## Digital Twins and Digital Shadows
 
+Research and industry leverage digital twins to monitor and control (cyber-physical) systems in various domains, including automotive, avionics, biology, construction, manufacturing, medicine, and many more. They promise a tremendous potential to reduce cost and time and improve our understanding of the represented systems. The various digital twins serve different purposes, including analysis, control, and behavior prediction, and they are used at different times relative to the represented system, e.g., before it exists to explore its design space or during its runtime to optimize its behavior. Despite a plethora of definitions, there is little consensus about what a digital twin is. For us, a digital twin is a software system that leverages models and data from and about an original (cyber-physical) system, to represent, predict, and prescribe its behavior for a specific purpose.
+
+Find out more on the [digital twin topic page](wortmann.ac/dts).
+
 ### Reflections on Digital Twins
 
 - Invited talk to the [Dagstuhl Seminar 22362 on Model-Driven Engineering of Digital Twins](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=22362) (English)
