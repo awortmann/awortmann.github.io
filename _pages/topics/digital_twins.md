@@ -59,7 +59,7 @@ You can find the domains in which digital twins are used and the related publica
 
 #### Domains
 
-1. [Cosntruction](#construction)
+1. [Construction](#construction)
 2. [Education](#education)
 3. [Energy](#energy)
 4. [Health](#health)
