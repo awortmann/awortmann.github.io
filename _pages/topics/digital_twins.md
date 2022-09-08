@@ -53,7 +53,7 @@ Find other research topics from my [research](../../research/) website.
 
 We have conducted the largest systematic mapping study on  digital twins across domains. In this study, we have, ultimately, investigated a corpus of over 300 publications to find out how digital twins are engineered, operated, and what the major challenges are. 
 
-- M. Dalibor, N. Jansen, B. Rumpe, D. Schmalzing, L. Wachtmeister, M. Wimmer, A. Wortmann: [A Cross-Domain Systematic Mapping Study on Software Engineering for Digital Twins](../downloads/preprints/2022/Systematic_Mapping_Study_on_Digital_Twins__DT_SMS.pdf). To appear in: **Journal of Systems and Software**. 
+- M. Dalibor, N. Jansen, B. Rumpe, D. Schmalzing, L. Wachtmeister, M. Wimmer, A. Wortmann: [A Cross-Domain Systematic Mapping Study on Software Engineering for Digital Twins](../downloads/preprints/2022/Systematic_Mapping_Study_on_Digital_Twins__DT_SMS.pdf). In: Journal of Systems and Software, 111361.
 
 You can find the domains in which digital twins are used and the related publications below. If there are mistakes in the author names, please inform the publisher of your choice to provide proper publication data export.
 
