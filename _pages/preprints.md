@@ -3,7 +3,7 @@ layout: page
 permalink: /preprints/
 title: Preprints
 description: 
-nav: true
+nav: false
 ---
 
 ## Model-Driven Development for AI
