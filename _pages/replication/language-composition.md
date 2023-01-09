@@ -34,9 +34,9 @@ Instead, we employed snowballing to identify potentially relevant literature tha
 Since we had to use multiple overlapping queries for some of the libraries, the search on these libraries already resulted in duplicate findings. When manually merging the multiple queries for a single library, we removed the duplicate findings for that library. This resulted in 8.741 publications. However, across the different libraries, we again had duplicate findings. We first removed these 2.703 duplicates, resulting in **6038** publications. We then applied inclusion and exclusion criteria to keywords, titles, and abstracts to remove 5.915 publications, resulting in 123 English, potentially relevant, peer-reviewed publications. These publications we then analyzed in detail during the classification phase to understand if they were relevant to our study. Again applying our inclusion and exclusion criteria, this time to a deeper analysis of the publications, finally resulted in 26 publications. We then performed forward and backward snowballing resulting in **203** publications. Performing our analysis again, we found 10 publications presenting composition operators. This, finally, resulted in **36** that remained in the corpus of this study.
 
 For better transparency and replicability, this website provides
--   a list of the initial [6038 publications](Corpus_Candidates_Initial_Search.xlsx) without duplicates,
-- a list of the [203 publications](Snowballing_Corpus_Candidates.xlsx) found by forward and backward snowballing, and
--   a sanitized list of the [36 included publications](Corpus.xlsx).
+-   a list of the initial [6038 publications](../../downloads/replication/language-composition/Corpus_Candidates_Initial_Search.xlsx) without duplicates,
+- a list of the [203 publications](../../downloads/replication/language-composition/Snowballing_Corpus_Candidates.xlsx) found by forward and backward snowballing, and
+-   a sanitized list of the [36 included publications](../../downloads/replication/language-composition/Corpus.xlsx).
 
 We hope that this data supports better comprehension of the systematic mapping study and its results.
 
