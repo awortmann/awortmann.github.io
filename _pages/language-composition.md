@@ -2,7 +2,7 @@
 ---
 layout: page
 permalink: /language-composition/
-title: Software Language Composition Untangled
+title: Composition Operators for Modeling Languages
 description: 
 nav: false
 
