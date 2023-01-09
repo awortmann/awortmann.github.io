@@ -3,7 +3,7 @@ layout: page
 permalink: /language-composition/
 title: Composition Operators for Modeling Languages
 description: 
-nav: true
+nav: false
 ---
 
 # Composition Operators for Modeling Languages: A Literature Review
