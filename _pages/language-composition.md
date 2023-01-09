@@ -6,7 +6,7 @@ description:
 nav: false
 ---
 
-# Composition Operators for Modeling Languages: A Literature Review
+# A Literature Review
 
 Replication package for a submission to the Journal of Computer Languages.  
 
