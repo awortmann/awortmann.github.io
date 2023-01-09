@@ -1,12 +1,10 @@
 ---
 layout: page
 permalink: /language-composition/
-title: Composition Operators for Modeling Languages
+title: Composition Operators for Modeling Languages - A Literature Review
 description: 
 nav: false
 ---
-
-# A Literature Review
 
 Replication package for a submission to the Journal of Computer Languages.  
 
