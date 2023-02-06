@@ -446,3 +446,7 @@ You can find the domains in which digital twins are used and the related publica
 - Gonzalez M., Salgado O., Croes J., Pluymers B., Desmet W.. [Model-Based State Estimation for the Diagnosis of Multiple Faults in Non-linear Electro-Mechanical Systems](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063747645&doi=10.1007%2f978-3-030-11220-2_9&partnerID=40&md5=eb4acd573aae581278ba7916bea0f0aa)
 - Korth B., Schwede C., Zajac M.. [Simulation-ready digital twin for realtime management of logistics systems](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062622178&doi=10.1109%2fBigData.2018.8622160&partnerID=40&md5=30e7d559167d54788070a17a74bfd2ab)
 - Baruffaldi, Giulia; Accorsi, Riccardo; Manzini, Riccardo. [Warehouse management system customization and information availability in 3pl companies A decision-support tool](https://www.emerald.com/insight/content/doi/10.1108/IMDS-01-2018-0033/full/html)
+
+### Related Topics
+
+Find other research topics from my [research](../../research/) website.
