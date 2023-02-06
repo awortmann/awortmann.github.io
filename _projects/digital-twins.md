@@ -10,13 +10,22 @@ Digital Twins of manufacturing systems should help to control production to redu
 
 ### Related Publications
 
-The following presents selected publications that present research results relating to this project. More are available from <a href="https://www.se-rwth.de/staff/wortmann/">personal website at the Chair for Software Engineering</a>.
+The following presents selected publications that present research results relating to this project. 
 
-<ul style="list-style-type: square;">
-<li>[<a target="_blank" href="http://www.se-rwth.de/publications/browser/bibtexbrowser.php?key=BDH%2B20&amp;bib=..%2F..%2Fpublications%2Fbibtex%2FMASTERDATEI.bib">BDH+20</a>] <span class="bibauthor">P. Bibow, M. Dalibor, C. Hopmann, <strong>B. Mainz</strong>, <strong>B. Rumpe</strong>, D. Schmalzing, M. Schmitz, and <strong>A. Wortmann</strong></span>.  <a target="_blank" href="http://www.se-rwth.de/publications/Model-Driven-Development-of-a-Digital-Twin-for-Injection-Molding.pdf"><span class="bibtitle">Model-Driven Development of a Digital Twin for Injection Molding</span></a>, <span class="bibbooktitle">In:  Schahram Dustdar, Eric Yu, Camille Salinesi, Dominique Rieu, Vik Pant, editors, Advanced Information Systems Engineering</span>, Lecture Notes in Computer Science 12127, pages 85-100, June, 2020, <span class="bibpublisher">Springer International Publishing</span>.
-</li>
-<br/>
+- [Integration Challenges for Digital Twin Systems-of-Systems](https://awortmann.github.io/downloads/preprints/2022/Integration_Challenges_for_Digital_Twin_Systems-of-Systems.pdf). Michael, Judith, Pfeiffer, Jérôme, Rumpe, Bernhard, and Wortmann, Andreas. In 2022 IEEE/ACM 10th International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems (SESoS), pp. 9–12,  2022. 
 
-</ul>
+- [A cross-domain systematic mapping study on software engineering for Digital Twins](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/paper/A_Cross-Domain_Systematic_Mapping_Study_on_Software_Engineering_for_Digital_Twins.pdf). Dalibor, Manuela, Jansen, Nico, Rumpe, Bernhard, Schmalzing, David, Wachtmeister, Louis, Wimmer, Manuel, and Wortmann, Andreas. In Journal of Systems and Software, pp. 111361,  2022. 
+
+-  [Modeling Capabilities of Digital Twin Platforms - Old Wine in New Bottles?](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/paper/Modeling_Capabilities_of_Digital_Twin_Platforms_-_Old_Wine_in_New_Bottles.pdf). Pfeiffer, Jérôme, Lehner, Daniel, Wortmann, Andreas, and Wimmer, Manuel. In Journal of Object Technology, Vol. 21, Vol. 3, pp. 3:1-14,  2022.
+
+- [Generating customized low-code development platforms for digital twins](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/paper/Generating_Customized_Low-Code_Development_Platforms_for_Digital_Twins.pdf). Dalibor, Manuela, Heithoff, Malte, Michael, Judith, Netz, Lukas, Pfeiffer, Jérôme, Rumpe, Bernhard, Varga, Simon, and Wortmann, Andreas. In Journal of Computer Languages, Vol. 70, pp. 101117,  2022. 
 
 The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
+
+### Funding
+
+Various. Including DFG, ICM, RWTH Aachen University. 
+
+### Related Topics
+
+→ [Industry 4.0](https://awortmann.github.io/research/industry_40/)

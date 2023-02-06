@@ -12,6 +12,8 @@ The construction industry causes about 40% of global CO2 emissions. At the same 
 
 The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
 
+- [Potentials of Symbolic AI Planning for Construction](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/paper/Potentials_of_Symbolic_AI_Planning_for_Construction.pdf). Sherkat, Shermin, Wortmann, Thomas, and Wortmann, Andreas. In Proceedings of 33. Forum Bauinformatik,  2022. 
+
 ### Funding
 
 Funded by [MWK](https://mwk.baden-wuerttemberg.de/de/startseite/).

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Model-Based Development and Operations
+title: Model-Based DevOps (MBDO)
 description: 
 img: /assets/img/project-dfg-mbdo.jpg
 importance: 1
@@ -13,3 +13,8 @@ The complete list of publications is available from my [publications](https://aw
 ### Funding
 
 Funded by [DFG](https://gepris.dfg.de/gepris/projekt/505496753).
+
+### Related Topics
+
+→ [Digital Twins](https://awortmann.github.io/research/digital_twins/)
+→ [Industry 4.0](https://awortmann.github.io/research/industry_40/)

@@ -29,3 +29,7 @@ The complete list of publications is available from my [publications](https://aw
 ### Funding
 
 Funded by [BMBF](https://www.softwaresysteme.dlr-pt.de/de/forschungsvorhaben-servicerobotik.php).
+
+### Related Topics
+
+→ [Robotics](https://awortmann.github.io/research/robotics/)

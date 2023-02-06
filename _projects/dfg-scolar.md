@@ -29,3 +29,8 @@ The complete list of publications is available from my [publications](https://aw
 ### Funding
 
 Funded by [DFG](https://gepris.dfg.de/gepris/projekt/441207927?context=projekt&task=showDetail&id=441207927&).
+
+### Related Topics
+
+→ [Digital Twins](https://awortmann.github.io/research/digital_twins/)
+→ [Robotics](https://awortmann.github.io/research/robotics/)

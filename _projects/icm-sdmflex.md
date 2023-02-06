@@ -13,3 +13,8 @@ The complete list of publications is available from my [publications](https://aw
 ### Funding
 
 Founded by [InnovationCampus Future Mobility](https://www.icm-bw.de/).
+
+### Related Topics
+
+→ [Digital Twins](https://awortmann.github.io/research/digital_twins/)
+→ [Industry 4.0](https://awortmann.github.io/research/industry_40/)
