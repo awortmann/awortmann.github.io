@@ -28,3 +28,9 @@ The following presents selected publications that present research results relat
 <li>[<a target="_blank" href="http://www.se-rwth.de/publications/browser/bibtexbrowser.php?key=DJR%2B19&amp;bib=..%2F..%2Fpublications%2Fbibtex%2FMASTERDATEI.bib">DJR+19</a>] <span class="bibauthor">M. Dalibor, N. Jansen, <strong>B. Rumpe</strong>, L. Wachtmeister, and <strong>A. Wortmann</strong></span>.  <a target="_blank" href="http://www.se-rwth.de/publications/Model-Driven-Systems-Engineering-for-Virtual-Product-Design.pdf"><span class="bibtitle">Model-Driven Systems Engineering for Virtual Product Design</span></a>, <span class="bibbooktitle">In:  Loli Burgueño, Alexander Pretschner, Sebastian Voss, Michel Chaudron, Jörg Kienzle, Markus Völter, Sébastien Gérard, Mansooreh Zahedi, Erwan Bousse, Arend Rensink, Fiona Polack, Gregor Engels, Gerti Kappel, editors, Proceedings of MODELS 2019. Workshop MPM4CPS</span>, pages 430-435, September, 2019.
 </li>
 </ul>
+
+The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
+
+### Funding
+
+Funded by [DFG](https://gepris.dfg.de/gepris/projekt/390621612?context=projekt&task=showDetail&id=390621612&).

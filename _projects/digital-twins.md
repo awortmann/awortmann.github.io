@@ -18,3 +18,5 @@ The following presents selected publications that present research results relat
 <br/>
 
 </ul>
+
+The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.

@@ -41,8 +41,8 @@ The following presents selected publications that present research results relat
 
 </ul>
 
-### Related Projects
+The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
 
-We applied existing and devised new language engineering techniques to realize the extensible [MontiArcAutomaton](../montiarcautomaton) architecture modeling framework as well as to ease the systematic engineering of [digital twins](../digital-twins). 
+### Funding
 
 Funded by [DFG](https://gepris.dfg.de/gepris/projekt/441207927?context=projekt&task=showDetail&id=441207927&).
