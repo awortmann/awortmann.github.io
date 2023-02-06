@@ -10,16 +10,14 @@ The [Center for Systems Engineering](https://cse.rwth-campus.com/) aims to shape
 
 ### Related Publications
 
-The following presents selected publications that present research results relating to this project. More are available from <a href="https://www.se-rwth.de/staff/wortmann/">personal website at the Chair for Software Engineering</a>.
+The following presents selected publications that present research results relating to this project. 
 
-<ul style="list-style-type: square;">
-<li>[<a target="_blank" href="http://www.se-rwth.de/publications/browser/bibtexbrowser.php?key=BDH%2B20&amp;bib=..%2F..%2Fpublications%2Fbibtex%2FMASTERDATEI.bib">BDH+20</a>] <span class="bibauthor">P. Bibow, M. Dalibor, C. Hopmann, <strong>B. Mainz</strong>, <strong>B. Rumpe</strong>, D. Schmalzing, M. Schmitz, and <strong>A. Wortmann</strong></span>.  <a target="_blank" href="http://www.se-rwth.de/publications/Model-Driven-Development-of-a-Digital-Twin-for-Injection-Molding.pdf"><span class="bibtitle">Model-Driven Development of a Digital Twin for Injection Molding</span></a>, <span class="bibbooktitle">In:  Schahram Dustdar, Eric Yu, Camille Salinesi, Dominique Rieu, Vik Pant, editors, Advanced Information Systems Engineering</span>, Lecture Notes in Computer Science 12127, pages 85-100, June, 2020, <span class="bibpublisher">Springer International Publishing</span>.
-</li>
-<br/>
+- [Model-Driven Development of a Digital Twin for Injection Molding](https://www.se-rwth.de/publications/Model-Driven-Development-of-a-Digital-Twin-for-Injection-Molding.pdf). Bibow, Pascal, Dalibor, Manuela, Hopmann, Christian, Mainz, Ben, Rumpe, Bernhard, Schmalzing, David, Schmitz, Mauritius, and Wortmann, Andreas. In International Conference on Advanced Information Systems Engineering (CAiSE’20), pp. 85–100, Springer International Publishing,  2020. 
 
-<li>[<a target="_blank" href="http://www.se-rwth.de/publications/browser/bibtexbrowser.php?key=DJR%2B19&amp;bib=..%2F..%2Fpublications%2Fbibtex%2FMASTERDATEI.bib">DJR+19</a>] <span class="bibauthor">M. Dalibor, N. Jansen, <strong>B. Rumpe</strong>, L. Wachtmeister, and <strong>A. Wortmann</strong></span>.  <a target="_blank" href="http://www.se-rwth.de/publications/Model-Driven-Systems-Engineering-for-Virtual-Product-Design.pdf"><span class="bibtitle">Model-Driven Systems Engineering for Virtual Product Design</span></a>, <span class="bibbooktitle">In:  Loli Burgueño, Alexander Pretschner, Sebastian Voss, Michel Chaudron, Jörg Kienzle, Markus Völter, Sébastien Gérard, Mansooreh Zahedi, Erwan Bousse, Arend Rensink, Fiona Polack, Gregor Engels, Gerti Kappel, editors, Proceedings of MODELS 2019. Workshop MPM4CPS</span>, pages 430-435, September, 2019.
-</li>
-
-</ul>
+- [Model-Driven Systems Engineering for Virtual Product Design](https://www.se-rwth.de/publications/Model-Driven-Systems-Engineering-for-Virtual-Product-Design.pdf). Dalibor, Manuela, Jansen, Nico, Rumpe, Bernhard, Wachtmeister, Louis, and Wortmann, Andreas. In Proceedings of MODELS 2019. Workshop MPM4CPS, pp. 430-435,  2019. 
 
 The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
+
+### Funding
+
+Funded by RWTH Aachen University.
