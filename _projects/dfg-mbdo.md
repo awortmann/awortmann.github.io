@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Model-Based DevOps
+title: Model-Based Development and Operations
 description: 
 img: /assets/img/project-dfg-mbdo.jpg
 importance: 1
