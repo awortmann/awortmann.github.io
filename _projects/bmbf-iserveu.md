@@ -14,28 +14,18 @@ While various challenging issues for service robotics have been solved to a degr
 
 ### Related Publications
 
-The following presents selected publications that present research results relating to this project. More are available from <a href="https://www.se-rwth.de/staff/wortmann/">personal website at the Chair for Software Engineering</a>.
+The following presents selected publications that present research results relating to this project. 
 
-<ul style="list-style-type: square;">
-<li>
-	[<a target="_blank" href="http://www.se-rwth.de/publications/browser/bibtexbrowser.php?key=ABH%2B17&amp;bib=..%2F..%2Fpublications%2Fbibtex%2FMASTERDATEI.bib">ABH+17</a>] <span class="bibauthor"><strong>K. Adam</strong>, <strong>A. Butting</strong>, <strong>R. Heim</strong>, <strong>O. Kautz</strong>, J. Pfeiffer, <strong>B. Rumpe</strong>, and <strong>A. Wortmann</strong></span>.  <a target="_blank" href="http://www.se-rwth.de/phdtheses/Modeling-Robotics-Tasks-for-Better-Separation-of-Concerns-Platform-Independence-and-Reuse.pdf"><span class="bibtitle">Modeling Robotics Tasks for Better Separation of Concerns, Platform-Independence, and Reuse</span></a>, <span class="bibbooktitle">Aachener Informatik-Berichte, Software Engineering, Band 28</span>, <span class="bibpublisher">Shaker Verlag</span>, ISBN 978-3-8440-5319-7, December, 2017.
-</li>
-<br/>
+- [Systematic Language Extension Mechanisms for the MontiArc Architecture Description Language](https://www.se-rwth.de/publications/Systematic-Language-Extension-Mechanisms-for-the-MontiArc-Architecture-Description-Language.pdf). Butting, Arvid, Haber, Arne, Hermerschmidt, Lars, Kautz, Oliver, Rumpe, Bernhard, and Wortmann, Andreas. In European Conference on Modelling Foundations and Applications (ECMFA’17), pp. 53–70, Springer,  2017. 
 
-<li>
-	[<a target="_blank" href="http://www.se-rwth.de/publications/browser/bibtexbrowser.php?key=ABK%2B17&amp;bib=..%2F..%2Fpublications%2Fbibtex%2FMASTERDATEI.bib">ABK+17</a>] <span class="bibauthor"><strong>K. Adam</strong>, <strong>A. Butting</strong>, <strong>O. Kautz</strong>, <strong>B. Rumpe</strong>, and <strong>A. Wortmann</strong></span>.  <a target="_blank" href="http://www.se-rwth.de/publications/Executing-Robot-Task-Models-in-Dynamic-Environments.pdf"><span class="bibtitle">Executing Robot Task Models in Dynamic Environments</span></a>, <span class="bibbooktitle">In: Proceedings of MODELS 2017. Workshop EXE</span>, CEUR 2019, September, 2017.
-</li>
-<br/>
+- [Modeling Robotics Tasks for Better Separation of Concerns, Platform-Independence, and Reuse](https://www.se-rwth.de/publications/Modeling-Robotics-Tasks-for-Better-Separation-of-Concerns-Platform-Independence-and-Reuse.pdf). Adam, Kai, Butting, Arvid, Heim, Robert, Kautz, Oliver, Pfeiffer, Jérôme, Rumpe, Bernhard, and Wortmann, Andreas. Shaker Verlag,  2017. 
 
-<li>
-	[<a target="_blank" href="http://www.se-rwth.de/publications/browser/bibtexbrowser.php?key=BHH%2B17&amp;bib=..%2F..%2Fpublications%2Fbibtex%2FMASTERDATEI.bib">BHH+17</a>] <span class="bibauthor"><strong>A. Butting</strong>, <strong>A. Haber</strong>, <strong>L. Hermerschmidt</strong>, <strong>O. Kautz</strong>, <strong>B. Rumpe</strong>, and <strong>A. Wortmann</strong></span>.  <a target="_blank" href="http://www.se-rwth.de/publications/Systematic-Language-Extension-Mechanisms-for-the-MontiArc-Architecture-Description-Language.pdf"><span class="bibtitle">Systematic Language Extension Mechanisms for the MontiArc Architecture Description Language</span></a>, <span class="bibbooktitle">In: European Conference on Modelling Foundations and Applications (ECMFA'17)</span>, LNCS 10376, pages 53-70, July, 2017, <span class="bibpublisher">Springer</span>.
-</li>
-<br/>
+- [Executing Robot Task Models in Dynamic Environments](https://www.se-rwth.de/publications/Executing-Robot-Task-Models-in-Dynamic-Environments.pdf). Adam, Kai, Butting, Arvid, Kautz, Oliver, Rumpe, Bernhard, and Wortmann, Andreas. In Proceedings of MODELS 2017. Workshop EXE,  2017. 
 
-<li>
-	[<a target="_blank" href="http://www.se-rwth.de/publications/browser/bibtexbrowser.php?key=ABH%2B16&amp;bib=..%2F..%2Fpublications%2Fbibtex%2FMASTERDATEI.bib">ABH+16</a>] <span class="bibauthor"><strong>K. Adam</strong>, <strong>A. Butting</strong>, <strong>R. Heim</strong>, <strong>O. Kautz</strong>, <strong>B. Rumpe</strong>, and <strong>A. Wortmann</strong></span>.  <a target="_blank" href="http://www.se-rwth.de/publications/Model-Driven-Separation-of-Concerns-for-Service-Robotics.pdf"><span class="bibtitle">Model-Driven Separation of Concerns for Service Robotics</span></a>, <span class="bibbooktitle">In: International Workshop on Domain-Specific Modeling (DSM'16)</span>, pages 22-27, October, 2016, <span class="bibpublisher">ACM</span>.
-</li>
-<br/>
-</ul>
+-  [Model-Driven Separation of Concerns for Service Robotics](https://www.se-rwth.de/publications/Model-Driven-Separation-of-Concerns-for-Service-Robotics.pdf). Adam, Kai, Butting, Arvid, Heim, Robert, Kautz, Oliver, Rumpe, Bernhard, and Wortmann, Andreas. In International Workshop on Domain-Specific Modeling (DSM’16), pp. 22–27, ACM,  2016. 
+
+The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
+
+### Funding
 
 Funded by [BMBF](https://www.softwaresysteme.dlr-pt.de/de/forschungsvorhaben-servicerobotik.php).
