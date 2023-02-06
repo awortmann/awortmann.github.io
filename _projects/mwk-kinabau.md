@@ -2,7 +2,7 @@
 layout: page
 title: AI for Timber Construction
 description: 
-img: /assets/img/project-aisa-kinabau.jpg
+img: /assets/img/project-mwk-kinabau.jpg
 importance: 1
 ---
 

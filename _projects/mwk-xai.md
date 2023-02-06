@@ -2,7 +2,7 @@
 layout: page
 title: Explainable AI for Manufacturing
 description: 
-img: /assets/img/project-aisa-xai.jpg
+img: /assets/img/project-mwk-xai.jpg
 importance: 1
 ---
 
