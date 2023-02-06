@@ -2,7 +2,7 @@
 layout: page
 title: Systematic Software Language Engineering
 description: 
-img: /assets/img/project-scolar.jpg
+img: /assets/img/project-dfg-scolar.jpg
 importance: 1
 ---
 
@@ -44,3 +44,5 @@ The following presents selected publications that present research results relat
 ### Related Projects
 
 We applied existing and devised new language engineering techniques to realize the extensible [MontiArcAutomaton](../montiarcautomaton) architecture modeling framework as well as to ease the systematic engineering of [digital twins](../digital-twins). 
+
+Funded by [DFG](https://gepris.dfg.de/gepris/projekt/441207927?context=projekt&task=showDetail&id=441207927&).

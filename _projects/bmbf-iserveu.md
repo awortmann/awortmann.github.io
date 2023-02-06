@@ -3,7 +3,7 @@ layout: page
 title: Intelligent Modular Service Robotics
 description: 
 img: /assets/img/project-iserveu.png
-importance: 3
+importance: 1
 ---
 
 While various challenging issues for service robotics have been solved to a degree where their deployment is possible, integration of the corresponding hardware components and software components requires the intensive collaboration of domain experts, robotics experts, and software experts. The [iserveU project](https://www.se-rwth.de/materials/iserveu/) investigates the feasibility of pervasive model-driven software engineering for complex service robotics applications.
@@ -37,3 +37,5 @@ The following presents selected publications that present research results relat
 </li>
 <br/>
 </ul>
+
+Funded by [BMBF](https://www.softwaresysteme.dlr-pt.de/de/forschungsvorhaben-servicerobotik.php).

@@ -3,7 +3,7 @@ layout: page
 title: Collaborative Embedded Systems
 description: 
 img: /assets/img/project-crest.jpg
-importance: 2
+importance: 1
 ---
 
 With the transition from classical embedded systems to networked, collaborative embedded systems, a wide range of new applications for the German industry is emerging. The ability of a company to efficiently develop collaborative embedded systems with the highest quality will, therefore, become a decisive competitive factor.The project [Collaborative Embedded Systems (CrESt)](https://crest.in.tum.de/) aims to create a comprehensive framework for the model-driven development of collaborative embedded systems that addresses novel challenges in their engineering based on the SPES development methodology.

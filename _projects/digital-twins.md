@@ -3,7 +3,7 @@ layout: page
 title: Systematic Engineering of Digital Twins
 description: 
 img: /assets/img/project-digital-twins.jpg
-importance: 3
+importance: 1
 ---
 
 Digital Twins of manufacturing systems should help to control production to reduce downtimes and make better use of resources. This requires the detection of deviations from the expected system behavior. With this knowledge, deviations in system parts due to wear and tear can be considered in planning, for example, to correct their use at runtime and thus reduce scrap. In [this project](https://www.rwth-aachen.de/go/id/vuc/lidx/1), the systematic integration of SysML2 engineering models into Digital Twins for the automated consistency assurance of these models will thus be investigated.

@@ -3,7 +3,7 @@ layout: page
 title: Internet of Production Excellence Cluster
 description: 
 img: /assets/img/project-iop.jpg
-importance: 3
+importance: 1
 ---
 
 The vision of the Internet of Production strives for the integration of the major domains of a producing company along the lifecycle of a product (production, development, and usage). This integration, enabled by the Infrastructure of the [Internet of Production](https://www.iop.rwth-aachen.de/go/id/gpfz/), will result in a new level and understanding of cross-domain collaboration due to real-time availability of semantically adequate and contextual data from these domains.
