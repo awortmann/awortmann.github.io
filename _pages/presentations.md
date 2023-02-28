@@ -12,6 +12,12 @@ Research and industry leverage digital twins to monitor and control (cyber-physi
 
 Find out more about [digital twins](wortmann.ac/dts).
 
+### Digital Twins - An Introduction
+
+- Keynote at the [Stuttgarter Innovationstage 2023](https://www.stuttgarter-innovationstage.de/) (English)
+- [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/presentations/23.02.28.InnoTage_Keynote.pdf)
+
+
 ### Reflections on Digital Twins
 
 - Invited talk to the [Dagstuhl Seminar 22362 on Model-Driven Engineering of Digital Twins](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=22362) (English)
