@@ -6,11 +6,16 @@ description: A collection of definitions of digital twins
 nav: false
 ---
 
-# Context
+## Context
 
-As a side result of the [largest literature survey on digital twins](./research/digital_twins) do date, we have produced a collection of definitions of the term "digital twin" from the publications of our corpus. This collection is reproduced below.
+As a side result of the [largest literature survey on digital twins](../digital_twins) do date, 
 
-# Definitions
+- M. Dalibor, N. Jansen, B. Rumpe, D. Schmalzing, L. Wachtmeister, M. Wimmer, A. Wortmann: [A Cross-Domain Systematic Mapping Study on Software Engineering for Digital Twins](https://awortmann.github.io/downloads/preprints/2022/Systematic_Mapping_Study_on_Digital_Twins__DT_SMS.pdf). In: Journal of Systems and Software, 111361, 
+
+we have produced a collection of definitions of the term "digital twin" from the publications of our corpus. This collection is reproduced below.
+
+
+## Definitions
 
 - "An always in sync digital model of existing manufacturing cells"_ B. A. Talkhestani, N. Jazdi, W. Schlögl , M. Weyrich. [A concept in synchronization of virtual production system with real factory based on anchor-point method](https://www.scopus.com/record/display.uri?eid=2-s2.0-85044658638&doi=10.1016%2fj.procir.2017.12.168&origin=inward&txGid=3779d0fa0d01f58f3ffbfe405328f8d9). In: Procedia CIRP, 2018
 
