@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Digital Twin Definitions
-permalink: /twin_defiintions/
+permalink: /research/digital_twin_definitions/
 description: A collection of definitions of digital twins 
 nav: false
 ---
 
 # Context
 
-As a side result of the [largest literature survey on digital twins](./topics/digital_twins) do date, we have produced a collection of definitions of the term "digital twin" from the publications of our corpus. This collection is reproduced below.
+As a side result of the [largest literature survey on digital twins](./research/digital_twins) do date, we have produced a collection of definitions of the term "digital twin" from the publications of our corpus. This collection is reproduced below.
 
 # Definitions
 
