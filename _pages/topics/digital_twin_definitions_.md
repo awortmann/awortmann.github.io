@@ -6,9 +6,7 @@ description: A collection of definitions of digital twins
 nav: false
 ---
 
-## Context
-
-As a side result of the [largest literature survey on digital twins](../digital_twins) do date, 
+As a side result of the [largest literature survey on digital twins](../digital_twins) to date, 
 
 - M. Dalibor, N. Jansen, B. Rumpe, D. Schmalzing, L. Wachtmeister, M. Wimmer, A. Wortmann: [A Cross-Domain Systematic Mapping Study on Software Engineering for Digital Twins](https://awortmann.github.io/downloads/preprints/2022/Systematic_Mapping_Study_on_Digital_Twins__DT_SMS.pdf). In: Journal of Systems and Software, 111361, 
 
