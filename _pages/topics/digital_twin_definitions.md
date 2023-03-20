@@ -12,6 +12,7 @@ As a side result of the [largest literature survey on digital twins](../digital_
 
 we have produced a collection of definitions of the term "digital twin" from the publications of our corpus. This collection is reproduced below.
 
+If you want to add a definition or modify an entry, please create a [pull request](https://github.com/awortmann/awortmann.github.io/blob/master/_pages/topics/digital_twin_definitions_.md). 
 
 ## Definitions
 
