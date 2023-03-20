@@ -15,7 +15,7 @@ we have produced a collection of definitions of the term "digital twin" from the
 
 ## Definitions
 
-- "An always in sync digital model of existing manufacturing cells"_ B. A. Talkhestani, N. Jazdi, W. Schlögl , M. Weyrich. [A concept in synchronization of virtual production system with real factory based on anchor-point method](https://www.scopus.com/record/display.uri?eid=2-s2.0-85044658638&doi=10.1016%2fj.procir.2017.12.168&origin=inward&txGid=3779d0fa0d01f58f3ffbfe405328f8d9). In: Procedia CIRP, 2018
+- _"An always in sync digital model of existing manufacturing cells"_ B. A. Talkhestani, N. Jazdi, W. Schlögl , M. Weyrich. [A concept in synchronization of virtual production system with real factory based on anchor-point method](https://www.scopus.com/record/display.uri?eid=2-s2.0-85044658638&doi=10.1016%2fj.procir.2017.12.168&origin=inward&txGid=3779d0fa0d01f58f3ffbfe405328f8d9). In: Procedia CIRP, 2018
 
 - _"An always current digital image of the production system"_ F. Biesinger, D. Meike, B. Krass, M. Weyrich. [A digital twin for production planning based on cyber-physical systems: A Case Study for a Cyber-Physical System-Based Creation of a Digital Twin](https://www.sciencedirect.com/science/article/pii/S2212827119302045). In: 12TH CIRP CONFERENCE ON INTELLIGENT COMPUTATION IN MANUFACTURING ENGINEERING, 2019
 
