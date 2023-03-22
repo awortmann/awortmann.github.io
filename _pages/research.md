@@ -6,9 +6,7 @@ description:
 nav: true
 ---
 
-This website presents selected research topics and related publications. The full list of publications is available from my [publications](../publications) website.
-
-
+This website presents selected research topics and related publications. The full list of publications is available from my [publications](../publications) website. Presentations of keynotes and inivited talks are available from my [presentations](../presentations) website as well.
 
 ## Automotive Software Engineering
 
@@ -30,7 +28,7 @@ Developing software for automotive systems has become increasingly complex. Soph
 Research and industry leverage digital twins to monitor and control (cyber-physical) systems in various domains, including automotive, avionics, biology, construction, manufacturing, medicine, and many more. They promise a tremendous potential to reduce cost and time and improve our understanding of the represented systems.
 The various digital twins serve different purposes, including analysis, control, and behavior prediction, and they are used at different times relative to the represented system, e.g., before it exists to explore its design space or during its runtime to optimize its behavior. Despite a plethora of definitions, there is little consensus about what a digital twin is.
 
-This also is reflected in many of the available definitions being 
+This also is reflected in many of the [available definitions](../research/twin_definitions) being 
 - ambiguous, by deferring to another undefined term, such as a "virtual representation", a "computable virtual abstraction" , or a "a virtual projection of the industrial facility into the cloud"
  - narrow, by focusing on specific use cases, domains, or technologies, such as a "digital model of the real network environment" or a "virtual representation based on AR technology"
 - utopian, due to all-encompassing aspirations, such as an "integrated virtual model of a real-world system containing all of its physical information", a "complete digital representation".

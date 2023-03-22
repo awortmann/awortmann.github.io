@@ -10,7 +10,7 @@ As a side result of the [largest literature survey on digital twins](../digital_
 
 - M. Dalibor, N. Jansen, B. Rumpe, D. Schmalzing, L. Wachtmeister, M. Wimmer, A. Wortmann: [A Cross-Domain Systematic Mapping Study on Software Engineering for Digital Twins](https://awortmann.github.io/downloads/preprints/2022/Systematic_Mapping_Study_on_Digital_Twins__DT_SMS.pdf). In: Journal of Systems and Software, 111361, 
 
-we have produced a collection of definitions of the term "digital twin" from the publications of our corpus. This collection is reproduced below.
+we have produced a collection of 112 definitions of the term "digital twin" from the publications of our corpus. This collection is reproduced below.
 
 If you want to add a definition or modify an entry, please create a [pull request](https://github.com/awortmann/awortmann.github.io/blob/master/_pages/topics/digital_twin_definitions_.md). 
 

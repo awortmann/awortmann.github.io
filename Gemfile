@@ -9,4 +9,5 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'jekyll-seo-tag'
     #gem 'jekyll-twitter-plugin'
+    gem 'jekyll-sitemap'
 end
