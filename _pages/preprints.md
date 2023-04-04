@@ -13,6 +13,10 @@ nav: false
 
 - Nadia Hammoudeh Garcia, Anderas Wortmann. [Survey on Robotic Systems Integration](../downloads/preprints/2023/Survey_on_Robotic_Systems_Integration.pdf).
 
+## 33rd CIRP Design Conference 2023
+
+- Ann-Kathrin Splettstößer, Carsten Ellwein, Andreas Wortmann. [Self-adaptive digital twin reference architecture to improve process quality](../downloads/preprints/2023/Self-adaptive_digital_twin_reference_architecture_to_improve_process_quality).
+
 
 
 ## Further Reading
