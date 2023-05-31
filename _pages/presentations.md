@@ -12,6 +12,12 @@ Research and industry leverage digital twins to monitor and control (cyber-physi
 
 Find out more about [digital twins](wortmann.ac/dts).
 
+
+### Software-Defined Manufacturing
+
+- Keynote at CIRP [CMMO 2023](https://cirp-cmmo2023.org/) (English)
+- [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/presentations/23.05.31.CMMO_Keynote.pdf)
+
 ### Digital Twins - An Introduction
 
 - Keynote at the [Stuttgarter Innovationstage 2023](https://www.stuttgarter-innovationstage.de/) (English)
