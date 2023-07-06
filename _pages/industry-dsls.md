@@ -1,6 +1,6 @@
 ---
-layout: dsls
-permalink: /dsls/
+layout: page
+permalink: /industry-dsls/
 title: Domain-Specific Languages in Industry
 description: 
 nav: false
