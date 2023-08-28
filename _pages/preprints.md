@@ -6,17 +6,9 @@ description:
 nav: false
 ---
 
-## Robotics Software Engineering (RoSE) Workshop at ICSE'23
+## 3rd International Workshop on Model-Driven Engineering of Digital Twins at MODELS'23
 
-
-- Nadia Hammoudeh Garcia, Harshavardhan Deshpande, Ruichao Wu, Björn Kahl, Andreas Wortmann. [Lifting ROS to Model-Driven Development: Lessons Learned from a bottom-up approach](../downloads/preprints/2023/Lifting_ROS_to_Model-Driven_Development_-_Lessons_Learned_from_a_bottom-up_approach.pdf).
-
-- Nadia Hammoudeh Garcia, Anderas Wortmann. [Survey on Robotic Systems Integration](../downloads/preprints/2023/Survey_on_Robotic_Systems_Integration.pdf).
-
-## 33rd CIRP Design Conference 2023
-
-- Ann-Kathrin Splettstößer, Carsten Ellwein, Andreas Wortmann. [Self-adaptive digital twin reference architecture to improve process quality](../downloads/preprints/2023/Self-adaptive_digital_twin_reference_architecture_to_improve_process_quality).
-
+- [A Model-Driven Digital Twin for Manufacturing Process Adaptation](../downloads/preprints/2023/A_Model-Driven_Digital_Twin_for_Manufacturing_Process_Adaptation.pdf)
 
 
 ## Further Reading
