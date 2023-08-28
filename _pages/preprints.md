@@ -8,7 +8,7 @@ nav: false
 
 ## 17th European Conference on Software Architecture (ECSA)
 
-- [An Expert Survey on the Use of Informal Models in the Automotive Industry]()
+- [An Expert Survey on the Use of Informal Models in the Automotive Industry](../downloads/preprints/2023/An_Expert_Survey_on_the_Use_of_Informal_Models_in_the_Automotive_Industry.pdf)
 
 ## 3rd International Workshop on Model-Driven Engineering of Digital Twins at MODELS'23
 
