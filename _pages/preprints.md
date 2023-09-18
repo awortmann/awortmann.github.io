@@ -20,7 +20,7 @@ nav: false
 
 - [A Model-Driven Digital Twin for Manufacturing Process Adaptation](../downloads/preprints/2023/A_Model-Driven_Digital_Twin_for_Manufacturing_Process_Adaptation.pdf)
 
-- [Model-Based DevOps: Foundations and Challenges](../downloads/preprints/2023/A_Model-Driven_Digital_Twin_for_Manufacturing_Process_Adaptation.pdf)
+- [Model-Based DevOps: Foundations and Challenges](../downloads/preprints/2023/Model-Based_DevOps_-_Foundations_and_Challenges.pdf)
 
 
 ### Further Reading
