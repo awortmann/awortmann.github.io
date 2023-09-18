@@ -8,7 +8,7 @@ nav: false
 
 ### Software Language Engineering (SLE) 2023
 
-- [An Expert Survey on the Use of Informal Models in the Automotive Industry](../downloads/preprints/2023/A_Low-Code_Platform_for_Systematic_Component-Oriented_Language_Composition.pdf)
+- [A Low-Code Platform for Systematic Component-Oriented Language Composition](../downloads/preprints/2023/A_Low-Code_Platform_for_Systematic_Component-Oriented_Language_Composition.pdf)
 
 
 ### 17th European Conference on Software Architecture (ECSA) 2023
