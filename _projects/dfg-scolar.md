@@ -18,11 +18,19 @@ Otherwise, the customization required for this completion can be performed syste
 
 The following presents selected publications that present research results relating to this project. 
 
--  [Systematic Composition of Independent Language Features](https://www.se-rwth.de/publications/Systematic-Composition-of-Independent-Language-Features.pdf). Butting, Arvid, Eikermann, Robert, Kautz, Oliver, Rumpe, Bernhard, and Wortmann, Andreas. In Journal of Systems and Software, Vol. 152, pp. 50–69,  2019. 
+- Pfeiffer, J., Rumpe, B., Schmalzing, D., & Wortmann, A. (2023). [Composition operators for modeling languages: A literature review](https://www.sciencedirect.com/science/article/abs/pii/S2590118423000369?casa_token=C5-2_eTVNB4AAAAA:P3nIHLVSAMwRDt4Tn11QatHrWroNTxxWMg88LtkpXBsDx6BIsQtUHFpdzE3g6R3toYAD-_ix). Journal of Computer Languages, 101226.
 
-- [Controlled and Extensible Variability of Concrete and Abstract Syntax with Independent Language Features](https://www.se-rwth.de/publications/Controlled-and-Extensible-Variability-of-Concrete-and-Abstract-Syntax-with-Independent-Language-Features.pdf) Butting, Arvid, Eikermann, Robert, Kautz, Oliver, Rumpe, Bernhard, and Wortmann, Andreas. In Proceedings of the 12th International Workshop on Variability Modelling of Software-Intensive Systems (VAMOS’18), pp. 75–82, ACM,  2018. 
+- Dalibor, M., Heithoff, M., Michael, J., Netz, L., Pfeiffer, J., Rumpe, B., ... & Wortmann, A. (2022). [Generating customized low-code development platforms for digital twins](https://awortmann.github.io/downloads/paper/Generating_Customized_Low-Code_Development_Platforms_for_Digital_Twins.pdf). Journal of Computer Languages, 70, 101117.
 
-- [Translating Grammars to Accurate Metamodels](https://www.se-rwth.de/publications/Translating-Grammars-to-Accurate-Metamodels.pdf). Butting, Arvid, Jansen, Nico, Rumpe, Bernhard, and Wortmann, Andreas. In Proceedings of the 11th ACM SIGPLAN International Conference on Software Language Engineering, pp. 174–186, ACM,  2018. 
+- Hacks, S., Katsikeas, S., Rencelj Ling, E., Xiong, W., Pfeiffer, J., & Wortmann, A. (2022). [Towards a systematic method for developing meta attack language instances](https://awortmann.github.io/downloads/paper/Towards_a_Systematic_Method_for_Developing_Meta_Attack_Language_Instances.pdf). In International Conference on Business Process Modeling, Development and Support (pp. 139-154). Cham: Springer International Publishing.
+
+- Pfeiffer, J., & Wortmann, A. (2021). [Towards the black-box aggregation of language components](https://awortmann.github.io/downloads/paper/Towards_the_Black_Box_Aggregation_of_Language_Components.pdf).. In 2021 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C) (pp. 576-585). IEEE.
+
+- Butting, A., Pfeiffer, J., Rumpe, B., & Wortmann, A. (2020). [A compositional framework for systematic modeling language reuse](http://www.se-rwth.de/publications/A-Compositional-Framework-for-Systematic-Modeling-Language-Reuse.pdf). In Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (pp. 35-46).
+
+- Butting, A., Eikermann, R., Kautz, O., Rumpe, B., & Wortmann, A. (2019). Systematic Composition of Independent Language Features](https://www.se-rwth.de/publications/Systematic-Composition-of-Independent-Language-Features.pdf). Journal of Systems and Software, 152, 50-69.
+
+- Butting, A., Eikermann, R., Kautz, O., Rumpe, B., & Wortmann, A. (2018). [Controlled and Extensible Variability of Concrete and Abstract Syntax with Independent Language Features](https://www.se-rwth.de/publications/Controlled-and-Extensible-Variability-of-Concrete-and-Abstract-Syntax-with-Independent-Language-Features.pdf). In Proceedings of the 12th International Workshop on Variability Modelling of Software-Intensive Systems (pp. 75-82)
 
 The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
 
