@@ -6,7 +6,7 @@ img: /assets/img/project-dfg-scolar.jpg
 importance: 1
 ---
 
-Systematic Compositional Language Engineering (SCOLAR) is a basic research project funded by the DFG under no. 441207927 in which we investigate novel methods for the black-box composition of modeling languages. 
+Systematic Compositional Language Engineering (SCOLaR) is a basic research project funded by the DFG under no. 441207927 in which we investigate novel methods for the black-box composition of modeling languages. 
 To this effect, we investigate combining concepts from component-based software engineering, software product lines, and software language engineering in a systematic reuse process.
 This process focuses on language components comprising syntax, in the form of grammars and well-formedness rules, and semantics, in the form of code generators, that explicate their required and provided extensions through novel interfaces. 
 By carefully arranging language components through feature models of language product lines, novel language components can be derived through the black-box composition of the components of selected features. 
@@ -16,7 +16,8 @@ Otherwise, the customization required for this completion can be performed syste
 
 ### Related Publications
 
-The following presents selected publications that present research results relating to this project. 
+The following selected publications present research results relating to SCOLaR: 
+
 
 - Pfeiffer, J., Rumpe, B., Schmalzing, D., & Wortmann, A. (2023). [Composition operators for modeling languages: A literature review](https://www.sciencedirect.com/science/article/abs/pii/S2590118423000369?casa_token=C5-2_eTVNB4AAAAA:P3nIHLVSAMwRDt4Tn11QatHrWroNTxxWMg88LtkpXBsDx6BIsQtUHFpdzE3g6R3toYAD-_ix). Journal of Computer Languages, 101226.
 

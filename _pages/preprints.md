@@ -6,6 +6,12 @@ description:
 nav: false
 ---
 
+
+### IEEE Software 
+
+- [Explaining Cyber-Physical System Behavior with Digital Twins](../downloads/preprints/2023/Explaining_Cyber-Physical_System_Behavior_with_Digital_Twins.pdf)
+
+
 ### Software Language Engineering (SLE) 2023
 
 - [A Low-Code Platform for Systematic Component-Oriented Language Composition](../downloads/preprints/2023/A_Low-Code_Platform_for_Systematic_Component-Oriented_Language_Composition.pdf)
