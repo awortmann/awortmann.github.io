@@ -17,6 +17,11 @@ nav: false
 - [A Low-Code Platform for Systematic Component-Oriented Language Composition](../downloads/preprints/2023/A_Low-Code_Platform_for_Systematic_Component-Oriented_Language_Composition.pdf)
 
 
+### 4th International Workshop on Modeling in Low-Code Development Platforms at MODELS 2023
+
+- [Navigating the Low-Code Landscape: A Comparison of Development Platforms](../downloads/preprints/2023/Navigating_the_Low-Code_Landscape_-_A_Comparison_of_Development_Platforms.pdf)
+
+
 ### 28th International Conference on Emerging Technologies and Factory Automation (ETFA) 2023
 
 - [Maturity Evaluation of Domain-Specific Language Ecosystems for Cyber-Physical Production Systems](../downloads/preprints/2023/Maturity_Evaluation_of_Domain-Specific_Language_Ecosystems_for_Cyber-Physical_Production_Systems.pdf)
