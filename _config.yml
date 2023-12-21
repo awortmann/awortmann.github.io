@@ -38,7 +38,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: # your GitHub user name
-twitter_username: andwor # your Twitter handle
+twitter_username: # your Twitter handle
 linkedin_username: andreaswortmann # your LinkedIn user name
 scholar_userid: 6ImtercAAAAJ # your Google Scholar ID
 orcid_id: 0000-0003-3534-253X # your ORCID ID
