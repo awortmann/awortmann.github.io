@@ -12,9 +12,9 @@ Digital Twins of manufacturing systems should help to control production to redu
 
 The following presents selected publications that present research results relating to this project. 
 
-- [Integration Challenges for Digital Twin Systems-of-Systems](https://awortmann.github.io/downloads/preprints/2022/Integration_Challenges_for_Digital_Twin_Systems-of-Systems.pdf). Michael, Judith, Pfeiffer, Jérôme, Rumpe, Bernhard, and Wortmann, Andreas. In 2022 IEEE/ACM 10th International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems (SESoS), pp. 9–12,  2022. 
+- [Integration Challenges for Digital Twin Systems-of-Systems](https://awortmann.github.io/downloads/paper/Integration_Challenges_for_Digital_Twin_Systems-of-Systems.pdf). Michael, Judith, Pfeiffer, Jérôme, Rumpe, Bernhard, and Wortmann, Andreas. In 2022 IEEE/ACM 10th International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems (SESoS), pp. 9–12,  2022. 
 
-- [A cross-domain systematic mapping study on software engineering for Digital Twins](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/paper/A_Cross-Domain_Systematic_Mapping_Study_on_Software_Engineering_for_Digital_Twins.pdf). Dalibor, Manuela, Jansen, Nico, Rumpe, Bernhard, Schmalzing, David, Wachtmeister, Louis, Wimmer, Manuel, and Wortmann, Andreas. In Journal of Systems and Software, pp. 111361,  2022. 
+- [A cross-domain systematic mapping study on software engineering for Digital Twins](https://awortmann.github.io/downloads/paper/A_Cross-Domain_Systematic_Mapping_Study_on_Software_Engineering_for_Digital_Twins.pdf). Dalibor, Manuela, Jansen, Nico, Rumpe, Bernhard, Schmalzing, David, Wachtmeister, Louis, Wimmer, Manuel, and Wortmann, Andreas. In Journal of Systems and Software, pp. 111361,  2022. 
 
 -  [Modeling Capabilities of Digital Twin Platforms - Old Wine in New Bottles?](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/paper/Modeling_Capabilities_of_Digital_Twin_Platforms_-_Old_Wine_in_New_Bottles.pdf). Pfeiffer, Jérôme, Lehner, Daniel, Wortmann, Andreas, and Wimmer, Manuel. In Journal of Object Technology, Vol. 21, Vol. 3, pp. 3:1-14,  2022.
 
