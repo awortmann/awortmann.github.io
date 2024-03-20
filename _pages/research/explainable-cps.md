@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/explainable-cpss/
+permalink: /research/explainable-cps/
 title: Explainabe Cyber-Physical Systems
 description:  
 nav: false
