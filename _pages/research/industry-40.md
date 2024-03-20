@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/industry_40/
+permalink: /research/industry-40/
 title: Industry 4.0 
 description: 
 nav: false
