@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/explainable-cps/
-title: Explainabe Cyber-Physical Systems
+title: Explainable Cyber-Physical Systems
 description:  
 nav: false
 ---
