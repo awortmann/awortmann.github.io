@@ -10,7 +10,8 @@ nav: true
 
 Overall, I have chaired for over 25 conferences and workshops. Please find selected highlights below.
 
-- Program chair of the [Euromicro Conference on Software Engineering and Advanced Applications 2022](https://dsd-seaa2022.iuma.ulpgc.es/).
+- Program chair of the [Software Engineering 2024]https://se2024.se.jku.at/) conference
+- Track chair of the track “Model-Driven Engineering and Modeling Languages” of the [SEAA 2023](https://dsd-seaa2023.com/) conference
 - Workshop chair of the [Modellierung 2022](https://qfam.gi.de/modellierung2022) conference
 - Workshop chair of the [Software Engineering 2021 Conference](https://www.se-2022.de/)
 - Track chair of the track "Industry 4.0" at the [International Conference on Business Informatics 2021](https://cbi2021.events.unibz.it/)
@@ -22,7 +23,7 @@ Overall, I have chaired for over 25 conferences and workshops. Please find selec
 
 ## Reviewing
 
-I serve in the editorial boards of the following journals:
+I serve or have served in the editorial boards of the following journals:
 
 - [International Journal on Software and Systems Modeling](https://www.sosym.org/) 
 - [Journal of Automotive Software Engineering](https://www.atlantis-press.com/journals/jase)
@@ -38,13 +39,21 @@ Moreover, I am regularly reviewing for various other journals, conferences, and 
 - Journal of Software Engineering for Robotics
 - Journal of Systems and Software
 
-As well as selected conferences and workshops. Program committee memberships for conferences are highlighted below.
+as well as selected conferences and workshops, including: 
 
-- **SWQD 2022**, **CBI 2021**, **MODELS 2021**,  MPM4CPS 2021,  **QUATIC 2021**  **ICSMM 2020**,  **IROS 2020**,  **MODELS 2020**,  **QUATIC 2020**,  AMMoRe 2020, Future@STAF 2020,  LowCode 2020,  MPM4CPS 2020,  **IRC 2019**,  **SEAA 2019**, CommitMDE 2019, JRC of STAF 2019,  MiSE 2019,  **IRC 2018**,  **SEAA 2018**,  **SLE 2018**,  CBI 2018,  CommitMDE 2018, EXE 2018, GEMOC 2018,  ME 2018,  MEKES 2018,  MODELS Tools Track 2018,  SPLTea 2018,  **ETFA 2017**,  **IRC 2017**, **SLE 2017**,  EXE 2017, MiSE 2017,  **ETFA 2016**,  MORSE 2016, 
-**ETFA 2015**,  DSLRob 2015,  MORSE 2015,  DSLRob 2014
+- ACM / IEEE 27th International Conference on Model Driven Engineering Languages and Systems (MODELS) 
+- ACM SIGPLAN International Conference on Software Language Engineering (SLE)
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+- IEEE Conference on Business Informatics (CBI)
+- IEEE International Conference on Robotic Computing (IRC)
+- International Conference on Emerging Technologies and Factory Automation (ETFA)
+- International Conference of Systems Modelling and Management (ICSMM)
+- International Conference on the Quality of Information and Communications Technology (QUATIC) 
+- Euromicro Conference on Software Engineering and Advanced Applications (SEAA)
+
 
 ## Further Engagement
 
 - Board member of the [European Association for Programming Languages and Systems](https://eapls.org/) (EAPLS) 
-- Co-chair of the [GfSE working group on Model-Based Systems Engineering](https://www.gfse.de/mbse-home)
+- Until 2022: Co-chair of the [GfSE working group on Model-Based Systems Engineering](https://www.gfse.de/mbse-home)
 
