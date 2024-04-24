@@ -14,4 +14,4 @@ The Robot Operating System (ROS) is a de facto standard for pro- gramming roboti
 - Best paper award winner at the [Robotics Software Engineering (RoSE) Workshop 2024](https://rose-workshops.github.io/rose2024/) at ICSE'24
 - [Download the preprint](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/preprints/Energy_Efficiency_of_ROS_Nodes_in_Different_Languages_-_Publisher-Subscriber_Case_Studies.pdf)
 
-Please my other [publications here](https://awortmann.github.io/publications/).
+Find my other [publications here](https://awortmann.github.io/publications/).
