@@ -19,6 +19,8 @@ Overall, I have chaired for over 25 conferences and workshops. Please find selec
 - Session Chair of the special session "Low-Code and Model-Driven Engineering for Production Systems" at [APMS 2021](https://www.apms-conference.org/).
 - Track chair of the track “Model-Driven Engineering and Modeling Languages” of the [SEAA 2020](https://dsd-seaa2020.um.si/seaa/) conference
 - Steering committee member of the [Robotics Software Engineering](https://rose-workshops.github.io/) (RoSE) workshop series.
+- Founder and steering committee member of the [Engineering Digital Twins (EDTconf)](http://www.edtconf.org) conference
+- Steering committee member of the  [Modeling Language Engineering (MLE) workshop](https://mleworkshop.github.io/steeringcommittee/) series
 - Organizer of the [1st International Workshop on Conceptual Modeling for Digital Twins](https://comodity.github.io/)
 
 ## Reviewing
@@ -54,6 +56,7 @@ as well as selected conferences and workshops, including:
 
 ## Further Engagement
 
-- Board member of the [European Association for Programming Languages and Systems](https://eapls.org/) (EAPLS) 
+- Board member of [European Association for Programming Languages and Systems](https://eapls.org/)
+- Board member of the [Artificial Intelligence Software Academy](https://www.aisa.uni-stuttgart.de) graduate school of the University of Stuttgart
 - Until 2022: Co-chair of the [GfSE working group on Model-Based Systems Engineering](https://www.gfse.de/mbse-home)
 
