@@ -6,8 +6,16 @@ description:
 nav: false
 ---
 
-## Energy Efficiency of ROS Nodes in Different Languages: Publisher–Subscriber Case Studies (RoSE 2024)
 
+
+## Modeling Languages for Automotive Digital Twins (MODELS 2024)
+
+The demand for digital twins and suitable modeling techniques in the automotive industry is increasing rapidly. Yet, there is no com- mon understanding of digital twins in automotive, nor are there modeling techniques established to create automotive digital twins. Recent studies on digital twins focus on the analysis of the literature on digital twins for automotive or in general and, thus, neglect the industrial perspective of automotive practitioners. To mitigate this gap between scientific literature and the industrial perspective, we conducted a questionnaire survey among experts in the German automotive industry to identify i) the desired purposes for and ca- pabilities of digital twins and ii) the modeling techniques related to engineering and operating digital twins across the phases of auto- motive development. To this end, we contacted 189 members of the Software-Defined Car research project and received 96 responses. The results show that digital twins are considered most useful in the usage and support phase of automotive development, representing vehicles as-operated. Moreover, simulation models, source code, and business process models are currently considered the most important models to be integrated into a digital twin alongside the associated, established tools.
+
+- [Download the preprint](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/preprints/Modeling_Languages_for_Automotive_Digital_Twins.pdf)
+
+
+## Energy Efficiency of ROS Nodes in Different Languages: Publisher–Subscriber Case Studies (RoSE 2024)
 
 The Robot Operating System (ROS) is a de facto standard for pro- gramming robotic systems. It currently provides well-established client libraries for two major languages: C++ and Python. Different programming languages are known for their different abstraction levels, and as a consequence, their resource usage, including energy consumption. With energy efficiency being recurrently a quality requirement, it is important to understand how programming in those two languages may affect the energy consumption of robotic systems. In this study, we analyze the impact on energy consump- tion when programming ROS nodes in those two main supported languages. We design and conduct an empirical experiment on ROS 2 nodes implemented in C++ and Python for simple and well- documented topic-based examples. We statistically assess to what extent energy consumption is affected by language choice, where nodes programmed in C++ presented a consistently better energy efficiency. A deeper analysis of the measured variables indicates that the energy efficiency difference between the two client libraries is closely related to the underlying architecture.
 
