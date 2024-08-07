@@ -6,7 +6,11 @@ description:
 nav: false
 ---
 
+## Generating PLC Code with Universal Large Language Models (ETFA 2024)
 
+Control software for production systems is typically developed by domain experts, despite its high complexity. The increasingly available Large Language Models (LLMs) can assist developers with code generation and debugging. However, their is still unexplored. Therefore, this study explores the generation of Structured Text (ST) according to IEC-61131-3 by different LLMs. We selected 21 coding examples that are representative suitability for generating control software for production systems of PLC programming and developed an approach for comparing the outputs of different LLMs using metrics for testing generated code (CodeBERTScore, pass@k, generation time). The strategies for prompt optimization that were developed as part of this work can be directly used for improved ST generation. Our results show that, at the time of the study, ChatGPT-4 had the highest reliability in generating syntactically correct ST code that expresses the desired functionality.
+
+- [Download the preprint](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/preprints/Generating_PLC_Code_with_Universal_Large_Language_Models.pdf)
 
 ## Modeling Languages for Automotive Digital Twins (MODELS 2024)
 
