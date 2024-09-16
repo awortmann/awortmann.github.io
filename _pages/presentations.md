@@ -13,6 +13,11 @@ Research and industry leverage digital twins to monitor and control (cyber-physi
 Find out more about [digital twins](http://www.wortmann.ac/dts).
 
 
+### Artificial Intelligent Industrial Software Engineering
+
+- Keynote at the [Stuttgarter Innovationstage 2024](https://www.stuttgarter-innovationstage.de/) (English)
+- [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/presentations/24.09.18.InnoTage_Keynote.pdf)
+
 ### Software-Defined Manufacturing
 
 - Keynote at CIRP [CMMO 2023](https://cirp-cmmo2023.org/) (English)
