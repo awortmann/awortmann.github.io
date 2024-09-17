@@ -6,6 +6,14 @@ description:
 nav: false
 ---
 
+## Hierarchical Digital Twin Ecosystem for Industrial Manufacturing Scenarios (ETFA 2024)
+
+Modern industrial systems, characterised by distributed and fragmented equipment, present challenges due to their inherent heterogeneity and complexity. This should not impact the stakeholders’ business logic, who are more concerned with the information itself rather than how it is collected or processed. Recently, Digital Twins — software copies of physical assets and systems — emerged as a pivotal strategy to bridge the cyber-physical world into an effective digital layer decoupling applications from the management and interaction with physical assets. Fostering this vision, we propose a structured industrial Digital Twins ecosystem exploiting twin relationships and hierarchies to build a digitalised replica of the whole manufacturing system structure enabling a simplified navigation and interaction with the physical world and the data it generates. To support the depicted visions, a fully functioning prototype has been implemented and evaluated in an experimental scenario.
+
+- [Download the preprint](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/preprints/Hierarchical_Digital_Twin_Ecosystem_for_Industrial_Manufacturing_Scenarios.pdf)
+
+
+
 ## Generating PLC Code with Universal Large Language Models (ETFA 2024)
 
 Control software for production systems is typically developed by domain experts, despite its high complexity. The increasingly available Large Language Models (LLMs) can assist developers with code generation and debugging. However, their is still unexplored. Therefore, this study explores the generation of Structured Text (ST) according to IEC-61131-3 by different LLMs. We selected 21 coding examples that are representative suitability for generating control software for production systems of PLC programming and developed an approach for comparing the outputs of different LLMs using metrics for testing generated code (CodeBERTScore, pass@k, generation time). The strategies for prompt optimization that were developed as part of this work can be directly used for improved ST generation. Our results show that, at the time of the study, ChatGPT-4 had the highest reliability in generating syntactically correct ST code that expresses the desired functionality.
