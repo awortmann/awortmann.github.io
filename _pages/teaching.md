@@ -10,6 +10,20 @@ Research and teaching mutually benefit from each other. Through research, we fin
 
 ## Lectures 
 
+
+#### Software Engineering for Engineers
+
+In this lecture, students with a programming background can learn about the activities, methods, and tools required before one starts programming, such as requirements engineering and softwware design, and the activities starting in the implementation phase, such as software quality assurance, verification, and validiation.
+
+- [Since Summer 2022](https://www.isw.uni-stuttgart.de/lehre/vorlesungen/) 
+
+#### Modeling Software-Intensive Systems
+
+This lecture focuses on object-oriented modeling techniques, their integrated use, and application. To this end, it includes a subset of UML/P, parts of SysML, formal software arcihtecture modeling, and others.
+
+- [Since Summer 2021](https://www.isw.uni-stuttgart.de/lehre/vorlesungen/) 
+
+
 #### Informatik im Maschinenbau 1
 
 The goal of the lecture is to teach the basics of object-oriented programming with Java, distributed systems, techniques of software engineering, and applications of artificial intelligence to Bachelor level students in mechanical engineering.
