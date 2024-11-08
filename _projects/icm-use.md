@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Universal Setup Environment for OPC UA
+title: OPC UA Universal Setup Environment
 description: 
 img: /assets/img/project-icm-use.jpg
 importance: 1
