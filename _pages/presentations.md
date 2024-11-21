@@ -13,6 +13,12 @@ Research and industry leverage digital twins to monitor and control (cyber-physi
 Find out more about [digital twins](http://www.wortmann.ac/dts).
 
 
+## Software is Eating the World - and Manufacturing is Next on the Menu
+
+- Invited talk at the ICM Day 2025 (English)
+- [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/presentations/24.10.10.ICM-Tag.pdf)
+
+
 ### Artificial Intelligent Industrial Software Engineering
 
 - Keynote at the [Stuttgarter Innovationstage 2024](https://www.stuttgarter-innovationstage.de/) (English)
