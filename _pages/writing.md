@@ -6,13 +6,13 @@ description:
 nav: false
 ---
 
-# Identifying Venues
+## Identifying Venues
 
 - Software engineering conferences in the [CORE Ranking](http://portal.core.edu.au/conf-ranks/?search=Software+Engineering&by=all&source=all&sort=atitle&page=1)
 
-# Writing
+## Writing
 
-## Overall guidelines
+### Overall guidelines
 
 - How to Write a Great Research Paper by Simon Peyton Jones: [Video](https://www.youtube.com/watch?v=WP-FkUaOcOM), [Presentation slides](../downloads/writing/peyton-jones.pdf)
   - [Comments](https://eelcovisser.org/wiki/teaching/how-to-write-a-great-research-paper/) by Prof. Eelco Visser.
@@ -20,7 +20,7 @@ nav: false
 Learn Complex Material More Easily](http://www.covingtoninnovations.com/mc/WriteThinkLearn.pdf) by Michael A. Covington
 
 
-## Style guidelines and tools
+### Style guidelines and tools
 
 - [APA Style](https://apastyle.apa.org/)
 - [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)
@@ -28,25 +28,25 @@ Learn Complex Material More Easily](http://www.covingtoninnovations.com/mc/Write
 - [Merriam Webster Dictionary](https://www.merriam-webster.com/)
 - The [Hemingway Tool](http://www.hemingwayapp.com/) can help writing less complicated sentences
 
-## Figures
+### Figures
 - Illustrations are suitable for b/w printing
 - No undesired oblique lines
 - ISW template used
 - Captions: in complete sentences end with period, in incomplete sentences end without period
 - Captions use [Sentence style](https://www.chicagomanualofstyle.org/book/ed17/part1/ch03/psec021.html) 
 
-## Abbreviations
+### Abbreviations
 - All abbreviations introduced
 - Only abbreviations introduced that have been used at least five times
 - The full form is written in lower case in [most cases](https://www.chicagomanualofstyle.org/book/ed17/part2/ch10/psec006.html): 
 - For instance "transmission-control protocol/internet protocol (TCP/IP)" is correct
 
-## Phrasing and wording
+### Phrasing and wording
 - Correct use of "enable" and "allow": 
   - Semantically: [allow](https://www.merriam-webster.com/dictionary/allow) vs [enable](https://www.merriam-webster.com/dictionary/enable)
   - [Grammatically](https://www.grammaring.com/to-infinitive-or-gerund-advise-recommend-allow-permit-forbid-require)
 
-## Spelling
+### Spelling
 - Consistently used american english?
 - [Capitalization correct](https://blog.apastyle.org/apastyle/2012/02/do-i-capitalize-this-word.html) and consistent
   - Capitalize [proper nouns](https://en.wikipedia.org/wiki/Proper_noun) only
@@ -55,22 +55,22 @@ Learn Complex Material More Easily](http://www.covingtoninnovations.com/mc/Write
 - [Correct hyphens](https://dictionary.cambridge.org/grammar/british-grammar/hyphens) used
 - Captions use [Heading Style](https://www.chicagomanualofstyle.org/book/ed17/part1/ch02/psec058.html)
 
-## Numbering
+### Numbering
 - Numbers between 0 and 10 represented as [proper number words](https://www.chicagomanualofstyle.org/book/ed17/part2/ch09/psec003.html)
 - Words used with index numbers (e.g., "Section 1", "Figure 2", "Table 3") are captitalized
 
-## Latex
+### Latex
 - Use \autoref{} instead of \ref{} consistently
 
-# Reviewing
+## Reviewing
 
 - [How to review papers quickly](https://sauvik-das.medium.com/a-quick-guide-to-reviewing-papers-quick-fe9a493ed228)
 
-# Academic Presenting
+## Academic Presenting
 
 - [List of logical symbols in Unicode](https://en.wikipedia.org/wiki/List_of_logic_symbols)
 
-## ICSE 2919 Presentation 101 Guidelines in a Nutshell
+### ICSE 2919 Presentation 101 Guidelines in a Nutshell
 
 - No bullet pointing
 - Few nesting levels only
@@ -95,11 +95,11 @@ Learn Complex Material More Easily](http://www.covingtoninnovations.com/mc/Write
 - You can make your slides detailed, or you can make them effective. Not all details are important, because not all of them will fit anyway, so be as effective as possible
 - Giving presentations at academic conferences is mostly about selling yourself. This is the main thing that matters. Stand out. Make yourself be remembered. This is what you want to reach
 
-# Researcher
+## Researcher
 
 - Guide2Research [Ranking for Computer Science in Germany](http://www.guide2research.com/scientists/DE)
 
-## Selected German Software Engineering Researchers
+### Selected German Software Engineering Researchers
 
 - [Sven Apel - Universität des Saarlandes](https://scholar.google.de/citations?user=_4ssMloAAAAJ&hl=de&oi=ao)
 - [Uwe Aßmann - Dresden](https://scholar.google.de/citations?hl=de&user=KiiBpMgAAAAJ)
