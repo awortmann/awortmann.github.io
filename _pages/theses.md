@@ -6,18 +6,18 @@ description:
 nav: false
 ---
 
-# Official rules
+## Official rules
 
 - Can be found in the examination regulations of your study program
 - According to the examination regulations (PO)
 - Only professors of the faculty (or staff members who have special authorization) are allowed to hand out a thesis topic, i.e. to be the examiner
 
-# Topic search
+## Topic search
 
-## When to start?
+### When to start?
 - 3-6 months before the planned starting date
 
-## How to search?
+### How to search?
 
 - Look for topics at the institute web pages
 - Contact institutes or departments via e-mail
@@ -26,9 +26,9 @@ nav: false
   - asking only your favorite department may delay your studies in case it does not work out
 - Often on-demand topics possible
 
-# Contact
+## Contact
 
-## How should I formulate my e-mail request to (hopefully) be successful?
+### How should I formulate my e-mail request to (hopefully) be successful?
 
 - Personal details
 - Name
@@ -45,17 +45,17 @@ nav: false
 week and very often he/she may not know you personally. Thus you have to tell him/her
 everything that may be helpful for the decision process
 
-## What if the contact person does not respond?
+### What if the contact person does not respond?
 
 - Please wait for approximately 1 week (7 days)
 - Then you can send a friendly reminder
 
-## What if you receive a rejection?
+### What if you receive a rejection?
 
 - You can ask whether it is worth waiting for a certain period and them ask again
 - Ask another institute
 
-# Theses in industry
+## Theses in industry
 
 - The examiner who issues the topic has to be a professor (companies cannot give out topics)
 - Contacting potential examiners early is mandatory to discuss/adjust the topic, to involve the external supervisor, to clarify legal issues
