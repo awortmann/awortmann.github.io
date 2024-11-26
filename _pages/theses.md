@@ -2,18 +2,18 @@
 
 - Can be found in the examination regulations of your study program
 - According to the examination regulations (PO)
-- Only professors of the faculty (or staff members who have a special authorization) are allowed to hand out a thesis topic, i.e. to be the examiner
+- Only professors of the faculty (or staff members who have special authorization) are allowed to hand out a thesis topic, i.e. to be the examiner
 
 # Topic search
 
 ## When to start?
-- 3-6 months prior to the planned starting date
+- 3-6 months before the planned starting date
 
 ## How to search?
 
 - Look for topics at the institute web pages
 - Contact institutes or departments via e-mail
-- Please do not sent mails to all members of an institute or department!
+- Please do not send emails to all members of an institute or department!
 - Ask several (not all!) departments in parallel for a topic
   - asking only your favorite department may delay your studies in case it does not work out
 - Often on-demand topics possible
@@ -29,13 +29,13 @@
 - Current number of credit points
 - Attach your CV and transcript of records
 - Interests and qualifications
-  - Which topics / courses do I / did I like?
+  - Which topics/courses do I / did I like?
   - What are you good at?
   - Which courses did you pass that may qualify you for a thesis at the respective institute?
 - Planned starting date of your thesis
 - Please note: The person who reads that e-mail possibly receives several requests per
 week and very often he/she may not know you personally. Thus you have to tell him/her
-everything that maybe helpful for the decision process
+everything that may be helpful for the decision process
 
 ## What if the contact person does not respond?
 
@@ -44,7 +44,7 @@ everything that maybe helpful for the decision process
 
 ## What if you receive a rejection?
 
-- You can ask whether it is worth waiting for a certain period of time and the ask again
+- You can ask whether it is worth waiting for a certain period and them ask again
 - Ask another institute
 
 # Theses in industry
