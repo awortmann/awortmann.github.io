@@ -1,3 +1,11 @@
+---
+layout: page
+permalink: /theses/
+title: Theses
+description:
+nav: false
+---
+
 # Official rules
 
 - Can be found in the examination regulations of your study program
