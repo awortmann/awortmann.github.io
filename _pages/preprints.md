@@ -12,6 +12,7 @@ Digital twins promise a better understanding and use of complex systems. To this
 - [Download the preprint](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/preprints/Digital_Twins_for_Software_Engineering_Processes.pdf)
 
 
+
 ## Hierarchical Digital Twin Ecosystem for Industrial Manufacturing Scenarios (ETFA 2024)
 
 Modern industrial systems, characterised by distributed and fragmented equipment, present challenges due to their inherent heterogeneity and complexity. This should not impact the stakeholders’ business logic, who are more concerned with the information itself rather than how it is collected or processed. Recently, Digital Twins — software copies of physical assets and systems — emerged as a pivotal strategy to bridge the cyber-physical world into an effective digital layer decoupling applications from the management and interaction with physical assets. Fostering this vision, we propose a structured industrial Digital Twins ecosystem exploiting twin relationships and hierarchies to build a digitalised replica of the whole manufacturing system structure enabling a simplified navigation and interaction with the physical world and the data it generates. To support the depicted visions, a fully functioning prototype has been implemented and evaluated in an experimental scenario.
@@ -26,11 +27,14 @@ Control software for production systems is typically developed by domain experts
 
 - [Download the preprint](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/preprints/Generating_PLC_Code_with_Universal_Large_Language_Models.pdf)
 
+
+
 ## Modeling Languages for Automotive Digital Twins (MODELS 2024)
 
 The demand for digital twins and suitable modeling techniques in the automotive industry is increasing rapidly. Yet, there is no com- mon understanding of digital twins in automotive, nor are there modeling techniques established to create automotive digital twins. Recent studies on digital twins focus on the analysis of the literature on digital twins for automotive or in general and, thus, neglect the industrial perspective of automotive practitioners. To mitigate this gap between scientific literature and the industrial perspective, we conducted a questionnaire survey among experts in the German automotive industry to identify i) the desired purposes for and ca- pabilities of digital twins and ii) the modeling techniques related to engineering and operating digital twins across the phases of auto- motive development. To this end, we contacted 189 members of the Software-Defined Car research project and received 96 responses. The results show that digital twins are considered most useful in the usage and support phase of automotive development, representing vehicles as-operated. Moreover, simulation models, source code, and business process models are currently considered the most important models to be integrated into a digital twin alongside the associated, established tools.
 
 - [Download the preprint](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/preprints/Modeling_Languages_for_Automotive_Digital_Twins.pdf)
+
 
 
 ## Energy Efficiency of ROS Nodes in Different Languages: Publisher–Subscriber Case Studies (RoSE 2024)
@@ -41,11 +45,13 @@ The Robot Operating System (ROS) is a de facto standard for pro- gramming roboti
 - [Download the preprint](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/preprints/Energy_Efficiency_of_ROS_Nodes_in_Different_Languages_-_Publisher-Subscriber_Case_Studies.pdf)
 
 
+
 ## A Method for Template-based Architecture Modeling and its Application to Digital Twins (ECMFA 2024)
 
 Digital Twins (DTs) have recently emerged to support domain experts in engineering and operating Cyber-Physical Systems (CPSs). As a result, software vendors started to create DT services offering advanced functionality to support the development and operation of DTs in the industry. However, the integration of services into a DT architecture is challenging. Services typically rely on specific software and modeling languages that are often not interoperable with other services. Hence, they have to be manually integrated which requires a significant, repetitive effort. Thus, currently, it is tedious to extend the DT’s underlying architectures with new services or exchange individual service implementations. In this paper, we propose a tool-supported method for architecture modeling and its application for digital twins. The presented method provides several steps to manage the complexity of current DT architectures. First, DT reference architectures are assembled by connecting DT templates, which provide an abstraction for a set of similar DT services. Second, dedicated DT modules are used to wrap existing services which provide concrete realizations of the DT templates. Third, a product-line-based generator supports the configuration of reference architectures into concrete architectures by selecting an appropriate set of modules for the used templates which are finally used in the derived integration solution. The transition from reference architecture modeling to the product-line-based configuration is supported by a dedicated model transformation. Our evaluation shows that the proposed DT templates enable the efficient modeling of different DT reference architectures and integration of new DT services into already existing architectures.
 
 - [Download the preprint](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/preprints/A_Method_for_Template-based_Architecture_Modeling_and_its_Application_to_Digital_Twins.pdf)
+
 
 
 ## Modeling Variability of Hierarchical Component-Based Systems (ECMFA 2024)
