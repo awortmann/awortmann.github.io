@@ -6,6 +6,12 @@ description:
 nav: false
 ---
 
+## Digital Twins for Software Engineering Processes (ICSE 2025 NIER)
+
+Digital twins promise a better understanding and use of complex systems. To this end, they represent these systems at their runtime and may interact with them to control their processes. Software engineering is a wicked challenge in which stakeholders from many domains collaborate to produce software artifacts together. In the presence of skilled software engineer shortage, our vision is to leverage DTs as means for better representing, understanding, and optimizing software engineering processes to (i) enable software experts making the best use of their time and (ii) support domain experts in producing high-quality software. This paper outlines why this would be beneficial, what such a digital twin could look like, and what is missing for realizing and deploying software engineering digital twins.
+- [Download the preprint](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/preprints/Digital_Twins_for_Software_Engineering_Processes.pdf)
+
+
 ## Hierarchical Digital Twin Ecosystem for Industrial Manufacturing Scenarios (ETFA 2024)
 
 Modern industrial systems, characterised by distributed and fragmented equipment, present challenges due to their inherent heterogeneity and complexity. This should not impact the stakeholders’ business logic, who are more concerned with the information itself rather than how it is collected or processed. Recently, Digital Twins — software copies of physical assets and systems — emerged as a pivotal strategy to bridge the cyber-physical world into an effective digital layer decoupling applications from the management and interaction with physical assets. Fostering this vision, we propose a structured industrial Digital Twins ecosystem exploiting twin relationships and hierarchies to build a digitalised replica of the whole manufacturing system structure enabling a simplified navigation and interaction with the physical world and the data it generates. To support the depicted visions, a fully functioning prototype has been implemented and evaluated in an experimental scenario.
