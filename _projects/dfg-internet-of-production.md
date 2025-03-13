@@ -27,5 +27,5 @@ Funded by [DFG](https://gepris.dfg.de/gepris/projekt/390621612?context=projekt&t
 
 ### Related Topics
 
-→ [Digital Twins](https://awortmann.github.io/research/digital_twins/)
-→ [Industry 4.0](https://awortmann.github.io/research/industry_40/)
+→ [Digital Twins](https://wortmann.ac/dts/)
+→ [Industry 4.0](https://wortmann.ac/i40/)

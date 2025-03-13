@@ -24,4 +24,4 @@ Funded by RWTH Aachen University.
 
 ### Related Topics
 
-→ [Industry 4.0](https://awortmann.github.io/research/industry_40/)
+→ [Industry 4.0](https://wortmann.ac/i40/)

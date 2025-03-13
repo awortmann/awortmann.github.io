@@ -41,5 +41,5 @@ Funded by [DFG](https://gepris.dfg.de/gepris/projekt/441207927?context=projekt&t
 
 ### Related Topics
 
-→ [Digital Twins](https://awortmann.github.io/research/digital_twins/)
+→ [Digital Twins](https://wortmann.ac/dts/)
 → [Robotics](https://awortmann.github.io/research/robotics/)

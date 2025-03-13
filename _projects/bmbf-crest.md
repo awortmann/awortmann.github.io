@@ -30,6 +30,6 @@ Funded by [BMBF](https://www.softwaresysteme.dlr-pt.de/de/forschungsvorhaben-ser
 
 ### Related Topics
 
-→ [Digital Twins](https://awortmann.github.io/research/digital_twins/)
-→ [Industry 4.0](https://awortmann.github.io/research/industry_40/)
+→ [Digital Twins](https://wortmann.ac/dts/)
+→ [Industry 4.0](https://wortmann.ac/i40/)
 → [Robotics](https://awortmann.github.io/research/robotics/)
