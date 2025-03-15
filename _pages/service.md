@@ -59,5 +59,5 @@ as well as selected conferences and workshops, including:
 
 - Board member of [European Association for Programming Languages and Systems](https://eapls.org/)
 - Board member of the [Artificial Intelligence Software Academy](https://www.aisa.uni-stuttgart.de) graduate school of the University of Stuttgart
-- Until 2022: Co-chair of the [GfSE working group on Model-Based Systems Engineering](https://www.gfse.de/mbse-home)
+- Until 2022: Co-chair of the [GfSE working group on Model-Based Systems Engineering](https://www.mbse.gfse.de/)
 

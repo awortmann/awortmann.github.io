@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Digital Twin Definitions
-permalink: /research/digital-twin-definitions/
+permalink: /research/digital-twin-definitions
 description: A collection of definitions of digital twins 
 nav: false
 ---
@@ -11,8 +11,6 @@ As a side result of the [largest literature survey on digital twins](../digital-
 - M. Dalibor, N. Jansen, B. Rumpe, D. Schmalzing, L. Wachtmeister, M. Wimmer, A. Wortmann: [A Cross-Domain Systematic Mapping Study on Software Engineering for Digital Twins](https://awortmann.github.io/downloads/paper/A_cross_domain_systematic_mapping_study_on_software_engineering_for_Digital_Twins.pdf). In: Journal of Systems and Software, 111361, 
 
 we have produced a collection of 112 definitions of the term "digital twin" from the publications of our corpus. This collection is reproduced below.
-
-If you want to add a definition or modify an entry, please create a [pull request](https://github.com/awortmann/awortmann.github.io/blob/master/_pages/topics/digital_twin_definitions_.md). 
 
 ## Definitions
 
@@ -52,7 +50,7 @@ If you want to add a definition or modify an entry, please create a [pull reques
 
 - "The idea behind this [Digital Twin] concept is to have a digital entity that behaves exactly (or as close as possible) as the real entity.". D. Mejia, A. Moreno, O. Ruiz-SalgueroI, Ã. Barandiaran. [Appraisal of open software for finite element simulation of 2D metal sheet laser cut](https://link.springer.com/article/10.1007/s12008-016-0308-5). In: International Journal on Interactive Design and Manufacturing (IJIDeM), 2017
 
-- "the digital twin is made up of measured data, managed information and models for the physical evolution of equipment. It simulates the real evolution of equipment, anticipating possible failures.". M.F. Milazzo, G. Ancione, G. Scionti, P.A. Bragatto. [Assessment and management of ageing of critical equipment at seveso sites](http://www.doi.org/XXQUERYXXeid=2-s2.0-85054097182). In: Safety and Reliability - Safe Societies in a Changing World - Proceedings of the 28th International European Safety and Reliability Conference, ESREL 2018, 2018
+- "the digital twin is made up of measured data, managed information and models for the physical evolution of equipment. It simulates the real evolution of equipment, anticipating possible failures.". M.F. Milazzo, G. Ancione, G. Scionti, P.A. Bragatto. [Assessment and management of ageing of critical equipment at seveso sites](https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781351174664-205/assessment-management-ageing-critical-equipment-seveso-sites-milazzo-ancione-scionti-bragatto). In: Safety and Reliability - Safe Societies in a Changing World - Proceedings of the 28th International European Safety and Reliability Conference, ESREL 2018, 2018
 
 - "In assembly, the physical object has a digital twin, a CAD model that accurately resembles real features". A. Blaga, L. Tamas. [Augmented Reality for Digital Manufacturing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8443028). In: 2018 26th Mediterranean Conference on Control and Automation (MED), 2018
 
