@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Digital Twin Definitions
-permalink: /research/digital-twin-definitions
+permalink: /research/digital-twin-definitions/
 description: A collection of definitions of digital twins 
 nav: false
 ---
 
-As a side result of the [largest literature survey on digital twins](../digital-twins) to date, 
+As a side result of the [largest literature survey on digital twins](./digital-twins) to date, 
 
 - M. Dalibor, N. Jansen, B. Rumpe, D. Schmalzing, L. Wachtmeister, M. Wimmer, A. Wortmann: [A Cross-Domain Systematic Mapping Study on Software Engineering for Digital Twins](https://awortmann.github.io/downloads/paper/A_cross_domain_systematic_mapping_study_on_software_engineering_for_Digital_Twins.pdf). In: Journal of Systems and Software, 111361, 
 

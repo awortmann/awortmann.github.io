@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /research/digital-twins
+permalink: /research/digital-twins/
 title: Digital Twins
 description:  
 nav: false
 ---
 
 Research and industry leverage digital twins to monitor and control (cyber-physical) systems in various domains, including automotive, avionics, biology, construction, manufacturing, medicine, and many more. They promise a tremendous potential to reduce cost and time and improve our understanding of the represented systems.
-The various digital twins serve different purposes, including analysis, control, and behavior prediction, and they are used at different times relative to the represented system, e.g., before it exists to explore its design space or during its runtime to optimize its behavior. Despite a [plethora of definitions](https://awortmann.github.io/research/digital-twin-definitions/), there is little consensus about what a digital twin is.
+The various digital twins serve different purposes, including analysis, control, and behavior prediction, and they are used at different times relative to the represented system, e.g., before it exists to explore its design space or during its runtime to optimize its behavior. Despite a [plethora of definitions](./digital-twin-definitions/), there is little consensus about what a digital twin is.
 
 This also is reflected in many of the available definitions being 
 - ambiguous, by deferring to another undefined term, such as a "virtual representation", a "computable virtual abstraction" , or a "a virtual projection of the industrial facility into the cloud"

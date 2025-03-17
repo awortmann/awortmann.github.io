@@ -17,4 +17,4 @@ Identifying or engineering appropriate languages for the various activities in s
 
 ### Related Topics
 
-Find other research topics from my [research](../research/) website.
+Find other research topics from my [research](./research/) website.
