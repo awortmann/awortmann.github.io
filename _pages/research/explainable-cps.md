@@ -10,8 +10,9 @@ With the increasing complexity of cyber-physical systems, their behavior and dec
 
 #### Selected Publications
 
-- Michael, J., Schwammberger, M., & Wortmann, A. (2023). [Explaining Cyber-Physical System Behavior with Digital Twins](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/paper/Explaining_Cyber-Physical_System_Behavior_with_Digital_Twins.pdf). IEEE Software.
-- Blumreiter, M., Greenyer, J., Garcia, F. J. C., Klös, V., Schwammberger, M., Sommer, C., ... & Wortmann, A. (2019, September). [Towards self-explainable cyber-physical systems](https://www.se-rwth.de/publications/Towards-Self-Explainable-Cyber-Physical-Systems.pdf). In 2019 ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C) (pp. 543-548). IEEE.
+- Michael, J., Schwammberger, M., & Wortmann, A. (2023). [Explaining Cyber-Physical System Behavior with Digital Twins](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/paper/Explaining_Cyber-Physical_System_Behavior_with_Digital_Twins.pdf). *IEEE Software*.
+
+- Blumreiter, M., Greenyer, J., Garcia, F. J. C., Klös, V., Schwammberger, M., Sommer, C., & Wortmann, A. (2019). [Towards self-explainable cyber-physical systems](https://www.se-rwth.de/publications/Towards-Self-Explainable-Cyber-Physical-Systems.pdf). In *Proceedings of the 2019 ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)*, (pp. 543-548). IEEE.
 
 ### Related Topics
 

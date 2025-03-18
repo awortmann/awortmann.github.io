@@ -10,12 +10,15 @@ Industry 4.0, the fourth industrial revolution, raises new challenges for future
 
 ### Selected Publications
 
-- [BDJ+22] P. Brauner, M. Dalibor, M. Jarke, I. Kunze, I. Koren, G. Lakemeyer, M. Liebenberg, J. Michael, J. Pennekamp, C. Quix, B. Rumpe, W. van der Aalst, K. Wehrle, A. Wortmann, and M. Ziefle. [A Computer Science Perspective on Digital Transformation in Production](../../downloads/paper/A_Computer_Science_Perspective_on_Digital_Transformation_in_Production.pdf), ACM Transactions on Internet of Things, 3, pages 1-32, February, 2022.
-- [BBD+21b] F. Becker, P. Bibow, M. Dalibor, A. Gannouni, V. Hahn, C. Hopmann, M. Jarke, I. Koren, M. Kröger, J. Lipp, J. Maibaum, J. Michael, B. Rumpe, P. Sapel, N. Schäfer, G. J. Schmitz, G. Schuh, and A. Wortmann. [A Conceptual Model for Digital Shadows in Industry and its Application](../../downloads/paper/A_Conceptual_Model_For_Digital_Shadows.pdf), In: Aditya Ghose, Jennifer Horkoff, Vitor E. Silva Souza, Jeffrey Parsons, Joerg Evermann, editors, Conceptual Modeling, ER 2021, pages 271-281, October, 2021, Springer.
-- [BBD+21a] T. Bolender, G. Bürvenich, M. Dalibor, B. Rumpe, and A. Wortmann. [Self-Adaptive Manufacturing with Digital Twins](../../downloads/paper/Self_Adaptive_Manufacturing_with_Digital_Twins.pdf), In: 2021 International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), pages 156-166, May, 2021, IEEE Computer Society.
-- [BDH+20] P. Bibow, M. Dalibor, C. Hopmann, B. Mainz, B. Rumpe, D. Schmalzing, M. Schmitz, A. Wortmann. [Model-Driven Development of a Digital Twin for Injection Molding](../../downloads/paper/Model_Driven_Development_of_a_Digital_Twin_for_Injection_Molding.pdf). In. S. Dustdar, E. Yu, C. Salinesi, D. Rieu, V. Pant, editors, International Conference on Advanced Information Systems Engineering (CAiSE'20), pp. 85-100, Grenoble, Springer International Publishing, June 2020. 
-- [WBCW20] A. Wortmann, O. Barais, B. Combemale, M. Wimmer. [Modeling Languages in Industry 4.0: an Extended Systematic Mapping Study](../../downloads/paper/Modeling_Languages_in_Industry_4.0__an_Extended_Systematic_Mapping_Study.pdf). In. J. Gray and V. Kulkarni, editors, Software and Systems Modeling, 19(1), pp. 67-94, Springer, Jan. 2020. 
+- Evcenko, D., Heinemann, T., Kett, H., Lechler, A., Riedel, O., & Wortmann, A. (2024). [Identifying machine times with OPC UA for Equipment as a Service (EaaS)–possibilities and limitations](../../downloads/paper/Identifying_machine_times_with_OPC_UA_for_Equipment_as_a_Service_EaaS_-_possibilities_and_limitations.pdf). Procedia CIRP, 130, 578-583.
 
+- Tran, K., Zhang, J., Pfeiffer, J., Wortmann, A., & Wiesmayr, B. (2024). [Generating PLC Code with Universal Large Language Models](../../downloads/paper/Generating_PLC_Code_with_Universal_Large_Language_Models.pdf). In 2024 IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA) (pp. 1-8). IEEE.
+
+- Bolender, T., Bürvenich, G., Dalibor, M., Rumpe, B., & Wortmann, A. (2021). [Self-Adaptive Manufacturing with Digital Twins](../../downloads/paper/Self_Adaptive_Manufacturing_with_Digital_Twins.pdf). In *Proceedings of the 2021 International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)*, (pp. 156-166). IEEE Computer Society.
+
+- Bibow, P., Dalibor, M., Hopmann, C., Mainz, B., Rumpe, B., Schmalzing, D., Schmitz, M., & Wortmann, A. (2020). [Model-Driven Development of a Digital Twin for Injection Molding](../../downloads/paper/Model_Driven_Development_of_a_Digital_Twin_for_Injection_Molding.pdf). In S. Dustdar, E. Yu, C. Salinesi, D. Rieu, & V. Pant (Eds.), *International Conference on Advanced Information Systems Engineering (CAiSE'20)*, (pp. 85-100). Springer International Publishing.
+
+- Wortmann, A., Barais, O., Combemale, B., & Wimmer, M. (2020). [Modeling Languages in Industry 4.0: an Extended Systematic Mapping Study](../../downloads/paper/Modeling_Languages_in_Industry_4.0__an_Extended_Systematic_Mapping_Study.pdf). *Software and Systems Modeling, 19*(1), (pp. 67-94). Springer.
 
 ### Related Topics
 
