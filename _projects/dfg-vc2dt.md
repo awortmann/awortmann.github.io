@@ -2,7 +2,7 @@
 layout: page
 title: From Virtual Commissioning to Digital Twins
 description: 
-img: /assets/img/project-vc2dt.jpg
+img: /assets/img/project-dfg-vc2dt.jpg
 importance: 1
 ---
 

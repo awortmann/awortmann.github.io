@@ -2,7 +2,7 @@
 layout: page
 title: Leuchtturm
 description: 
-img: /assets/img/project-leuchtturm.jpg
+img: /assets/img/project-mwk-leuchtturm.jpg
 importance: 1
 ---
 
