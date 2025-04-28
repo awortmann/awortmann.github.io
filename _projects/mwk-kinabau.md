@@ -16,4 +16,9 @@ The complete list of publications is available from my [publications](https://aw
 
 ### Funding
 
-Funded by [MWK](https://mwk.baden-wuerttemberg.de/de/startseite/).
+Funded by the [Ministerium für Wissenschaft, Forschung und Kunst (MKW)](https://mwk.baden-wuerttemberg.de/) of Baden-Württemberg.
+
+### Related Topics
+
+→ [Industry 4.0](https://wortmann.ac/i40/)
+→ [Robotics](https://awortmann.github.io/research/robotics/)

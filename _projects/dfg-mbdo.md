@@ -12,7 +12,7 @@ The complete list of publications is available from my [publications](https://aw
 
 ### Funding
 
-Funded by [DFG](https://gepris.dfg.de/gepris/projekt/505496753).
+Funded by the Deutsche Forschungsgemeinschaft (DFG).
 
 ### Related Topics
 

@@ -12,7 +12,7 @@ The complete list of publications is available from my [publications](https://aw
 
 ### Funding
 
-Funded by [MWK](https://mwk.baden-wuerttemberg.de/de/startseite/).
+Funded by the [Ministerium für Wissenschaft, Forschung und Kunst (MKW)](https://mwk.baden-wuerttemberg.de/) of Baden-Württemberg.
 
 ### Related Topics
 
