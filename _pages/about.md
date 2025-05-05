@@ -19,7 +19,7 @@ social: true
 
 ## **Andreas** Wortmann
 
-Full professor for model-driven development in production<br/>
+Full professor for Model-Driven Engineering in Production<br/>
 [Institute for Machine Tools and Manufacturing Units](https://www.isw.uni-stuttgart.de/en/) (ISW)<br/>
 University of Stuttgart<br/>
 
