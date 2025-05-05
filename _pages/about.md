@@ -31,7 +31,7 @@ Moreover, I serve on the board of the [European Association for Programming Lang
 <br/>
 <br/>
 
-### Selected Publications
+#### Selected Publications
 
 <a href="https://awortmann.github.io/downloads/paper/Digital_twin_and_the_asset_administration_shell.pdf">Digital twin and the asset administration shell: An Analysis of the Three Types of AASs and their Feasibility for Digital Twin Engineering</a> <span class="author"> Jingxi Zhang, Carsten Ellwein, Malte Heithoff, Judith Michael, and <em>Andreas Wortmann</em>  </span><span class="periodical"> <!-- ARTICLE --> <em>In Software and Systems Modeling, pp. 1–23, Springer, </em> <!-- INPROCEEDING --> &nbsp;2025. <<a href="https://github.com/awortmann/awortmann.github.io/raw/master/downloads/paper/Conceptualizing_digital_twins.pdf">Conceptualizing digital twins</a></span>
 
