@@ -24,7 +24,7 @@ Full professor for model-driven development in production<br/>
 [Institute for Machine Tools and Manufacturing Units](https://www.isw.uni-stuttgart.de/en/) (ISW)<br/>
 University of Stuttgart<br/>
 
-My [research interests](https://awortmann.github.io/research/) are modeling languages, software engineering methods, and automation tools to facilitate the systematic engineering of the cyber-physical systems of the future and to transfer this into practice in a variety of research projects. 
+My [research interests](https://awortmann.github.io/research/) are modeling languages, software engineering methods, and automation tools to facilitate the systematic engineering of the cyber-physical systems of the future and to transfer this into practice in a variety of [research projects](https://awortmann.github.io/projects/). 
 Among these are [Factory-X](https://factory-x.org/de/), [Model-Based DevOps](https://mbdo.github.io/), the [Internet of Production](https://www.iop.rwth-aachen.de/cms/~gpfz/Produktionstechnik/?lidx=1), the [Center for Systems Engineering](https://cse.rwth-campus.com/), and the [Systematic Engineering of Consistent Digital Twins](https://www.rwth-aachen.de/go/id/vuc/lidx/1).
 
 Moreover, I serve on the board of the [European Association for Programming Languages and Systems (EAPLS)](https://eapls.org/), on the editorial boards of the [International Journal on Software and Systems Modeling (SoSyM)](https://sosym.org/) and the [Journal of Object Technology](http://www.jot.fm/), and engage in a variety of [academic and community service](https://awortmann.github.io/service/).
