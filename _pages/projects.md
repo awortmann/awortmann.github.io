@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Projects
+title: Selected Projects
 permalink: /projects/
 description: 
 nav: true
 ---
-
-Research projects are vital to advancing our knowledge about the foundations and application of software engineering methods. During the last years, I have conducted and lead various projects. The selected projects are highlighted below.
 
 <div class="projects grid">
 
