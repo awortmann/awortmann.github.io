@@ -6,19 +6,25 @@ description:
 nav: false
 ---
 
+## Analysis and Review of Use Case Representations in OPC UA Companion Specifications
+
+For industrial data management, OPC UA data models are increasing in popularity. Domain models (e.g., Robotics, Mining) are developed by
+groups of industry representatives and published as so-called Companion Specifications. These Companion Specifications mention use cases that
+are to be addressed, however with different approaches. In this work, these use case descriptions are analyzed regarding their benefit to users of
+the specification. The textual representations and the graphics used are compared and the use cases are categorized by expressiveness. A
+categorization of use case contents is performed. The findings are discussed and suggestions for use case representations are derived from the
+results. These suggestions serve as a tool to editors of the companion specifications and aim to improve understandability.
+- [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Analysis_and_Review_of_Use_Case_Representations_in_OPC_UA_Companion_Specifications.pdf)
+
 ## Energy Efficiency in ROS Communication: A Comparison Across Programming Languages and Workloads (Frontiers in Robotics and AI)
 
 The Robot Operating System (ROS) is a widely used framework for robotic software development, providing robust client libraries for both C++ and Python. These languages, with their differing levels of abstraction, exhibit distinct resource usage patterns, including power and energy consumption -an increasingly critical quality metric in robotics.Methods: In this study, we evaluate the energy efficiency of ROS 2 nodes implemented in C++ and Python, focusing on the primary ROS communication paradigms: topics, services, and actions.Through a series of empirical experiments, with programming language, message interval, and number of clients as independent variables, we analyze the impact on energy efficiency across implementations of the three paradigms.Results: Our data analysis demonstrates that Python consistently demands more computational resources, leading to higher power consumption compared to C++. Furthermore, we find that message frequency is a highly influential factor, while the number of clients has a more variable and less significant effect on resource usage, despite revealing unexpected architectural behaviors of underlying programming and communication layers.
 - [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Energy_Efficiency_in_ROS_Communication_-_A_Comparison_Across_Programming_Languages_and_Workloads.pdf)
 
-
-
 ## Digital Twins for Software Engineering Processes (ICSE 2025 NIER)
 
 Digital twins promise a better understanding and use of complex systems. To this end, they represent these systems at their runtime and may interact with them to control their processes. Software engineering is a wicked challenge in which stakeholders from many domains collaborate to produce software artifacts together. In the presence of skilled software engineer shortage, our vision is to leverage DTs as means for better representing, understanding, and optimizing software engineering processes to (i) enable software experts making the best use of their time and (ii) support domain experts in producing high-quality software. This paper outlines why this would be beneficial, what such a digital twin could look like, and what is missing for realizing and deploying software engineering digital twins.
 - [Download the preprint](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/preprints/Digital_Twins_for_Software_Engineering_Processes.pdf)
-
-
 
 ## Identifying machine times with OPC UA for Equipment as a Service (CIRP CMS 2024)
 
