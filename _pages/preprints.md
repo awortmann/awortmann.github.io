@@ -6,6 +6,11 @@ description:
 nav: false
 ---
 
+## Two Decades of Automated AI Planning Methods in Construction and Fabrication: A Systematic Review
+
+Task planning and scheduling are crucial for construction or fabrication (CF) processes. Automating them is necessary for more efficient plans in terms of time and resources. However, most construction planning processes are still performed manually despite the existence of various AI methods. Symbolic AI automated task planning (ATP) techniques offer a variety of features to tackle task planning problems, but their application to CF has not been researched yet. This study identifies the current state of research and gaps in the literature regarding these AI techniques while providing directions for future research. We conduct a systematic review that evaluates existing literature on ATP in terms of environmental characteristics, modeling languages, ATP techniques, and results. We searched the ACM, IEEE, Scopus, WOS, and SpringerLink databases for papers published in the last 20 years (2002-2022) that discuss symbolic AI methods used in task planning within the CF fields. Our findings indicate that research on automated planning is currently limited regarding the characteristics of CF environments. Only a few papers have utilized symbolic languages, AI planners, and ATP techniques. No paper has evaluated their planning system in an on-site CF process. As a result, many symbolic languages, planners, and ATP techniques remain unexplored.
+- [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Two_Decades_of_Automated_AI_Planning_Methods_in_Construction_and_Fabrication_-_A_Systematic_Review.pdf)
+
 ## Analysis and Review of Use Case Representations in OPC UA Companion Specifications
 
 For industrial data management, OPC UA data models are increasing in popularity. Domain models (e.g., Robotics, Mining) are developed by
