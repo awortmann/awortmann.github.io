@@ -6,6 +6,14 @@ description:
 nav: false
 ---
 
+## Navigating the Future - Essential Considerations for the Engineering of Software-Defined Vehicles
+
+Software Defined Vehicles (SDVs) represent a transformative shift in the automotive industry, moving from traditional vehicle development to software-driven mobility solutions. The engineering of SDVs is inherently complex and involves numerous technological and organizational challenges. Future challenges include increased software complexity, managing software updates, cultural gaps, and complying with international standards and regulations. Additionally, the rapid pace of  technological change demands an efficient and effective engineering process. To remain competitive and achieve their business goals, automotive organizations must adopt new strategies and undergo significant changes in the following software development concerns: architecture, process, and organization. These changes are necessary to boost productivity and improve the efficiency of the engineering process of SDVs.
+
+- [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Navigating_the_Future_-_Essential_Considerations_for_the_Engineering_of_Software-Defined_Vehicles.pdf)
+
+
+
 ## Two Decades of Automated AI Planning Methods in Construction and Fabrication: A Systematic Review
 
 Task planning and scheduling are crucial for construction or fabrication (CF) processes. Automating them is necessary for more efficient plans in terms of time and resources. However, most construction planning processes are still performed manually despite the existence of various AI methods. Symbolic AI automated task planning (ATP) techniques offer a variety of features to tackle task planning problems, but their application to CF has not been researched yet. This study identifies the current state of research and gaps in the literature regarding these AI techniques while providing directions for future research. We conduct a systematic review that evaluates existing literature on ATP in terms of environmental characteristics, modeling languages, ATP techniques, and results. We searched the ACM, IEEE, Scopus, WOS, and SpringerLink databases for papers published in the last 20 years (2002-2022) that discuss symbolic AI methods used in task planning within the CF fields. Our findings indicate that research on automated planning is currently limited regarding the characteristics of CF environments. Only a few papers have utilized symbolic languages, AI planners, and ATP techniques. No paper has evaluated their planning system in an on-site CF process. As a result, many symbolic languages, planners, and ATP techniques remain unexplored.
