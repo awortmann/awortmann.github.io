@@ -55,5 +55,6 @@ We analyzed 356 publications to uncover their conceptual properties, engineering
 
 - [Conceptual Modeling for Digital Twins (CoMoDiTy)](comodity.github.io)
 - [Digital Twin Architecture (TwinArch) and Digital Twin Engineering (DTE)](https://www.iese.fraunhofer.de/en/events/twinarch-dte.html)
+- [Distributed Digital Twins (DiDiT)](https://distributeddigitaltwins.github.io/2025/)
 - [Digital Twin-enabled Autonomous Systems and Agents (DAT)](https://dat-workshop.github.io/)
 - [Model-Driven Engineering of Digital Twins (MoDDiT)](https://gemoc.org/events/moddit2023.html)
