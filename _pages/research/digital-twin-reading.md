@@ -48,11 +48,12 @@ We analyzed 356 publications to uncover their conceptual properties, engineering
 
 #### Conferences 
 
-- [Engineering Digital Twins](https://conf.researchr.org/home/edtconf-2025)
+- [Engineering Digital Twins (EDTconf)](https://conf.researchr.org/home/edtconf-2025)
 - [DigiTwin](http://www.dtiac.com/)
 
 #### Workshops
 
-- [Conceptual Modeling for Digital Twins](comodity.github.io)
-- [Digital Twin Architecture (TwinArch) and Digital Twin Engineering](https://www.iese.fraunhofer.de/en/events/twinarch-dte.html)
-- [Model-Driven Engineering of Digital Twins](https://gemoc.org/events/moddit2023.html)
+- [Conceptual Modeling for Digital Twins (CoMoDiTy)](comodity.github.io)
+- [Digital Twin Architecture (TwinArch) and Digital Twin Engineering (DTE)](https://www.iese.fraunhofer.de/en/events/twinarch-dte.html)
+- [Digital Twin-enabled Autonomous Systems and Agents (DAT)](https://dat-workshop.github.io/)
+- [Model-Driven Engineering of Digital Twins (MoDDiT)](https://gemoc.org/events/moddit2023.html)
