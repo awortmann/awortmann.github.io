@@ -8,7 +8,7 @@ nav: false
 
 ## Concepts and Terminology
 
-### What makes a digital twin a digital twin?
+#### What makes a digital twin a digital twin?
 
 This is one of the essential questions in the field of digital twins and there are various publications and conceptual models giving different answers (see the 112 definitions of digital twins [collected here](TODO)). Yet, the definition based on data flows [KKT+18] is the only one that distinguishes digital twins from other kinds of systems qualitatively by investigating the data flows between the digital twin and the twinned system. The gap of not explaining what a digital twin consists of is filled by the 5D model of digital twins [TZL+18] according to which a digital twin comprises 
 - (a connection to the) twinned system,
@@ -17,38 +17,27 @@ This is one of the essential questions in the field of digital twins and there a
 - added-value services, and
 - connections between these.
 
-## Surveys on Digital Twins
+#### What is the field doing regarding the engineering of digital twins? 
 
 While there are many surveys on different aspects of digital twins, there are very few surveys analyzing how digital twins are created across all disciplines. 
 We analyzed 356 publications to uncover their conceptual properties, engineering methods, deployment, and evaluation [DJR+22]. Key findings include the predominant use of Digital Twins in manufacturing for behavior optimization and monitoring, the importance of models and real-time data, and the need for further research on standardization, tool support, and quality assurance.
 
-## Methods, Techniques, and Tools for Developing Digital Twin in the SDLC
-
-### Design
-
-### Implementation
-
-#### Data Management
-
-#### Knowledge Base
-
-- AAS
+## Important Methods and Technologies
 
 #### Gateway
 
+- AAS
 - OPC UA
 
-### Verification and Validation
+#### Verification and Validation
 
 - Fidelity, Wimmer
-
-### Deployment
 
 ## Digital Twin Exemplars
 
 - Injection Moulding
 
-### Bibliography
+## Bibliography
 
 - [DJR+22] Dalibor, M., Jansen, N., Rumpe, B., Schmalzing, D., Wachtmeister, L., Wimmer, M., & Wortmann, A. (2022). [A cross-domain systematic mapping study on software engineering for digital twins](https://www.sciencedirect.com/science/article/pii/S0164121222000917). Journal of Systems and Software, 193, 111361.
 - [KKT+18] Kritzinger, W., Karner, M., Traar, G., Henjes, J., & Sihn, W. (2018). [Digital Twin in manufacturing: A categorical literature review and classification](https://www.sciencedirect.com/science/article/pii/S2405896318316021). Ifac-PapersOnline, 51(11), 1016-1022.
@@ -56,12 +45,12 @@ We analyzed 356 publications to uncover their conceptual properties, engineering
 
 ## Further Reading
 
-### Conferences 
+#### Conferences 
 
 - [Engineering Digital Twins](https://conf.researchr.org/home/edtconf-2025)
 - [DigiTwin](http://www.dtiac.com/)
 
-### Workshops
+#### Workshops
 
 - [Conceptual Modeling for Digital Twins](comodity.github.io)
 - [Digital Twin Architecture (TwinArch) and Digital Twin Engineering](https://www.iese.fraunhofer.de/en/events/twinarch-dte.html)
