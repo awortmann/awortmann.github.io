@@ -6,6 +6,17 @@ description:
 nav: false
 ---
 
+
+## Towards a Unifying Reference Model for Digital Twins of Cyber-Physical Systems
+
+Digital twins are sophisticated software systems for the representation, monitoring, and control of cyber-physical systems, including automotive, avionics, smart manufacturing, and many more. Existing definitions and reference models of digital twins are overly abstract, impeding their comprehensive understanding and implementation guidance. Consequently, a significant gap emerges between abstract concepts and their industrial implementations. We analyze popular reference models for digital twins and combine these into a significantly detailed unifying reference model for digital twins that reduces the concept-implementation gap to facilitate their engineering in industrial practice. This enhances the understanding of the concepts of digital twins and their relationships and guides developers to implement digital twins effectively.
+
+- [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Towards_a_Unifying_Reference_Model_for_Digital_Twins_of_Cyber-Physical_Systems.pdf)
+
+
+
+Towards_a_Unifying_Reference_Model_for_Digital_Twins_of_Cyber-Physical_Systems
+
 ## Navigating the Future - Essential Considerations for the Engineering of Software-Defined Vehicles
 
 Software Defined Vehicles (SDVs) represent a transformative shift in the automotive industry, moving from traditional vehicle development to software-driven mobility solutions. The engineering of SDVs is inherently complex and involves numerous technological and organizational challenges. Future challenges include increased software complexity, managing software updates, cultural gaps, and complying with international standards and regulations. Additionally, the rapid pace of  technological change demands an efficient and effective engineering process. To remain competitive and achieve their business goals, automotive organizations must adopt new strategies and undergo significant changes in the following software development concerns: architecture, process, and organization. These changes are necessary to boost productivity and improve the efficiency of the engineering process of SDVs.
