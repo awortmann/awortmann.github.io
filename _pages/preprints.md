@@ -7,7 +7,7 @@ nav: false
 ---
 
 
-## Towards a Unifying Reference Model for Digital Twins of Cyber-Physical Systems
+## Towards a Unifying Reference Model for Digital Twins of Cyber-Physical Systems (ETFA 2025)
 
 Digital twins are sophisticated software systems for the representation, monitoring, and control of cyber-physical systems, including automotive, avionics, smart manufacturing, and many more. Existing definitions and reference models of digital twins are overly abstract, impeding their comprehensive understanding and implementation guidance. Consequently, a significant gap emerges between abstract concepts and their industrial implementations. We analyze popular reference models for digital twins and combine these into a significantly detailed unifying reference model for digital twins that reduces the concept-implementation gap to facilitate their engineering in industrial practice. This enhances the understanding of the concepts of digital twins and their relationships and guides developers to implement digital twins effectively.
 
@@ -15,9 +15,7 @@ Digital twins are sophisticated software systems for the representation, monitor
 
 
 
-Towards_a_Unifying_Reference_Model_for_Digital_Twins_of_Cyber-Physical_Systems
-
-## Navigating the Future - Essential Considerations for the Engineering of Software-Defined Vehicles
+## Navigating the Future - Essential Considerations for the Engineering of Software-Defined Vehicles (IEEE Computer)
 
 Software Defined Vehicles (SDVs) represent a transformative shift in the automotive industry, moving from traditional vehicle development to software-driven mobility solutions. The engineering of SDVs is inherently complex and involves numerous technological and organizational challenges. Future challenges include increased software complexity, managing software updates, cultural gaps, and complying with international standards and regulations. Additionally, the rapid pace of  technological change demands an efficient and effective engineering process. To remain competitive and achieve their business goals, automotive organizations must adopt new strategies and undergo significant changes in the following software development concerns: architecture, process, and organization. These changes are necessary to boost productivity and improve the efficiency of the engineering process of SDVs.
 
@@ -25,7 +23,7 @@ Software Defined Vehicles (SDVs) represent a transformative shift in the automot
 
 
 
-## Two Decades of Automated AI Planning Methods in Construction and Fabrication: A Systematic Review
+## Two Decades of Automated AI Planning Methods in Construction and Fabrication: A Systematic Review (ACM Computing Surveys)
 
 Task planning and scheduling are crucial for construction or fabrication (CF) processes. Automating them is necessary for more efficient plans in terms of time and resources. However, most construction planning processes are still performed manually despite the existence of various AI methods. Symbolic AI automated task planning (ATP) techniques offer a variety of features to tackle task planning problems, but their application to CF has not been researched yet. This study identifies the current state of research and gaps in the literature regarding these AI techniques while providing directions for future research. We conduct a systematic review that evaluates existing literature on ATP in terms of environmental characteristics, modeling languages, ATP techniques, and results. We searched the ACM, IEEE, Scopus, WOS, and SpringerLink databases for papers published in the last 20 years (2002-2022) that discuss symbolic AI methods used in task planning within the CF fields. Our findings indicate that research on automated planning is currently limited regarding the characteristics of CF environments. Only a few papers have utilized symbolic languages, AI planners, and ATP techniques. No paper has evaluated their planning system in an on-site CF process. As a result, many symbolic languages, planners, and ATP techniques remain unexplored.
 - [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Two_Decades_of_Automated_AI_Planning_Methods_in_Construction_and_Fabrication_-_A_Systematic_Review.pdf)
