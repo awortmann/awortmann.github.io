@@ -6,6 +6,12 @@ description:
 nav: false
 ---
 
+## Digital Twins for Machine Tools: A Systematic Mapping Study
+
+Machine tools are essential for modern manufacturing and drive the production of precise and high-quality components across various industries. For smart manufacturing, DTs–virtual representations of cyber-physical entities–have emerged to enhance machine tools with intelligent capabilities, such as real-time monitoring, predictive maintenance, or performance optimization. Despite their potential, the availability and application of Digital Twins in machine tools remain largely unexplored. This first systematic mapping study specifically on Digital Twins for machine tools investigates the purpose for their deployment to machine tools, the development methods to create such Digital Twins, and support for their connectivity to the machine tool and to other related systems. Our findings highlight the critical role of DTs in improving the efficiency and reliability of machine tools.
+
+
+- [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Digital_Twins_for_Machine_Tools_-_A_Systematic_Mapping_Study.pdf)
 
 ## Towards a Unifying Reference Model for Digital Twins of Cyber-Physical Systems (ETFA 2025)
 
