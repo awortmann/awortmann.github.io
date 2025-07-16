@@ -22,17 +22,6 @@ This is one of the essential questions in the field of digital twins and there a
 While there are many surveys on different aspects of digital twins, there are very few surveys analyzing how digital twins are created across all disciplines. 
 We analyzed 356 publications to uncover their conceptual properties, engineering methods, deployment, and evaluation [DJR+22]. Key findings include the predominant use of Digital Twins in manufacturing for behavior optimization and monitoring, the importance of models and real-time data, and the need for further research on standardization, tool support, and quality assurance.
 
-## Important Methods and Technologies
-
-#### Gateway
-
-- AAS
-- OPC UA
-
-#### Verification and Validation
-
-- Fidelity, Wimmer
-
 ## Digital Twin Exemplars
 
 - **Injection Molding** [BDH+20]: This paper presents a model-driven approach for developing a Digital Twin (DT) tailored to injection molding, utilizing domain-specific languages (DSLs) and a reference architecture to automate tasks like Design of Experiment (DoE) optimization and reactive system behavior. It demonstrates the DT's effectiveness in real-world Cyber-Physical Production Systems (CPPSs) by enabling autonomous parameter adjustments and data-driven process improvements, reducing manual effort and enhancing production efficiency.
