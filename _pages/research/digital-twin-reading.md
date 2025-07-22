@@ -28,7 +28,7 @@ We analyzed 356 publications to uncover their conceptual properties, engineering
 
 ## Bibliography
 
-- [BDH+20] Bibow, P., Dalibor, M., Hopmann, C., Mainz, B., Rumpe, B., Schmalzing, D., ... & Wortmann, A. (2020, June). Model-driven development of a digital twin for injection molding. In International Conference on Advanced Information Systems Engineering (pp. 85-100). Cham: Springer International Publishing.
+- [BDH+20] Bibow, P., Dalibor, M., Hopmann, C., Mainz, B., Rumpe, B., Schmalzing, D., ... & Wortmann, A. (2020). Model-driven development of a digital twin for injection molding. In International Conference on Advanced Information Systems Engineering (pp. 85-100). Cham: Springer International Publishing.
 - [DJR+22] Dalibor, M., Jansen, N., Rumpe, B., Schmalzing, D., Wachtmeister, L., Wimmer, M., & Wortmann, A. (2022). [A cross-domain systematic mapping study on software engineering for digital twins](https://www.sciencedirect.com/science/article/pii/S0164121222000917). Journal of Systems and Software, 193, 111361.
 - [KKT+18] Kritzinger, W., Karner, M., Traar, G., Henjes, J., & Sihn, W. (2018). [Digital Twin in manufacturing: A categorical literature review and classification](https://www.sciencedirect.com/science/article/pii/S2405896318316021). Ifac-PapersOnline, 51(11), 1016-1022.
 - [TZL+18] Tao, F., Zhang, H., Liu, A., & Nee, A. Y. (2018). [Digital twin in industry: State-of-the-art](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8477101&casa_token=PQm7GatFGw0AAAAA:HFsG-w4vMZUwz3nc3qO-6Xln2JA6HC8MyHtnyG5mtVcuPgUeXLL-c3HRhgCpv5zELVBPb-pq4bA). IEEE Transactions on industrial informatics, 15(4), 2405-2415.
