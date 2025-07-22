@@ -48,4 +48,5 @@ We analyzed 356 publications to uncover their conceptual properties, engineering
 - [Digital Twin-enabled Autonomous Systems and Agents (DAT)](https://dat-workshop.github.io/)
 - [Middleware for Digital Twin](https://hakiri.github.io/Midd4DT/)
 - [Model-Driven Engineering of Digital Twins (MoDDiT)](https://gemoc.org/events/moddit2023.html)
+- [Modelling and Implementation of Digital Twins for Complex Systems](https://midas4cs.github.io/2025)
 
