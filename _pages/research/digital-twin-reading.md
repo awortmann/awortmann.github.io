@@ -46,7 +46,7 @@ We analyzed 356 publications to uncover their conceptual properties, engineering
 - [Digital Twin Architecture (TwinArch) and Digital Twin Engineering (DTE)](https://www.iese.fraunhofer.de/en/events/twinarch-dte.html)
 - [Distributed Digital Twins (DiDiT)](https://distributeddigitaltwins.github.io/2025/)
 - [Digital Twin-enabled Autonomous Systems and Agents (DAT)](https://dat-workshop.github.io/)
-- [Middleware for Digital Twin](https://hakiri.github.io/Midd4DT/)
+- [Middleware for Digital Twin (Midd4DT)](https://hakiri.github.io/Midd4DT/)
 - [Model-Driven Engineering of Digital Twins (MoDDiT)](https://gemoc.org/events/moddit2023.html)
-- [Modelling and Implementation of Digital Twins for Complex Systems](https://midas4cs.github.io/2025)
+- [Modelling and Implementation of Digital Twins for Complex Systems (MIDas4CS)](https://midas4cs.github.io/2025)
 
