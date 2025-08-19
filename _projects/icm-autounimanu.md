@@ -2,7 +2,7 @@
 layout: page
 title: Autonomous Universal Manufacturing
 description: 
-img: /assets/img/project-mwk-autounimanu.jpg
+img: /assets/img/project-icm-autounimanu.jpg
 importance: 1
 ---
 
