@@ -6,12 +6,10 @@ description:
 nav: false
 ---
 
-## Digital Twins and Digital Shadows
+## Digital Twins and the Asset Administration Shell
 
-Research and industry leverage digital twins to monitor and control (cyber-physical) systems in various domains, including automotive, avionics, biology, construction, manufacturing, medicine, and many more. They promise a tremendous potential to reduce cost and time and improve our understanding of the represented systems. The various digital twins serve different purposes, including analysis, control, and behavior prediction, and they are used at different times relative to the represented system, e.g., before it exists to explore its design space or during its runtime to optimize its behavior. Despite a plethora of definitions, there is little consensus about what a digital twin is. For us, a digital twin is a software system that leverages models and data from and about an original (cyber-physical) system, to represent, predict, and prescribe its behavior for a specific purpose.
-
-Find out more about [digital twins](http://www.wortmann.ac/dts).
-
+- Opening talk at the ISW AAS Barcamp 2025 (English)
+- [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/presentations/25.09.25.AAS_Barcamp_Digital_Twins.pdf)
 
 ## Software is Eating the World - and Manufacturing is Next on the Menu
 
