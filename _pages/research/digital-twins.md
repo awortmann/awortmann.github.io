@@ -40,6 +40,8 @@ Selected publications below highlight how we leverage this notion of digital twi
 1. [BDH+20] P. Bibow, M. Dalibor, C. Hopmann, B. Mainz, B. Rumpe, D. Schmalzing, M. Schmitz, A. Wortmann. [Model-Driven Development of a Digital Twin for Injection Molding](https://awortmann.github.io/downloads/paper/Model_Driven_Development_of_a_Digital_Twin_for_Injection_Molding.pdf). In. S. Dustdar, E. Yu, C. Salinesi, D. Rieu, V. Pant, editors, International Conference on Advanced Information Systems Engineering (CAiSE'20), pp. 85-100, Grenoble, Springer International Publishing, June 2020. 
 1. [KMR+20] J. C. Kirchhof, J. Michael, B. Rumpe, S. Varga, A. Wortmann. [Model-Driven Digital Twin Construction. Synthesizing the Integration of Cyber-Physical Systems with Their Information Systems](https://awortmann.github.io/downloads/paper/Model_Driven_Digital_Twin_Construction__Synthesizing_the_Integration_of_Cyber_Physical_Systems_with_Their_Information_Systems.pdf). In. Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'20), pp. 90-101, ACM, Oct. 2020. 
 
+Find [more publications on digital twins](www.wortmann.ac/p).
+
 ### Related Events
 
 - [International Conference on Engineering Digital Twins](www.edtconf.org) (EDTconf)
