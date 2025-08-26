@@ -26,16 +26,22 @@ From this, interesting questions arise. Some of which I have discussed in my tal
 
 Selected publications below highlight how we leverage this notion of digital twins to facilitate their engineering and operations
 
-#### Selected Publications
+#### 10 Selected Publications
 
-- [LPT+22] D. Lehner, J. Pfeiffer, E. Tinsel, M. Strljic, S. Sint, M. Vierhauser, A. Wortmann, M. Wimmer: [Digital Twin Platforms: Requirements, Capabilities, and Future Prospects](https://ieeexplore.ieee.org/abstract/document/9640612). In IEEE Software, vol. 39, no. 2, pp. 53-61, 2022.
-- [EBC+22] R. Eramo, F. Bordeleau, B. Combemale, M. van den Brand, M. Wimmer, A. Wortmann: [Conceptualizing Digital Twins](https://awortmann.github.io/downloads/paper/Conceptualizing_digital_twins.pdf). In IEEE Software, vol. 39, no. 2, pp. 39-46, 2022.
-- [BBD+21a] T. Bolender, G. Bürvenich, M. Dalibor, B. Rumpe, and A. Wortmann. [Self-Adaptive Manufacturing with Digital Twins](https://awortmann.github.io/downloads/paper/Self_Adaptive_Manufacturing_with_Digital_Twins.pdf), In: 2021 International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), pages 156-166, May, 2021, IEEE Computer Society.
-- [BDH+20] P. Bibow, M. Dalibor, C. Hopmann, B. Mainz, B. Rumpe, D. Schmalzing, M. Schmitz, A. Wortmann. [Model-Driven Development of a Digital Twin for Injection Molding](https://awortmann.github.io/downloads/paper/Model_Driven_Development_of_a_Digital_Twin_for_Injection_Molding.pdf). In. S. Dustdar, E. Yu, C. Salinesi, D. Rieu, V. Pant, editors, International Conference on Advanced Information Systems Engineering (CAiSE'20), pp. 85-100, Grenoble, Springer International Publishing, June 2020. 
-- [KMR+20] J. C. Kirchhof, J. Michael, B. Rumpe, S. Varga, A. Wortmann. [Model-Driven Digital Twin Construction. Synthesizing the Integration of Cyber-Physical Systems with Their Information Systems](https://awortmann.github.io/downloads/paper/Model_Driven_Digital_Twin_Construction__Synthesizing_the_Integration_of_Cyber_Physical_Systems_with_Their_Information_Systems.pdf). In. Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'20), pp. 90-101, ACM, Oct. 2020. 
+1. Pfeiffer, J., Zhang, J., Combemale, B., Michael, J., Rumpe, B., Wimmer, M., & Wortmann, A. (2025). [Towards a Unifying Reference Model for Digital Twins of Cyber-Physical Systems](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Towards_a_Unifying_Reference_Model_for_Digital_Twins_of_Cyber-Physical_Systems.pdf).In ETFA 2025. IEEE. (to appear)
+1. Kimmel, R., Michael, J., Wortmann, A., & Zhang, J. (2025). [Digital Twins for Software Engineering Processes](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Digital_Twins_for_Software_Engineering_Processes.pdf). In 2025 IEEE/ACM 47th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER) (pp. 16-20). IEEE.
+1. Michael, J., Cleophas, L., Zschaler, S., Clark, T., Combemale, B., Godfrey, T., ... & Vangheluwe, H. (2025). [Model‐Driven Engineering for Digital Twins: Opportunities and Challenges](https://incose.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sys.21815). Systems Engineering. Wiley.
+1. Lehner, D., Zhang, J., Pfeiffer, J., Sint, S., Splettstößer, A. K., Wimmer, M., & Wortmann, A. (2025). [Model-driven engineering for digital twins: a systematic mapping study](https://link.springer.com/content/pdf/10.1007/s10270-025-01264-7.pdf). Software and Systems Modeling, 1-39.
+1. Zhang, J., Ellwein, C., Heithoff, M., Michael, J., & Wortmann, A. (2025). [Digital twin and the asset administration shell: An Analysis of the Three Types of AASs and their Feasibility for Digital Twin Engineering](https://link.springer.com/content/pdf/10.1007/s10270-024-01255-0.pdf). Software and Systems Modeling, 1-23.
+1. Heithoff, M., Michael, J., Rumpe, B., Pfeiffer, J., Wortmann, A., & Zhang, J. (2025). [A Method for Model-Driven Engineering of Digital Twins in Manufacturing](https://epub.uni-regensburg.de/77255/1/25_MODELS_DT_Method-2.pdf). In MODELS 2025. ACM. (to appear)
+1. Pfeiffer, J., Lehner, D., Wortmann, A., & Wimmer, M. (2024). [Modeling capabilities of digital twin platforms-old wine in new bottles?](https://epub.jku.at/obvulihs/download/pdf/11407045#page=84). A Framework for Model-Driven Digital Twin Engineering.
+1. [EBC+22] R. Eramo, F. Bordeleau, B. Combemale, M. van den Brand, M. Wimmer, A. Wortmann: [Conceptualizing Digital Twins](https://awortmann.github.io/downloads/paper/Conceptualizing_digital_twins.pdf). In IEEE Software, vol. 39, no. 2, pp. 39-46, 2022.
+1. [BBD+21a] T. Bolender, G. Bürvenich, M. Dalibor, B. Rumpe, and A. Wortmann. [Self-Adaptive Manufacturing with Digital Twins](https://awortmann.github.io/downloads/paper/Self_Adaptive_Manufacturing_with_Digital_Twins.pdf), In: 2021 International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), pages 156-166, May, 2021, IEEE Computer Society.
+1. [BDH+20] P. Bibow, M. Dalibor, C. Hopmann, B. Mainz, B. Rumpe, D. Schmalzing, M. Schmitz, A. Wortmann. [Model-Driven Development of a Digital Twin for Injection Molding](https://awortmann.github.io/downloads/paper/Model_Driven_Development_of_a_Digital_Twin_for_Injection_Molding.pdf). In. S. Dustdar, E. Yu, C. Salinesi, D. Rieu, V. Pant, editors, International Conference on Advanced Information Systems Engineering (CAiSE'20), pp. 85-100, Grenoble, Springer International Publishing, June 2020. 
+1. [KMR+20] J. C. Kirchhof, J. Michael, B. Rumpe, S. Varga, A. Wortmann. [Model-Driven Digital Twin Construction. Synthesizing the Integration of Cyber-Physical Systems with Their Information Systems](https://awortmann.github.io/downloads/paper/Model_Driven_Digital_Twin_Construction__Synthesizing_the_Integration_of_Cyber_Physical_Systems_with_Their_Information_Systems.pdf). In. Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'20), pp. 90-101, ACM, Oct. 2020. 
 
 ### Related Events
-
+- [International Conference on Engineering Digital Twins](www.edtconf.org) (EDTconf)
 - [2nd International Workshop on Model-Driven Engineering of Digital Twins
 ModDiT’22](https://gemoc.org/events/moddit2022)
 - [Dagstuhl Seminar on the Model-Driven Development of Digital Twins](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=22362)
@@ -51,7 +57,7 @@ Find other research topics from my [research](../../research/) website.
 
 ### Digital Twins in Various Domains
 
-We have conducted the largest systematic mapping study on  digital twins across domains. In this study, we have, ultimately, investigated a corpus of over 300 publications to find out how digital twins are engineered, operated, and what the major challenges are. 
+We have conducted the largest systematic mapping study on  digital twins across domains. In this study, we have, ultimately, investigated a corpus of over 2000 publications to find out how digital twins are engineered, operated, and what the major challenges are. 
 
 - M. Dalibor, N. Jansen, B. Rumpe, D. Schmalzing, L. Wachtmeister, M. Wimmer, A. Wortmann: [A Cross-Domain Systematic Mapping Study on Software Engineering for Digital Twins](../../downloads/paper/A_cross_domain_systematic_mapping_study_on_software_engineering_for_Digital_Twins.pdf). In: Journal of Systems and Software, 111361.
 
