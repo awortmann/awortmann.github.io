@@ -6,6 +6,14 @@ description:
 nav: false
 ---
 
+## On the Challenges of Integrating Digital Twins
+
+Digital Twins (DTs) are a key technology for smart ecosystems to provide accurate digital representation of their constituents, e.g., smart buildings, farms, transportation, and citizens, as well as synchronization between the digital and the real subject, and the exploration of what-if scenarios and trade-off reasoning. To cope with emerging complex socio-technical ecosystems, we need to bring DTs together, which is a challenging
+endeavor. After giving a historical overview of system adaptation, we review the many enabling technologies that can help with DT integration. Using a smart city as an illuminating example to highlight scenarios that require integration of DTs, we discuss a model-based conceptual framework that identifies DT integration strategies and elaborate on nine key integration challenges that still need to be addressed. We call on the DT community to investigate these challenges.
+
+- [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/On_the_Challenges_of_Integrating_Digital_Twins.pdf)
+
+
 ## Digital Twins for Machine Tools: A Systematic Mapping Study
 
 Machine tools are essential for modern manufacturing and drive the production of precise and high-quality components across various industries. For smart manufacturing, DTs–virtual representations of cyber-physical entities–have emerged to enhance machine tools with intelligent capabilities, such as real-time monitoring, predictive maintenance, or performance optimization. Despite their potential, the availability and application of Digital Twins in machine tools remain largely unexplored. This first systematic mapping study specifically on Digital Twins for machine tools investigates the purpose for their deployment to machine tools, the development methods to create such Digital Twins, and support for their connectivity to the machine tool and to other related systems. Our findings highlight the critical role of DTs in improving the efficiency and reliability of machine tools.
