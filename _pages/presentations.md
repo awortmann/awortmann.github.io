@@ -8,8 +8,15 @@ nav: false
 
 ## Digital Twins and the Asset Administration Shell
 
+- Journal-first presentation at the MODELS 2025 conference (English)
+- [Paper](https://awortmann.github.io/downloads/paper/Digital_twin_and_the_asset_administration_shell.pdf)
+- [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/presentations/25.10.08.MODELS_SoSyM.pdf) 
+
+
+## Digital Twins and the Asset Administration Shell
+
 - Opening talk at the ISW AAS Barcamp 2025 (English)
-- [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/presentations/25.09.25.AAS_Barcamp_Digital_Twins.pdf)
+- [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/presentations/25.09.25.AAS_Barcamp_Digital_Twins.pdf) 
 
 ## Software is Eating the World - and Manufacturing is Next on the Menu
 
