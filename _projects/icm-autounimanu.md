@@ -10,11 +10,14 @@ This research project seeks to revolutionize manufacturing by transitioning from
 
 Key focus areas include: (1) advanced laser technologies for higher productivity and sustainability, (2) autonomous process optimization using AI and real-time data, and (3) modular, reconfigurable architectures for agile manufacturing. By leveraging machine learning and interconnected systems, the project aims to enhance quality, reduce costs, and strengthen Baden-Württemberg’s global competitiveness in high-tech manufacturing.
 
+### Publications 
+
+The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
+
+### Info
+
+- Funded by the [Ministerium für Wissenschaft, Forschung und Kunst (MKW)](https://mwk.baden-wuerttemberg.de/) of Baden-Württemberg.
 - [Project Website](https://www.icm-bw.de/forschung/projektuebersicht/detailseite/flt2-autounimanu)
-
-### Funding
-
-Funded by the [Ministerium für Wissenschaft, Forschung und Kunst (MKW)](https://mwk.baden-wuerttemberg.de/) of Baden-Württemberg.
 
 ### Related Topics
 

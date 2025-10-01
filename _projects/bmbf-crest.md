@@ -8,9 +8,7 @@ importance: 1
 
 With the transition from classical embedded systems to networked, collaborative embedded systems, a wide range of new applications for the German industry is emerging. The ability of a company to efficiently develop collaborative embedded systems with the highest quality will, therefore, become a decisive competitive factor. The [Collaborative Embedded Systems (CrESt)](https://crest.in.tum.de/) project aims to create a comprehensive framework for the model-driven development of collaborative embedded systems that addresses novel challenges in their engineering based on the SPES development methodology.
 
-### Related Publications
-
-The following presents selected publications that present research results relating to this project. 
+### Publications
 
 - [Engineering of Collaborative Embedded Systems](https://www.se-rwth.de/publications/Engineering-of-Collaborative-Embedded-Systems.pdf). Böhm, Birthe, Böhm, Wolfgang, Daun, Marian, Hayward, Alexander, Kranz, Sieglinde, Regnat, Nikolaus, Schröck, Sebastian, Stierand, Ingo, Vogelsang, Andreas, Vollmar, Jan, Voss, Sebastian, Weyer, Thorsten, and Wortmann, Andreas. In Model-Based Engineering of Collaborative Embedded Systems, pp. 15–48, Springer,  2021. 
 
@@ -24,9 +22,10 @@ The following presents selected publications that present research results relat
 
 The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
 
-### Funding
+### Info
 
-Funded by [BMBF](https://www.softwaresysteme.dlr-pt.de/de/forschungsvorhaben-servicerobotik.php).
+- Funded by [BMBF](https://www.softwaresysteme.dlr-pt.de/de/forschungsvorhaben-servicerobotik.php).
+- [Project website](https://crest.in.tum.de/))
 
 ### Related Topics
 

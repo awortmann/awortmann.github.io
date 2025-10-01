@@ -8,10 +8,7 @@ importance: 1
 
 The vision of the Internet of Production strives for the integration of the major domains of a producing company along the lifecycle of a product (production, development, and usage). This integration, enabled by the Infrastructure of the [Internet of Production](https://www.iop.rwth-aachen.de/go/id/gpfz/), will result in a new level and understanding of cross-domain collaboration due to real-time availability of semantically adequate and contextual data from these domains.
 
-### Related Publications
-
-The following presents selected publications that present research results relating to this project. 
-
+### Publications
 
 - [Model-Driven Development of a Digital Twin for Injection Molding](https://www.se-rwth.de/publications/Model-Driven-Development-of-a-Digital-Twin-for-Injection-Molding.pdf). Bibow, Pascal, Dalibor, Manuela, Hopmann, Christian, Mainz, Ben, Rumpe, Bernhard, Schmalzing, David, Schmitz, Mauritius, and Wortmann, Andreas. In International Conference on Advanced Information Systems Engineering (CAiSE’20), pp. 85–100, Springer International Publishing,  2020. 
 
@@ -21,9 +18,10 @@ The following presents selected publications that present research results relat
 
 The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
 
-### Funding
+### Info
 
-Funded by the Deutsche Forschungsgemeinschaft (DFG).
+- Funded by the Deutsche Forschungsgemeinschaft (DFG).
+- [Project website](https://iop-portal.rwth-aachen.de/)
 
 ### Related Topics
 

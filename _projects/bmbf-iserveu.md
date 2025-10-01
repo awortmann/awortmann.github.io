@@ -12,9 +12,7 @@ While various challenging issues for service robotics have been solved to a degr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HTAgF4hNUF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-### Related Publications
-
-The following presents selected publications that present research results relating to this project. 
+### Publications
 
 - [Systematic Language Extension Mechanisms for the MontiArc Architecture Description Language](https://www.se-rwth.de/publications/Systematic-Language-Extension-Mechanisms-for-the-MontiArc-Architecture-Description-Language.pdf). Butting, Arvid, Haber, Arne, Hermerschmidt, Lars, Kautz, Oliver, Rumpe, Bernhard, and Wortmann, Andreas. In European Conference on Modelling Foundations and Applications (ECMFA’17), pp. 53–70, Springer,  2017. 
 
@@ -26,9 +24,10 @@ The following presents selected publications that present research results relat
 
 The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
 
-### Funding
+### Info
 
-Funded by the [BMBF](https://www.softwaresysteme.dlr-pt.de/de/forschungsvorhaben-servicerobotik.php).
+- Funded by the [BMBF](https://www.softwaresysteme.dlr-pt.de/de/forschungsvorhaben-servicerobotik.php).
+- [Project website](https://www.se-rwth.de/materials/iserveu/)
 
 ### Related Topics
 

@@ -8,9 +8,7 @@ importance: 1
 
 The [Center for Systems Engineering](https://cse.rwth-campus.com/) aims to shape and holistically assess the required key technologies for tomorrow’s product development process. The integration of the individual development steps and tools enables a highly iterative, agile, and in part automated product development. This will facilitate model-based systems engineering in research and practice.
 
-### Related Publications
-
-The following presents selected publications that present research results relating to this project. 
+### Publications
 
 - [Model-Driven Development of a Digital Twin for Injection Molding](https://www.se-rwth.de/publications/Model-Driven-Development-of-a-Digital-Twin-for-Injection-Molding.pdf). Bibow, Pascal, Dalibor, Manuela, Hopmann, Christian, Mainz, Ben, Rumpe, Bernhard, Schmalzing, David, Schmitz, Mauritius, and Wortmann, Andreas. In International Conference on Advanced Information Systems Engineering (CAiSE’20), pp. 85–100, Springer International Publishing,  2020. 
 
@@ -18,9 +16,10 @@ The following presents selected publications that present research results relat
 
 The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
 
-### Funding
+### Info
 
-Funded by RWTH Aachen University.
+- Funded by RWTH Aachen University.
+- [Project website](https://cse.rwth-campus.com/)
 
 ### Related Topics
 

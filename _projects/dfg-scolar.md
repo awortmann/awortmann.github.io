@@ -14,10 +14,7 @@ This includes embedding of grammars, aggregation of well-formedness rules, and c
 If the resulting component is complete, i.e., all required extensions were satisfied, a new language can be derived automatically. 
 Otherwise, the customization required for this completion can be performed systematically.
 
-### Related Publications
-
-The following selected publications present research results relating to SCOLaR: 
-
+### Publications 
 
 - Pfeiffer, J., Rumpe, B., Schmalzing, D., & Wortmann, A. (2023). [Composition operators for modeling languages: A literature review](https://www.sciencedirect.com/science/article/abs/pii/S2590118423000369?casa_token=C5-2_eTVNB4AAAAA:P3nIHLVSAMwRDt4Tn11QatHrWroNTxxWMg88LtkpXBsDx6BIsQtUHFpdzE3g6R3toYAD-_ix). Journal of Computer Languages, 101226.
 
@@ -25,7 +22,7 @@ The following selected publications present research results relating to SCOLaR:
 
 - Hacks, S., Katsikeas, S., Rencelj Ling, E., Xiong, W., Pfeiffer, J., & Wortmann, A. (2022). [Towards a systematic method for developing meta attack language instances](https://awortmann.github.io/downloads/paper/Towards_a_Systematic_Method_for_Developing_Meta_Attack_Language_Instances.pdf). In International Conference on Business Process Modeling, Development and Support (pp. 139-154). Cham: Springer International Publishing.
 
-- Pfeiffer, J., & Wortmann, A. (2021). [Towards the black-box aggregation of language components](https://awortmann.github.io/downloads/paper/Towards_the_Black_Box_Aggregation_of_Language_Components.pdf).. In 2021 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C) (pp. 576-585). IEEE.
+- Pfeiffer, J., & Wortmann, A. (2021). [Towards the black-box aggregation of language components](https://awortmann.github.io/downloads/paper/Towards_the_Black_Box_Aggregation_of_Language_Components.pdf). In 2021 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C) (pp. 576-585). IEEE.
 
 - Butting, A., Pfeiffer, J., Rumpe, B., & Wortmann, A. (2020). [A compositional framework for systematic modeling language reuse](http://www.se-rwth.de/publications/A-Compositional-Framework-for-Systematic-Modeling-Language-Reuse.pdf). In Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (pp. 35-46).
 
@@ -35,9 +32,10 @@ The following selected publications present research results relating to SCOLaR:
 
 The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
 
-### Funding
+### Info
 
-Funded by the Deutsche Forschungsgemeinschaft (DFG).
+- Funded by the Deutsche Forschungsgemeinschaft (DFG).
+- [Project website](https://gepris.dfg.de/gepris/projekt/441207927)
 
 ### Related Topics
 

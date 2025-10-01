@@ -8,9 +8,7 @@ importance: 1
 
 Digital Twins of manufacturing systems should help to control production to reduce downtimes and make better use of resources. This requires the detection of deviations from the expected system behavior. With this knowledge, deviations in system parts due to wear and tear can be considered in planning, for example, to correct their use at runtime and thus reduce scrap. In [this project](https://www.rwth-aachen.de/go/id/vuc/lidx/1), the systematic integration of SysML2 engineering models into Digital Twins for the automated consistency assurance of these models will thus be investigated.
 
-### Related Publications
-
-The following presents selected publications that present research results relating to this project. 
+### Publications
 
 - [Integration Challenges for Digital Twin Systems-of-Systems](https://www.se-rwth.de/publications/Integration-Challenges-for-Digital-Twin-Systems-of-Systems.pdf). Michael, Judith, Pfeiffer, Jérôme, Rumpe, Bernhard, and Wortmann, Andreas. In 2022 IEEE/ACM 10th International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems (SESoS), pp. 9–12,  2022. 
 
@@ -22,9 +20,9 @@ The following presents selected publications that present research results relat
 
 The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
 
-### Funding
+### Info
 
-Various. Including DFG, ICM, RWTH Aachen University. 
+- Funding through various founders, including DFG, ICM, RWTH Aachen University. 
 
 ### Related Topics
 

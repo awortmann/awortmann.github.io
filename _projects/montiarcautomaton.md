@@ -11,9 +11,7 @@ MonitArcAutomaton is an <a href="https://monticore.github.io/monticore/docs/Deve
 Find out more at the <a href="https://monticore.github.io/monticore/docs/DevelopedLanguages/">MontiArcAutomaton website</a>.
 
 
-### Related Publications
-
-The following presents selected publications that present research results relating to this project. More are available from <a href="https://www.se-rwth.de/staff/wortmann/">personal website at the Chair for Software Engineering</a>.
+### Publications
 
 <ul style="list-style-type: square;">
 <li>
@@ -39,5 +37,14 @@ The following presents selected publications that present research results relat
 </ul>
 
 The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
+
+### Info
+
+- Funding through various projects.
+- [Project website](https://github.com/MontiCore/montiarc)
+
+### Related Topics
+
+→ [Industry 4.0](https://wortmann.ac/i40/)
 
 
