@@ -16,8 +16,9 @@ Our research in this consortium focuses on interconnecting models across differe
 - Ajdinović, S., Maisch, N., Kimmel, R., Rasouli, T., Lechler, A., Wortmann, A., & Riedel, O. (2025). [AI-Powered Semantic Matching and Data Harmonization for Industrial Applications with OPC UA & Asset Administration Shells](https://www.researchgate.net/publication/394119437_AI-Powered_Semantic_Matching_and_Data_Harmonization_for_Industrial_Applications_with_OPC_UA_Asset_Administration_Shells). In 2025 The 16th International Conference on Mechanical and Intelligent Manufacturing Technologies (ICMIMT) (pp. 248-252). IEEE.
 - Kimmel, R., Pfeiffer, J., Zhang, J., & Wortmann, A. (2024). [Large Language Model Based Agents for Generating Industrial Dashboards](https://link.springer.com/chapter/10.1007/978-3-031-86893-1_57). In Congress of the German Academic Association for Production Technology (pp. 525-532). Cham: Springer Nature Switzerland.
 
+The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
 
-### Funding
+### Info
 
 - Funded by the [Bundeswirtschaftsministerium für Wirtschaft und Energie (BMWE)](https://www.bundeswirtschaftsministerium.de/Navigation/DE/Home/home.html) of Germany.
 - [Project Website](https://factory-x.org/)
