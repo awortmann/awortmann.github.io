@@ -2,7 +2,7 @@
 layout: page
 title: Collaborative Embedded Systems
 description: 
-img: /assets/img/project-bmbf-crest.jpg
+img: /assets/img/project-bmwe-fx.jpg
 importance: 1
 ---
 
