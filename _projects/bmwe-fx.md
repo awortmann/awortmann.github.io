@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Factory X
+title: Factory X - The digital ecosystem
 description: 
 img: /assets/img/project-bmwe-fx.jpg
 importance: 1
