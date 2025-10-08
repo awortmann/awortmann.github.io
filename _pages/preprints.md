@@ -6,7 +6,14 @@ description:
 nav: false
 ---
 
-## On the Challenges of Integrating Digital Twins
+## A Container-based Approach For Proactive Asset Administration Shell Digital Twins (EDTconf 2025)
+
+In manufacturing, digital twins, realized as Asset Administration Shells (AAS), have emerged as a prevalent practice. These digital replicas, often utilized as structured repositories of asset-related data, facilitate interoperability across diverse systems. However, extant approaches treat the AAS as a static information model, lacking support for dynamic service integration and system adaptation. The existing body of literature has not yet thoroughly explored the potential for integrating executable behavior, particularly in the form of containerized services, into or from the AAS. This integration could serve to enable proactive functionality. In this paper, we propose a submodel-based architecture that introduces a structured service notion to the AAS, enabling services to dynamically interact with and adapt AAS instances at runtime. This concept is implemented through the extension of a submodel with behavioral definitions, resulting in a modular event-driven architecture capable of deploying containerized services based on embedded trigger conditions. The approach is illustrated through a case study on a 3-axis milling machine. Our contribution enables the AAS to serve not only as a passive digital representation but also as an active interface for executing added-value services.
+
+- [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/A_Container-based_Approach_For_Proactive_Asset_Administration_Shell_Digital_Twins.pdf)
+
+
+## On the Challenges of Integrating Digital Twins (EDTconf 2025)
 
 Digital Twins (DTs) are a key technology for smart ecosystems to provide accurate digital representation of their constituents, e.g., smart buildings, farms, transportation, and citizens, as well as synchronization between the digital and the real subject, and the exploration of what-if scenarios and trade-off reasoning. To cope with emerging complex socio-technical ecosystems, we need to bring DTs together, which is a challenging
 endeavor. After giving a historical overview of system adaptation, we review the many enabling technologies that can help with DT integration. Using a smart city as an illuminating example to highlight scenarios that require integration of DTs, we discuss a model-based conceptual framework that identifies DT integration strategies and elaborate on nine key integration challenges that still need to be addressed. We call on the DT community to investigate these challenges.
@@ -14,7 +21,7 @@ endeavor. After giving a historical overview of system adaptation, we review the
 - [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/On_the_Challenges_of_Integrating_Digital_Twins.pdf)
 
 
-## Digital Twins for Machine Tools: A Systematic Mapping Study
+## Digital Twins for Machine Tools: A Systematic Mapping Study (Digital Twin Journal)
 
 Machine tools are essential for modern manufacturing and drive the production of precise and high-quality components across various industries. For smart manufacturing, DTs–virtual representations of cyber-physical entities–have emerged to enhance machine tools with intelligent capabilities, such as real-time monitoring, predictive maintenance, or performance optimization. Despite their potential, the availability and application of Digital Twins in machine tools remain largely unexplored. This first systematic mapping study specifically on Digital Twins for machine tools investigates the purpose for their deployment to machine tools, the development methods to create such Digital Twins, and support for their connectivity to the machine tool and to other related systems. Our findings highlight the critical role of DTs in improving the efficiency and reliability of machine tools.
 
