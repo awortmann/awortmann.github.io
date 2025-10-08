@@ -6,7 +6,7 @@ description:
 nav: false
 ---
 
-## A Container-based Approach For Proactive Asset Administration Shell Digital Twins (EDTconf 2025)
+## A Container-based Approach For Proactive Asset Administration Shell Digital Twins (MODELS 2025)
 
 In manufacturing, digital twins, realized as Asset Administration Shells (AAS), have emerged as a prevalent practice. These digital replicas, often utilized as structured repositories of asset-related data, facilitate interoperability across diverse systems. However, extant approaches treat the AAS as a static information model, lacking support for dynamic service integration and system adaptation. The existing body of literature has not yet thoroughly explored the potential for integrating executable behavior, particularly in the form of containerized services, into or from the AAS. This integration could serve to enable proactive functionality. In this paper, we propose a submodel-based architecture that introduces a structured service notion to the AAS, enabling services to dynamically interact with and adapt AAS instances at runtime. This concept is implemented through the extension of a submodel with behavioral definitions, resulting in a modular event-driven architecture capable of deploying containerized services based on embedded trigger conditions. The approach is illustrated through a case study on a 3-axis milling machine. Our contribution enables the AAS to serve not only as a passive digital representation but also as an active interface for executing added-value services.
 
