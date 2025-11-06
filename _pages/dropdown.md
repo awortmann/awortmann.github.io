@@ -2,7 +2,6 @@
 layout: page
 title: Research2
 nav: true
-nav_order: 8
 dropdown: true
 children:
   - title: Automotive
