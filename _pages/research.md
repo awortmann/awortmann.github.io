@@ -8,8 +8,6 @@ nav: true
 
 This website presents selected research topics and related publications. The full list of publications is available from my [publications](../publications) website. Presentations of keynotes and inivited talks are available from my [presentations](../presentations) website as well.
 
-Here are your rewritten paragraphs, each condensed to 100 words or fewer while preserving the formatting and links:
-
 ### Automotive Software Engineering
 
 Modern automotive systems demand complex software for driver assistance, Car2X communication, and safety features. Customers can combine these features in countless ways, creating vast variability that must be managed, developed, and tested. Our research focuses on modeling functional and logical architectures for collaborative systems, managing variability, and advancing model-driven testing to address these challenges effectively.
