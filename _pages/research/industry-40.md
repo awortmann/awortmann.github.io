@@ -20,9 +20,7 @@ The paper [A Method for Model-Driven Engineering of Digital Twins in Manufacturi
 
 The paper [Digital Twins for Machine Tools: A Systematic Mapping Study](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Digital_Twins_for_Machine_Tools_-_A_Systematic_Mapping_Study.pdf) examines the use, development, and communication of digital twins (DTs) for machine tools. The study reveals that DTs primarily represent individual machine tools or technical systems, focusing on milling processes to enhance quality. DTs typically consist of models (e.g., CAD, simulation) and software (e.g., MATLAB, Unity) for behavior analysis and optimization. Most DTs are used in the operational phase, with limited application in earlier lifecycle phases like virtual commissioning. The study highlights a lack of systematic reuse and composition methods for DTs, suggesting future research should focus on real-time capabilities, horizontal connectivity, and modularity to improve DT integration and efficiency in manufacturing.
 
-&#91;[PDF](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Digital_Twins_for_Machine_Tools_-_A_Systematic_Mapping_Study.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib)&#93; 
-
-Topics <span class="label cps">Cyber-Physical Systems</span> <span class="label dt">Digital Twin</span>  
+[PDF](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Digital_Twins_for_Machine_Tools_-_A_Systematic_Mapping_Study.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label cps">Cyber-Physical Systems</span> <span class="label dt">Digital Twin</span>  
 
 ### Sustainability 
 
@@ -30,9 +28,7 @@ Topics <span class="label cps">Cyber-Physical Systems</span> <span class="label 
 
 The paper [Framework for Holistic Online Optimization of Milling Machine Conditions to Enhance Machine Efficiency and Sustainability](https://awortmann.github.io/downloads/paper/Framework_for_Holistic_Online_Optimization_of_Milling_Machine_Conditions_to_Enhance_Machine_Efficiency_and_Sustainability.pdf) introduces a novel framework for optimizing milling processes in industrial production using advanced data analysis and machine learning. The framework analyzes real-time measurement data from milling machines, extracts key indicators, and uses a fuzzy control system to recommend adjustments for reducing energy consumption, tool wear, and improving surface quality. Validation with steel and aluminum parts demonstrated the framework's ability to generate actionable recommendations, though more precise models are needed for real-world application. The modular design allows adaptability to other machines like lathes or 3D printers, highlighting its potential for sustainable and efficient manufacturing.
 
-&#91;[PDF](https://awortmann.github.io/downloads/paper/Framework_for_Holistic_Online_Optimization_of_Milling_Machine_Conditions_to_Enhance_Machine_Efficiency_and_Sustainability.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib)&#93;
-
-Topics <span class="label cpt">Cyber-Physical Systems</span> 
+[PDF](https://awortmann.github.io/downloads/paper/Framework_for_Holistic_Online_Optimization_of_Milling_Machine_Conditions_to_Enhance_Machine_Efficiency_and_Sustainability.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label cpt">Cyber-Physical Systems</span> 
 
 ### Industrial Data Modeling (OPC UA, Asset Administration Shell)
 
@@ -40,9 +36,7 @@ Topics <span class="label cpt">Cyber-Physical Systems</span>
 
 The paper [AI-Powered Semantic Matching and Data Harmonization for Industrial Applications with OPC UA & Asset Administration Shells](https://www.researchgate.net/publication/394119437_AI-Powered_Semantic_Matching_and_Data_Harmonization_for_Industrial_Applications_with_OPC_UA_Asset_Administration_Shells) introduces a framework that uses AI, including embeddings and large language models, to automate the semantic matching of data from OPC UA servers and PDF manuals into IDTA-compliant Asset Administration Shells. The framework aims to address the challenge of integrating heterogeneous data sources to meet regulatory requirements, such as the upcoming Battery Passport. Evaluation results demonstrate the effectiveness of the approach, with the RAG system achieving high precision and recall, outperforming raw node matching methods. The framework shows promise for improving data interoperability and compliance in industrial contexts.
 
-&#91;[PDF](https://www.researchgate.net/publication/394119437_AI-Powered_Semantic_Matching_and_Data_Harmonization_for_Industrial_Applications_with_OPC_UA_Asset_Administration_Shells) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib)&#93;
-
-Topics <span class="label ai">AI</span> <span class="label cpt">Cyber-Physical Systems</span>
+[PDF](https://www.researchgate.net/publication/394119437_AI-Powered_Semantic_Matching_and_Data_Harmonization_for_Industrial_Applications_with_OPC_UA_Asset_Administration_Shells) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label ai">AI</span> <span class="label cpt">Cyber-Physical Systems</span>
 
 ### Automated Generation of PLC Code
 
@@ -50,9 +44,7 @@ Topics <span class="label ai">AI</span> <span class="label cpt">Cyber-Physical S
 
 The paper [Generating PLC Code with Universal Large Language Models](https://awortmann.github.io/downloads/paper/Generating_PLC_Code_with_Universal_Large_Language_Models.pdf) explores the use of large language models (LLMs) for generating Structured Text (ST) code according to the IEC-61131-3 standard. The study compares five LLMs—ChatGPT-3.5, ChatGPT-4, Bard, Code Llama, Platypus2, and StableCode—using metrics like CodeBERTScore, pass@k, and generation time. Results show that ChatGPT-4 outperforms others in generating syntactically correct and functional ST code. Prompt optimization significantly improved performance, especially for Bard. However, local LLMs struggled with syntax and functionality, highlighting the need for further development and hardware improvements for effective PLC code generation.
 
-&#91;[PDF](https://awortmann.github.io/downloads/paper/Generating_PLC_Code_with_Universal_Large_Language_Models.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib)&#93;
-
-Topics <span class="label ai">AI</span> <span class="label plc">PLC</span>
+[PDF](https://awortmann.github.io/downloads/paper/Generating_PLC_Code_with_Universal_Large_Language_Models.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label ai">AI</span> <span class="label plc">PLC</span>
 
 ### Further Selected Publications
 
