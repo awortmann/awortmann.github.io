@@ -14,9 +14,7 @@ Industry 4.0, the fourth industrial revolution, raises new challenges for future
 
 The paper [A Method for Model-Driven Engineering of Digital Twins in Manufacturing](https://awortmann.github.io/downloads/paper/A_Method_for_Model-Driven_Engineering_of_Digital_Twins_in_Manufacturing.pdf) introduces a systematic approach for creating digital twins (DTs) in manufacturing, addressing the lack of structured methodologies in the field. The method leverages model-driven engineering (MDE) techniques, including MontiArc and MontiGem, to generate executable DTs from formalized specifications. It involves identifying requirements, analyzing asset interfaces and models, deriving service specifications, and mapping needs with available information. The approach was validated through an industrial case study involving a FiveX milling machine, demonstrating its applicability and adaptability. The method supports automation, flexibility, and compliance with ISO 23247 standards, while highlighting challenges like data modeling and real-time requirements.
 
-&#91;[PDF](https://awortmann.github.io/downloads/paper/A_Method_for_Model-Driven_Engineering_of_Digital_Twins_in_Manufacturing.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib)&#93; 
-
-Topics <span class="label dt">Digital Twin</span> <span class="label mde">Model-Driven</span>
+[PDF](https://awortmann.github.io/downloads/paper/A_Method_for_Model-Driven_Engineering_of_Digital_Twins_in_Manufacturing.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label dt">Digital Twin</span> <span class="label mde">Model-Driven</span>
 
 #### Digital Twins for Machine Tools: A Systematic Mapping Study
 
