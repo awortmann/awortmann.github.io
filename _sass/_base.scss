@@ -10,7 +10,7 @@ a, table.table a {
     color: $theme-color;
     text-decoration: underline;
   }
-  &:hover:after {
+  &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
   }
 }
@@ -52,6 +52,24 @@ a, table.table a {
   border-bottom: 1px solid $grey-color-light;
   opacity: 0.95;
 }
+
+.navbar .dropdown-menu {
+  background-color: var(--global-bg-color);
+  a:not(.active) {
+    color: var(--global-text-color);
+  }
+  a:hover {
+    color: var(--global-hover-color);
+  }
+}
+.dropdown-item {
+  color: var(--global-text-color);
+    &:hover {
+      color: var(--global-hover-color);
+      background-color: var(--global-bg-color);
+    }
+}
+
 .navbar.navbar-light {
   // Remove link decoration
   a {
