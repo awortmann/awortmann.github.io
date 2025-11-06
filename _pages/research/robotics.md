@@ -20,7 +20,7 @@ The paper [Model-Driven Engineering for Mobile Robotic Systems: A Systematic Map
 
 The paper [Survey on Robotic Systems Integration](https://awortmann.github.io/downloads/paper/Survey_on_Robotic_Systems_Integration.pdf) investigates how robotic software integration is currently performed and identifies common challenges and potential solutions. Through a survey of 118 researchers and practitioners, it explores the applicability of traditional software development methodologies (e.g., Waterfall, V-Model, Agile) to robotic integration. Key findings reveal that dynamic environment adaptation, safety certification, and system validation are the top challenges. While most respondents follow phases like implementation, design, and testing, there is a strong demand for tools—especially for validation, verification, and testing—and a preference for model-based approaches. The study highlights the need for standardized processes and tools to streamline robotic software integration.
 
-[PDF](https://awortmann.github.io/downloads/paper/Survey_on_Robotic_Systems_Integration.pdf)) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label mde">Model-Driven</span> 
+[PDF](https://awortmann.github.io/downloads/paper/Survey_on_Robotic_Systems_Integration.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label mde">Model-Driven</span> 
 
 #### Monte Carlo Tree Search and GR(1) Synthesis for Robot Tasks Planning in Automotive Production Lines
 
@@ -32,7 +32,7 @@ The paper [Monte Carlo Tree Search and GR(1) Synthesis for Robot Tasks Planning 
 
 The paper [MDE and Learning for flexible Planning and optimized Execution of Multi-Robot Choreographies](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/paper/MDE_and_Learning_for_flexible_Planning_and_optimized_Execution_of_Multi-Robot_Choreographies.pdf) addresses the challenge of designing and optimizing multi-robot systems in dynamic, safety-critical environments like automotive manufacturing. It proposes a model-driven engineering (MDE) approach that integrates formal requirement specification, reactive synthesis, and reinforcement learning (RL) to handle uncertainties and optimize cycle time. The methodology involves formalizing requirements, computing collision-free robot trajectories, generating a correct-by-construction controller using GR(1) synthesis, and optimizing execution with RL. Findings demonstrate that Q-learning-based optimization significantly improves cycle time efficiency compared to traditional methods, enabling adaptive and resilient robot choreographies.
 
-[PDF](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/paper/MDE_and_Learning_for_flexible_Planning_and_optimized_Execution_of_Multi-Robot_Choreographies.pdf)) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label auto">Automotive</span> <span class="label mde">Model-Driven</span> 
+[PDF](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/paper/MDE_and_Learning_for_flexible_Planning_and_optimized_Execution_of_Multi-Robot_Choreographies.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label auto">Automotive</span> <span class="label mde">Model-Driven</span> 
 
 #### Industry Best Practices in Robotics Software Engineering
 
@@ -51,7 +51,7 @@ The paper [Industry Best Practices in Robotics Software Engineering](https://arx
 
 The paper [Energy efficiency in ROS communication](https://awortmann.github.io/downloads/paper/Energy_efficiency_in_ROS_communication.pdf) examines how programming language (C++ vs. Python) and communication patterns (topics, services, actions) affect energy efficiency in ROS 2. It asks how energy use varies across communication types, languages, and workloads. Through 90 controlled experiments measuring CPU, memory, and energy, the authors found Python consistently consumes more energy and resources than C++, while message frequency strongly influences energy use and the number of clients has minor impact. The study concludes that programming language and message frequency are key factors for optimizing ROS-based systems toward greater energy efficiency.
 
-[PDF](https://awortmann.github.io/downloads/paper/Energy_efficiency_in_ROS_communication.pdf)) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label sustainability">Sustianability</span>
+[PDF](https://awortmann.github.io/downloads/paper/Energy_efficiency_in_ROS_communication.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label sustainability">Sustianability</span>
 
 
 ### Robotics Software Engineering Education
