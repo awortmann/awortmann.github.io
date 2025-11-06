@@ -14,13 +14,17 @@ Industry 4.0, the fourth industrial revolution, raises new challenges for future
 
 The paper [A Method for Model-Driven Engineering of Digital Twins in Manufacturing](https://awortmann.github.io/downloads/paper/A_Method_for_Model-Driven_Engineering_of_Digital_Twins_in_Manufacturing.pdf) introduces a systematic approach for creating digital twins (DTs) in manufacturing, addressing the lack of structured methodologies in the field. The method leverages model-driven engineering (MDE) techniques, including MontiArc and MontiGem, to generate executable DTs from formalized specifications. It involves identifying requirements, analyzing asset interfaces and models, deriving service specifications, and mapping needs with available information. The approach was validated through an industrial case study involving a FiveX milling machine, demonstrating its applicability and adaptability. The method supports automation, flexibility, and compliance with ISO 23247 standards, while highlighting challenges like data modeling and real-time requirements.
 
-[PDF](https://awortmann.github.io/downloads/paper/A_Method_for_Model-Driven_Engineering_of_Digital_Twins_in_Manufacturing.pdf) | [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) | Topics <span class="label dt">Digital Twin</span> <span class="label mde">Model-Driven</span>
+[PDF](https://awortmann.github.io/downloads/paper/A_Method_for_Model-Driven_Engineering_of_Digital_Twins_in_Manufacturing.pdf) | [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) 
+
+Topics <span class="label dt">Digital Twin</span> <span class="label mde">Model-Driven</span>
 
 #### Digital Twins for Machine Tools: A Systematic Mapping Study
 
 The paper [Digital Twins for Machine Tools: A Systematic Mapping Study](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Digital_Twins_for_Machine_Tools_-_A_Systematic_Mapping_Study.pdf) examines the use, development, and communication of digital twins (DTs) for machine tools. The study reveals that DTs primarily represent individual machine tools or technical systems, focusing on milling processes to enhance quality. DTs typically consist of models (e.g., CAD, simulation) and software (e.g., MATLAB, Unity) for behavior analysis and optimization. Most DTs are used in the operational phase, with limited application in earlier lifecycle phases like virtual commissioning. The study highlights a lack of systematic reuse and composition methods for DTs, suggesting future research should focus on real-time capabilities, horizontal connectivity, and modularity to improve DT integration and efficiency in manufacturing.
 
-[PDF](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Digital_Twins_for_Machine_Tools_-_A_Systematic_Mapping_Study.pdf) | [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) | Topics <span class="label cps">Cyber-Physical Systems</span> <span class="label dt">Digital Twin</span>  
+[PDF](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Digital_Twins_for_Machine_Tools_-_A_Systematic_Mapping_Study.pdf) | [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) 
+
+Topics <span class="label cps">Cyber-Physical Systems</span> <span class="label dt">Digital Twin</span>  
 
 ### Sustainability 
 
