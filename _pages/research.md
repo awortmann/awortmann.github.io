@@ -22,12 +22,6 @@ Digital twins are used across industries—automotive, avionics, medicine—to m
 
 &#8594; [Continue reading](../research/digital-twins).
 
-### **Explainable Cyber-Physical Systems**
-
-Cyber-physical systems’ growing complexity makes their behavior hard to understand. We envision self-explainable systems that clarify past, current, and future actions in real time. Our **MAB-EX** framework—Monitor, Analyze, Build, Explain—uses requirements and explainability models to generate and adapt explanations. Digital twins enhance this process, helping systems learn from new, unexplained behaviors.
-
-&#8594; [Continue reading](../research/explainable-cps).
-
 ### **Industry 4.0**
 
 Industry 4.0 revolutionizes manufacturing through four disruptions: data connectivity, advanced analytics, human-machine interaction, and digital-to-physical technologies like robotics and 3D printing. Digital twins—integrating data, models, and services—are key to optimizing production and sustainability. Our research focuses on modeling languages, manufacturing data management, and engineering self-adaptive digital twins for smarter, more efficient Industry 4.0 systems.

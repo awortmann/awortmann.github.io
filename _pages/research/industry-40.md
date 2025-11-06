@@ -22,6 +22,12 @@ The paper [Digital Twins for Machine Tools: A Systematic Mapping Study](https://
 
 [PDF](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Digital_Twins_for_Machine_Tools_-_A_Systematic_Mapping_Study.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label cps">Cyber-Physical Systems</span> <span class="label dt">Digital Twin</span>  
 
+#### Explaining Cyber-Physical System Behavior with Digital Twins
+
+The paper explores integrating self-explainability techniques into digital twins to enhance transparency and trust in their decision-making processes. By combining model-driven engineering with the MAB-EX framework (Monitor, Analyze, Build, Explain), the authors propose deriving explanation models from system description, process, and reasoning models. These models are tailored to different explainee types (e.g., end-users, engineers) and merged to avoid redundancy. The approach supports real-time explanation generation, fostering better human-machine cooperation and system maintainability. Challenges include handling diverse model types, tailoring explanations, and managing computational complexity during runtime.
+
+[PDF](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/paper/Explaining_Cyber-Physical_System_Behavior_with_Digital_Twins.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label cps">Cyber-Physical Systems</span> <span class="label dt">Digital Twin</span> 
+
 ### Sustainability 
 
 #### Framework for Holistic Online Optimization of Milling Machine Conditions to Enhance Machine Efficiency and Sustainability
