@@ -12,7 +12,7 @@ Overall, I have chaired for over 25 conferences and workshops. Please find selec
 
 - We have funded the 1st International Conference on Engineering Digital Twins: [EDTconf](https://www.edtconf.org/) 
 - Program chair of the [Software Engineering 2024](https://se2024.se.jku.at/) conference
-- Track chair of the track “Model-Driven Engineering and Modeling Languages” of the [SEAA 2023](https://dsd-seaa2023.com/) conference
+- Program chair of the [SEAA 2023](https://dsd-seaa2023.com/) conference
 - Workshop chair of the [Modellierung 2022](https://qfam.gi.de/modellierung2022) conference
 - Workshop chair of the [Software Engineering 2021 Conference](https://www.se-2022.de/)
 - Track chair of the track "Industry 4.0" at the [International Conference on Business Informatics 2021](https://cbi2021.events.unibz.it/)
