@@ -458,4 +458,4 @@ You can find the domains in which digital twins are used and the related publica
 
 ### Related Topics
 
-Find other research topics from my [research](../../research/) website.
+Find other research topics from my [research](http://www.wortmann.ac/research) website.
