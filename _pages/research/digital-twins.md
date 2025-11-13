@@ -7,7 +7,7 @@ nav: false
 ---
 
 Research and industry leverage digital twins to monitor and control (cyber-physical) systems in various domains, including automotive, avionics, biology, construction, manufacturing, medicine, and many more. They promise a tremendous potential to reduce cost and time and improve our understanding of the represented systems.
-The various digital twins serve different purposes, including analysis, control, and behavior prediction, and they are used at different times relative to the represented system, e.g., before it exists to explore its design space or during its runtime to optimize its behavior. Despite a [plethora of definitions](../digital-twin-definitions/), there is little consensus about what a digital twin is.
+The various digital twins serve different purposes, including analysis, control, and behavior prediction, and they are used at different times relative to the represented system, e.g., before it exists to explore its design space or during its runtime to optimize its behavior. Despite a [plethora of definitions](../../digital-twin-definitions/), there is little consensus about what a digital twin is.
 
 This also is reflected in many of the available definitions being 
 - ambiguous, by deferring to another undefined term, such as a "virtual representation", a "computable virtual abstraction" , or a "a virtual projection of the industrial facility into the cloud"
@@ -40,11 +40,11 @@ Selected publications below highlight how we leverage this notion of digital twi
 1. Kirchhof, J. C., Michael, J., Rumpe, B., Varga, S., & Wortmann, A. (2020). [Model-Driven Digital Twin Construction. Synthesizing the Integration of Cyber-Physical Systems with Their Information Systems](https://awortmann.github.io/downloads/paper/Model_Driven_Digital_Twin_Construction__Synthesizing_the_Integration_of_Cyber_Physical_Systems_with_Their_Information_Systems.pdf). In Proceedings of the 23rd ACM/IEEE international conference on model driven engineering languages and systems (pp. 90-101).
 
 
-Find [more publications on digital twins](www.wortmann.ac/p).
+Find [more publications on digital twins](http://www.wortmann.ac/p).
 
 ### Related Events
 
-- [International Conference on Engineering Digital Twins](www.edtconf.org) (EDTconf)
+- [International Conference on Engineering Digital Twins](http://www.edtconf.org) (EDTconf)
 - [2nd International Workshop on Model-Driven Engineering of Digital Twins
 ModDiT’22](https://gemoc.org/events/moddit2022)
 - [Dagstuhl Seminar on the Model-Driven Development of Digital Twins](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=22362)
@@ -56,7 +56,7 @@ ModDiT’21](https://gemoc.org/events/moddit2021)
 
 - Find [related presentations here](https://www.wortmann.ac/presentations).
 
-Find other research topics from my [research](../../research/) website.
+Find other research topics from my [research](../../../research/) website.
 
 ### Digital Twins in Various Domains
 

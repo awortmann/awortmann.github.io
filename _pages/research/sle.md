@@ -14,7 +14,7 @@ Identifying or engineering appropriate languages for the various activities in s
 
 The paper presents a systematic literature review of modeling language composition operators, identifying 25 distinct operators from 36 publications. Most operators fall under language extension, with fewer supporting language unification or restriction. The review categorizes operators based on their support for syntax, semantics, and technological spaces (e.g., grammars, metamodels). It highlights that most operators are modular and closed under composition, but few enable black-box reuse. The findings reveal gaps in heterogeneous composition and black-box capabilities, suggesting future research directions to enhance language reuse and automation in software language engineering.
 
-[PDF](TODO) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label sle">Software Language Engineering</span>
+[PDF](https://awortmann.github.io/downloads/paper/Composition_operators_for_modeling_languages__A_literature_review.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label sle">Software Language Engineering</span>
 
 #### A Compositional Framework for Systematic Modeling Language Reuse
 
