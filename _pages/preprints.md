@@ -6,6 +6,14 @@ description:
 nav: false
 ---
 
+## Industrial Semantics-Aware Digital Twins: A Hybrid Graph Matching Approach for Asset Administration Shells (IDETWIN 2025)
+
+Although the Asset Administration Shell (AAS) standard provides a structured and machine-readable representation of industrial assets, their semantic comparability remains a ajor
+challenge, particularly when different vocabularies and modeling practices are used. Engineering would benefit from retrieving existing AAS models that are similar to the target in order to reuse submodels, parameters, and metadata. In practice, however, heterogeneous vocabularies and divergent modeling conventions hinder automated, content-level comparison across AAS. This paper proposes a hybrid graph matching approach to enable semantics-aware comparison of Digital Twin representations. The method combines rule-based pre-filtering using SPARQL with embedding-based similarity calculation leveraging RDF2vec to capture both structural and semantic relationships between AAS models. This contribution provides a foundation for enhanced discovery, reuse, and automated configuration in Digital Twin networks.
+
+- [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Industrial_Semantics-Aware_Digital_Twins_-_A_Hybrid_Graph_Matching_Approach_for_Asset_Administration_Shells.pdf)
+
+
 ## A Container-based Approach For Proactive Asset Administration Shell Digital Twins (MODELS 2025)
 
 In manufacturing, digital twins, realized as Asset Administration Shells (AAS), have emerged as a prevalent practice. These digital replicas, often utilized as structured repositories of asset-related data, facilitate interoperability across diverse systems. However, extant approaches treat the AAS as a static information model, lacking support for dynamic service integration and system adaptation. The existing body of literature has not yet thoroughly explored the potential for integrating executable behavior, particularly in the form of containerized services, into or from the AAS. This integration could serve to enable proactive functionality. In this paper, we propose a submodel-based architecture that introduces a structured service notion to the AAS, enabling services to dynamically interact with and adapt AAS instances at runtime. This concept is implemented through the extension of a submodel with behavioral definitions, resulting in a modular event-driven architecture capable of deploying containerized services based on embedded trigger conditions. The approach is illustrated through a case study on a 3-axis milling machine. Our contribution enables the AAS to serve not only as a passive digital representation but also as an active interface for executing added-value services.
