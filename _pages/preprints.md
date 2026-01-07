@@ -13,6 +13,12 @@ challenge, particularly when different vocabularies and modeling practices are u
 
 - [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Industrial_Semantics-Aware_Digital_Twins_-_A_Hybrid_Graph_Matching_Approach_for_Asset_Administration_Shells.pdf)
 
+## Towards Formless Production with Skill-Based Industrial Digital Twins (IDETWIN 2025)
+
+Digital twins enable optimization and flexibilityin cyber-physical production systems (CPPSs). However, mostimplementations still replicate static production structures ratherthan supporting dynamic adaptability. This paper introducesFormless Production as a paradigm in which production systemsemerge dynamically from modular, interoperable skills repre-sented through Skill-Based Digital Twins (SBDTs). In this ap-proach, skills encapsulate the operational knowledge of resources,enabling their flexible orchestration based on system state andcontext. The paper outlines the conceptual foundations of form-less production, illustrates how SBDTs realize this vision, andproposes a roadmap toward software-defined, self-configuringmanufacturing systems.
+
+- [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Towards_Formless_Production_with_Skill-Based_Industrial_Digital_Twins.pdf)
+
 
 ## A Container-based Approach For Proactive Asset Administration Shell Digital Twins (MODELS 2025)
 
