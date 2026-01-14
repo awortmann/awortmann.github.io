@@ -17,7 +17,11 @@
       {{reference}}
     {% else %}
     {% if entry.url %}
-      <span class="title"><a href="{{entry.url}}">{{entry.title}}</a></span>
+      {% if entry.marked %}
+        <span class="title"><a href="{{entry.url}}">{{entry.title}}</a> &dagger;</span>
+      {% else %}
+        <span class="title marked"><a href="{{entry.url}}">{{entry.title}}</a></span>
+      {% endif %}
     {% else %}
       <span class="title">{{entry.title}}</span>
     {% endif %}
