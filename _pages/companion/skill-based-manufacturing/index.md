@@ -14,7 +14,7 @@ To advance industrial production, researchers are increasingly adopting software
 
 ### Research Method
 
-With this survey, we answer the following research questions
+With this survey, we answer the following main research questions
 
 - RQ 1. Who is using skills for which purpose?
 - RQ 2. What is a skill?
