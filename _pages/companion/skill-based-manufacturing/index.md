@@ -25,7 +25,7 @@ with their 16 sub-questions.
 
 To this end, we have conducted a systematic mapping study using the literature databases and filtering as illustrated below.
 
-![image](https://github.com/awortmann/awortmann.github.io/raw/gh-pages/_pages/companion/skill-based-manufacturing/funnel.png)
+<img src="https://github.com/awortmann/awortmann.github.io/raw/gh-pages/_pages/companion/skill-based-manufacturing/funnel.png" alt="drawing" width="500"/>
 
 We applied the following criteria for filtering articles:
 
