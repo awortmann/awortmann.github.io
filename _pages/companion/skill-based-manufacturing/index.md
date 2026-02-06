@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /companion/skill-based-manufacturing/
-title: Skill-Based Manufacturing: A Systematic Mapping Study
+title: Skill-Based Manufacturing - A Systematic Mapping Study
 description: 
 nav: false
 ---
