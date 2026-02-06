@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>Andreas Wortmann | Digital Twins</title>
+<meta name="description" content="Researching in model-driven software engineering, software language engineering, software architectures and applying it to automotive, Industry 4.0, robotics, and more since 2011. 
+">
+
+<!-- Bootstrap & MDB -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.17.0/css/mdb.min.css" integrity="sha256-/SwJ2GDcEt5382i8zqDwl36VJGECxEoIcBIuoLmLR4g=" crossorigin="anonymous" />
+
+<!-- Fonts & Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"  integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+
+<!-- Styles -->
+<link rel="shortcut icon" href="/assets/img/favicon.ico">
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<link rel="canonical" href="/research/digital-twins/">
+
+<!-- Open Graph -->
+
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Digital Twins | Andreas Wortmann</title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="Digital Twins" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Researching in model-driven software engineering, software language engineering, software architectures and applying it to automotive, Industry 4.0, robotics, and more since 2011." />
+<meta property="og:description" content="Researching in model-driven software engineering, software language engineering, software architectures and applying it to automotive, Industry 4.0, robotics, and more since 2011." />
+<link rel="canonical" href="https://awortmann.github.io/research/digital-twins/" />
+<meta property="og:url" content="https://awortmann.github.io/research/digital-twins/" />
+<meta property="og:site_name" content="Andreas Wortmann" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Digital Twins" />
+<meta name="twitter:site" content="@andwor" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Researching in model-driven software engineering, software language engineering, software architectures and applying it to automotive, Industry 4.0, robotics, and more since 2011.","headline":"Digital Twins","url":"https://awortmann.github.io/research/digital-twins/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+
+
+
+  </head>
+
+  <body class="fixed-top-nav ">
+
+    <!-- Header -->
+
+    <header>
+
+    <!-- Nav Bar -->
+    <nav id="navbar" class="navbar navbar-light bg-white navbar-expand-sm fixed-top">
+    <div class="container">
+      
+      
+      
+      
+      
+      <a class="navbar-brand title font-weight-lighter" href="https://awortmann.github.io/">
+       <span class="font-weight-bold">Andreas</span>   Wortmann
+      </a>
+      
+      <!-- Navbar Toogle -->
+      <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+      <div class="collapse navbar-collapse text-right" id="navbarNav">
+        <ul class="navbar-nav ml-auto flex-nowrap">
+          <!-- About -->
+          <li class="nav-item ">
+            <a class="nav-link" href="/">
+              About
+              
+            </a>
+          </li>
+          
+          <!-- Other pages -->
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/publications/">
+                Publications
+                
+              </a>
+          </li>
+          
+          
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/research/">
+                Research
+                
+              </a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/projects/">
+                Selected Projects
+                
+              </a>
+          </li>
+          
+          
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/service/">
+                Service
+                
+              </a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/teaching/">
+                Teaching
+                
+              </a>
+          </li>
+          
+          
+          
+          
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+</header>
+
+
+    <!-- Content -->
+
+    <div class="container mt-5">
+      <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Digital Twins</h1>
+    <p class="post-description"></p>
+  </header>
+
+  <article>
+    <p>Research and industry leverage digital twins to monitor and control (cyber-physical) systems in various domains, including automotive, avionics, biology, construction, manufacturing, medicine, and many more. They promise a tremendous potential to reduce cost and time and improve our understanding of the represented systems.
+The various digital twins serve different purposes, including analysis, control, and behavior prediction, and they are used at different times relative to the represented system, e.g., before it exists to explore its design space or during its runtime to optimize its behavior. Despite a <a href="http://www.wortmann.ac/research/digital-twin-definitions/">plethora of definitions</a>, there is little consensus about what a digital twin is.</p>
+
+<p>This also is reflected in many of the available definitions being</p>
+<ul>
+  <li>ambiguous, by deferring to another undefined term, such as a “virtual representation”, a “computable virtual abstraction” , or a “a virtual projection of the industrial facility into the cloud”</li>
+  <li>narrow, by focusing on specific use cases, domains, or technologies, such as a “digital model of the real network environment” or a “virtual representation based on AR technology”</li>
+  <li>utopian, due to all-encompassing aspirations, such as an “integrated virtual model of a real-world system containing all of its physical information”, a “complete digital representation”.</li>
+</ul>
+
+<p>For us, a digital twin is a software system that leverages models and data from and about an original (cyber-physical) system, to represent, predict, and prescribe its behavior for a specific purpose.</p>
+
+<p>This entails that a digital twin</p>
+<ul>
+  <li>is neither bound to specific technology or application domain</li>
+  <li>does not need to be complete (which is impossible most of the time)</li>
+  <li>does not need to be a model but may use models</li>
+  <li>may change the behavior of the original system</li>
+</ul>
+
+<p>From this, interesting questions arise. Some of which I have discussed in my talk <a href="https://edt.community/events/event/ceci-nest-pas-un-jumeau-numerique/">Ceci n’est pas un jumeau numérique</a> in the <a href="https://edt.community/">Engineering Digital Twins Community</a>.</p>
+
+<p>Selected publications below highlight how we leverage this notion of digital twins to facilitate their engineering and operations</p>
+
+<h4 id="10-selected-publications">10 Selected Publications</h4>
+
+<ol>
+  <li>Pfeiffer, J., Zhang, J., Combemale, B., Michael, J., Rumpe, B., Wimmer, M., &amp; Wortmann, A. (2025). <a href="https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Towards_a_Unifying_Reference_Model_for_Digital_Twins_of_Cyber-Physical_Systems.pdf">Towards a Unifying Reference Model for Digital Twins of Cyber-Physical Systems</a>.In ETFA 2025. IEEE. (to appear)</li>
+  <li>Kimmel, R., Michael, J., Wortmann, A., &amp; Zhang, J. (2025). <a href="https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Digital_Twins_for_Software_Engineering_Processes.pdf">Digital Twins for Software Engineering Processes</a>. In 2025 IEEE/ACM 47th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER) (pp. 16-20). IEEE.</li>
+  <li>Michael, J., Cleophas, L., Zschaler, S., Clark, T., Combemale, B., Godfrey, T., … &amp; Vangheluwe, H. (2025). <a href="https://incose.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sys.21815">Model‐Driven Engineering for Digital Twins: Opportunities and Challenges</a>. Systems Engineering. Wiley.</li>
+  <li>Lehner, D., Zhang, J., Pfeiffer, J., Sint, S., Splettstößer, A. K., Wimmer, M., &amp; Wortmann, A. (2025). <a href="https://link.springer.com/content/pdf/10.1007/s10270-025-01264-7.pdf">Model-driven engineering for digital twins: a systematic mapping study</a>. Software and Systems Modeling, 1-39.</li>
+  <li>Zhang, J., Ellwein, C., Heithoff, M., Michael, J., &amp; Wortmann, A. (2025). <a href="https://link.springer.com/content/pdf/10.1007/s10270-024-01255-0.pdf">Digital twin and the asset administration shell: An Analysis of the Three Types of AASs and their Feasibility for Digital Twin Engineering</a>. Software and Systems Modeling, 1-23.</li>
+  <li>Heithoff, M., Michael, J., Rumpe, B., Pfeiffer, J., Wortmann, A., &amp; Zhang, J. (2025). <a href="https://epub.uni-regensburg.de/77255/1/25_MODELS_DT_Method-2.pdf">A Method for Model-Driven Engineering of Digital Twins in Manufacturing</a>. In MODELS 2025. ACM. (to appear)</li>
+  <li>Eramo, R., Bordeleau, F., Combemale, B., van Den Brand, M., Wimmer, M., &amp; Wortmann, A. (2021). <a href="https://awortmann.github.io/downloads/paper/Conceptualizing_digital_twins.pdf">Conceptualizing Digital Twins</a>. IEEE Software, 39(2), 39-46.</li>
+  <li>Bolender, T., Bürvenich, G., Dalibor, M., Rumpe, B., &amp; Wortmann, A. (2021, May). <a href="https://awortmann.github.io/downloads/paper/Self_Adaptive_Manufacturing_with_Digital_Twins.pdf">Self-Adaptive Manufacturing with Digital Twins</a>. In 2021 International symposium on software engineering for adaptive and self-managing systems (SEAMS) (pp. 156-166). IEEE.</li>
+  <li>Bibow, P., Dalibor, M., Hopmann, C., Mainz, B., Rumpe, B., Schmalzing, D., … &amp; Wortmann, A. (2020). <a href="https://awortmann.github.io/downloads/paper/Model_Driven_Development_of_a_Digital_Twin_for_Injection_Molding.pdf">Model-Driven Development of a Digital Twin for Injection Molding</a>. In International Conference on Advanced Information Systems Engineering (pp. 85-100). Cham: Springer International Publishing.</li>
+  <li>Kirchhof, J. C., Michael, J., Rumpe, B., Varga, S., &amp; Wortmann, A. (2020). <a href="https://awortmann.github.io/downloads/paper/Model_Driven_Digital_Twin_Construction__Synthesizing_the_Integration_of_Cyber_Physical_Systems_with_Their_Information_Systems.pdf">Model-Driven Digital Twin Construction. Synthesizing the Integration of Cyber-Physical Systems with Their Information Systems</a>. In Proceedings of the 23rd ACM/IEEE international conference on model driven engineering languages and systems (pp. 90-101).</li>
+</ol>
+
+<p>Find <a href="http://www.wortmann.ac/p">more publications on digital twins</a>.</p>
+
+<h3 id="related-events">Related Events</h3>
+
+<ul>
+  <li><a href="http://www.edtconf.org">International Conference on Engineering Digital Twins</a> (EDTconf)</li>
+  <li><a href="https://gemoc.org/events/moddit2022">2nd International Workshop on Model-Driven Engineering of Digital Twins
+ModDiT’22</a></li>
+  <li><a href="https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=22362">Dagstuhl Seminar on the Model-Driven Development of Digital Twins</a></li>
+  <li><a href="https://gemoc.org/events/moddit2021">1st International Workshop on Model-Driven Engineering of Digital Twins
+ModDiT’21</a></li>
+  <li><a href="https://comodity.github.io/">1st International Workshop on Conceptual Modeling for Digital Twins (CoMoDiTy 2020)</a></li>
+</ul>
+
+<h3 id="related-presentations">Related Presentations</h3>
+
+<ul>
+  <li>Find <a href="https://www.wortmann.ac/presentations">related presentations here</a>.</li>
+</ul>
+
+<p>Find other research topics from my <a href="http://www.wortmann.ac/research">research</a> website.</p>
+
+<h3 id="digital-twins-in-various-domains">Digital Twins in Various Domains</h3>
+
+<p>We have conducted the largest systematic mapping study on  digital twins across domains. In this study, we have, ultimately, investigated a corpus of over 2000 publications to find out how digital twins are engineered, operated, and what the major challenges are.</p>
+
+<ul>
+  <li>M. Dalibor, N. Jansen, B. Rumpe, D. Schmalzing, L. Wachtmeister, M. Wimmer, A. Wortmann: <a href="/downloads/paper/A_cross_domain_systematic_mapping_study_on_software_engineering_for_Digital_Twins.pdf">A Cross-Domain Systematic Mapping Study on Software Engineering for Digital Twins</a>. In: Journal of Systems and Software, 111361.</li>
+</ul>
+
+<p>You can find the domains in which digital twins are used and the related publications below. If there are mistakes in the author names, please inform the publisher of your choice to provide proper publication data export.</p>
+
+<h4 id="domains">Domains</h4>
+
+<ol>
+  <li><a href="#construction">Construction</a></li>
+  <li><a href="#education">Education</a></li>
+  <li><a href="#energy">Energy</a></li>
+  <li><a href="#health">Health</a></li>
+  <li><a href="#ict">ICT</a></li>
+  <li><a href="#manufacturing">Manufacturing</a></li>
+  <li><a href="#transport-and-storage">Transport and Storage</a></li>
+</ol>
+
+<h4 id="construction">Construction</h4>
+
+<ul>
+  <li>Trancossi M., Cannistraro M., Pascoa J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059542326&amp;doi=10.18280%2fmmep.050405&amp;partnerID=40&amp;md5=8a46f72942310ce786f8fc4263fac3cb">Can constructal law and exergy analysis produce a robust design method that couples with industry 4.0 paradigms? The case of a container house</a></li>
+  <li>Alessandro Carbonari, Leonardo Messi, Berardo Naticchia, Massimo Vaccarini &amp; Massimiliano Pirani . <a href="http://link.springer.com/article/10.1007/s42524-019-0037-0">Development of a BIM-based holonic system for real-time monitoring of building operational efficiency</a></li>
+  <li>Shim C.-S., Dang N.-S., Lon S., Jeon C.-H.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066812168&amp;doi=10.1080%2f15732479.2019.1620789&amp;partnerID=40&amp;md5=9ba1b50226ea35f615b5482a8a41562b">Development of a bridge maintenance system for prestressed concrete bridges using 3D digital twin model</a></li>
+  <li>Kaewunruen S., Xu N.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064666442&amp;doi=10.3389%2ffbuil.2018.00077&amp;partnerID=40&amp;md5=eb22e9eb8d23f5712d83d12cca64ef6e">Digital twin for sustainability evaluation of railway station buildings</a></li>
+  <li>Lu R., Brilakis I.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065641838&amp;doi=10.1016%2fj.autcon.2019.102837&amp;partnerID=40&amp;md5=eb8619b2d5d7a3d5ac059918869928f6">Digital twinning of existing reinforced concrete bridges from labelled point clusters</a></li>
+  <li>Dupláková D., Flimel M., Duplák J., Hatala M., Radchenko S., Botko F.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062529242&amp;doi=10.1016%2fj.ergon.2019.02.012&amp;partnerID=40&amp;md5=232d87a4d100a2bdd4979a445599fb35">Ergonomic rationalization of lighting in the working environment. Part I.: Proposal of rationalization algorithm for lighting redesign</a></li>
+  <li>Martin G., Marty C., Bornoff R., Poppe A., Onushkin G., Rencz M., Yu J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066875752&amp;doi=10.3390%2fen12122389&amp;partnerID=40&amp;md5=a5cd180965981879d55b3365687d4028">Luminaire digital design flow with multi-domain digital twins of LEDs</a></li>
+  <li>Kim J., Kim H., Ham Y.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068755054&amp;doi=10.1061%2f9780784482445.058&amp;partnerID=40&amp;md5=cf921261e1fc3f3fc901198b3bf57164">Mapping Local Vulnerabilities into a 3D City Model through Social Sensing and the CAVE System toward Digital Twin City</a></li>
+  <li>Gopinath V., Srija A., Neethu Sravanthi C.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067783959&amp;doi=10.1088%2f1742-6596%2f1228%2f1%2f012031&amp;partnerID=40&amp;md5=e33a84e059af3471360f8b5aa53c221b">Re-design of smart homes with digital twins</a></li>
+  <li>Mohammadi N., Taylor J.E.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046124603&amp;doi=10.1109%2fSSCI.2017.8285439&amp;partnerID=40&amp;md5=db975c6c54bb53a20b6c613e982cec96">Smart City Digital Twins</a></li>
+  <li>Ruohomaki T., Airaksinen E., Huuska P., Kesaniemi O., Martikka M., Suomisto J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065998561&amp;doi=10.1109%2fIS.2018.8710517&amp;partnerID=40&amp;md5=61cf8efd0102bedf56b1c98edab5b811">Smart City Platform Enabling Digital Twin</a></li>
+  <li>Stojanovic V., Trapp M., Richter R., Hagedorn B., Döllner J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85054529484&amp;partnerID=40&amp;md5=362878d63e18bee90afc8761c9203163">Towards the generation of digital twins for facility management based on 3D point clouds</a></li>
+</ul>
+
+<h4 id="education">Education</h4>
+
+<ul>
+  <li>Heinz-Dietrich Wuttke, Karsten Henke &amp; René Hutschenreuter . <a href="http://link.springer.com/chapter/10.1007/978-3-030-23162-0_26">Digital Twins in Remote Labs</a></li>
+  <li>Verner I., Reitman M., Cuperman D., Yan T., Finkelstein E., Romm T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063258931&amp;doi=10.1007%2f978-3-319-95678-7_67&amp;partnerID=40&amp;md5=83aac7bf108b6553f6037d265a8c6612">Exposing Robot Learning to Students in Augmented Reality Experience</a></li>
+  <li>Ngo D., Guerra-Zubiaga D.A., González-Badillo G., Vatankhah Barenji R.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060398022&amp;doi=10.1115%2fIMECE2018-87688&amp;partnerID=40&amp;md5=7593a0d49deb4bd9753449331d3f0b8e">Towards a digital twin for cloud manufacturing-case study</a></li>
+  <li>Barbosa A.S., Silva F.P., Crestani L.R.S., Otto R.B.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057991483&amp;doi=10.3233%2f978-1-61499-898-3-33&amp;partnerID=40&amp;md5=0bf76d1a13afde09e4eec748f9ade4c8">Virtual Assistant to Real Time Training on Industrial Environment</a></li>
+</ul>
+
+<h4 id="energy">Energy</h4>
+
+<ul>
+  <li>P. Jain; J. Poon; J. P. Singh; C. Spanos; S. Sanders; S. K. Panda. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8692656">A Digital Twin Approach for Fault Diagnosis in Distributed Photovoltaic System</a></li>
+  <li>Pileggi P., Verriet J., Broekhuijsen J., Van Leeuwen C., Wijbrandi W., Konsman M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068844872&amp;doi=10.1109%2fMSCPES.2019.8738792&amp;partnerID=40&amp;md5=befd98c1c515512aac05f4b48bde187f">A Digital Twin for Cyber-Physical Energy Systems</a></li>
+  <li>Sivalingam K., Sepulveda M., Spring M., Davies P.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048368822&amp;doi=10.1109%2fICGEA.2018.8356292&amp;partnerID=40&amp;md5=a45084f0c0f789c406120d92a91f51da">A Review and Methodology Development for Remaining Useful Life Prediction of Offshore Fixed and Floating Wind turbine Power Converter with Digital Twin Technology Perspective</a></li>
+  <li>La Grange E.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050518738&amp;partnerID=40&amp;md5=8ce1e6a2a1d197a23fcc6df343d75721">A roadmap for adopting a digital lifecycle approach to offshore oil and gas production</a></li>
+  <li>Kado Y., Katagiri K.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056874985&amp;doi=10.1109%2fES2DE.2018.8494231&amp;partnerID=40&amp;md5=d6b42dad174ad0c36961258e5a83b9f7">Autonomous Distributed Power Network Consisting of Triple Active Bridge Converters</a></li>
+  <li>Iglesias D., Bunting P., Esquembri S., Hollocombe J., Silburn S., Vitton-Mea L., Balboa I., Huber A., Matthews G.F., Riccardo V., Rimini F., Valcarcel D.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85032890262&amp;doi=10.1016%2fj.fusengdes.2017.10.012&amp;partnerID=40&amp;md5=8df85b0d1b31d46bfabcf3ce18bbe01a">Digital twin applications for the JET divertor</a></li>
+  <li>Raineri I., La Mura F., Giberti H.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056254033&amp;doi=10.1007%2f978-3-030-03320-0_28&amp;partnerID=40&amp;md5=3d1552ec8e0450ce65610c81f5a5bfff">Digital twin development of hexafloat, a 6Dof PKM for hil tests</a></li>
+  <li>Kosenkov, S. O.; Turchaninov, V. Yu.; Korovin, I. S.; Ivanov, D. Ya.. <a href="https://www.researchgate.net/publication/330611030_Digital_Twin_of_the_Oil_Well_Based_on_Data_Mining_Technologies">Digital Twin of the Oil Well, Based on Data Mining Technologies</a></li>
+  <li>Brewer T., Knight D., Noiray G., Naik H.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066618595&amp;partnerID=40&amp;md5=19ee6dce25a2c3b0737a979cd17b9825">Digital twin technology in the field reclaims offshore resources</a></li>
+  <li>Laborie F., Røed O.C., Engdahl G., Camp A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066633373&amp;partnerID=40&amp;md5=6e49e8a2d91ac6e09a1a91b1f84bb0e9">Extracting value from data using an industrial data platform to provide a foundational digital twin</a></li>
+  <li>Goldmeer J., York W., Glaser P.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85030720908&amp;doi=10.1115%2fGT2017-64588&amp;partnerID=40&amp;md5=67040af5695dcb556d7b3a032e85068c">Fuel and combustion system capabilities of ge’s f and ha class gas turbines</a></li>
+  <li>Pargmann H., Euhausen D., Faber R.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050136489&amp;doi=10.1109%2fICCCBDA.2018.8386518&amp;partnerID=40&amp;md5=52d1dfa8c430ba7371d948f8d7fc11d4">Intelligent big data processing for wind farm monitoring and analysis based on cloud-technologies and digital twins: A quantitative approach</a></li>
+  <li>Settemsdal S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066754584&amp;partnerID=40&amp;md5=379facc64ed2e18e766c57ef2fc4a1bb">Machine learning and artificial intelligence as a complement to condition monitoring in a predictive maintenance setting</a></li>
+  <li>Popa C.L., Cotet C.E., Popescu D., Solea M.F., Şaşcîm (Dumitrescu) S.G., Dobrescu T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047810793&amp;doi=10.1177%2f0734242X18775487&amp;partnerID=40&amp;md5=d2ad2beae8d7c5acaeb77f074fec2607">Material flow design and simulation for a glass panel recycling installation</a></li>
+  <li>Kristoffersen Ø., Stanko M., Hoffmann A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051681201&amp;partnerID=40&amp;md5=76dbf28749ab3375431969abaeb82c90">Short term production optimization using a model of the Peregrino Field, Brazil</a></li>
+  <li>Knezevic D.J., Kang H., Sharma P., Malinowski G., Nguyen T.T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053478525&amp;partnerID=40&amp;md5=853e82e9625a508380ab81eada050953">Structural integrity management of offshore structures via RB-FEA and fast full load mapping based digital twins</a></li>
+  <li>Settemsdal S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066633465&amp;partnerID=40&amp;md5=963557ce53a31cb81bbe2b7c27651ec1">Updated case study: The pursuit of an ultra-low manned platform pays dividends in the North Sea</a></li>
+</ul>
+
+<h4 id="health">Health</h4>
+
+<ul>
+  <li>Lauzeral N., Borzacchiello D., Kugler M., George D., Rémond Y., Hostettler A., Chinesta F.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060193310&amp;doi=10.1016%2fj.cmpb.2019.01.003&amp;partnerID=40&amp;md5=92382754f75a4adf9d64449c73127022">A model order reduction approach to create patient-specific mechanical models of human liver in computational medicine applications.</a></li>
+  <li>Liu Y., Zhang L., Yang Y., Zhou L., Ren L., Wang F., Liu R., Pang Z., Deen M.J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065103886&amp;doi=10.1109%2fACCESS.2019.2909828&amp;partnerID=40&amp;md5=0c0cfeec6cdde25bf9c77ad62be74203">A Novel Cloud-Based Framework for the Elderly Healthcare Services Using Digital Twin</a></li>
+  <li>Chakshu N.K., Carson J., Sazonov I., Nithiarasu P.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061823271&amp;doi=10.1002%2fcnm.3180&amp;partnerID=40&amp;md5=29979cd77724f0b1334fc64faf9e3a09">A semi-active human digital twin model for detecting severity of carotid stenoses from head vibration—A coupled computational mechanics and computer vision method</a></li>
+  <li>Bruynseels K., de Sio F.S., van den Hoven J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042098524&amp;doi=10.3389%2ffgene.2018.00031&amp;partnerID=40&amp;md5=1e5bcfac38a386bbe3a14d94110be920">Digital Twins in Health Care: Ethical Implications of an Emerging Engineering Paradigm</a></li>
+  <li>Naplekov I., Zheleznikov I., Pashchenko D., Kobysheva P., Moskvitina A., Mustafin R., Gnutikova M., Mullagalieva A., Uzlov P.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049377337&amp;doi=10.1051%2fmatecconf%2f201817201009&amp;partnerID=40&amp;md5=1dfa1857a31e5029633c91bd395ecc51">Methods of computational modeling of coronary heart vessels for its digital twin</a></li>
+  <li>Karakra A., Fontanili F., Lamine E., Lamothe J., Taweel A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061906345&amp;doi=10.1109%2fAICCSA.2018.8612796&amp;partnerID=40&amp;md5=3750874e3646590ed3df510e5f49dd5e">Pervasive Computing Integrated Discrete Event Simulation for a Hospital Digital Twin</a></li>
+  <li>Laaki H., Miche Y., Tammi K.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062238969&amp;doi=10.1109%2fACCESS.2019.2897018&amp;partnerID=40&amp;md5=ef3ba801550942150e0bcb5febb20369">Prototyping a Digital Twin for Real Time Remote Control Over Mobile Networks: Application of Remote Surgery</a></li>
+  <li>Balachandar, S.; Chinnaiyan, R.. <a href="https://link.springer.com/chapter/10.1007/978-981-10-8681-6_18">Reliable Digital Twin for Connected Footballer</a></li>
+</ul>
+
+<h4 id="ict">ICT</h4>
+
+<ul>
+  <li>J. Sleuters; Y. Li; J. Verriet; M. Velikova; R. Doornbos. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8753845">A Digital Twin Method for Automated Behavior Analysis of Large-Scale Distributed IoT Systems</a></li>
+  <li>Dröder K., Bobka P., Germann T., Gabriel F., Dietrich F.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061964891&amp;doi=10.1016%2fj.procir.2018.02.010&amp;partnerID=40&amp;md5=16d8e6d9356cdc576230eda9c92f4666">A machine learning-enhanced digital twin approach for human-robot-collaboration</a></li>
+  <li>Gabor T., Belzner L., Kiermeier M., Beck M.T., Neitz A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84991687905&amp;doi=10.1109%2fICAC.2016.29&amp;partnerID=40&amp;md5=6a3f17439076f1a1d1f6e29f99d07948">A Simulation-Based Architecture for Smart Cyber-Physical Systems</a></li>
+  <li>Eckhart M., Ekelhart A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056743057&amp;doi=10.1145%2f3264888.3264892&amp;partnerID=40&amp;md5=e02caa59945e87fe4dacc8f0fc4345a7">A Specification-based State Replication Approach for Digital Twins</a></li>
+  <li>Hatakeyama S.J., Seal D.W., Farr D., Haase S.C.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056169963&amp;doi=10.2514%2f6.2018-5326&amp;partnerID=40&amp;md5=91f20f05591db0c9a91933ca0f1304b9">An alternate view of the systems engineeringV in a model-based engineering environment</a></li>
+  <li>Zheng Y., Yang S., Cheng H.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049576881&amp;doi=10.1007%2fs12652-018-0911-3&amp;partnerID=40&amp;md5=e619e967a8ded2fe63780bf500766c88">An application framework of digital twin and its case study</a></li>
+  <li>Yifei  Tan and Wenhe Yang and Kohtaroh Yoshida and Soemon Takakuwa. <a href="">Application of IoT-aided Simulation for a Cyber-physical System</a></li>
+  <li>Kychkin A., Deryabin A., Vikentyeva O., Shestakova L.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068783443&amp;doi=10.1109%2fICIEAM.2019.8742963&amp;partnerID=40&amp;md5=8f15246b647fef4b3a28570f939a9ea8">Architecture of compressor equipment monitoring and control cyber-physical system based on influxdata platform</a></li>
+  <li>Artem A. NazarenkoLuis M. Camarinha-Matos. <a href="http://link.springer.com/chapter/10.1007/978-3-030-17771-3_16">Basis for an Approach to Design Collaborative Cyber-Physical Systems</a></li>
+  <li>Di Maio M., Kapos G.-D., Klusmann N., Atorf L., Dahmen U., Schluse M., Rossmann J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059973689&amp;doi=10.1109%2fSysEng.2018.8544392&amp;partnerID=40&amp;md5=0a3ab88395e27ec0559aa2f2254b2356">Closed-loop systems engineering (close): integrating experimentable digital twins with the model-driven engineering process</a></li>
+  <li>Mars W.V., Suter J.D., Bauman M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045503811&amp;doi=10.4271%2f2018-01-0623&amp;partnerID=40&amp;md5=095cfbfe48f2ccdffbae5d600a45d0e5">Computing Remaining Fatigue Life under Incrementally Updated Loading Histories</a></li>
+  <li>Song S.-J., Jang Y.-G.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059946723&amp;doi=10.1145%2f3284557.3284739&amp;partnerID=40&amp;md5=f1fb6c88d7f880a470eb599f6fe9c4e7">Construction of Digital Twin Geotechnical Resistance Model for Liquefaction Risk Evaluation</a></li>
+  <li>Rambow-Hoeschele K., Nagl A., Harrison D.K., Wood B.M., Bozem K., Braun K., Hoch P.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052539413&amp;doi=10.1109%2fICE.2018.8436377&amp;partnerID=40&amp;md5=bc6bf6b9798d53f12792e05fa9e11bfb">Creation of a Digital Business Model Builder</a></li>
+  <li>Arafsha F., Laamarti F., El Saddik A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063520336&amp;doi=10.3390%2felectronics8020248&amp;partnerID=40&amp;md5=2b624771daa09ea3d27d62dcd1ce1d00">Cyber-Physical System Framework for Measurement and Analysis of Physical Activities</a></li>
+  <li>Yun S., Park J.-H., Kim W.-T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85028079218&amp;doi=10.1109%2fICUFN.2017.7993933&amp;partnerID=40&amp;md5=b64921ce8bdeec2561892140a4a53838">Data-centric middleware based digital twin platform for dependable cyber-physical systems</a></li>
+  <li>Stojanovic N., Milenovic D.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062593086&amp;doi=10.1109%2fBigData.2018.8622412&amp;partnerID=40&amp;md5=fc348678891e96d18c86908c148b3574">Data-driven Digital Twin approach for process optimization: An industry use case</a></li>
+  <li>R. Dong; C. She; W. Hardjawana; Y. Li; B. Vucetic. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8764584">Deep Learning for Hybrid 5G Services in Mobile Edge Computing Systems: Learn from a Digital Twin</a></li>
+  <li>Zweber J., Kolonay R., Kobryn P., Tuegel E.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85017256517&amp;doi=10.2514%2f6.2017-0875&amp;partnerID=40&amp;md5=2b6bb342b3e8419206e165538933a1b6">Digital thread and twin for systems engineering: Pre-MDD through TMRR</a></li>
+  <li>Kostenko D., Kudryashov N., Maystrishin M., Onufriev V., Potekhin V., Vasiliev A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060094788&amp;doi=10.2507%2f29th.daaam.proceedings.083&amp;partnerID=40&amp;md5=7c36d93570fd030665d0e1fd6fd095d1">Digital twin applications: Diagnostics, optimisation and prediction</a></li>
+  <li>Yan K., Xu W., Yao B., Zhou Z., Pham D.T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055628671&amp;doi=10.1007%2f978-981-13-2853-4_26&amp;partnerID=40&amp;md5=819ea7e78d919f5aec7df2ec01a8073a">Digital Twin-Based Energy Modeling of Industrial Robots</a></li>
+  <li>Meng S., Tang S., Zhu Y., Chen C.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063772045&amp;doi=10.1088%2f1757-899X%2f493%2f1%2f012128&amp;partnerID=40&amp;md5=a220cd99c33936fe041b18aa106b8f04">Digital Twin-Driven Control Method for Robotic Automatic Assembly System</a></li>
+  <li>Brandtstaedter H., Ludwig C., Hubner L., Tsouchnika E., Jungiewicz A., Wever U.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056695433&amp;doi=10.23919%2fPCICEurope.2018.8491413&amp;partnerID=40&amp;md5=6fc63a44519eb4e709f97cb277cf110d">Digital Twins for Large Electric Drive Trains</a></li>
+  <li>Cichon T., Robmann J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060797742&amp;doi=10.1109%2fICARCV.2018.8580634&amp;partnerID=40&amp;md5=af6f9f0c076890921bafd0e07aa2a684">Digital Twins: Assisting and Supporting Cooperation in Human-Robot Teams</a></li>
+  <li>Shi Y., Xu J., Du W.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063771405&amp;doi=10.1088%2f1742-6596%2f1168%2f2%2f022044&amp;partnerID=40&amp;md5=7635f957211574e7a2b0a9d62391e5a3">Discussion on the New Operation Management Mode of Hydraulic Engineering Based on the Digital Twin Technique</a></li>
+  <li>Peuhkurinen A., Mikkonen T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048874099&amp;doi=10.1109%2fFMEC.2018.8364060&amp;partnerID=40&amp;md5=88c15278491e8aa938bc038d92c2baeb">Embedding web apps in mixed reality</a></li>
+  <li>Tian Z., Gregson S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068435906&amp;partnerID=40&amp;md5=7a2d31a0a7d2ad8613dc211f4eb6639e">Examination of the Effectiveness of Mode Orthogonalisation and Filtering for Scattering Suppression in Antenna Measurements Through Computational Electromagnetic Simulation</a></li>
+  <li>Dahmen U., Rossmann J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059987023&amp;doi=10.1109%2fSysEng.2018.8544383&amp;partnerID=40&amp;md5=a98031873224e5ddb9c6c782b5357f17">Experimentable Digital Twins for a Modeling and Simulation-based Engineering Approach</a></li>
+  <li>Peruzzini M., Grandi F., Pellicciari M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059487397&amp;doi=10.1016%2fj.cie.2018.12.047&amp;partnerID=40&amp;md5=2c15ce21064fcb71443f78616841ba2c">Exploring the potential of Operator 4.0 interface and monitoring</a></li>
+  <li>Zhidchenko V., Malysheva I., Handroos H., Kovartsev A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058999096&amp;doi=10.1088%2f1742-6596%2f1096%2f1%2f012071&amp;partnerID=40&amp;md5=81c65e6af88795c3d80d3bd815979eed">Faster than real-time simulation of mobile crane dynamics using digital twin concept</a></li>
+  <li>G. Grinshpun; T. Cichon; D. Dipika; J. Rossmann. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7559118">From Virtual Testbeds to Real Lightweight Robots: Development and deployment of control algorithms for soft robots, with particular reference to</a></li>
+  <li>Fricke A., Asche H.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069188650&amp;doi=10.1007%2f978-3-030-24302-9_52&amp;partnerID=40&amp;md5=e5a17aea5a7f7f01eac2cb23bd22cc75">Geospatial Database for the Generation of Multidimensional Virtual City Models Dedicated to Urban Analysis and Decision-Making</a></li>
+  <li>Horváth G., Erdos G.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85022152143&amp;doi=10.1016%2fj.procir.2017.03.312&amp;partnerID=40&amp;md5=049af40b0af891db3d7ecaeddd61d60f">Gesture Control of Cyber Physical Systems</a></li>
+  <li>C. Savur; S. Kumar; S. Arora; T. Hazbar; F. Sahin. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8753881">HRC-SoS: Human Robot Collaboration Experimentation Platform as System of Systems</a></li>
+  <li>Steinmetz C., Rettberg A., Ribeiro F.G.C., Schroeder G., Pereira C.E.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065093309&amp;doi=10.1109%2fSBESC.2018.00030&amp;partnerID=40&amp;md5=527632c0e2c3f76ec33d8ae1ae40f0f4">Internet of Things Ontology for Digital Twin in Cyber Physical Systems</a></li>
+  <li>Madni, Azad M.; Madni, Carla C.; Lucero, Scott D.. <a href="https://www.mdpi.com/2079-8954/7/1/7">Leveraging Digital Twin Technology in Model-Based Systems Engineering</a></li>
+  <li>El Kaed, Charbel; Danilchenko, Victor; Delpech, Francois; Brodeur, John; Radisson, Alexis. <a href="https://ieeexplore.ieee.org/abstract/document/8621972">Linking an Asset and a Domain Specific Ontology for a Simple Asset TimeSeries Application</a></li>
+  <li>Aivaliotis P., Georgoulias K., Arkouli Z., Makris S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068434420&amp;doi=10.1016%2fj.procir.2019.03.072&amp;partnerID=40&amp;md5=62f0965289528a630a47b1fdea57ba2e">Methodology for enabling digital twin using advanced physics-based modelling in predictive maintenance</a></li>
+  <li>Abisset-Chavanne E., Duval J.L., Cueto E., Chinesta F.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047294454&amp;doi=10.1063%2f1.5034930&amp;partnerID=40&amp;md5=cd7dcbf5a9f9206a8c649be0cd41f913">Model and system learners, optimal process constructors and kinetic theory-based goal-oriented design: A new paradigm in materials and processes informatics</a></li>
+  <li>Guo J., Zhao N., Sun L., Zhang S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050657407&amp;doi=10.1007%2fs12652-018-0953-6&amp;partnerID=40&amp;md5=a45b14a1ac0a90634117c87b39014b42">Modular based flexible digital twin for factory design</a></li>
+  <li>Poppe A., Farkas G., Gaál L., Hantos G., Hegedüs J., Rencz M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066867474&amp;doi=10.3390%2fen12101909&amp;partnerID=40&amp;md5=294ae22998567edd629e9a3c1b72c3af">Multi-Domain modelling of LEDs for supporting virtual prototyping of luminaires</a></li>
+  <li>Worden K., Cross E.J., Gardner P., Barthorpe R.J., Wagg D.J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067340152&amp;doi=10.1007%2f978-3-030-12075-7_34&amp;partnerID=40&amp;md5=1a49192b75e4d775387ffbe25f26f6b7">On Digital Twins, Mirrors and Virtualisations</a></li>
+  <li>Joordens M., Jamshidi M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052290884&amp;doi=10.1109%2fSYSOSE.2018.8428748&amp;partnerID=40&amp;md5=1e58e81131d0084be6648f71d4dd894f">On The Development of Robot Fish Swarms in Virtual Reality with Digital Twins</a></li>
+  <li>Yao F., Keller A., Ahmad M., Ahmad B., Harrison R., Colombo A.W.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055479926&amp;doi=10.1109%2fINDIN.2018.8471979&amp;partnerID=40&amp;md5=c5ebea80dbcca3e8df4b12b0768c0ac9">Optimizing the Scheduling of Autonomous Guided Vehicle in a Manufacturing Process</a></li>
+  <li>Verner I., Cuperman D., Fang A., Reitman M., Romm T., Balikin G.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050462497&amp;doi=10.1007%2f978-3-319-64352-6_29&amp;partnerID=40&amp;md5=1416be765234757ab2676b6bbbdcb13c">Robot Online Learning Through Digital Twin Experiments: A Weightlifting Project</a></li>
+  <li>Kaigom E.G., Roßmann J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85006371728&amp;doi=10.1109%2fIROS.2016.7759171&amp;partnerID=40&amp;md5=2e259178ece423a81d1da33f3010b4c9">Toward physics-based virtual reality testbeds for intelligent robot manipulators - An erobotics approach</a></li>
+  <li>Verner I., Cuperman D., Gamer S., Polishuk A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067286080&amp;doi=10.3991%2fijoe.v15i09.10493&amp;partnerID=40&amp;md5=31e6ec2d74ee26fc1ef8ff4679b8c93d">Training Robot Manipulation Skills through Practice with Digital Twin of Baxter</a></li>
+  <li>Francisco Chinesta, Elias Cueto, Emmanuelle Abisset-Chavanne, Jean Louis Duval &amp; Fouad El Khaldi . <a href="http://link.springer.com/article/10.1007/s11831-018-9301-4">Virtual, Digital and Hybrid Twins: A New Paradigm in Data-Based Engineering and Engineered Data</a></li>
+</ul>
+
+<h4 id="manufacturing">Manufacturing</h4>
+
+<ul>
+  <li>Biesinger F., Meike D., Kras B., Weyrich M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057237609&amp;doi=10.1109%2fETFA.2018.8502467&amp;partnerID=40&amp;md5=2a8506d39a1f65b25fae8d1158afc4ad">A Case Study for a Digital Twin of Body-in-White Production Systems General Concept for Automated Updating of Planning Projects in the Digital Factory</a></li>
+  <li>Talkhestani B.A., Jazdi N., Schlögl W., Weyrich M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044658638&amp;doi=10.1016%2fj.procir.2017.12.168&amp;partnerID=40&amp;md5=1ec833598771a30ac037b83a0b764b66">A concept in synchronization of virtual production system with real factory based on anchor-point method</a></li>
+  <li>Kubota T., Liu C., Mubarok K., Xu X.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061300916&amp;partnerID=40&amp;md5=a8231a05896b5fe286f2a7d9d05d20f3">A cyber-physical machine tool framework based on STEP-NC</a></li>
+  <li>Liu C., Vengayil H., Lu Y., Xu X.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064397986&amp;doi=10.1016%2fj.jmsy.2019.04.006&amp;partnerID=40&amp;md5=59e4a404c5028e521eec75c2b9fe863d">A Cyber-Physical Machine Tools Platform using OPC UA and MTConnect</a></li>
+  <li>Padovano A., Longo F., Nicoletti L., Mirabelli G.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052893769&amp;doi=10.1016%2fj.ifacol.2018.08.389&amp;partnerID=40&amp;md5=24657345e7963e5207c029ad9dcddda2">A Digital Twin based Service Oriented Application for a 4.0 Knowledge Navigation in the Smart Factory</a></li>
+  <li>Ellgass W., Richmond J., Holt N., Barenji A.V., Saldana-Lemus H., Gonzalez-Badillo G.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060365312&amp;doi=10.1115%2fIMECE2018-87737&amp;partnerID=40&amp;md5=3afaa2ea54c09df4fde9afaf99321966">A digital twin concept for manufacturing systems</a></li>
+  <li>Zambal S., Eitzinger C., Clarke M., Klintworth J., Mechin P.-Y.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055549997&amp;doi=10.1109%2fINDIN.2018.8472014&amp;partnerID=40&amp;md5=0476f23a41f50f279ecff8a263eac0cf">A digital twin for composite parts manufacturing : EEffects of defects analysis based on manufacturing data</a></li>
+  <li>Kannan K., Arunachalam N.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059482106&amp;doi=10.1115%2f1.4042076&amp;partnerID=40&amp;md5=1f2396d0805ef1ea23cd409abd03e09e">A Digital Twin for Grinding Wheel: An Information Sharing Platform for Sustainable Grinding Process</a></li>
+  <li>Biesinger F., Meike D., Kraß B., Weyrich M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065427421&amp;doi=10.1016%2fj.procir.2019.02.087&amp;partnerID=40&amp;md5=c02025fc8ee7b0c2a06a21eb3d9bbcac">A digital twin for production planning based on cyber-physical systems: A Case Study for a Cyber-Physical System-Based Creation of a Digital Twin</a></li>
+  <li>Mukherjee T., DebRoy T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056629776&amp;doi=10.1016%2fj.apmt.2018.11.003&amp;partnerID=40&amp;md5=4bb13d095f00ca30ae3946e01d7d8961">A digital twin for rapid qualification of 3D printed metallic components</a></li>
+  <li>Detzner A., Eigner M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055095511&amp;doi=10.21278%2fidc.2018.0418&amp;partnerID=40&amp;md5=cc9955834cccc7cd85c5092b71495fe8">A digital twin for root cause analysis and product quality monitoring</a></li>
+  <li>Lu Y., Xu X.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061302492&amp;partnerID=40&amp;md5=0dddd45f8f966c8fb9d9ba3583cc77e0">A digital twin reference model for smart manufacturing</a></li>
+  <li>Zhang H., Liu Q., Chen X., Zhang D., Leng J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85032451877&amp;doi=10.1109%2fACCESS.2017.2766453&amp;partnerID=40&amp;md5=dba7e7793ab1bbca95480ca355de87cc">A Digital Twin-Based Approach for Designing and Multi-Objective Optimization of Hollow Glass Production Line</a></li>
+  <li>Klementina Josifovska, Enes Yigitbas &amp; Gregor Engels . <a href="http://link.springer.com/chapter/10.1007/978-3-030-22636-7_30">A Digital Twin-Based Multi-modal UI Adaptation Framework for Assistance Systems in Industry 4.0</a></li>
+  <li>Damjanovic-Behrendt V.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065981827&amp;doi=10.1109%2fIS.2018.8710526&amp;partnerID=40&amp;md5=04bf81d1f61423a9ad243aa6c44d9eb0">A Digital Twin-based Privacy Enhancement Mechanism for the Automotive Industry</a></li>
+  <li>Sun X., Bao J., Li J., Zhang Y., Liu S., Zhou B.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069044841&amp;doi=10.1016%2fj.rcim.2019.101839&amp;partnerID=40&amp;md5=2e5c3e0d6fa84106e5c116c426e0a598">A digital twin-driven approach for the assembly-commissioning of high precision products</a></li>
+  <li>Xu Y., Sun Y., Liu X., Zheng Y.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062237403&amp;doi=10.1109%2fACCESS.2018.2890566&amp;partnerID=40&amp;md5=d9ca57df562c33025e14f283024e704a">A Digital-Twin-Assisted Fault Diagnosis Using Deep Transfer Learning</a></li>
+  <li>Marietheres DietzBenedikt PutzGÃ¼nther Pernul. <a href="http://link.springer.com/chapter/10.1007/978-3-030-22479-0_15">A Distributed Ledger Approach to Digital Twin Secure Data Sharing</a></li>
+  <li>Li C., Mahadeven S., Ling Y., Wang L., Choze S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85017349391&amp;partnerID=40&amp;md5=52d13e27b8fc63c0ec689a50823afa3e">A dynamic Bayesian network approach for digital twin</a></li>
+  <li>Shangguan D., Chen L., Ding J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065215650&amp;doi=10.1145%2f3314493.3314504&amp;partnerID=40&amp;md5=df5ccf3bcb1b7a67704233373517c3bb">A hierarchical digital twin model framework for dynamic cyber-physical system design</a></li>
+  <li>Ciavotta M., Alge M., Menato S., Rovere D., Pedrazzoli P.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85029892628&amp;doi=10.1016%2fj.promfg.2017.07.197&amp;partnerID=40&amp;md5=f2668c7d03ad36d0214fee2990ef33b1">A Microservice-based Middleware for the Digital Factory</a></li>
+  <li>Bakliwal K., Dhada M.H., Palau A.S., Parlikad A.K., Lad B.K.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052888258&amp;doi=10.1016%2fj.ifacol.2018.08.421&amp;partnerID=40&amp;md5=da6e5a49f48263b68f0e99f1f4839fe4">A Multi Agent System architecture to implement Collaborative Learning for social industrial assets</a></li>
+  <li>Avventuroso G., Silvestri M., Pedrazzoli P.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85031797675&amp;doi=10.1016%2fj.ifacol.2017.08.902&amp;partnerID=40&amp;md5=b86163bc8af7b3683d2d9d019caf7c06">A Networked Production System to Implement Virtual Enterprise and Product Lifecycle Information Loops</a></li>
+  <li>Okita T., Kawabata T., Murayama H., Nishino N., Aichi M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065386802&amp;doi=10.1016%2fj.procir.2019.02.048&amp;partnerID=40&amp;md5=8bc1bc353e9f3374a521e4adef7fb833">A new concept of digital twin of artifact systems: synthesizing monitoring/inspections, physical/numerical models, and social system models</a></li>
+  <li>Kumar S.A.P., Madhumathi R., Chelliah P.R., Tao L., Wang S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062692056&amp;doi=10.1007%2fs40860-018-0069-y&amp;partnerID=40&amp;md5=2fdb1bea16acccf8919b0b79e54063f9">A novel digital twin-centric approach for driver intention prediction and traffic congestion avoidance</a></li>
+  <li>Randall Allemang Ph.D.Michael SpottswoodThomas Eason. <a href="http://link.springer.com/chapter/10.1007/978-3-319-04552-8_25">A Principal Component Analysis (PCA) Decomposition Based Validation Metric for Use with Full Field Measurement Situations</a></li>
+  <li>J. L. GregorioC. LartigueF. ThiÃ©bautH. Falgarone. <a href="http://link.springer.com/chapter/10.1007/978-3-030-12346-8_19">A Reverse-Engineering Approach for the Management of Product Geometrical Variations During Assembly</a></li>
+  <li>Redelinghuys A., Basson A., Kruger K.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059060745&amp;doi=10.1007%2f978-3-030-03003-2_32&amp;partnerID=40&amp;md5=d90af332630545bb4e2459f417910780">A six-layer digital twin architecture for a manufacturing cell</a></li>
+  <li>Zheng P., Lin T.-J., Chen C.-H., Xu X.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051644933&amp;doi=10.1016%2fj.jclepro.2018.08.101&amp;partnerID=40&amp;md5=600f6f695fa97d1d826e8b516c366160">A systematic design approach for service innovation of smart product-service systems</a></li>
+  <li>Wagener R., Scurria M., Bein T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064877858&amp;doi=10.1007%2f978-3-030-05861-6_34&amp;partnerID=40&amp;md5=ee99d60c12c7790cd6e6952de5535b6a">About a Digital Twin for the Fatigue Approach of Additively Manufactured Components</a></li>
+  <li>Rosen R., Von Wichert G., Lo G., Bettenhausen K.D.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84953861813&amp;doi=10.1016%2fj.ifacol.2015.06.141&amp;partnerID=40&amp;md5=c7f2640c3068c4e61f2773f04911c4ef">About the importance of autonomy and digital twins for the future of manufacturing</a></li>
+  <li>Zobel-Roos S., Schmidt A., Mestmäcker F., Mouellef M., Huter M., Uhlenbrock L., Kornecki M., Lohmann L., Ditz R., Strube J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062801859&amp;doi=10.3390%2fpr7020094&amp;partnerID=40&amp;md5=fff3b683f88278240167e91e42e8440f">Accelerating biologics manufacturing by modeling or: Is Approval under the QbD and PAT approaches demanded by authorities acceptable without a digital-twin?</a></li>
+  <li>Anand S., Ghalsasi O., Zhang B., Goel A., Reddy S., Joshi S., Morris G.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062826265&amp;doi=10.1109%2fWEEF-GEDC.2018.8629689&amp;partnerID=40&amp;md5=695217435445ae314f62a6722495d616">Additive manufacturing simulation tools in education</a></li>
+  <li>Milazzo M.F., Bragatto P., Ancione G., Scionti G.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85054079311&amp;doi=10.3303%2fCET1867013&amp;partnerID=40&amp;md5=0610f506503234a4a087237df5c635c6">Ageing assessment and management at major-hazard industries</a></li>
+  <li>Tharma R., Winter R., Eigner M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85054926217&amp;doi=10.21278%2fidc.2018.0188&amp;partnerID=40&amp;md5=16dd3910a501d19767c9d2028127ffa8">An approach for the implementation of the digital twin in the automotive wiring harness field</a></li>
+  <li>Wantia N., Roßmann J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85021443148&amp;doi=10.1109%2fIEA.2017.7939185&amp;partnerID=40&amp;md5=5dfe1130a0d2d2e30a505d6f4525cc26">An online task planning framework reducing execution times in industrial environments</a></li>
+  <li>Damjanovic-Behrendt V., Behrendt W.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064532610&amp;doi=10.1080%2f0951192X.2019.1599436&amp;partnerID=40&amp;md5=3ab25cd2ed2ae49fcb043313751fe141">An open source approach to the design and implementation of Digital Twins for Smart Manufacturing</a></li>
+  <li>Yacob F., Semere D., Nordgren E.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065722365&amp;doi=10.1007%2fs00170-019-03794-z&amp;partnerID=40&amp;md5=ec77bff530ecbc8ea087366d7aa243b8">Anomaly detection in Skin Model Shapes using machine learning classifiers</a></li>
+  <li>Yusupbekov N.R., Abdurasulov F.R., Adilov F.T., Ivanyan A.I.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059751392&amp;doi=10.1007%2f978-3-030-04164-9_112&amp;partnerID=40&amp;md5=73585567c0c054bad4305eecef5dddd5">Application of cloud technologies for optimization of complex processes of industrial enterprises</a></li>
+  <li>Sujová E., Čierna H., Zabińska I.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064181485&amp;doi=10.1515%2fmspe-2019-0004&amp;partnerID=40&amp;md5=bbef612f7d132f3636dcc8a34be341ed">Application of digitization procedures of production in practice</a></li>
+  <li>Tan Y., Yang W., Yoshida K., Takakuwa S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069051268&amp;doi=10.3390%2fmachines7010002&amp;partnerID=40&amp;md5=104685bcb4ff697d06133a3029b06de7">Application of IoT-aided simulation to manufacturing systems in cyber-physical system</a></li>
+  <li>Daniel Mejia, Aitor Moreno, Oscar Ruiz-Salguero &amp; Iñigo Barandiaran . <a href="http://link.springer.com/article/10.1007/s12008-016-0308-5">Appraisal of open software for finite element simulation of 2D metal sheet laser cut</a></li>
+  <li>Blaga A., Tamas L.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053475463&amp;doi=10.1109%2fMED.2018.8443028&amp;partnerID=40&amp;md5=607f7747b13531fb12d85c48ecf83a64">Augmented Reality for Digital Manufacturing</a></li>
+  <li>Utzig S., Kaps R., Azeem S.M., Gerndt A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068325555&amp;doi=10.1109%2fAERO.2019.8742228&amp;partnerID=40&amp;md5=5ba40d9d816ab9a08a8067238a08fac1">Augmented Reality for Remote Collaboration in Aircraft Maintenance Tasks</a></li>
+  <li>Martínez G.S., Sierla S., Karhela T., Vyatkin V.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061526311&amp;doi=10.1109%2fIECON.2018.8591464&amp;partnerID=40&amp;md5=fdaf48b214a308f376c6e7d37e21ad72">Automatic generation of a simulation-based digital twin of an industrial process plant</a></li>
+  <li>Mandolla C., Petruzzelli A.M., Percoco G., Urbinati A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065156908&amp;doi=10.1016%2fj.compind.2019.04.011&amp;partnerID=40&amp;md5=f7b35a6a401e34fc3bb67a6f84f6a3ae">Building a digital twin for additive manufacturing through the exploitation of blockchain: A case analysis of the aircraft industry</a></li>
+  <li>Knapp G.L., Mukherjee T., Zuback J.S., Wei H.L., Palmer T.A., De A., DebRoy T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85021415524&amp;doi=10.1016%2fj.actamat.2017.06.039&amp;partnerID=40&amp;md5=11ea09df2c7bcb2aa3f5dc2a9a83ad99">Building blocks for a digital twin of additive manufacturing</a></li>
+  <li>DebRoy T., Zhang W., Turner J., Babu S.S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85008410735&amp;doi=10.1016%2fj.scriptamat.2016.12.005&amp;partnerID=40&amp;md5=4451a14aa050aa975817e8ec7ccf4ef4">Building digital twins of 3D printing machines</a></li>
+  <li>Alam K.M., El Saddik A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85015767302&amp;doi=10.1109%2fACCESS.2017.2657006&amp;partnerID=40&amp;md5=6e4b3c5bcb83b109e562e0c37ebc98b5">C2PS: A Digital Twin Architecture Reference Model for the Cloud-Based Cyber-Physical Systems</a></li>
+  <li>Gockel B.T., Tudor A.W., Brandyberry M.D., Penmetsa R.C., Tuegel E.J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84881391199&amp;partnerID=40&amp;md5=d7acc6a07ea8bfc4896cbbff2828504b">Challenges with structural life forecasting using realistic mission profiles</a></li>
+  <li>Eisentrager M., Adler S., Kennel M., Moser S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052541912&amp;doi=10.1109%2fICE.2018.8436295&amp;partnerID=40&amp;md5=658d42ddfa80fcb73ba270508d37da09">Changeability in Engineering</a></li>
+  <li>Michael WeissVedat TuncayStefan RichterJochen Broz. <a href="http://link.springer.com/article/10.1007/s38313-017-0091-0">Comprehensive Simulation and Connected Intelligence in Thermal Management Systems</a></li>
+  <li>Talkhestani B.A., Jazdi N., Schloegl W., Weyrich M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049592057&amp;doi=10.1016%2fj.procir.2018.03.166&amp;partnerID=40&amp;md5=49a6631db962d5fd127f27f20adab9bb">Consistency check to synchronize the Digital Twin of manufacturing automation based on anchor points</a></li>
+  <li>Frontoni E., Loncarski J., Pierdicca R., Bernardini M., Sasso M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050272362&amp;doi=10.1007%2f978-3-319-95282-6_31&amp;partnerID=40&amp;md5=2b76d2d3befa4970145926eedf45ef8e">Cyber Physical Systems for Industry 4.0: Towards Real Time Virtual Reality in Smart Manufacturing</a></li>
+  <li>Al-Ali A.R., Gupta R., Nabulsi A.A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046118545&amp;doi=10.1063%2f1.5034337&amp;partnerID=40&amp;md5=5facb933e8af25dc8b4d08e02e6882d1">Cyber physical systems role in manufacturing technologies</a></li>
+  <li>Mikel ArmendiaTobias FuertjesDenys PlakhotnikJohaness SossenheimerDominik Flum. <a href="http://link.springer.com/chapter/10.1007/978-3-030-02203-7_12">Cyber-Physical System to Improve Machining Process Performance</a></li>
+  <li>Bohlin R., Hagmar J., Bengtsson K., Lindkvist L., Carlson J.S., Söderberg R.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040912304&amp;doi=10.1115%2fIMECE2017-71405&amp;partnerID=40&amp;md5=f3f9feb13f449ca89fa146db91351e85">DATA FLOW AND COMMUNICATION FRAMEWORK SUPPORTING DIGITAL TWIN FOR GEOMETRY ASSURANCE</a></li>
+  <li>He R., Chen G., Dong C., Sun S., Shen X.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065787181&amp;doi=10.1016%2fj.isatra.2019.05.011&amp;partnerID=40&amp;md5=6ca32ce2cf924a4918eaf8d77ca6c8db">Data-driven digital twin technology for optimized control in process systems</a></li>
+  <li>Coraddu A., Oneto L., Baldi F., Cipollini F., Atlar M., Savio S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067817812&amp;doi=10.1016%2fj.oceaneng.2019.05.045&amp;partnerID=40&amp;md5=e6c7526182fdda475ef44c15e4c4c103">Data-driven ship digital twin for estimating the speed loss caused by the marine fouling</a></li>
+  <li>Oquendo F.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069150565&amp;doi=10.1007%2f978-3-030-24289-3_57&amp;partnerID=40&amp;md5=e70c248f7375684423cd86b697c10dbb">Dealing with Uncertainty in Software Architecture on the Internet-of-Things with Digital Twins</a></li>
+  <li>Ding K., Chan F.T.S., Zhang X., Zhou G., Zhang F.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060183300&amp;doi=10.1080%2f00207543.2019.1566661&amp;partnerID=40&amp;md5=48dcfb42b127a895337b828382c50255">Defining a Digital Twin-based Cyber-Physical Production System for autonomous manufacturing in smart shop floors</a></li>
+  <li>Eyre J.M., Lanyon-Hogg M.R., Dodd T.J., Lockwood A.J., Freeman C., Scott R.W.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060387090&amp;doi=10.1115%2fIMECE2018-87361&amp;partnerID=40&amp;md5=2b85070ecb0a124349f22707f89b9046">Demonstration of an industrial framework for an implementation of a process digital twin</a></li>
+  <li>Bitton R., Gluck T., Stan O., Inokuchi M., Ohta Y., Yamada Y., Yagyu T., Elovici Y., Shabtai A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052221626&amp;doi=10.1007%2f978-3-319-99073-6_26&amp;partnerID=40&amp;md5=f6c6abcf2bd3ad3879099d09a8a5179f">Deriving a Cost-Effective Digital Twin of an ICS to Facilitate Security Evaluation</a></li>
+  <li>Park K.T., Nam Y.W., Lee H.S., Im S.J., Noh S.D., Son J.Y., Kim H.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063878454&amp;doi=10.1080%2f0951192X.2019.1599439&amp;partnerID=40&amp;md5=98a77235a7f73190e12dd6dfe34792f8">Design and implementation of a digital twin application for a connected micro smart factory</a></li>
+  <li>Jeon B., Suh S.-H.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052862545&amp;doi=10.1016%2fj.promfg.2018.07.146&amp;partnerID=40&amp;md5=f71895ad254896f464928ec0c62dafdd">Design Considerations and Architecture for Cooperative Smart Factory: MAPE/BD Approach</a></li>
+  <li>Marty C., Yu J., Martin G., Bornoff R., Poppe A., Fournier D., Fournier D.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057502080&amp;doi=10.1109%2fTHERMINIC.2018.8593318&amp;partnerID=40&amp;md5=c464f95f20566badd13062a31387b12f">Design flow for the development of optimized LED luminaires using multi-domain compact model simulations</a></li>
+  <li>Uzun M., Umut Demirezen M., Koyuncu E., Inalhan G.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068350610&amp;doi=10.1109%2fAERO.2019.8741729&amp;partnerID=40&amp;md5=60aa29f235e2224ed8bd15eead56bf48">Design of a Hybrid Digital-Twin Flight Performance Model Through Machine Learning</a></li>
+  <li>Pereverzev P.P., Akintseva A.V., Alsigar M.K., Ardashev D.V.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068465490&amp;doi=10.5194%2fms-10-331-2019&amp;partnerID=40&amp;md5=2d0d98e94306edb89ae45f1ee6c082a9">Designing optimal automatic cycles of round grinding based on the synthesis of digital twin technologies and dynamic programming method</a></li>
+  <li>Renzi D., Maniar D., McNeill S., Del Vecchio C.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051632998&amp;partnerID=40&amp;md5=c5381cf65e7a8ab4af8dd35c64e28d3b">Developing a digital twin for floating production systems integrity management</a></li>
+  <li>Shcherba D., Tarasov A., Borovkov A.I.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059361015&amp;doi=10.18720%2fMPM.4022018_13&amp;partnerID=40&amp;md5=2cfaaac77c25f5cb6129ea572269c2ac">Developing of phenomenological damage model for automotive low-carbon structural steel for using in validation of Euroncap frontal impact</a></li>
+  <li>Khakimov R.A., Shcherbo N.S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058675012&amp;doi=10.1088%2f1757-899X%2f450%2f6%2f062006&amp;partnerID=40&amp;md5=75c8a56e3096ff4e91e415c1ec2ebb6d">Development and creation a model of a digital twin of the cubepart rectification installation for the separation of a binary water-alcohol mixture</a></li>
+  <li>Umeda Y., Ota J., Kojima F., Saito M., Matsuzawa H., Sukekawa T., Takeuchi A., Makida K., Shirafuji S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065660003&amp;doi=10.1016%2fj.promfg.2019.03.057&amp;partnerID=40&amp;md5=496a2a7d5b2cbd4f0105687c2ced8361">Development of an education program for digital manufacturing system engineers based on ‘Digital Triplet’ concept</a></li>
+  <li>Javier Gomez-EscalonillaDiego GarijoOscar ValenciaIsmael Rivero. <a href="http://link.springer.com/chapter/10.1007/978-3-030-21503-3_15">Development of Efficient High-Fidelity Solutions for Virtual Fatigue Testing</a></li>
+  <li>Chen X., Kang E., Shiraishi S., Preciado V.M., Jiang Z.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056832496&amp;doi=10.1145%2f3239372.3239401&amp;partnerID=40&amp;md5=d81022525098f2157667a909ebcd1a76">Digital behavioral twins for safe connected cars</a></li>
+  <li>Ameri F., Sabbagh R.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85016059293&amp;doi=10.1007%2f978-3-319-51133-7_9&amp;partnerID=40&amp;md5=5ebad61a7d95a9fbc24823dce55b67dc">Digital factories for capability modeling and visualization</a></li>
+  <li>Thomas A., Guerra-Zubiaga D.A., Cohran J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060381183&amp;doi=10.1115%2fIMECE2018-88334&amp;partnerID=40&amp;md5=24aaf5a7a68cd7d7c345a47d59e32d2e">Digital factory - Simulation enhancing production and engineering process</a></li>
+  <li>Christian Block &amp; Bernd Kuhlenkötter . <a href="http://link.springer.com/chapter/10.1007/978-3-030-03451-1_18">Digital Factory Implementation Approach Starting from the Macroscopic Perspective with an Example for Holistic Planning in Assembly Systems</a></li>
+  <li>Dawes B., Meah N., Kudryavtsev A., Evans R., Hunt M., Tiller P.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068988338&amp;doi=10.2514%2f6.2019-1715&amp;partnerID=40&amp;md5=24f86aff0557e1deb90d7cf3cb103b0f">Digital geometry to support a gas turbine digital twin</a></li>
+  <li>Lima, Fabio; de Carvalho, Caroline Nogueira; Acardi, Mayara B. S.; dos Santos, Eldiane Gomes; de Miranda, Gabriel Bastos; Maia, Rodrigo Filev; Massote, Alexandre Augusto. <a href="https://bjopm.org.br/bjopm/article/view/785">DIGITAL MANUFACTURING TOOLS IN THE SIMULATION OF COLLABORATIVE ROBOTS: TOWARDS INDUSTRY 4.0</a></li>
+  <li>Shao G., Kibira D.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062624777&amp;doi=10.1109%2fWSC.2018.8632242&amp;partnerID=40&amp;md5=f20fc589f64defa645e44ff8757867e9">Digital manufacturing: Requirements and challenges for implementing digital surrogates</a></li>
+  <li>Geselschap C., Meskers G., Van Dijk R., Van Winsen I.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066615972&amp;partnerID=40&amp;md5=7fdcaf1bf87ad0bb668e97fc53393339">Digital twin - Engineering with the human factor in the loop</a></li>
+  <li>Kurniadi K.A., Lee S., Ryu K.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053253738&amp;doi=10.1007%2f978-3-319-99707-0_41&amp;partnerID=40&amp;md5=37fdef7a075fa9ac57b7550067c180a3">Digital Twin Approach for Solving Reconfiguration Planning Problems in RMS</a></li>
+  <li>Brenner B., Hummel V.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85020859111&amp;doi=10.1016%2fj.promfg.2017.04.039&amp;partnerID=40&amp;md5=cef7e359f961c32646583a07aaf5284d">Digital Twin as Enabler for an Innovative Digital Shopfloor Management System in the ESB Logistics Learning Factory at Reutlingen - University</a></li>
+  <li>Kuts V., Otto T., Tähemaa T., Bondarenko Y.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064769107&amp;doi=10.5604%2f01.3001.0013.0464&amp;partnerID=40&amp;md5=c14467578366632f3bc2b9d270d0c487">Digital twin based synchronised control and simulation of the industrial robotic cell using virtual reality</a></li>
+  <li>Liau Y., Lee H., Ryu K.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046263291&amp;doi=10.1088%2f1757-899X%2f324%2f1%2f012077&amp;partnerID=40&amp;md5=68211cab4eb28f8b3e8c241c6e684efc">Digital Twin concept for smart injection molding</a></li>
+  <li>Schroeder G.N., Steinmetz C., Pereira C.E., Espindola D.B.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85006391498&amp;doi=10.1016%2fj.ifacol.2016.11.115&amp;partnerID=40&amp;md5=307c6612411e9e0c79343c8c66d04126">Digital Twin Data Modeling with AutomationML and a Communication Methodology for Data Exchange</a></li>
+  <li>Luo W., Hu T., Zhang C., Wei Y.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050765931&amp;doi=10.1007%2fs12652-018-0946-5&amp;partnerID=40&amp;md5=86251785fba73c48540b39916a86873e">Digital twin for CNC machine tool: modeling and using strategy</a></li>
+  <li>Karanjkar N., Joglekar A., Mohanty S., Prabhu V., Raghunath D., Sundaresan R.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061704099&amp;doi=10.1109%2fIOTAIS.2018.8600830&amp;partnerID=40&amp;md5=8ef105b014a7e2688af276a7e340a16d">Digital twin for energy optimization in an SMT-PCB assembly line</a></li>
+  <li>Vijayakumar K., Dhanasekaran C., Pugazhenthi R., Sivaganesan S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068437190&amp;partnerID=40&amp;md5=b2d8910f967f41876a2a5700c0a24620">Digital twin for factory system simulation</a></li>
+  <li>Khan A., Dahl M., Falkman P., Fabian M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059985353&amp;doi=10.1109%2fCOASE.2018.8560338&amp;partnerID=40&amp;md5=24d923a3caa0bee390820ab63a5c2a0d">Digital Twin for Legacy Systems: Simulation Model Testing and Validation</a></li>
+  <li>Qiao Q., Wang J., Ye L., Gao R.X.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068465743&amp;doi=10.1016%2fj.procir.2019.04.049&amp;partnerID=40&amp;md5=f02554dcfc23105e0c95304b5fd5c0fc">Digital twin for machining tool condition prediction</a></li>
+  <li>Wang J., Ye L., Gao R.X., Li C., Zhang L.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058187499&amp;doi=10.1080%2f00207543.2018.1552032&amp;partnerID=40&amp;md5=e47f634ffea8af6fe158064e23cb7548">Digital Twin for rotating machinery fault diagnosis in smart manufacturing</a></li>
+  <li>Fei X., Fengchen Q., Bing S., Yuzhu F.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065421055&amp;doi=10.1109%2fISCID.2018.10103&amp;partnerID=40&amp;md5=155fc1aee550a6e9b9e1296fa748dddc">Digital Twin of Solid Rocket Motor, Problem and Challenge</a></li>
+  <li>Qi Q., Tao F., Zuo Y., Zhao D.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049560307&amp;doi=10.1016%2fj.procir.2018.03.103&amp;partnerID=40&amp;md5=358e5ba8b8c8ddd3c91b4f052a726f08">Digital Twin Service towards Smart Manufacturing</a></li>
+  <li>Tao F., Zhang M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85030752762&amp;doi=10.1109%2fACCESS.2017.2756069&amp;partnerID=40&amp;md5=ec2b49226948f1c7116612c0f78f846e">Digital Twin Shop-Floor: A New Shop-Floor Paradigm Towards Smart Manufacturing</a></li>
+  <li>Anderl, Reiner; Haag, Sebastian; Schuetzer, Klaus; Zancul, Eduardo. <a href="https://ieeexplore.ieee.org/abstract/document/8049520">Digital twin technology - An approach for Industrie 4.0 vertical and horizontal lifecycle integration</a></li>
+  <li>R. H. Guerra; R. Quiza; A. Villalonga; J. Arenas; F. CastaÃ±o. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8759853">Digital Twin-Based Optimization for Ultraprecision Motion Systems With Backlash and Friction</a></li>
+  <li>Liu J., Zhou H., Tian G., Liu X., Jing X.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85054681959&amp;doi=10.1007%2fs00170-018-2748-5&amp;partnerID=40&amp;md5=fe371d058529ae44c84daafbfe9070e0">Digital twin-based process reuse and evaluation approach for smart process planning</a></li>
+  <li>Zhuang C., Liu J., Xiong H.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041548794&amp;doi=10.1007%2fs00170-018-1617-6&amp;partnerID=40&amp;md5=95207b340f6af35279e8aeb39aa5137e">Digital twin-based smart production management and control framework for the complex product assembly shop-floor</a></li>
+  <li>Wang X.V., Wang L.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050302743&amp;doi=10.1080%2f00207543.2018.1497819&amp;partnerID=40&amp;md5=0ec5ebab9a7cce39abb12b25ccb2a9ed">Digital twin-based WEEE recycling, recovery and remanufacturing in the background of Industry 4.0</a></li>
+  <li>Zhang H., Zhang G., Yan Q.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057330632&amp;doi=10.1007%2fs12652-018-1125-4&amp;partnerID=40&amp;md5=f998720a74a664b779b8115f75af694a">Digital twin-driven cyber-physical production system towards smart shop-floor</a></li>
+  <li>Zhao R., Yan D., Liu Q., Leng J., Wan J., Chen X., Zhang X.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061082427&amp;doi=10.1109%2fACCESS.2019.2891060&amp;partnerID=40&amp;md5=27080b3ff4aa0b54ec640c329e757647">Digital Twin-Driven Cyber-Physical System for Autonomously Controlling of Micro Punching System</a></li>
+  <li>Leng J., Zhang H., Yan D., Liu Q., Chen X., Zhang D.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049566739&amp;doi=10.1007%2fs12652-018-0881-5&amp;partnerID=40&amp;md5=15b3be0dde7adfd2197d41e1d728d5b9">Digital twin-driven manufacturing cyber-physical system for parallel controlling of smart workshop</a></li>
+  <li>Tao F., Sui F., Liu A., Qi Q., Zhang M., Song B., Guo Z., Lu S.C.-Y., Nee A.Y.C.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042921933&amp;doi=10.1080%2f00207543.2018.1443229&amp;partnerID=40&amp;md5=ba290742598bd6b1307f8743ec098fc4">Digital twin-driven product design framework</a></li>
+  <li>Tao F., Cheng J., Qi Q., Zhang M., Zhang H., Sui F.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85015707925&amp;doi=10.1007%2fs00170-017-0233-1&amp;partnerID=40&amp;md5=e9df82a6c28a363f7d0c22bcc013b053">Digital twin-driven product design, manufacturing and service with big data</a></li>
+  <li>Liu Q., Zhang H., Leng J., Chen X.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046619993&amp;doi=10.1080%2f00207543.2018.1471243&amp;partnerID=40&amp;md5=72f1e191b90a651b4e3be23c7ff7c17e">Digital twin-driven rapid individualised designing of automated flow-shop manufacturing system</a></li>
+  <li>Ayani M., Ganebäck M., Ng A.H.C.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049565560&amp;doi=10.1016%2fj.procir.2018.03.139&amp;partnerID=40&amp;md5=3e5d6834ed4f0f2e4bd5cede4e5b2234">Digital Twin: Applying emulation for machine reconditioning</a></li>
+  <li>Puig J., Duran J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84896282068&amp;partnerID=40&amp;md5=c5753577a6ff7ed81ee203bbc90b05be">Digital Twins and Cyber-Physical Systems toward Smart Manufacturing and Industry 4.0: Correlation and Comparison</a></li>
+  <li>Kaivo-oja J., Kuusi O., Knudsen M.S., Lauraeus T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067700517&amp;doi=10.1007%2f978-3-030-21451-7_23&amp;partnerID=40&amp;md5=78a48d88a6eab941300b36fb13eceb91">Digital twins approach and future knowledge management challenges: Where we shall need system integration, synergy analyses and synergy measurements?</a></li>
+  <li>Rauch L., Pietrzyk M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064730379&amp;doi=10.5604%2f01.3001.0013.0456&amp;partnerID=40&amp;md5=2624d3aa61e6064982eb23c6ffcaf4e2">Digital Twins as a Modern Approach to Design of Industrial Processes</a></li>
+  <li>Kuehn W.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053399195&amp;doi=10.2495%2fDNE-V13-N3-260-271&amp;partnerID=40&amp;md5=649c1ab92f62c2eb924163fcd761d67b">Digital twins for decision making in complex production and logistic enterprises</a></li>
+  <li>Malik A.A., Bilberg A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060466179&amp;doi=10.1016%2fj.promfg.2018.10.047&amp;partnerID=40&amp;md5=c629e9a35c86e4a61073c49a4e3830be">Digital twins of human robot collaboration in a production setting</a></li>
+  <li>Jaensch F., Csiszar A., Scheifele C., Verl A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061833149&amp;doi=10.1109%2fM2VIP.2018.8600844&amp;partnerID=40&amp;md5=512742eb128b459906d3679f13fdbb0a">Digital Twins of Manufacturing Systems as a Base for Machine Learning</a></li>
+  <li>Malozemov A.A., Bondar V.N., Egorov V.V., Malozemov G.A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060695135&amp;doi=10.1109%2fGloSIC.2018.8570162&amp;partnerID=40&amp;md5=92fa1b2cb06ca5e8aa39fba3c693090c">Digital Twins Technology for Internal Combustion Engines Development</a></li>
+  <li>Caputo F., Greco A., Fera M., Macchiaroli R.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061523003&amp;doi=10.1016%2fj.ergon.2019.02.001&amp;partnerID=40&amp;md5=a6819925c50d1dfa3de2344dafcf7c26">Digital twins to enhance the integration of ergonomics in the workplace design</a></li>
+  <li>El Saddik A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051272175&amp;doi=10.1109%2fMMUL.2018.023121167&amp;partnerID=40&amp;md5=1f0cc65d2de15e4c4d8326890036049d">Digital Twins: The Convergence of Multimedia Technologies</a></li>
+  <li>Sedlmaier A., Dietl T., Harraßer J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068819818&amp;doi=10.1063%2f1.5112733&amp;partnerID=40&amp;md5=fe4d8f23f6e14eed5e22cb477b415873">Digitizing roll forming with smart sensors</a></li>
+  <li>Liu J., Zhou H., Liu X., Tian G., Wu M., Cao L., Wang W.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062214330&amp;doi=10.1109%2fACCESS.2019.2893309&amp;partnerID=40&amp;md5=b8458438e29040d27eebeebcf43ea5ac">Dynamic Evaluation Method of Machining Process Planning Based on Digital Twin</a></li>
+  <li>Zhang H., Zhang G., Yan Q.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048229043&amp;doi=10.1109%2fICNSC.2018.8361283&amp;partnerID=40&amp;md5=7c027615c203f5889860f6e003693b8a">Dynamic resource allocation optimization for digital twin-driven smart shopfloor</a></li>
+  <li>Wiegand G., Mai C., Liu Y., Humann H.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063153590&amp;doi=10.1145%2f3239092.3265957&amp;partnerID=40&amp;md5=ea1a25baf8393344d7db86a68f1736da">Early Take-Over Preparation in Stereoscopic 3D</a></li>
+  <li>Pinon O.J., Siedlak D.J.L., Mavris D.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060439359&amp;partnerID=40&amp;md5=6b7c6dfe90b9896f1a1a5f2f5cca7a91">Enabling the digital factory through the integration of data-driven and simulation models</a></li>
+  <li>Kraft J., Kuntzagk S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85028966868&amp;doi=10.1115%2fGT2017-63336&amp;partnerID=40&amp;md5=15454e8721f12c1ad5ba38a9fee77499">Engine fleet-management - The use of digital twins from a mro perspective</a></li>
+  <li>Zhang, Meng; Zuo, Ying; Tao, Fei. <a href="https://ieeexplore.ieee.org/abstract/document/8361272">Equipment Energy Consumption Management in Digital Twin Shop-floor : A Framework and Potential Applications</a></li>
+  <li>Schluse M., Priggemeyer M., Atorf L., Rossmann J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041837589&amp;doi=10.1109%2fTII.2018.2804917&amp;partnerID=40&amp;md5=adcb2fadec72de212880bbd6c306e5d9">Experimentable Digital Twins-Streamlining Simulation-Based Systems Engineering for Industry 4.0</a></li>
+  <li>Kuts V., Modoni G.E., Terkaj W., Tähemaa T., Sacco M., Otto T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85021192493&amp;doi=10.1007%2f978-3-319-60922-5_16&amp;partnerID=40&amp;md5=50ad115453c8f3b027add23fdde50504">Exploiting Factory Telemetry to Support Virtual Reality Simulation in Robotics Cell</a></li>
+  <li>Bekker A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061387046&amp;partnerID=40&amp;md5=aef3183f438dfb4e5095b23a41847dc7">Exploring the blue skies potential of digital twin technology for a polar supply and research vessel</a></li>
+  <li>Zaccaria V., Stenfelt M., Aslanidou I., Kyprianidis K.G.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053863979&amp;doi=10.1115%2fGT2018-76414&amp;partnerID=40&amp;md5=60c4a0cd6223ef35fe8796c5b83dee08">Fleet monitoring and diagnostics framework based on digital twin of aero-engines</a></li>
+  <li>Gurjanov A.V., Zakoldaev D.A., Shukalov A.V., Zharinov I.O.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063942809&amp;doi=10.1088%2f1757-899X%2f483%2f1%2f012070&amp;partnerID=40&amp;md5=6ddc9b1edcf085fb0e363253829eee47">Formation principles of digital twins of Cyber-Physical Systems in the smart factories of Industry 4.0</a></li>
+  <li>Ríos J., Morate F.M., Oliva M., Hernández J.C.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84994091508&amp;doi=10.1504%2fIJASM.2016.079934&amp;partnerID=40&amp;md5=dc0a15fd1d0c29522d1f97db1c7b538d">Framework to support the aircraft digital counterpart concept with an industrial design view</a></li>
+  <li>Schluse M., Rossmann J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85006371785&amp;doi=10.1109%2fSysEng.2016.7753162&amp;partnerID=40&amp;md5=455fd53870765cafd1547b17b9337228">From simulation to experimentable digital twins: Simulation-based development and operation of complex technical systems</a></li>
+  <li>He Y., Guo J., Zheng X.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053235550&amp;doi=10.1109%2fMSP.2018.2842228&amp;partnerID=40&amp;md5=ed7a700e1f170c07d13dda1521ae4176">From Surveillance to Digital Twin: Challenges and Recent Advances of Signal Processing for Industrial Internet of Things</a></li>
+  <li>Schleich B., Wärmefjord K., Söderberg R., Wartzack S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061989118&amp;doi=10.1016%2fj.procir.2018.04.078&amp;partnerID=40&amp;md5=b1b3a9780e66bf100a3baf61841daf7d">Geometrical Variations Management 4.0: Towards next generation geometry assurance</a></li>
+  <li>Forgó Z., Hypki A., Kuhlenkötter B.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059439964&amp;partnerID=40&amp;md5=b6f3cd591367d74117de05abb10814fd">Gesture based robot programming using ROS platform</a></li>
+  <li>Dufour C., Soghomonian Z., Li W.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053836160&amp;doi=10.1109%2fSPEEDAM.2018.8445302&amp;partnerID=40&amp;md5=20e74132f5f4ace53d35921b2251fedc">Hardware-in-the-Loop Testing of Modern On-Board Power Systems Using Digital Twins</a></li>
+  <li>Ghosh A.K., Ullah A.M.M.S., Kubo A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065234372&amp;doi=10.1017%2fS089006041900012X&amp;partnerID=40&amp;md5=b2320d002e65db77fdcbfef7a464998a">Hidden Markov model-based digital twin construction for futuristic manufacturing systems</a></li>
+  <li>Yübo Wang, Michaela Dittmann &amp; Reiner Anderl . <a href="http://link.springer.com/chapter/10.1007/978-3-319-94866-9_30">Holistic Scenarios by Using Platform Technologies for Small Batch-Sized Production</a></li>
+  <li>Stachowski T.-H., Kjeilen H.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061328479&amp;partnerID=40&amp;md5=388a22eb983202a4350fd144c3905a41">Holistic ship design - How to utilise a digital twin in concept design through basic and detailed design</a></li>
+  <li>Morais D., Waldie M., Roberts P., David P.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059405926&amp;partnerID=40&amp;md5=6b8bc9d72daded7dbeccd8e6614f956e">How to implement tech in shipbuilding: Charting the course to success</a></li>
+  <li>Song E.Y., Burns M., Pandey A., Roth T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065922537&amp;doi=10.1109%2fSAS.2019.8706111&amp;partnerID=40&amp;md5=421afbf3f935a37b8e8399145261e97e">IEEE 1451 Smart Sensor Digital Twin Federation for IoT/CPS Research</a></li>
+  <li>Dziurzanski P., Swan J., Indrusiak L.S., Ramos J.M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069045162&amp;doi=10.1109%2fICIT.2019.8755026&amp;partnerID=40&amp;md5=9b014c43ae4e06d74dfd0a3b96ea2e09">Implementing Digital Twins of Smart Factories with Interval Algebra</a></li>
+  <li>Yun S., Park J.-H., Kim H.-S., Kim W.-T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059475945&amp;doi=10.1109%2fICTC.2018.8539690&amp;partnerID=40&amp;md5=a77eb8249c5f29542de3562adb0bcbbb">Importance-aware SDN Control Mechanism for Real-time Data Distribution Services</a></li>
+  <li>Pereverzev P., Akintseva A., Alsigar M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056632655&amp;doi=10.1051%2fmatecconf%2f201822401033&amp;partnerID=40&amp;md5=fe59c5f50c5aae9f0c2fe88de48b7fb0">Improvement of the quality of designed cylindrical grinding cycle with traverse feeding based on the use of digital twin options</a></li>
+  <li>Jeon H.Y., Justin C.Y., Mavris D.N.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068891159&amp;doi=10.2514%2f6.2019-1365&amp;partnerID=40&amp;md5=e90f698caf02e2df53e83a7dc8c72dd1">Improving prediction capability of quadcopter through digital twin</a></li>
+  <li>Teslya N.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061593103&amp;doi=10.1007%2f978-3-030-04849-5_31&amp;partnerID=40&amp;md5=09ea88e4fd47d5d854d3fc57469a15d3">Industrial socio-cyberphysical system’s consumables tokenization for smart contracts in blockchain</a></li>
+  <li>Vatn J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058076521&amp;partnerID=40&amp;md5=027b2998282b9231868068dfaf3e7000">Industry 4.0 and real-time synchronization of operation and maintenance</a></li>
+  <li>Jan Reitz, Michael Schluse &amp; Jürgen Roßmann . <a href="http://link.springer.com/chapter/10.1007/978-3-662-59317-2_11">Industry 4.0 beyond the Factory: An Application to Forestry</a></li>
+  <li>Moussa C., Al-Haddad K., Kedjar B., Merkhouf A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061545027&amp;doi=10.1109%2fIECON.2018.8591653&amp;partnerID=40&amp;md5=aca800d303e4c8b7d7252de414425261">Insights into Digital Twin Based on Finite Element Simulation of a Large Hydro Generator</a></li>
+  <li>Wärmefjord K., Söderberg R., Lindkvist L., Lindau B., Carlson J.S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040925499&amp;doi=10.1115%2fIMECE2017-70398&amp;partnerID=40&amp;md5=bcb1096cb9a280e2c4ebdb58f5fedeee">Inspection data to support a Digital Twin for geometry assurance</a></li>
+  <li>Lin W.D., Low Y.H., Chong Y.T., Teo C.L.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061837742&amp;doi=10.1109%2fIEEM.2018.8607696&amp;partnerID=40&amp;md5=8d6cf1fce4c0db931931de7fa156882a">Integrated Cyber Physical Simulation Modelling Environment for Manufacturing 4.0</a></li>
+  <li>Kunath M., Winkler H.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049578129&amp;doi=10.1016%2fj.procir.2018.03.192&amp;partnerID=40&amp;md5=2e497b9d16bf18e32eda36ba8046de16">Integrating the Digital Twin of the manufacturing system into a decision support system for improving the order management process</a></li>
+  <li>Graessler I., Poehler A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045258714&amp;doi=10.1109%2fIEEM.2017.8289898&amp;partnerID=40&amp;md5=92d7e0001842aa8301d766f9b07b70f5">Integration of a digital twin as human representation in a scheduling procedure of a cyber-physical production system</a></li>
+  <li>Graessler I., Poehler A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050379734&amp;doi=10.1016%2fj.promfg.2018.06.041&amp;partnerID=40&amp;md5=f7ac30b273ed3016017295a1efc551e4">Intelligent control of an assembly station by integration of a digital twin for employees into the decentralized control system</a></li>
+  <li>Ewelina KosickaEdward KozÅ‚owskiDariusz Mazurkiewicz. <a href="http://link.springer.com/chapter/10.1007/978-3-319-64465-3_6">Intelligent Systems of Forecasting the Failure of Machinery Park and Supporting Fulfilment of Orders of Spare Parts</a></li>
+  <li>Alexie Dingli, Foaad Haddod. <a href="http://link.springer.com/chapter/10.1007/978-3-030-23541-3_1">Interacting with Intelligent Digital Twins</a></li>
+  <li>Atorf L., Rossmann J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060820360&amp;doi=10.1109%2fICARCV.2018.8581126&amp;partnerID=40&amp;md5=f8e3cdadcebf76bb0ecd56471959b54e">Interactive Analysis and Visualization of Digital Twins in High-Dimensional State Spaces</a></li>
+  <li>Priggemeyer M., Losch D., Robmann J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053873933&amp;doi=10.1109%2fAIM.2018.8452707&amp;partnerID=40&amp;md5=029b5063656e240a4feccbd72ed1a394">Interactive Calibration and Visual Programming of Reconfigurable Robotic Workcells</a></li>
+  <li>Bartelt, Matthias, Kuhlenkoetter, Bernd. <a href="https://ieeexplore.ieee.org/abstract/document/8607579">Involving the Manufacturing System within its Planning Phase</a></li>
+  <li>West T.D., Blackburn M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040008235&amp;doi=10.1016%2fj.procs.2017.09.003&amp;partnerID=40&amp;md5=8deea5e4f1c48469c9897bbf23264c4a">Is Digital Thread/Digital Twin Affordable? A Systemic Assessment of the Cost of DoD’s Latest Manhattan Project</a></li>
+  <li>Zipper H., Auris F., Strahilov A., Paul M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046958120&amp;doi=10.1109%2fICIT.2018.8352419&amp;partnerID=40&amp;md5=cf2f43ee99ad10be779cd67195f56171">Keeping the digital twin up-to-date - Process monitoring to identify changes in a plant</a></li>
+  <li>Ringsquandl M., Lamparter S., Lepratti R., Kröger P.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85029407362&amp;doi=10.1007%2f978-3-319-66926-7_35&amp;partnerID=40&amp;md5=1eb8d7bf6800e1926e154d2107a3fea6">Knowledge Fusion of Manufacturing Operations Data Using Representation Learning</a></li>
+  <li>Zhou G., Zhang C., Li Z., Ding K., Wang C.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065139151&amp;doi=10.1080%2f00207543.2019.1607978&amp;partnerID=40&amp;md5=5c0f05eb9d3b0196135eac7b7c23c52b">Knowledge-driven digital twin manufacturing cell towards intelligent manufacturing</a></li>
+  <li>David J., Lobov A., Lanz M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055576005&amp;doi=10.1109%2fINDIN.2018.8472083&amp;partnerID=40&amp;md5=013a78e81f9b50f0fea90bae9dc56bb6">Leveraging Digital Twins for Assisted Learning of Flexible Manufacturing Systems</a></li>
+  <li>Weber C., Königsberger J., Kassner L., Mitschang B.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85028660176&amp;doi=10.1016%2fj.procir.2017.03.309&amp;partnerID=40&amp;md5=ca006ec124be33fc78fa7a1ae9c075f4">M2DDM - A Maturity Model for Data-Driven Manufacturing</a></li>
+  <li>Min Q., Lu Y., Liu Z., Su C., Wang B.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066307148&amp;doi=10.1016%2fj.ijinfomgt.2019.05.020&amp;partnerID=40&amp;md5=5cc95ab869c2986f2aa7c98a092105ff">Machine Learning based Digital Twin Framework for Production Optimization in Petrochemical Industry</a></li>
+  <li>Liu C., Hong X., Zhu Z., Xu X.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061344660&amp;partnerID=40&amp;md5=bd21e8e03acfa98cfd56efa8dc772e05">Machine Tool Digital Twin: Modelling methodology and applications</a></li>
+  <li>Ponomarev K., Kudryashov N., Popelnukha N., Potekhin V.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040747133&amp;doi=10.2507%2f28th.daaam.proceedings.074&amp;partnerID=40&amp;md5=fe6ff3199e8a7881ece41acfead9233f">Main principals and issues of digital twin development for complex technological processes</a></li>
+  <li>Waschull S., Wortmann J.C., Bokhorst J.A.C.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053240877&amp;doi=10.1007%2f978-3-319-99707-0_48&amp;partnerID=40&amp;md5=0e6258d184c4275931acf9aa6d1512a1">Manufacturing Execution Systems: The Next Level of Automated Control or of Shop-Floor Support?</a></li>
+  <li>Janda P.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060116692&amp;doi=10.2507%2f29th.daaam.proceedings.093&amp;partnerID=40&amp;md5=974f0810ca07693906182e95100ff348">Mechatronic concept of heavy machine tools</a></li>
+  <li>Gordon S., Ryan A., Loughlin S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060466674&amp;doi=10.1016%2fj.promfg.2018.10.045&amp;partnerID=40&amp;md5=ec45a1d12ed11c4738620a33f21bda02">Meeting the Needs of Industry in Smart Manufacture - The Definition of a New Profession and a Case Study in Providing the Required Skillset</a></li>
+  <li>Papazoglou M.P.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061305269&amp;doi=10.1109%2fES.2018.00008&amp;partnerID=40&amp;md5=b7b9a1e7d3b5b8621207863dd0490c73">Metaprogramming environment for industry 4.0</a></li>
+  <li>Constantinescu, Carmen; Popescu, Daniela; Todorovic, Oliver; Virlan, Ovidiu; Tinca, Vlad. <a href="https://www.atna-mam.utcluj.ro/index.php/Acta/article/view/1026">METHODOLOGY OF REALISING THE DIGITAL TWINS OF EXOSKELETON-CENTRED WORKPLACES</a></li>
+  <li>Lohtander M., Garcia E., Lanz M., Volotinen J., Ratava J., Kaakkunen J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060459487&amp;doi=10.1016%2fj.promfg.2018.10.071&amp;partnerID=40&amp;md5=3575972bcb15466a45450db5822dc532">Micro Manufacturing Unit - Creating Digital Twin Objects with Common Engineering Software</a></li>
+  <li>Lohtander M., Ahonen N., Lanz M., Ratava J., Kaakkunen J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061942744&amp;doi=10.1016%2fj.promfg.2018.06.057&amp;partnerID=40&amp;md5=4b5ca8ea36af69897b90f90fae57b4cc">Micro Manufacturing Unit and the Corresponding 3D-Model for the Digital Twin</a></li>
+  <li>Radchenko G., Alaasam A., Tchernykh A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061769858&amp;doi=10.1109%2fUCC-Companion.2018.00039&amp;partnerID=40&amp;md5=36ae50f3100b50a24203686d3c89c96d">Micro-Workflows: Kafka and Kepler Fusion to Support Digital Twins of Industrial Processes</a></li>
+  <li>Ullah, A. M. M. Sharif. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1474034618303604">Modeling and simulation of complex manufacturing phenomena using sensor signals from the perspective of Industry 4.0</a></li>
+  <li>Hu L., Nguyen N.-T., Tao W., Leu M.C., Liu X.F., Shahriar M.R., Al Sunny S.M.N.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052894576&amp;doi=10.1016%2fj.promfg.2018.07.155&amp;partnerID=40&amp;md5=1b8d99f49b556b760d1f44c4be8e9a5b">Modeling of Cloud-Based Digital Twins for Smart Manufacturing with MT Connect</a></li>
+  <li>Qi Q., Zhao D., Liao T.W., Tao F.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055031143&amp;doi=10.1115%2fMSEC2018-6435&amp;partnerID=40&amp;md5=ef8e5a3b916b59c64c32087fc2ce3b45">Modeling of cyber-physical systems and digital twin based on edge computing, fog computing and cloud computing towards smart manufacturing</a></li>
+  <li>Zhang Q., Zhang X., Xu W., Liu A., Zhou Z., Pham D.T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85028357999&amp;doi=10.1007%2f978-3-319-65298-6_1&amp;partnerID=40&amp;md5=1df5809505d3b2afd8053140e46aa7b5">Modeling of Digital Twin Workshop Based on Perception Data</a></li>
+  <li>Zenisek J., Wolfartsberger J., Sievi C., Affenzeller M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062289564&amp;doi=10.1007%2f978-3-030-11683-5_20&amp;partnerID=40&amp;md5=26670c9e57bc02de99cbff2b4752fc3a">Modeling Sensor Networks for Predictive Maintenance</a></li>
+  <li>Um J., Popper J., Ruskowski M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050119167&amp;doi=10.1109%2fICPHYS.2018.8390796&amp;partnerID=40&amp;md5=f7398c16900e9a3db4fbc795d7555d27">Modular augmented reality platform for smart operator in production environment</a></li>
+  <li>Vathoopan M., Johny M., Zoitl A., Knoll A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052966280&amp;doi=10.1016%2fj.ifacol.2018.08.470&amp;partnerID=40&amp;md5=fb359b51d73aec2265a6ed4bddfb59da">Modular Fault Ascription and Corrective Maintenance Using a Digital Twin</a></li>
+  <li>Shahriar M.R., Sunny S.M.N.A., Liu X., Leu M.C., Hu L., Nguyen N.-T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051552529&amp;doi=10.1109%2fCSCloud%2fEdgeCom.2018.00018&amp;partnerID=40&amp;md5=f794a1ef95bbc91ca77959c1ad077bcc">MTComm Based Virtualization and Integration of Physical Machine Operations with Digital-Twins in Cyber-Physical Manufacturing Cloud</a></li>
+  <li>Tim Delbrügger, Matthias Meißner, Andreas Wirtz, Dirk Biermann, Johanna Myrzik, Jürgen Rossmann and Petra Wiederkehr  . <a href="http://link.springer.com/article/10.1007/s00170-019-03722-1">Multi-level simulation concept for multidisciplinary analysis and optimization of production systems</a></li>
+  <li>Hauf D., Sus S., Strahilov A., Franke J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041220724&amp;doi=10.1109%2fINDIN.2017.8104925&amp;partnerID=40&amp;md5=d313a79c8d1fcc02196b88ccf9aae623">Multifunctional use of functional mock-up units for application in production engineering</a></li>
+  <li>Demkovich N., Yablochnikov E., Abaev G.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050070699&amp;doi=10.1109%2fICPHYS.2018.8387674&amp;partnerID=40&amp;md5=d4b4cdcc045a17fa35e9c31557568881">Multiscale modeling and simulation for industrial cyber-physical systems</a></li>
+  <li>Wendenburg, Michael. <a href="https://link.springer.com/chapter/10.1007/978-3-319-99707-0_17">Online life cycle assessment for fluid power manufacturing systems - challenges and opportunities</a></li>
+  <li>Teslya N., Ryabchikov I.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058501131&amp;doi=10.1007%2f978-3-030-01818-4_14&amp;partnerID=40&amp;md5=ce949cc87d9ee94e741f880c88682891">Ontology-Based Semantic Models for Industrial IoT Components Representation</a></li>
+  <li>Sreekanth Vasudev Nagar, Arjun C. Chandrashekar &amp; Manish Suvarna. <a href="http://link.springer.com/chapter/10.1007/978-3-030-23162-0_7">Optimized Additive Manufacturing Technology Using Digital Twins and Cyber Physical Systems</a></li>
+  <li>Sun H., Li C., Fang X., Gu H.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049873745&amp;doi=10.1109%2fROBIO.2017.8324685&amp;partnerID=40&amp;md5=5dc8e5c52457fa55e6ea41a26e9de9d4">Optimized throughput improvement of assembly flow line with digital twin online analytics</a></li>
+  <li>Urbina Coronado P.D., Lynn R., Louhichi W., Parto M., Wescoat E., Kurfess T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044527201&amp;doi=10.1016%2fj.jmsy.2018.02.002&amp;partnerID=40&amp;md5=1bd74f090f16112fa7f1b8c83cc8b567">Part data integration in the Shop Floor Digital Twin: Mobile and cloud technologies to enable a manufacturing execution system</a></li>
+  <li>Lutters E.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057464663&amp;doi=10.7166%2f29-3-2047&amp;partnerID=40&amp;md5=94fb7031a00050761f1aedf543f89a26">Pilot production environments driven by digital twins</a></li>
+  <li>Shubenkova K., Valiev A., Mukhametdinov E., Shepelev V., Tsiulin S., Reinau K.H.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060671556&amp;doi=10.1109%2fGloSIC.2018.8570075&amp;partnerID=40&amp;md5=8857aa0e6c2f79467670802937a12be6">Possibility of Digital Twins Technology for Improving Efficiency of the Branded Service System</a></li>
+  <li>Mayes A., Heffernan J., Jauriqui L., Livings R., Biedermann E., Aldrin J.C., Goodlet B.R., Mazdiyasni S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066101591&amp;doi=10.1063%2f1.5099723&amp;partnerID=40&amp;md5=3cc069658c6b203a977ec78a64b633b8">Process compensated resonance testing (PCRT) inversion for material characterization and digital twin calibration</a></li>
+  <li>Nihal DesaiS. K. AnanyaLalit BajajAnupriya PeriwalSantosh R. Desai. <a href="http://link.springer.com/chapter/10.1007/978-3-030-23162-0_8">Process Parameter Monitoring and Control Using Digital Twin</a></li>
+  <li>Nima Alaei, Asko Rouvinen, Aki Mikkola &amp; Raimo Nikkilä . <a href="http://link.springer.com/chapter/10.1007/978-3-658-21300-8_15">Product Processes based on Digital Twin</a></li>
+  <li>Denos B.R., Kravchenko S.G., Pipes R.B.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044622979&amp;partnerID=40&amp;md5=90c50860d95c3fe6eecd81f502e9278a">Progressive failure analysis in platelet based composites using ct-measured local microstructure</a></li>
+  <li>Chhetri S.R., Faezi S., Canedo A., Faruque M.A.A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066035816&amp;doi=10.1145%2f3302505.3310085&amp;partnerID=40&amp;md5=741afa07f5bbba9ab2a548dc3290a5c1">QUILT: Quality Inference from Living Digital Twins in IoT-enabled Manufacturing Systems</a></li>
+  <li>Sharma P., Knezevic D., Huynh P., Malinowski G.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050542260&amp;partnerID=40&amp;md5=9809b94d7cec63a6e532d86fa539636c">RB-FEA based digital twin for structural integrity assessment of Offshore structures</a></li>
+  <li>Samir K., Maffei A., Onori M.A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068482863&amp;doi=10.1016%2fj.procir.2019.03.182&amp;partnerID=40&amp;md5=7594bcd8a111b60febf1f99285c86451">Real-Time asset tracking; a starting point for digital twin implementation in manufacturing</a></li>
+  <li>Scheifele C., Verl A., Riedel O.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065428975&amp;doi=10.1016%2fj.procir.2019.02.104&amp;partnerID=40&amp;md5=9c522daaf90b2f7b39eebfd14b60e974">Real-time co-simulation for the virtual commissioning of production systems</a></li>
+  <li>Tuegel E.J., Ingraffea A.R., Eason T.G., Spottswood S.M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84855216556&amp;doi=10.1155%2f2011%2f154798&amp;partnerID=40&amp;md5=68d20f3618d8ac975e924d76cb094625">Reengineering aircraft structural life prediction using a digital twin</a></li>
+  <li>Boutrot J., Giorgiutti Y., Rezende F., Barras S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85031010118&amp;partnerID=40&amp;md5=de3d90af32b043d571ccb07d928e9be5">Reliable and accurate determination of life extension for offshore units</a></li>
+  <li>Delbrügger T., Rossmann J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064719396&amp;doi=10.1080%2f0951192X.2019.1599433&amp;partnerID=40&amp;md5=fb07fd72953ceee69b1fd2906618b81f">Representing adaptation options in experimentable digital twins of production systems</a></li>
+  <li>Liu L.-L., Wan X., Gao Z., Li X., Feng B.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050691162&amp;doi=10.1007%2fs12652-018-0944-7&amp;partnerID=40&amp;md5=d4623446ec69dc964d5da8d89deb9ee4">Research on modelling and optimization of hot rolling scheduling</a></li>
+  <li>Lu Y., Xu X.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046643014&amp;doi=10.1016%2fj.jmsy.2018.05.003&amp;partnerID=40&amp;md5=a802f5893bb0c44576b08c637fc1e52b">Resource virtualization: A core technology for developing cyber-physical production systems</a></li>
+  <li>Preuveneers D., Joosen W., Ilie-Zudor E.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058969908&amp;doi=10.1109%2fEDOCW.2018.00021&amp;partnerID=40&amp;md5=06d15f456d9988aa502ef3748e4f853f">Robust Digital Twin Compositions for Industry 4.0 Smart Manufacturing Systems</a></li>
+  <li>Kloibhofer R., Kristen E., Jakšić S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053904838&amp;doi=10.1007%2f978-3-319-99229-7_17&amp;partnerID=40&amp;md5=8d9e0794cad63d7532077b073524461a">Safety and Security in a Smart Production Environment</a></li>
+  <li>Cai Y., Starly B., Cohen P., Lee Y.-S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85023642484&amp;doi=10.1016%2fj.promfg.2017.07.094&amp;partnerID=40&amp;md5=7b4b60ae0b5608665e3936abdf356ac7">Sensor Data and Information Fusion to Construct Digital-twins Virtual Machine Tools for Cyber-physical Manufacturing</a></li>
+  <li>Schirmann M., Collette M., Gose J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063962295&amp;partnerID=40&amp;md5=c09065567b996cd1c6d708b67f32a466">Ship motion and fatigue damage estimation via a digital twin</a></li>
+  <li>Martins A., Costelha H., Neves C.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068459523&amp;doi=10.1109%2fICARSC.2019.8733657&amp;partnerID=40&amp;md5=2a99f3fdc2ee43829b4c0ad29e77b022">Shop Floor Virtualization and Industry 4.0</a></li>
+  <li>Damiani L., Demartini M., Giribone P., Maggiani M., Revetria R., Tonelli F.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062620034&amp;partnerID=40&amp;md5=b6b6a8bcff4eacf8297edff00302362c">Simulation and digital twin based design of a production line: A case study</a></li>
+  <li>Haag S., Simon C.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068742668&amp;partnerID=40&amp;md5=6e10fcf97fec2a2ae6cf0c1d1d1eecb4">Simulation of horizontal and vertical integration in digital twins</a></li>
+  <li>Cichon T., Rossmann J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050014713&amp;partnerID=40&amp;md5=8506e55faf7223ea94c40527718135c6">Simulation-based user interfaces for digital twins: Pre-, in-, or post-operational analysis and exploration of virtual testbeds</a></li>
+  <li>Ulrich Dahmen &amp; Jürgen Roßmann . <a href="http://link.springer.com/chapter/10.1007/978-3-662-56714-2_16">Simulation-based Verification with Experimentable Digital Twins in Virtual Testbeds</a></li>
+  <li>Lee H., Kim T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052236749&amp;doi=10.24507%2ficicelb.09.09.931&amp;partnerID=40&amp;md5=b049d0ed1c11d2a796362cdc9eb1820b">Smart factory use case model based on digital twin</a></li>
+  <li>Adam Hehr, Mark Norfolk, John Sheridan, Matthew Davis, William Leser, Patrick Leser &amp; John A. Newman . <a href="http://link.springer.com/article/10.1007/s11837-018-3297-y">Spatial Strain Sensing Using Embedded Fiber Optics</a></li>
+  <li>Sahoo A.K., Majumder U., Nielsen M.W., Garm J.H.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042679024&amp;doi=10.1115%2fGTINDIA2017-4603&amp;partnerID=40&amp;md5=96d4b47f71d4990693cbda36a7ad4d5d">Strength of shear web with circular hole in wind turbine blades and using digital twining concept to reduce material testing</a></li>
+  <li>Seshadri B.R., Krishnamurthy T.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85017557088&amp;partnerID=40&amp;md5=289a6bc84cc210ee47e004bdd5b58fdd">Structural health management of damaged aircraft structures using the digital twin concept</a></li>
+  <li>Ardanza A., Moreno A., Segura Á., de la Cruz M., Aguinaga D.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061078981&amp;doi=10.1080%2f00207543.2019.1572932&amp;partnerID=40&amp;md5=1d0653ac89d61717d285e6aec71b286f">Sustainable and flexible industrial human machine interfaces to support adaptable applications in the Industry 4.0 paradigm</a></li>
+  <li>Gupta A., Basu B.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065994375&amp;doi=10.1007%2fs12666-019-01699-9&amp;partnerID=40&amp;md5=a2bc3eb8738eff9e9c4f9cba3d4352ee">Sustainable Primary Aluminium Production: Technology Status and Future Opportunities</a></li>
+  <li>Beregi R., Szaller Á., Kádár B.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052907843&amp;doi=10.1016%2fj.ifacol.2018.08.473&amp;partnerID=40&amp;md5=1054a22a37253282cc053289afe2286f">Synergy of multi-modelling for process control</a></li>
+  <li>Willi Theodor Gruender. <a href="http://link.springer.com/chapter/10.1007/978-3-319-45447-4_26">Systems Engineering Requires Digital Twins of Machine Elements</a></li>
+  <li>Tuegel E.J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84881387801&amp;partnerID=40&amp;md5=c5457898beb48560d64345fb04bb5e74">The airframe digital twin: Some challenges to realization</a></li>
+  <li>Konstantinov S., Ahmad M., Ananthanarayan K., Harrison R.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85028642327&amp;doi=10.1016%2fj.procir.2017.02.035&amp;partnerID=40&amp;md5=09641c0a486f1e930225add57f6a2d84">The Cyber-Physical e-machine Manufacturing System: Virtual Engineering for Complete Lifecycle Support</a></li>
+  <li>Sharma P., Hamedifar H., Brown A., Green R.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85030721863&amp;partnerID=40&amp;md5=c5569a505cd3df04641fa2cf033f7ba8">The dawn of the new age of the industrial internet and how it can radically transform the offshore oil and gas industry</a></li>
+  <li>Zakrajsek A.J., Mall S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85017343195&amp;partnerID=40&amp;md5=774bbb481435eb8118cc7c17fc1b5deb">The development and use of a digital twin model for tire touchdown health monitoring</a></li>
+  <li>Nikolakis N., Alexopoulos K., Xanthakis E., Chryssolouris G.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85054903830&amp;doi=10.1080%2f0951192X.2018.1529430&amp;partnerID=40&amp;md5=102ce9e583ebc3b0d7847e350c5ba93e">The digital twin implementation for linking the virtual representation of human-based production tasks to their physical counterpart in the factory-floor</a></li>
+  <li>Vachalek J., Bartalsky L., Rovny O., Sismisova D., Morhac M., Loksik M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85027512911&amp;doi=10.1109%2fPC.2017.7976223&amp;partnerID=40&amp;md5=31bb2e758a775ddea30b1d66b905d3b7">The digital twin of an industrial production line within the industry 4.0 concept</a></li>
+  <li>Glaessgen E.H., Stargel D.S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-84881388851&amp;partnerID=40&amp;md5=76921d9a4627f52dfccb21e0f7a9d767">The digital twin paradigm for future NASA and U.S. air force vehicles</a></li>
+  <li>Van Os J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059368626&amp;partnerID=40&amp;md5=b516944159e49a1de65ab65fd6b981cf">The digital twin throughout the lifecycle</a></li>
+  <li>Uhlemann T.H.-J., Lehmann C., Steinhilper R.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85019987476&amp;doi=10.1016%2fj.procir.2016.11.152&amp;partnerID=40&amp;md5=c5731a8c442c5dd06d70f59e9dc90f1f">The Digital Twin: Realizing the Cyber-Physical Production System for Industry 4.0</a></li>
+  <li>Oyekan J.O., Hutabarat W., Tiwari A., Grech R., Aung M.H., Mariani M.P., López-Dávalos L., Ricaud T., Singh S., Dupuis C.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050539782&amp;doi=10.1016%2fj.rcim.2018.07.006&amp;partnerID=40&amp;md5=8f0ebec9211086f7f7bd2a6445b8ca1d">The effectiveness of virtual environments in developing collaborative strategies between industrial robots and humans</a></li>
+  <li>Bao J., Guo D., Li J., Zhang J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85054319262&amp;doi=10.1080%2f17517575.2018.1526324&amp;partnerID=40&amp;md5=e0c5409bd6a34981f415e87ff12b56a1">The modelling and operations for the digital twin in the context of manufacturing</a></li>
+  <li>Zakoldaev D.A., Gurjanov A.V., Shukalov A.V., Zharinov I.O.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068697438&amp;doi=10.1088%2f1757-899X%2f537%2f3%2f032009&amp;partnerID=40&amp;md5=ca3560547a1dc820648432b75ea3107d">The projection of cyber and physical systems digital twins in the stage of production technological preparation of the Industry 4.0 smart factories</a></li>
+  <li>Liu Z., Meyendorf N., Mrad N.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046491768&amp;doi=10.1063%2f1.5031520&amp;partnerID=40&amp;md5=a186df2ecbd7d558d3cfb74126036faa">The Role of Data Fusion in Predictive Maintenance Using Digital Twin</a></li>
+  <li>Wagner C., Grothoff J., Epple U., Drath R., Malakuti S., Grüner S., Hoffmeister M., Zimermann P.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044475829&amp;doi=10.1109%2fETFA.2017.8247583&amp;partnerID=40&amp;md5=42c417f0f781f997a3b620f673f11e9c">The role of the Industry 4.0 asset administration shell and the digital twin during the life cycle of a plant</a></li>
+  <li>Tygesen U.T., Jepsen M.S., Vestermark J., Dollerup N., Pedersen A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055500513&amp;doi=10.1115%2fOMAE2018-77915&amp;partnerID=40&amp;md5=64e908f7262f839755330cf85e97d6e8">THE TRUE DIGITAL TWIN CONCEPT FOR FATIGUE RE-ASSESSMENT OF MARINE STRUCTURES</a></li>
+  <li>Wang H., Zhou M., Liu B.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060401975&amp;doi=10.1115%2fIMECE2018-86645&amp;partnerID=40&amp;md5=cf1b3fa8899f13d9d2fcb839ee922a44">Tolerance allocation with simulation-based digital twin for CFRP-metal countersunk bolt joint</a></li>
+  <li>Ehab EssaM. Shamim HossainA. S. TolbaHazem M. RaafatSamir ElmogyGhulam Muahmmad. <a href="http://link.springer.com/article/10.1007/s00521-018-03969-x">Toward cognitive support for automated defect detection</a></li>
+  <li>Mavris D.N., Balchanos M., Pinon O.J., Sung W.J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044594415&amp;doi=10.2514%2f6.2018-1367&amp;partnerID=40&amp;md5=6f0122d93905a1f0280656fa68db129f">Towards a digital thread-enabled framework for the analysis and design of intelligent systems</a></li>
+  <li>Heber D., Groll M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85029804429&amp;partnerID=40&amp;md5=7284deb46866017645b78f3350c41cc7">Towards a digital twin: How the blockchain can foster E/E-traceability in consideration of model-based systems engineering</a></li>
+  <li>Landahl J., Panarotto M., Johannesson H., Isaksson O., Lööf J.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057198104&amp;partnerID=40&amp;md5=e3cc473a745bb18fc35f65ab6618bc55">Towards adopting digital twins to support design reuse during platform concept development</a></li>
+  <li>Miller A.M., Alvarez R., Hartman N.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045764439&amp;doi=10.1080%2f16864360.2018.1462569&amp;partnerID=40&amp;md5=c1c66efc7c3805a6277084f8a48e4c76">Towards an extended model-based definition for the digital twin</a></li>
+  <li>Minos-Stensrud M., Haakstad O.H., Sakseid O., Westby B., Alcocer A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060457789&amp;partnerID=40&amp;md5=59897298976f00d16896b8d7cda272a9">Towards Automated 3D reconstruction in SME factories and Digital Twin Model generation</a></li>
+  <li>Rabah S., Assila A., Khouri E., Maier F., Ababsa F., Bourny V., Maier P., Mérienne F.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060449033&amp;doi=10.1016%2fj.promfg.2018.10.070&amp;partnerID=40&amp;md5=c6d2df0becc22dabbb63ceeddd822ab7">Towards improving the future of manufacturing through digital twin and augmented reality technologies</a></li>
+  <li>Matthias Eckhart, Andreas Ekelhart. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056740434&amp;doi=10.1145%2f3198458.3198464&amp;partnerID=40&amp;md5=91899c41aa8079cc393cde4ab101a9aa">Towards Security-Aware Virtual Environments for Digital Twins</a></li>
+  <li>Michael BorthEmile van Gerwen. <a href="http://link.springer.com/chapter/10.1007/978-3-030-04209-7_6">Tracking Dynamics in Concurrent Digital Twins</a></li>
+  <li>Longo F., Nicoletti L., Padovano A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061114150&amp;doi=10.1016%2fj.arcontrol.2019.01.001&amp;partnerID=40&amp;md5=3c80a4ba22565b7fb6d73fe6aae68b72">Ubiquitous knowledge empowers the Smart Factory: The impacts of a Service-oriented Digital Twin on enterprises’ performance</a></li>
+  <li>Xia K., Sacco C., Kirkpatrick M., Harik R., Bayoumi A.-M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068772212&amp;partnerID=40&amp;md5=144f3b9238002a2b33c246882ddfe21b">Virtual commissioning - Scientific review and exploratory use cases in advanced production systems</a></li>
+  <li>Moreno A., Velez G., Ardanza A., Barandiaran I., de Infante Á.R., Chopitea R.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018352966&amp;doi=10.1007%2fs12008-016-0319-2&amp;partnerID=40&amp;md5=7d619fe26a0cad170d01a2cb820e1fca">Virtualisation process of a sheet metal punching machine within the Industry 4.0 vision</a></li>
+  <li>I. Halenar; M. Juhas; B. Juhasova; D. Borkin. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8765940">Virtualization of Production Using Digital Twin Technology</a></li>
+  <li>Zhu Z., Liu C., Xu X.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068461617&amp;doi=10.1016%2fj.procir.2019.03.223&amp;partnerID=40&amp;md5=ae564c260cbdca12b7fd621206398a6d">Visualisation of the digital twin data in manufacturing by using augmented reality</a></li>
+  <li>Christophe LeyStÃ©phane P. A. Bordas. <a href="http://link.springer.com/article/10.1007/s41060-017-0090-x">What makes Data Science different? A discussion involving Statistics2.0 and Computational Sciences</a></li>
+</ul>
+
+<h4 id="mining">Mining</h4>
+
+<ul>
+  <li>Saini G., Ashok P., van Oort E., Isbell M.R.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053616401&amp;doi=10.15530%2furtec-2018-2902186&amp;partnerID=40&amp;md5=b027bea8b8d2d000d6f2ed14220f00ce">Accelerating well construction using a digital twin demonstrated on unconventional well data in North America</a></li>
+  <li>Hlady J., Glanzer M., Fugate L.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056862969&amp;doi=10.1115%2fIPC2018-78146&amp;partnerID=40&amp;md5=a7c3099497d48fc6c35c09507fb54712">Automated creation of the pipeline digital twin during construction - Improvement to construction quality and pipeline integrity</a></li>
+  <li>Pivano L., Nguyen D.T., Ludvigsen K.B.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066606609&amp;partnerID=40&amp;md5=cfd79ae3f0ecc5e26144b12a334225e5">Digital twin for drilling operations - Towards cloud-based operational planning</a></li>
+  <li>Nadhan D., Mayani M.G., Rommetveit R.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053385966&amp;partnerID=40&amp;md5=5aae7dfec4a913b1b953b24570775cb8">Drilling with digital twins</a></li>
+  <li>Islavath S.R., Deb D., Kumar H.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068976340&amp;doi=10.1007%2fs12517-019-4574-y&amp;partnerID=40&amp;md5=34eb265643c214df22e0ab357bff2351">Life cycle analysis and damage prediction of a longwall powered support using 3D numerical modelling techniques</a></li>
+  <li>Wagg D.J., Gardner P., Barthorpe R.J., Worden K.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067343526&amp;doi=10.1007%2f978-3-030-12075-7_30&amp;partnerID=40&amp;md5=4e746377f7b3f059bad21d277f39a934">On Key Technologies for Realising Digital Twins for Structural Dynamics Applications</a></li>
+  <li>Thoresen K.E., Kyllingstad Å., Hovland S., Hetland A.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063135152&amp;partnerID=40&amp;md5=7c80f977a9fe92ce9af889349b0a0f99">Using an advanced digital twin to improve downhole pressure control</a></li>
+  <li>Xie J., Wang X., Yang Z., Hao S.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060570903&amp;doi=10.1080%2f25726668.2019.1569367&amp;partnerID=40&amp;md5=1b35293ede2b80f40058ad5ed448d592">Virtual monitoring method for hydraulic supports based on digital twin theory</a></li>
+  <li>Burrafato S., Maliardi A., Ferrara P., Grasso T., De Marchi E., Campaci R.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066805784&amp;partnerID=40&amp;md5=c7f49445cb1691c4a1707874b3df74f4">Virtual reality in D&amp;C: New approaches towards well digital twins</a></li>
+</ul>
+
+<h4 id="transport-and-storage">Transport and Storage</h4>
+
+<ul>
+  <li>Kaewunruen S., Lian Q.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065500423&amp;doi=10.1016%2fj.jclepro.2019.04.156&amp;partnerID=40&amp;md5=0e84e0f706252c9d902bb9b7bfe1a1ae">Digital twin aided sustainability-based lifecycle management for railway turnout systems</a></li>
+  <li>Petković T., Puljiz D., Marković I., Hein B.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058231091&amp;doi=10.1016%2fj.rcim.2018.11.004&amp;partnerID=40&amp;md5=670b9f03eace5c86151e43ad8489d9b7">Human intention estimation based on hidden Markov model motion validation for safe flexible robotized warehouses</a></li>
+  <li>Krajcovic M., Grznar P., Fusko M., Skokan R.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058798736&amp;partnerID=40&amp;md5=03463ae5f86b4bd6afd0a36c41e8a9f4">Intelligent logistics for intelligent production systems</a></li>
+  <li>Gonzalez M., Salgado O., Croes J., Pluymers B., Desmet W.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063747645&amp;doi=10.1007%2f978-3-030-11220-2_9&amp;partnerID=40&amp;md5=eb4acd573aae581278ba7916bea0f0aa">Model-Based State Estimation for the Diagnosis of Multiple Faults in Non-linear Electro-Mechanical Systems</a></li>
+  <li>Korth B., Schwede C., Zajac M.. <a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062622178&amp;doi=10.1109%2fBigData.2018.8622160&amp;partnerID=40&amp;md5=30e7d559167d54788070a17a74bfd2ab">Simulation-ready digital twin for realtime management of logistics systems</a></li>
+  <li>Baruffaldi, Giulia; Accorsi, Riccardo; Manzini, Riccardo. <a href="https://www.emerald.com/insight/content/doi/10.1108/IMDS-01-2018-0033/full/html">Warehouse management system customization and information availability in 3pl companies A decision-support tool</a></li>
+</ul>
+
+<h3 id="related-topics">Related Topics</h3>
+
+<p>Find other research topics from my <a href="http://www.wortmann.ac/research">research</a> website.</p>
+
+  </article>
+
+</div>
+
+    </div>
+
+    <!-- Footer -->
+
+    
+<footer class="fixed-bottom">
+  <div class="container mt-0">
+    &copy; Copyright 2026 Andreas Wortmann.
+    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+
+    
+  </div>
+</footer>
+
+
+
+  </body>
+
+  <!-- Load Core and Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.4.0/umd/popper.min.js" integrity="sha256-OH05DFHUWzr725HmuHo3pnuvUUn+TJuj8/Qz9xytFEw=" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.17.0/js/mdb.min.js"  integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+<!-- Load Common JS -->
+<script src="/assets/js/common.js"></script>
+
+<!-- Code Syntax Highlighting -->
+<link rel="stylesheet" href="https://gitcdn.link/repo/jwarby/jekyll-pygments-themes/master/github.css" />
+
+
+<!-- Load KaTeX -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.css" integrity="sha256-V8SV2MO1FUb63Bwht5Wx9x6PVHNa02gv8BgH/uH3ung=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.js" integrity="sha256-F/Xda58SPdcUCr+xhSGz9MA2zQBPb0ASEYKohl8UCHc=" crossorigin="anonymous"></script>
+<script src="/assets/js/katex.js"></script>
+
+
+
+<!-- Load Mansory & imagesLoaded -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js" integrity="" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+
+<!-- Project Cards Layout -->
+<script type="text/javascript">
+  // Init Masonry
+  var $grid = $('.grid').masonry({
+    gutter: 10,
+    horizontalOrder: true,
+    itemSelector: '.grid-item',
+  });
+  // layout Masonry after each image loads
+  $grid.imagesLoaded().progress( function() {
+    $grid.masonry('layout');
+  });
+</script>
+
+
+
+
+
+
+
+</html>

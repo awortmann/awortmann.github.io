@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Andreas Wortmann | Andreas Wortmann</title>
+<title>Andreas Wortmann | Digital Twin Reading List</title>
 <meta name="description" content="Researching in model-driven software engineering, software language engineering, software architectures and applying it to automotive, Industry 4.0, robotics, and more since 2011. 
 ">
 
@@ -23,27 +23,27 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/research/digital-twin-reading/">
 
 <!-- Open Graph -->
 
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Andreas Wortmann | Researching in model-driven software engineering, software language engineering, software architectures and applying it to automotive, Industry 4.0, robotics, and more since 2011.</title>
+<title>Digital Twin Reading List | Andreas Wortmann</title>
 <meta name="generator" content="Jekyll v3.9.5" />
-<meta property="og:title" content="Andreas Wortmann" />
+<meta property="og:title" content="Digital Twin Reading List" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Researching in model-driven software engineering, software language engineering, software architectures and applying it to automotive, Industry 4.0, robotics, and more since 2011." />
-<meta property="og:description" content="Researching in model-driven software engineering, software language engineering, software architectures and applying it to automotive, Industry 4.0, robotics, and more since 2011." />
-<link rel="canonical" href="https://awortmann.github.io/blog/" />
-<meta property="og:url" content="https://awortmann.github.io/blog/" />
+<meta name="description" content="An initial reading list on digital twins" />
+<meta property="og:description" content="An initial reading list on digital twins" />
+<link rel="canonical" href="https://awortmann.github.io/research/digital-twin-reading/" />
+<meta property="og:url" content="https://awortmann.github.io/research/digital-twin-reading/" />
 <meta property="og:site_name" content="Andreas Wortmann" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Andreas Wortmann" />
+<meta property="twitter:title" content="Digital Twin Reading List" />
 <meta name="twitter:site" content="@andwor" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Researching in model-driven software engineering, software language engineering, software architectures and applying it to automotive, Industry 4.0, robotics, and more since 2011.","headline":"Andreas Wortmann","url":"https://awortmann.github.io/blog/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"An initial reading list on digital twins","headline":"Digital Twin Reading List","url":"https://awortmann.github.io/research/digital-twin-reading/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -200,18 +200,68 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Digital Twin Reading List</h1>
+    <p class="post-description">An initial reading list on digital twins</p>
+  </header>
+
+  <article>
+    <h2 id="concepts-and-terminology">Concepts and Terminology</h2>
+
+<h4 id="what-makes-a-digital-twin-a-digital-twin">What makes a digital twin a digital twin?</h4>
+
+<p>This is one of the essential questions in the field of digital twins and there are various publications and conceptual models giving different answers (see the 112 definitions of digital twins <a href="https://awortmann.github.io/research//digital-twin-definitions/">collected here</a>). Yet, the definition based on data flows [KKT+18] is the only one that distinguishes digital twins from other kinds of systems qualitatively by investigating the data flows between the digital twin and the twinned system. The gap of not explaining what a digital twin consists of is filled by the 5D model of digital twins [TZL+18] according to which a digital twin comprises</p>
+<ul>
+  <li>(a connection to the) twinned system,</li>
+  <li>data from and about that system as well as data produced by the digital twin itself,</li>
+  <li>models about that system and models used by the digital twin,</li>
+  <li>added-value services, and</li>
+  <li>connections between these.</li>
+</ul>
+
+<h4 id="what-is-the-field-doing-regarding-the-engineering-of-digital-twins">What is the field doing regarding the engineering of digital twins?</h4>
+
+<p>While there are many surveys on different aspects of digital twins, there are very few surveys analyzing how digital twins are created across all disciplines. 
+We analyzed 356 publications to uncover their conceptual properties, engineering methods, deployment, and evaluation [DJR+22]. Key findings include the predominant use of Digital Twins in manufacturing for behavior optimization and monitoring, the importance of models and real-time data, and the need for further research on standardization, tool support, and quality assurance.</p>
+
+<h2 id="digital-twin-exemplars">Digital Twin Exemplars</h2>
+
+<ul>
+  <li><strong>Injection Molding</strong> [BDH+20]: This paper presents a model-driven approach for developing a Digital Twin (DT) tailored to injection molding, utilizing domain-specific languages (DSLs) and a reference architecture to automate tasks like Design of Experiment (DoE) optimization and reactive system behavior. It demonstrates the DT’s effectiveness in real-world Cyber-Physical Production Systems (CPPSs) by enabling autonomous parameter adjustments and data-driven process improvements, reducing manual effort and enhancing production efficiency.</li>
+</ul>
+
+<h2 id="bibliography">Bibliography</h2>
+
+<ul>
+  <li>[BDH+20] Bibow, P., Dalibor, M., Hopmann, C., Mainz, B., Rumpe, B., Schmalzing, D., … &amp; Wortmann, A. (2020). Model-driven development of a digital twin for injection molding. In International Conference on Advanced Information Systems Engineering (pp. 85-100). Cham: Springer International Publishing.</li>
+  <li>[DJR+22] Dalibor, M., Jansen, N., Rumpe, B., Schmalzing, D., Wachtmeister, L., Wimmer, M., &amp; Wortmann, A. (2022). <a href="https://www.sciencedirect.com/science/article/pii/S0164121222000917">A cross-domain systematic mapping study on software engineering for digital twins</a>. Journal of Systems and Software, 193, 111361.</li>
+  <li>[KKT+18] Kritzinger, W., Karner, M., Traar, G., Henjes, J., &amp; Sihn, W. (2018). <a href="https://www.sciencedirect.com/science/article/pii/S2405896318316021">Digital Twin in manufacturing: A categorical literature review and classification</a>. Ifac-PapersOnline, 51(11), 1016-1022.</li>
+  <li>[TZL+18] Tao, F., Zhang, H., Liu, A., &amp; Nee, A. Y. (2018). <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8477101&amp;casa_token=PQm7GatFGw0AAAAA:HFsG-w4vMZUwz3nc3qO-6Xln2JA6HC8MyHtnyG5mtVcuPgUeXLL-c3HRhgCpv5zELVBPb-pq4bA">Digital twin in industry: State-of-the-art</a>. IEEE Transactions on industrial informatics, 15(4), 2405-2415.</li>
+</ul>
+
+<h2 id="further-reading">Further Reading</h2>
+
+<h4 id="conferences">Conferences</h4>
+
+<ul>
+  <li><a href="https://conf.researchr.org/home/edtconf-2025">Engineering Digital Twins (EDTconf)</a></li>
+  <li><a href="http://www.dtiac.com/">DigiTwin</a></li>
+</ul>
+
+<h4 id="workshops">Workshops</h4>
+
+<ul>
+  <li><a href="comodity.github.io">Conceptual Modeling for Digital Twins (CoMoDiTy)</a></li>
+  <li><a href="https://www.iese.fraunhofer.de/en/events/twinarch-dte.html">Digital Twin Architecture (TwinArch) and Digital Twin Engineering (DTE)</a></li>
+  <li><a href="https://distributeddigitaltwins.github.io/2025/">Distributed Digital Twins (DiDiT)</a></li>
+  <li><a href="https://dat-workshop.github.io/">Digital Twin-enabled Autonomous Systems and Agents (DAT)</a></li>
+  <li><a href="https://hakiri.github.io/Midd4DT/">Middleware for Digital Twin (Midd4DT)</a></li>
+  <li><a href="https://gemoc.org/events/moddit2023.html">Model-Driven Engineering of Digital Twins (MoDDiT)</a></li>
+  <li><a href="https://midas4cs.github.io/2025">Modelling and Implementation of Digital Twins for Complex Systems (MIDas4CS)</a></li>
+</ul>
 
 
-  <ul class="post-list">
-    
-  </ul>
-
-  
-
+  </article>
 
 </div>
 

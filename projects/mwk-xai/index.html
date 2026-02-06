@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>Andreas Wortmann | Explainable AI for Manufacturing</title>
+<meta name="description" content="Researching in model-driven software engineering, software language engineering, software architectures and applying it to automotive, Industry 4.0, robotics, and more since 2011. 
+">
+
+<!-- Bootstrap & MDB -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.17.0/css/mdb.min.css" integrity="sha256-/SwJ2GDcEt5382i8zqDwl36VJGECxEoIcBIuoLmLR4g=" crossorigin="anonymous" />
+
+<!-- Fonts & Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"  integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+
+<!-- Styles -->
+<link rel="shortcut icon" href="/assets/img/favicon.ico">
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<link rel="canonical" href="/projects/mwk-xai/">
+
+<!-- Open Graph -->
+
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Explainable AI for Manufacturing | Andreas Wortmann</title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="Explainable AI for Manufacturing" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Additive-subtractive component manufacturing, i.e., the combination of additive manufacturing and subsequent subtractive mechanical post-processing of the components, places the highest demands on the control and mutual coordination of the individual process steps with regard to the manufacture of highly stressed components (e.g., in aerospace, automotive or medical technology) and the generation of their quality characteristics and functional properties. Many effects within the processes and in particular interactions (e.g., effect of component distortion on allowance, process forces and resulting surfaces, e.g., temperature control, microstructure generation or influence and subsequent component strength) have not yet been fully understood and currently elude comprehensive observation, control and process regulation due to a lack of metrological solutions and digital description approaches. Here, there is particular potential for the use of artificial intelligence and machine learning methods, as well as targeted and adapted software engineering. The goal should be to be able to describe the relationships in such a way that observation and adaptation of the processes and the process chain is made possible in such a way that the required properties (e.g., tolerances, surface and edge zone characteristics, strength, etc.) of the manufactured components are achieved with maximum process reliability. This requires the linking of several learning domains, e.g., by means of transfer learning. For this purpose, an explainable (XAI) method is to be designed and implemented." />
+<meta property="og:description" content="Additive-subtractive component manufacturing, i.e., the combination of additive manufacturing and subsequent subtractive mechanical post-processing of the components, places the highest demands on the control and mutual coordination of the individual process steps with regard to the manufacture of highly stressed components (e.g., in aerospace, automotive or medical technology) and the generation of their quality characteristics and functional properties. Many effects within the processes and in particular interactions (e.g., effect of component distortion on allowance, process forces and resulting surfaces, e.g., temperature control, microstructure generation or influence and subsequent component strength) have not yet been fully understood and currently elude comprehensive observation, control and process regulation due to a lack of metrological solutions and digital description approaches. Here, there is particular potential for the use of artificial intelligence and machine learning methods, as well as targeted and adapted software engineering. The goal should be to be able to describe the relationships in such a way that observation and adaptation of the processes and the process chain is made possible in such a way that the required properties (e.g., tolerances, surface and edge zone characteristics, strength, etc.) of the manufactured components are achieved with maximum process reliability. This requires the linking of several learning domains, e.g., by means of transfer learning. For this purpose, an explainable (XAI) method is to be designed and implemented." />
+<link rel="canonical" href="https://awortmann.github.io/projects/mwk-xai/" />
+<meta property="og:url" content="https://awortmann.github.io/projects/mwk-xai/" />
+<meta property="og:site_name" content="Andreas Wortmann" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2026-02-06T20:01:18+01:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Explainable AI for Manufacturing" />
+<meta name="twitter:site" content="@andwor" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2026-02-06T20:01:18+01:00","datePublished":"2026-02-06T20:01:18+01:00","description":"Additive-subtractive component manufacturing, i.e., the combination of additive manufacturing and subsequent subtractive mechanical post-processing of the components, places the highest demands on the control and mutual coordination of the individual process steps with regard to the manufacture of highly stressed components (e.g., in aerospace, automotive or medical technology) and the generation of their quality characteristics and functional properties. Many effects within the processes and in particular interactions (e.g., effect of component distortion on allowance, process forces and resulting surfaces, e.g., temperature control, microstructure generation or influence and subsequent component strength) have not yet been fully understood and currently elude comprehensive observation, control and process regulation due to a lack of metrological solutions and digital description approaches. Here, there is particular potential for the use of artificial intelligence and machine learning methods, as well as targeted and adapted software engineering. The goal should be to be able to describe the relationships in such a way that observation and adaptation of the processes and the process chain is made possible in such a way that the required properties (e.g., tolerances, surface and edge zone characteristics, strength, etc.) of the manufactured components are achieved with maximum process reliability. This requires the linking of several learning domains, e.g., by means of transfer learning. For this purpose, an explainable (XAI) method is to be designed and implemented.","headline":"Explainable AI for Manufacturing","mainEntityOfPage":{"@type":"WebPage","@id":"https://awortmann.github.io/projects/mwk-xai/"},"url":"https://awortmann.github.io/projects/mwk-xai/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+
+
+
+  </head>
+
+  <body class="fixed-top-nav ">
+
+    <!-- Header -->
+
+    <header>
+
+    <!-- Nav Bar -->
+    <nav id="navbar" class="navbar navbar-light bg-white navbar-expand-sm fixed-top">
+    <div class="container">
+      
+      
+      
+      
+      
+      <a class="navbar-brand title font-weight-lighter" href="https://awortmann.github.io/">
+       <span class="font-weight-bold">Andreas</span>   Wortmann
+      </a>
+      
+      <!-- Navbar Toogle -->
+      <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+      <div class="collapse navbar-collapse text-right" id="navbarNav">
+        <ul class="navbar-nav ml-auto flex-nowrap">
+          <!-- About -->
+          <li class="nav-item ">
+            <a class="nav-link" href="/">
+              About
+              
+            </a>
+          </li>
+          
+          <!-- Other pages -->
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/publications/">
+                Publications
+                
+              </a>
+          </li>
+          
+          
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/research/">
+                Research
+                
+              </a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/projects/">
+                Selected Projects
+                
+              </a>
+          </li>
+          
+          
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/service/">
+                Service
+                
+              </a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/teaching/">
+                Teaching
+                
+              </a>
+          </li>
+          
+          
+          
+          
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+</header>
+
+
+    <!-- Content -->
+
+    <div class="container mt-5">
+      <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Explainable AI for Manufacturing</h1>
+    <p class="post-description"></p>
+  </header>
+
+  <article>
+    <p>Additive-subtractive component manufacturing, i.e., the combination of additive manufacturing and subsequent subtractive mechanical post-processing of the components, places the highest demands on the control and mutual coordination of the individual process steps with regard to the manufacture of highly stressed components (e.g., in aerospace, automotive or medical technology) and the generation of their quality characteristics and functional properties. Many effects within the processes and in particular interactions (e.g., effect of component distortion on allowance, process forces and resulting surfaces, e.g., temperature control, microstructure generation or influence and subsequent component strength) have not yet been fully understood and currently elude comprehensive observation, control and process regulation due to a lack of metrological solutions and digital description approaches. Here, there is particular potential for the use of artificial intelligence and machine learning methods, as well as targeted and adapted software engineering. The goal should be to be able to describe the relationships in such a way that observation and adaptation of the processes and the process chain is made possible in such a way that the required properties (e.g., tolerances, surface and edge zone characteristics, strength, etc.) of the manufactured components are achieved with maximum process reliability. This requires the linking of several learning domains, e.g., by means of transfer learning. For this purpose, an explainable (XAI) method is to be designed and implemented.</p>
+
+<h3 id="publications">Publications</h3>
+
+<p>The complete list of publications is available from my <a href="https://awortmann.github.io/publications/">publications</a> website.</p>
+
+<h3 id="info">Info</h3>
+
+<ul>
+  <li>Funded by the <a href="https://mwk.baden-wuerttemberg.de/">Ministerium für Wissenschaft, Forschung und Kunst (MKW)</a> of Baden-Württemberg.</li>
+  <li><a href="https://www.aisa.uni-stuttgart.de/research/">Project website</a></li>
+</ul>
+
+<h3 id="related-topics">Related Topics</h3>
+
+<p>→ <a href="https://wortmann.ac/dts/">Digital Twins</a>
+→ <a href="https://wortmann.ac/i40/">Industry 4.0</a></p>
+
+  </article>
+
+</div>
+
+    </div>
+
+    <!-- Footer -->
+
+    
+<footer class="fixed-bottom">
+  <div class="container mt-0">
+    &copy; Copyright 2026 Andreas Wortmann.
+    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+
+    
+  </div>
+</footer>
+
+
+
+  </body>
+
+  <!-- Load Core and Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.4.0/umd/popper.min.js" integrity="sha256-OH05DFHUWzr725HmuHo3pnuvUUn+TJuj8/Qz9xytFEw=" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.17.0/js/mdb.min.js"  integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+<!-- Load Common JS -->
+<script src="/assets/js/common.js"></script>
+
+<!-- Code Syntax Highlighting -->
+<link rel="stylesheet" href="https://gitcdn.link/repo/jwarby/jekyll-pygments-themes/master/github.css" />
+
+
+<!-- Load KaTeX -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.css" integrity="sha256-V8SV2MO1FUb63Bwht5Wx9x6PVHNa02gv8BgH/uH3ung=" crossorigin="anonymous" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.js" integrity="sha256-F/Xda58SPdcUCr+xhSGz9MA2zQBPb0ASEYKohl8UCHc=" crossorigin="anonymous"></script>
+<script src="/assets/js/katex.js"></script>
+
+
+
+<!-- Load Mansory & imagesLoaded -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js" integrity="" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+
+<!-- Project Cards Layout -->
+<script type="text/javascript">
+  // Init Masonry
+  var $grid = $('.grid').masonry({
+    gutter: 10,
+    horizontalOrder: true,
+    itemSelector: '.grid-item',
+  });
+  // layout Masonry after each image loads
+  $grid.imagesLoaded().progress( function() {
+    $grid.masonry('layout');
+  });
+</script>
+
+
+
+
+
+
+
+</html>

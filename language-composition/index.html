@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Andreas Wortmann | Andreas Wortmann</title>
+<title>Andreas Wortmann | Composition Operators for Modeling Languages - A Literature Review</title>
 <meta name="description" content="Researching in model-driven software engineering, software language engineering, software architectures and applying it to automotive, Industry 4.0, robotics, and more since 2011. 
 ">
 
@@ -23,27 +23,27 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/language-composition/">
 
 <!-- Open Graph -->
 
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Andreas Wortmann | Researching in model-driven software engineering, software language engineering, software architectures and applying it to automotive, Industry 4.0, robotics, and more since 2011.</title>
+<title>Composition Operators for Modeling Languages - A Literature Review | Andreas Wortmann</title>
 <meta name="generator" content="Jekyll v3.9.5" />
-<meta property="og:title" content="Andreas Wortmann" />
+<meta property="og:title" content="Composition Operators for Modeling Languages - A Literature Review" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Researching in model-driven software engineering, software language engineering, software architectures and applying it to automotive, Industry 4.0, robotics, and more since 2011." />
 <meta property="og:description" content="Researching in model-driven software engineering, software language engineering, software architectures and applying it to automotive, Industry 4.0, robotics, and more since 2011." />
-<link rel="canonical" href="https://awortmann.github.io/blog/" />
-<meta property="og:url" content="https://awortmann.github.io/blog/" />
+<link rel="canonical" href="https://awortmann.github.io/language-composition/" />
+<meta property="og:url" content="https://awortmann.github.io/language-composition/" />
 <meta property="og:site_name" content="Andreas Wortmann" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Andreas Wortmann" />
+<meta property="twitter:title" content="Composition Operators for Modeling Languages - A Literature Review" />
 <meta name="twitter:site" content="@andwor" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Researching in model-driven software engineering, software language engineering, software architectures and applying it to automotive, Industry 4.0, robotics, and more since 2011.","headline":"Andreas Wortmann","url":"https://awortmann.github.io/blog/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"Researching in model-driven software engineering, software language engineering, software architectures and applying it to automotive, Industry 4.0, robotics, and more since 2011.","headline":"Composition Operators for Modeling Languages - A Literature Review","url":"https://awortmann.github.io/language-composition/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -200,18 +200,48 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Composition Operators for Modeling Languages - A Literature Review</h1>
+    <p class="post-description"></p>
+  </header>
 
+  <article>
+    <p>Replication package for a submission to the Journal of Computer Languages.</p>
 
-  <ul class="post-list">
-    
-  </ul>
+<h2 id="abstract">Abstract</h2>
 
-  
+<p>Efficiently engineering modeling languages demands their reuse through composition. 
+Research in language engineering has produced many different operators to reuse and compose languages and language parts. These operate on different dimensions of languages, produce diverse results, and are distributed across various technological spaces and publications. This hampers understanding the state of language composition for researchers and practitioners. To mitigate this, we report the results of a literature review on modeling language composition operators. In this review, we identify operators, their properties, supported language dimensions, and relate them to the categories of language composition. Through this, our survey draws a new, detailed map of modeling language composition operators that can guide SLE researchers in identifying uncharted territory and practitioners in employing the most suitable composition operators.</p>
 
+<h2 id="search-process">Search Process</h2>
+
+<p>To produce a corpus of relevant publications on modeling language composition, we first identified relevant search terms as follows:
+Synonymous or at least closely related to these is also the term “domain-specific language” or “DSL” for short.
+The basis for defining such languages and thus also a language composition mechanism are usually metamodels or grammars.
+These terms, therefore, form the first part of our search clause. 
+Conjugated with these terms, we consider the concept of composition in the second part of the search clause and additionally include terms used in the context of language composition such as integration, derivation, and extension. 
+These led to the following search term:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>("metamodel" OR "modelling language" OR "modeling language" OR "software language" OR "DSL" OR "domain-specific language" OR "grammar") AND ("composition" OR "integration" OR "derivation" OR "extension")
+</code></pre></div></div>
+
+<p>We limited the search to keywords, titles, and abstracts as we expect relevant publications to mention combinations to match our query in these parts. 
+Moreover, we limited our search from January of 2012 to March 1st of 2022. For searching, we limited ourselves to the ACM Digital Library, IEEE Xplore, Springer, Scopus, and the Web of Science. We excluded Google Scholar for its well-known problems.
+Instead, we employed snowballing to identify potentially relevant literature that we might have missed in the initial search. Also, for the databases that did not support the search query as presented, we split the query into multiple queries and merged their results manually. For the ACM Digital Library, this resulted in three search queries, one for the keywords, one for the title, and one for the abstract. For Scopus, we similarly split the search query into three parts but could combine these parts using disjunctions. For Springer, we had to search for exact phrases, i.e., perform a search for each conjunction of the search terms separately. Finally, for the Web of Science, we could reuse the search query as presented with minor modifications. Other limitations did not affect our query.</p>
+
+<p>Since we had to use multiple overlapping queries for some of the libraries, the search on these libraries already resulted in duplicate findings. When manually merging the multiple queries for a single library, we removed the duplicate findings for that library. This resulted in 8.741 publications. However, across the different libraries, we again had duplicate findings. We first removed these 2.703 duplicates, resulting in 6038 publications. We then applied inclusion and exclusion criteria to keywords, titles, and abstracts to remove 5.915 publications, resulting in 123 English, potentially relevant, peer-reviewed publications. These publications we then analyzed in detail during the classification phase to understand if they were relevant to our study. Again applying our inclusion and exclusion criteria, this time to a deeper analysis of the publications, finally resulted in 28 publications. We then performed forward and backward snowballing resulting in 204 publications. Performing our analysis again, we found 11 publications presenting composition operators. This, finally, resulted in 39 that remained in the corpus of this study.</p>
+
+<p>For better transparency and replicability, this website provides</p>
+<ul>
+  <li>a list of the initial <a href="../../downloads/replication/language-composition/Corpus_Candidates_Initial_Search.xlsx">6038 publications</a> without duplicates,</li>
+  <li>a list of the <a href="../../downloads/replication/language-composition/Snowballing_Corpus_Candidates.xlsx">203 publications</a> found by forward and backward snowballing, and</li>
+  <li>a sanitized list of the <a href="../../downloads/replication/language-composition/Corpus.xlsx">36 included publications</a>.</li>
+</ul>
+
+<p>We hope that this data supports better comprehension of the systematic mapping study and its results.</p>
+
+<hr />
+
+  </article>
 
 </div>
 
