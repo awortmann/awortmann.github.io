@@ -25,7 +25,7 @@ with their 16 sub-questions.
 
 To this end, we have conducted a systematic mapping study using the literature databases and filtering as illustrated below.
 
-![image](https://raw.githubusercontent.com/awortmann/awortmann.github.io/gh-pages/assets/img/companion/skill-based-manufacturing/funnel.png)
+![image](https://github.com/awortmann/awortmann.github.io/raw/gh-pages/_pages/companion/skill-based-manufacturing/funnel.png)
 
 We applied the following criteria for filtering articles:
 
@@ -50,7 +50,7 @@ Would you like me to convert these lists into a comparison table for easier view
 
 Applying this method has led to a final corpus of 87 publications, which were analyzed to answer the research questions listed above. 
 
-- This corpus is available [here](./corpus.xlsx)
+- This corpus is available [here](https://github.com/awortmann/awortmann.github.io/raw/gh-pages/_pages/companion/skill-based-manufacturing/corpus.csv)
 
 
 ### Related Topics
