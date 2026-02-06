@@ -6,11 +6,7 @@ description:
 nav: false
 ---
 
-*This is the companion website for the manuscript* 
-
-*"Skill-Based Manufacturing: A Systematic Mapping Study" by Alexander Uhl, David Dietrich, Carsten Ellwein, Max Hossfeld, and Andreas Wortmann*
-
-*which currently is under submission. After acceptance, this website will be moved into an archive with a persistent DOI, e.g., at [Zenodo](https://zenodo.org/).*
+*This is the companion website for the manuscript "Skill-Based Manufacturing: A Systematic Mapping Study" by Alexander Uhl, David Dietrich, Carsten Ellwein, Max Hossfeld, and Andreas Wortmann, which currently is under submission. After acceptance, this website will be moved into an archive with a persistent DOI, e.g., at [Zenodo](https://zenodo.org/).*
 
 ### Motivation
 
