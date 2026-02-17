@@ -50,7 +50,8 @@ Would you like me to convert these lists into a comparison table for easier view
 
 Applying this method has led to a final corpus of 87 publications, which were analyzed to answer the research questions listed above. 
 
-- This corpus is available [here](https://github.com/awortmann/awortmann.github.io/raw/gh-pages/_pages/companion/skill-based-manufacturing/corpus.csv)
+- This corpus of included publications is available [here](https://github.com/awortmann/awortmann.github.io/raw/gh-pages/_pages/companion/skill-based-manufacturing/included_corpus.csv)
+- The corpus of initially collected publications (including snowballing) is available [here](https://github.com/awortmann/awortmann.github.io/raw/gh-pages/_pages/companion/skill-based-manufacturing/full_corpus.csv)
 
 
 ### Related Topics
