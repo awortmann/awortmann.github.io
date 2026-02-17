@@ -23,7 +23,3 @@ I am researching various areas related to model-driven systems engineering for c
 {% endfor %}
 
 </div>
-
-<!--
-Older publications are available from my [website at the Chair for Software Engineering](https://www.se-rwth.de/staff/wortmann/).
--->
