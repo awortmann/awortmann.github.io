@@ -216,7 +216,7 @@
           <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
         {% endif %}
       {% endif %}
-      {% if entry.url %}
+      {% if entry.url %} <!-- was "pdf" instead of "url" --> 
         {% if entry.url contains '://' %}
           <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
         {% else %}
