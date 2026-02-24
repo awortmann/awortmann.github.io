@@ -1,1 +1,4 @@
-Sitemap: https://awortmann.github.io/sitemap.xml
+User-agent: *
+Disallow:
+
+Sitemap: https://awortmann.github.io/al-folio/sitemap.xml
