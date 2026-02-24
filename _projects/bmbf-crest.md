@@ -26,7 +26,7 @@ The complete list of publications is available from my [publications](https://aw
 ### Info
 
 - Funded by [BMBF](https://www.softwaresysteme.dlr-pt.de/de/forschungsvorhaben-servicerobotik.php).
-- [Project website](https://crest.in.tum.de/))
+- [Project website](https://crest.in.tum.de/)
 
 ### Related Topics
 
