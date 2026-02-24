@@ -7,42 +7,42 @@ ninja.data = [{
     title: "About",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/al-folio/";
+      window.location.href = "/";
     },
   },{id: "nav-research",
           title: "Research",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/research/";
+            window.location.href = "/research/";
           },
         },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "Projects",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-service",
           title: "Service",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/service/";
+            window.location.href = "/service/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/teaching/";
+            window.location.href = "/teaching/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -70,7 +70,7 @@ ninja.data = [{
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/al-folio/books/the_godfather/";
+              window.location.href = "/books/the_godfather/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -78,7 +78,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/al-folio/news/announcement_2/";
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -86,87 +86,87 @@ ninja.data = [{
           title: 'Collaborative Embedded Systems',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/bmbf-crest/";
+              window.location.href = "/projects/bmbf-crest/";
             },},{id: "projects-intelligent-modular-service-robotics",
           title: 'Intelligent Modular Service Robotics',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/bmbf-iserveu/";
+              window.location.href = "/projects/bmbf-iserveu/";
             },},{id: "projects-factory-x-the-digital-ecosystem",
           title: 'Factory X - The Digital Ecosystem',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/bmwe-fx/";
+              window.location.href = "/projects/bmwe-fx/";
             },},{id: "projects-center-for-systems-engineering",
           title: 'Center for Systems Engineering',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/cse/";
+              window.location.href = "/projects/cse/";
             },},{id: "projects-internet-of-production-excellence-cluster",
           title: 'Internet of Production Excellence Cluster',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/dfg-internet-of-production/";
+              window.location.href = "/projects/dfg-internet-of-production/";
             },},{id: "projects-model-based-devops-mbdo",
           title: 'Model-Based DevOps (MBDO)',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/dfg-mbdo/";
+              window.location.href = "/projects/dfg-mbdo/";
             },},{id: "projects-systematic-software-language-engineering",
           title: 'Systematic Software Language Engineering',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/dfg-scolar/";
+              window.location.href = "/projects/dfg-scolar/";
             },},{id: "projects-virtual-commissioning-to-digital-twins",
           title: 'Virtual Commissioning to Digital Twins',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/dfg-vc2dt/";
+              window.location.href = "/projects/dfg-vc2dt/";
             },},{id: "projects-systematic-engineering-of-digital-twins",
           title: 'Systematic Engineering of Digital Twins',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/digital-twins/";
+              window.location.href = "/projects/digital-twins/";
             },},{id: "projects-autonomous-universal-manufacturing",
           title: 'Autonomous Universal Manufacturing',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/icm-autounimanu/";
+              window.location.href = "/projects/icm-autounimanu/";
             },},{id: "projects-flexible-software-defined-manufacturing",
           title: 'Flexible Software- Defined Manufacturing',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/icm-sdmflex/";
+              window.location.href = "/projects/icm-sdmflex/";
             },},{id: "projects-opc-ua-universal-setup-environment",
           title: 'OPC UA Universal Setup Environment',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/icm-use/";
+              window.location.href = "/projects/icm-use/";
             },},{id: "projects-model-driven-architecture",
           title: 'Model-Driven Architecture',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/montiarcautomaton/";
+              window.location.href = "/projects/montiarcautomaton/";
             },},{id: "projects-ai-based-timber-construction",
           title: 'AI-based Timber Construction',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/mwk-kinabau/";
+              window.location.href = "/projects/mwk-kinabau/";
             },},{id: "projects-explainable-ai-for-manufacturing",
           title: 'Explainable AI for Manufacturing',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/mwk-xai/";
+              window.location.href = "/projects/mwk-xai/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
-              window.location.href = "/al-folio/teachings/data-science-fundamentals/";
+              window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
-              window.location.href = "/al-folio/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -179,7 +179,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/al-folio/feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
