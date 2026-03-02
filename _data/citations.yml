@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-27'
+  last_updated: '2026-03-02'
 papers:
   6ImtercAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -97,6 +97,10 @@ papers:
     citations: 178
     title: A computer science perspective on digital transformation in production
     year: '2022'
+  6ImtercAAAAJ:5icHVeHT4IsC:
+    citations: 0
+    title: Modellierung 2026-Complete Volume
+    year: '2026'
   6ImtercAAAAJ:5nxA0vEk-isC:
     citations: 10
     title: Multi-platform generative development of component & connector systems using model and code libraries
@@ -110,7 +114,7 @@ papers:
     title: Framework for holistic online optimization of milling machine conditions to enhance machine efficiency and sustainability
     year: '2024'
   6ImtercAAAAJ:70eg2SAEIzsC:
-    citations: 17
+    citations: 18
     title: Abstraction and refinement in hierarchically decomposable and underspecified CPS-architectures
     year: '2018'
   6ImtercAAAAJ:738O_yMBCRsC:
@@ -326,7 +330,7 @@ papers:
     title: 'Software language engineering in the large: towards composing and deriving languages'
     year: '2018'
   6ImtercAAAAJ:M3NEmzRMIkIC:
-    citations: 20
+    citations: 21
     title: Architectural programming with montiarcautomaton
     year: '2017'
   6ImtercAAAAJ:M3ejUd6NZC8C:
@@ -338,7 +342,7 @@ papers:
     title: 'Composition operators for modeling languages: A literature review'
     year: '2023'
   6ImtercAAAAJ:MXK_kJrjxJIC:
-    citations: 70
+    citations: 71
     title: Integration of heterogeneous modeling languages via extensible and composable language components
     year: '2015'
   6ImtercAAAAJ:Mojj43d5GZwC:
@@ -542,7 +546,7 @@ papers:
     title: 'Montithings: Model-driven development and deployment of reliable iot applications'
     year: '2022'
   6ImtercAAAAJ:YFjsv_pBGBYC:
-    citations: 28
+    citations: 29
     title: Controlled and extensible variability of concrete and abstract syntax with independent language features
     year: '2018'
   6ImtercAAAAJ:YOwf2qJgpHMC:
@@ -562,7 +566,7 @@ papers:
     title: Deriving fluent internal Domain-specific languages from grammars
     year: '2018'
   6ImtercAAAAJ:ZeXyd9-uunAC:
-    citations: 28
+    citations: 29
     title: Compositional language engineering using generated, extensible, static type-safe visitors
     year: '2016'
   6ImtercAAAAJ:ZfRJV9d4-WMC:
@@ -602,7 +606,7 @@ papers:
     title: "Efficiently Engineering IoT Architecture Languages\u2014An Experience Report"
     year: '2022'
   6ImtercAAAAJ:_Ybze24A_UAC:
-    citations: 12
+    citations: 13
     title: Towards a systematic method for developing meta attack language instances
     year: '2022'
   6ImtercAAAAJ:_kc_bZDykSQC:
@@ -666,7 +670,7 @@ papers:
     title: Towards self-explainable cyber-physical systems
     year: '2019'
   6ImtercAAAAJ:e5wmG9Sq2KIC:
-    citations: 20
+    citations: 21
     title: Semantic differencing for message-driven component & connector architectures
     year: '2017'
   6ImtercAAAAJ:eJXPG6dFmWUC:
@@ -713,6 +717,10 @@ papers:
     citations: 47
     title: Modeling language variability with reusable language components
     year: '2018'
+  6ImtercAAAAJ:gKiMpY-AVTkC:
+    citations: 0
+    title: "About Opportunities and Challenges in Model-Driven Engineering for Digital Twins\u2013"
+    year: '2026'
   6ImtercAAAAJ:gVv57TyPmFsC:
     citations: 0
     title: 'Software-heavy Asset Administration Shells: Classification and Use Cases'
@@ -962,7 +970,7 @@ papers:
     title: Monte carlo tree search and GR (1) synthesis for robot tasks planning in automotive production lines
     year: '2021'
   6ImtercAAAAJ:zA6iFVUQeVQC:
-    citations: 12
+    citations: 13
     title: Continuously analyzing finite, message-driven, time-synchronous component & connector systems during architecture evolution
     year: '2019'
   6ImtercAAAAJ:zLWjf1WUPmwC:
