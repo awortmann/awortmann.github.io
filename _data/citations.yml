@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-03'
+  last_updated: '2026-06-05'
 papers:
   6ImtercAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -62,11 +62,11 @@ papers:
     title: SMArDT modeling for automotive software testing
     year: '2019'
   6ImtercAAAAJ:4DMP91E08xMC:
-    citations: 15
+    citations: 16
     title: Modeling reusable, platform-independent robot assembly processes
     year: '2016'
   6ImtercAAAAJ:4JMBOYKVnBMC:
-    citations: 40
+    citations: 41
     title: Language engineering with the GEMOC studio
     year: '2017'
   6ImtercAAAAJ:4TOpqqG69KYC:
@@ -150,7 +150,7 @@ papers:
     title: Modeling Variability of Hierarchical Component-Based Systems.
     year: '2024'
   6ImtercAAAAJ:9vf0nzSNQJEC:
-    citations: 93
+    citations: 94
     title: Process prediction with digital twins
     year: '2021'
   6ImtercAAAAJ:9yKSN-GCB0IC:
@@ -194,11 +194,11 @@ papers:
     title: Language and Code Generator Composition for Model-Driven Engineering of Robotics Component & Connector Systems
     year: '2015'
   6ImtercAAAAJ:DJbcl8HfkQkC:
-    citations: 6
+    citations: 7
     title: Towards a unifying reference model for digital twins of cyber-physical systems
     year: '2025'
   6ImtercAAAAJ:DUooU5lO8OsC:
-    citations: 57
+    citations: 58
     title: 'Digital twin and the asset administration shell: J. Zhang et al.'
     year: '2025'
   6ImtercAAAAJ:D_sINldO8mEC:
@@ -266,7 +266,7 @@ papers:
     title: Model-based testing of software-based system functions
     year: '2018'
   6ImtercAAAAJ:HtEfBTGE9r8C:
-    citations: 14
+    citations: 15
     title: Generating plc code with universal large language models
     year: '2024'
   6ImtercAAAAJ:ILKRHgRFtOwC:
@@ -274,7 +274,7 @@ papers:
     title: MDE and Learning for flexible Planning and optimized Execution of Multi-Robot Choreographies
     year: '2023'
   6ImtercAAAAJ:IRz6iEL74y4C:
-    citations: 3
+    citations: 4
     title: 'ConfMod: A Simple Modeling of Confidentiality Requirements for Inter-Organizational Data Sharing'
     year: '2025'
   6ImtercAAAAJ:IUKN3-7HHlwC:
@@ -310,7 +310,7 @@ papers:
     title: 'Monitoring of tool and component wear for self-adaptive digital twins: A multi-stage approach through anomaly detection and wear cycle analysis'
     year: '2023'
   6ImtercAAAAJ:KbBQZpvPDL4C:
-    citations: 5
+    citations: 6
     title: 'Digital twins for machine tools: A systematic mapping study'
     year: '2025'
   6ImtercAAAAJ:KlAtU1dfN6UC:
@@ -322,7 +322,7 @@ papers:
     title: Innovations in Model-based Software And Systems Engineering
     year: '2019'
   6ImtercAAAAJ:L7CI7m0gUJcC:
-    citations: 20
+    citations: 21
     title: 'Model-based devops: Foundations and challenges'
     year: '2023'
   6ImtercAAAAJ:L8Ckcad2t8MC:
@@ -490,7 +490,7 @@ papers:
     title: MiSE 2019 Program Committee
     year: Unknown Year
   6ImtercAAAAJ:UHK10RUVsp4C:
-    citations: 86
+    citations: 87
     title: Generating customized low-code development platforms for digital twins
     year: '2022'
   6ImtercAAAAJ:ULOm3_A8WrAC:
@@ -502,7 +502,7 @@ papers:
     title: Self-adaptive digital twin reference architecture to improve process quality
     year: '2023'
   6ImtercAAAAJ:UeHWp8X0CEIC:
-    citations: 206
+    citations: 207
     title: A new skill based robot programming language using uml/p statecharts
     year: '2013'
   6ImtercAAAAJ:UxriW0iASnsC:
@@ -795,8 +795,8 @@ papers:
     year: Unknown Year
   6ImtercAAAAJ:kRWSkSYxWN8C:
     citations: 63
-    title: Engineering of collaborative embedded systems
-    year: '2020'
+    title: 'Model-based engineering of collaborative embedded systems: Extensions of the spes methodology'
+    year: '2021'
   6ImtercAAAAJ:k_IJM867U9cC:
     citations: 0
     title: Improving Reuse in Architecture Modeling with Higher-Order Components
@@ -878,7 +878,7 @@ papers:
     title: 'Mind the gap: lessons learned from translating grammars between MontiCore and Xtext'
     year: '2019'
   6ImtercAAAAJ:p__nRnzSRKYC:
-    citations: 9
+    citations: 8
     title: Maturity evaluation of domain-specific language ecosystems for cyber-physical production systems
     year: '2023'
   6ImtercAAAAJ:pqnbT2bcN3wC:
@@ -910,7 +910,7 @@ papers:
     title: An Expert Survey on the Use of Informal Models in the Automotive Industry
     year: '2023'
   6ImtercAAAAJ:sNmaIFBj_lkC:
-    citations: 6
+    citations: 7
     title: Hierarchical digital twin ecosystem for industrial manufacturing scenarios
     year: '2024'
   6ImtercAAAAJ:sSrBHYA8nusC:
