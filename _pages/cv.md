@@ -1,16 +1,22 @@
 ---
 layout: page
 permalink: /cv/
-title: CV
+title: Short Bio
 description: 
 nav: false
 ---
 
 Andreas Wortmann is a Full Professor (W3) for Model-Driven Engineering in Production at the University of Stuttgart and a member of the leadership team at the [Institute for Control Engineering of Machine Tools and Manufacturing Units (ISW)](https://www.isw.uni-stuttgart.de/en/). His research focuses on the intersection of software engineering and mechanical engineering, aimed at enhancing the efficiency and reliability of complex cyber-physical systems. 
 
+## Professional Background
+
 He laid his academic foundation at [RWTH Aachen University](https://www.se-rwth.de/), where he pursued a multidisciplinary education. He holds a Diploma in Computer Science (Dipl.-Inform.) and a Diploma in Business Informatics (Dipl. Wirt.-Inf), reflecting his dual expertise in technical systems and organizational management. He remained at RWTH Aachen to complete his doctoral studies (Dr. rer. nat.) in 2016 and his Habilitation in 2021 at the [Chair of Software Engineering](https://www.se-rwth.de/). Following research stays in France and Sweden, he led a research group in model-driven systems engineering at RWTH Aachen before joining the University of Stuttgart in 2021.
 
+## Research Interests
+
 Professor Wortmann’s research investigates software and systems engineering through the lens of software languages, aiming to bridge the gap between domain experts and software developers through tailored modeling solutions. His primary focus lies in [Model-Driven Engineering (MDE)](https://en.wikipedia.org/wiki/Model-driven_engineering) and the development of systematic methods for engineering future cyber-physical systems. A significant portion of his work is dedicated to Digital Twins, specifically researching their construction and synchronization for Industry 4.0. To facilitate this, he specializes in [Software Language Engineering (SLE)](http://www.sleconf.org/) to create domain-specific languages (DSLs) that allow experts to work with domain-specific terminology. 
+
+## Service
 
 He serves as the Co-director of the [AI Software Engineering Academy (AISA)](https://www.aisa.uni-stuttgart.de/en/) at the University of Stuttgart and servs as a board member of the [European Association for Programming Languages and Systems (EAPLS)](https://eapls.org/). His editorial contributions include serving on the boards of the [International Journal on Software and Systems Modeling (SoSyM)](https://www.sosym.org/), the [Journal of Object Technology (JoT)](http://www.jot.fm/), and the [Journal of Automotive Software Engineering](https://www.springer.com/journal/44244).
 

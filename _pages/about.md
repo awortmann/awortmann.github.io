@@ -37,8 +37,11 @@ My [research interests](https://awortmann.github.io/research/) are modeling lang
 Among these are [Factory-X](https://factory-x.org/de/), [Model-Based DevOps](https://mbdo.github.io/), the [Internet of Production](https://www.iop.rwth-aachen.de/cms/~gpfz/Produktionstechnik/?lidx=1), the [Center for Systems Engineering](https://cse.rwth-campus.com/), and the [Systematic Engineering of Consistent Digital Twins](https://www.rwth-aachen.de/go/id/vuc/lidx/1).
 
 Moreover, I serve on the board of the [European Association for Programming Languages and Systems (EAPLS)](https://eapls.org/), as co-director of the [AI Software Engineering Academy (AISA)](https://www.aisa.uni-stuttgart.de/), on the editorial boards of the [International Journal on Software and Systems Modeling (SoSyM)](https://sosym.org/) and the [Journal of Object Technology](http://www.jot.fm/), and engage in a variety of [academic and community service](https://awortmann.github.io/service/).
+
+[More](https://awortmann.github.io/cv/)
 <br/>
 <br/>
+
 
 #### Selected Publications
 
