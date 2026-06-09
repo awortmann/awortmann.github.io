@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /research/industry-40/
-title: Industry 4.0 
-description: 
+title: Industry 4.0
+description:
 nav: false
 ---
 
@@ -20,21 +20,21 @@ The paper [A Method for Model-Driven Engineering of Digital Twins in Manufacturi
 
 The paper [Digital Twins for Machine Tools: A Systematic Mapping Study](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Digital_Twins_for_Machine_Tools_-_A_Systematic_Mapping_Study.pdf) examines the use, development, and communication of digital twins (DTs) for machine tools. The study reveals that DTs primarily represent individual machine tools or technical systems, focusing on milling processes to enhance quality. DTs typically consist of models (e.g., CAD, simulation) and software (e.g., MATLAB, Unity) for behavior analysis and optimization. Most DTs are used in the operational phase, with limited application in earlier lifecycle phases like virtual commissioning. The study highlights a lack of systematic reuse and composition methods for DTs, suggesting future research should focus on real-time capabilities, horizontal connectivity, and modularity to improve DT integration and efficiency in manufacturing.
 
-[PDF](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Digital_Twins_for_Machine_Tools_-_A_Systematic_Mapping_Study.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label cps">Cyber-Physical Systems</span> <span class="label dt">Digital Twin</span>  
+[PDF](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Digital_Twins_for_Machine_Tools_-_A_Systematic_Mapping_Study.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label cps">Cyber-Physical Systems</span> <span class="label dt">Digital Twin</span>
 
 #### Explaining Cyber-Physical System Behavior with Digital Twins
 
 The paper explores integrating self-explainability techniques into digital twins to enhance transparency and trust in their decision-making processes. By combining model-driven engineering with the MAB-EX framework (Monitor, Analyze, Build, Explain), the authors propose deriving explanation models from system description, process, and reasoning models. These models are tailored to different explainee types (e.g., end-users, engineers) and merged to avoid redundancy. The approach supports real-time explanation generation, fostering better human-machine cooperation and system maintainability. Challenges include handling diverse model types, tailoring explanations, and managing computational complexity during runtime.
 
-[PDF](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/paper/Explaining_Cyber-Physical_System_Behavior_with_Digital_Twins.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label cps">Cyber-Physical Systems</span> <span class="label dt">Digital Twin</span> 
+[PDF](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/paper/Explaining_Cyber-Physical_System_Behavior_with_Digital_Twins.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label cps">Cyber-Physical Systems</span> <span class="label dt">Digital Twin</span>
 
-### Sustainability 
+### Sustainability
 
 #### Framework for Holistic Online Optimization of Milling Machine Conditions to Enhance Machine Efficiency and Sustainability
 
 The paper [Framework for Holistic Online Optimization of Milling Machine Conditions to Enhance Machine Efficiency and Sustainability](https://awortmann.github.io/downloads/paper/Framework_for_Holistic_Online_Optimization_of_Milling_Machine_Conditions_to_Enhance_Machine_Efficiency_and_Sustainability.pdf) introduces a novel framework for optimizing milling processes in industrial production using advanced data analysis and machine learning. The framework analyzes real-time measurement data from milling machines, extracts key indicators, and uses a fuzzy control system to recommend adjustments for reducing energy consumption, tool wear, and improving surface quality. Validation with steel and aluminum parts demonstrated the framework's ability to generate actionable recommendations, though more precise models are needed for real-world application. The modular design allows adaptability to other machines like lathes or 3D printers, highlighting its potential for sustainable and efficient manufacturing.
 
-[PDF](https://awortmann.github.io/downloads/paper/Framework_for_Holistic_Online_Optimization_of_Milling_Machine_Conditions_to_Enhance_Machine_Efficiency_and_Sustainability.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label cps">Cyber-Physical Systems</span> 
+[PDF](https://awortmann.github.io/downloads/paper/Framework_for_Holistic_Online_Optimization_of_Milling_Machine_Conditions_to_Enhance_Machine_Efficiency_and_Sustainability.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label cps">Cyber-Physical Systems</span>
 
 ### Industrial Data Modeling (OPC UA, Asset Administration Shell)
 
@@ -58,11 +58,11 @@ The paper [Generating PLC Code with Universal Large Language Models](https://awo
 
 - Tran, K., Zhang, J., Pfeiffer, J., Wortmann, A., & Wiesmayr, B. (2024). [Generating PLC Code with Universal Large Language Models](../../downloads/paper/Generating_PLC_Code_with_Universal_Large_Language_Models.pdf). In 2024 IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA) (pp. 1-8). IEEE.
 
-- Bolender, T., Bürvenich, G., Dalibor, M., Rumpe, B., & Wortmann, A. (2021). [Self-Adaptive Manufacturing with Digital Twins](../../downloads/paper/Self_Adaptive_Manufacturing_with_Digital_Twins.pdf). In *Proceedings of the 2021 International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)*, (pp. 156-166). IEEE Computer Society.
+- Bolender, T., Bürvenich, G., Dalibor, M., Rumpe, B., & Wortmann, A. (2021). [Self-Adaptive Manufacturing with Digital Twins](../../downloads/paper/Self_Adaptive_Manufacturing_with_Digital_Twins.pdf). In _Proceedings of the 2021 International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)_, (pp. 156-166). IEEE Computer Society.
 
-- Bibow, P., Dalibor, M., Hopmann, C., Mainz, B., Rumpe, B., Schmalzing, D., Schmitz, M., & Wortmann, A. (2020). [Model-Driven Development of a Digital Twin for Injection Molding](../../downloads/paper/Model_Driven_Development_of_a_Digital_Twin_for_Injection_Molding.pdf). In S. Dustdar, E. Yu, C. Salinesi, D. Rieu, & V. Pant (Eds.), *International Conference on Advanced Information Systems Engineering (CAiSE'20)*, (pp. 85-100). Springer International Publishing.
+- Bibow, P., Dalibor, M., Hopmann, C., Mainz, B., Rumpe, B., Schmalzing, D., Schmitz, M., & Wortmann, A. (2020). [Model-Driven Development of a Digital Twin for Injection Molding](../../downloads/paper/Model_Driven_Development_of_a_Digital_Twin_for_Injection_Molding.pdf). In S. Dustdar, E. Yu, C. Salinesi, D. Rieu, & V. Pant (Eds.), _International Conference on Advanced Information Systems Engineering (CAiSE'20)_, (pp. 85-100). Springer International Publishing.
 
-- Wortmann, A., Barais, O., Combemale, B., & Wimmer, M. (2020). [Modeling Languages in Industry 4.0: an Extended Systematic Mapping Study](../../downloads/paper/Modeling_Languages_in_Industry_4.0__an_Extended_Systematic_Mapping_Study.pdf). *Software and Systems Modeling, 19*(1), (pp. 67-94). Springer.
+- Wortmann, A., Barais, O., Combemale, B., & Wimmer, M. (2020). [Modeling Languages in Industry 4.0: an Extended Systematic Mapping Study](../../downloads/paper/Modeling_Languages_in_Industry_4.0__an_Extended_Systematic_Mapping_Study.pdf). _Software and Systems Modeling, 19_(1), (pp. 67-94). Springer.
 
 ### Related Topics
 

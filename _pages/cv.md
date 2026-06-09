@@ -2,11 +2,11 @@
 layout: page
 permalink: /cv/
 title: Short Bio
-description: 
+description:
 nav: false
 ---
 
-Andreas Wortmann is a Full Professor (W3) for Model-Driven Engineering in Production at the University of Stuttgart and a member of the leadership team at the [Institute for Control Engineering of Machine Tools and Manufacturing Units (ISW)](https://www.isw.uni-stuttgart.de/en/). His research focuses on the intersection of software engineering and mechanical engineering, aimed at enhancing the efficiency and reliability of complex cyber-physical systems. 
+Andreas Wortmann is a Full Professor (W3) for Model-Driven Engineering in Production at the University of Stuttgart and a member of the leadership team at the [Institute for Control Engineering of Machine Tools and Manufacturing Units (ISW)](https://www.isw.uni-stuttgart.de/en/). His research focuses on the intersection of software engineering and mechanical engineering, aimed at enhancing the efficiency and reliability of complex cyber-physical systems.
 
 ## Professional Background
 
@@ -14,7 +14,7 @@ He laid his academic foundation at [RWTH Aachen University](https://www.se-rwth.
 
 ## Research Interests
 
-Professor Wortmann’s research investigates software and systems engineering through the lens of software languages, aiming to bridge the gap between domain experts and software developers through tailored modeling solutions. His primary focus lies in [Model-Driven Engineering (MDE)](https://en.wikipedia.org/wiki/Model-driven_engineering) and the development of systematic methods for engineering future cyber-physical systems. A significant portion of his work is dedicated to Digital Twins, specifically researching their construction and synchronization for Industry 4.0. To facilitate this, he specializes in [Software Language Engineering (SLE)](http://www.sleconf.org/) to create domain-specific languages (DSLs) that allow experts to work with domain-specific terminology. 
+Professor Wortmann’s research investigates software and systems engineering through the lens of software languages, aiming to bridge the gap between domain experts and software developers through tailored modeling solutions. His primary focus lies in [Model-Driven Engineering (MDE)](https://en.wikipedia.org/wiki/Model-driven_engineering) and the development of systematic methods for engineering future cyber-physical systems. A significant portion of his work is dedicated to Digital Twins, specifically researching their construction and synchronization for Industry 4.0. To facilitate this, he specializes in [Software Language Engineering (SLE)](http://www.sleconf.org/) to create domain-specific languages (DSLs) that allow experts to work with domain-specific terminology.
 
 ## Service
 

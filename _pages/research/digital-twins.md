@@ -2,27 +2,29 @@
 layout: page
 permalink: /research/digital-twins/
 title: Digital Twins
-description:  
+description:
 nav: false
 ---
 
 Research and industry leverage digital twins to monitor and control (cyber-physical) systems in various domains, including automotive, avionics, biology, construction, manufacturing, medicine, and many more. They promise a tremendous potential to reduce cost and time and improve our understanding of the represented systems.
 The various digital twins serve different purposes, including analysis, control, and behavior prediction, and they are used at different times relative to the represented system, e.g., before it exists to explore its design space or during its runtime to optimize its behavior. Despite a [plethora of definitions](http://www.wortmann.ac/research/digital-twin-definitions/), there is little consensus about what a digital twin is.
 
-This also is reflected in many of the available definitions being 
+This also is reflected in many of the available definitions being
+
 - ambiguous, by deferring to another undefined term, such as a "virtual representation", a "computable virtual abstraction" , or a "a virtual projection of the industrial facility into the cloud"
- - narrow, by focusing on specific use cases, domains, or technologies, such as a "digital model of the real network environment" or a "virtual representation based on AR technology"
+- narrow, by focusing on specific use cases, domains, or technologies, such as a "digital model of the real network environment" or a "virtual representation based on AR technology"
 - utopian, due to all-encompassing aspirations, such as an "integrated virtual model of a real-world system containing all of its physical information", a "complete digital representation".
 
-For us, a digital twin is a software system that leverages models and data from and about an original (cyber-physical) system, to represent, predict, and prescribe its behavior for a specific purpose. 
+For us, a digital twin is a software system that leverages models and data from and about an original (cyber-physical) system, to represent, predict, and prescribe its behavior for a specific purpose.
 
-This entails that a digital twin 
+This entails that a digital twin
+
 - is neither bound to specific technology or application domain
 - does not need to be complete (which is impossible most of the time)
 - does not need to be a model but may use models
 - may change the behavior of the original system
 
-From this, interesting questions arise. Some of which I have discussed in my talk [Ceci n’est pas un jumeau numérique](https://edt.community/events/event/ceci-nest-pas-un-jumeau-numerique/) in the [Engineering Digital Twins Community](https://edt.community/). 
+From this, interesting questions arise. Some of which I have discussed in my talk [Ceci n’est pas un jumeau numérique](https://edt.community/events/event/ceci-nest-pas-un-jumeau-numerique/) in the [Engineering Digital Twins Community](https://edt.community/).
 
 Selected publications below highlight how we leverage this notion of digital twins to facilitate their engineering and operations
 
@@ -39,17 +41,16 @@ Selected publications below highlight how we leverage this notion of digital twi
 1. Bibow, P., Dalibor, M., Hopmann, C., Mainz, B., Rumpe, B., Schmalzing, D., ... & Wortmann, A. (2020). [Model-Driven Development of a Digital Twin for Injection Molding](https://awortmann.github.io/downloads/paper/Model_Driven_Development_of_a_Digital_Twin_for_Injection_Molding.pdf). In International Conference on Advanced Information Systems Engineering (pp. 85-100). Cham: Springer International Publishing.
 1. Kirchhof, J. C., Michael, J., Rumpe, B., Varga, S., & Wortmann, A. (2020). [Model-Driven Digital Twin Construction. Synthesizing the Integration of Cyber-Physical Systems with Their Information Systems](https://awortmann.github.io/downloads/paper/Model_Driven_Digital_Twin_Construction__Synthesizing_the_Integration_of_Cyber_Physical_Systems_with_Their_Information_Systems.pdf). In Proceedings of the 23rd ACM/IEEE international conference on model driven engineering languages and systems (pp. 90-101).
 
-
 Find [more publications on digital twins](http://www.wortmann.ac/p).
 
 ### Related Events
 
 - [International Conference on Engineering Digital Twins](http://www.edtconf.org) (EDTconf)
 - [2nd International Workshop on Model-Driven Engineering of Digital Twins
-ModDiT’22](https://gemoc.org/events/moddit2022)
+  ModDiT’22](https://gemoc.org/events/moddit2022)
 - [Dagstuhl Seminar on the Model-Driven Development of Digital Twins](https://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=22362)
 - [1st International Workshop on Model-Driven Engineering of Digital Twins
-ModDiT’21](https://gemoc.org/events/moddit2021)
+  ModDiT’21](https://gemoc.org/events/moddit2021)
 - [1st International Workshop on Conceptual Modeling for Digital Twins (CoMoDiTy 2020)](https://comodity.github.io/)
 
 ### Related Presentations
@@ -60,7 +61,7 @@ Find other research topics from my [research](http://www.wortmann.ac/research) w
 
 ### Digital Twins in Various Domains
 
-We have conducted the largest systematic mapping study on  digital twins across domains. In this study, we have, ultimately, investigated a corpus of over 2000 publications to find out how digital twins are engineered, operated, and what the major challenges are. 
+We have conducted the largest systematic mapping study on digital twins across domains. In this study, we have, ultimately, investigated a corpus of over 2000 publications to find out how digital twins are engineered, operated, and what the major challenges are.
 
 - M. Dalibor, N. Jansen, B. Rumpe, D. Schmalzing, L. Wachtmeister, M. Wimmer, A. Wortmann: [A Cross-Domain Systematic Mapping Study on Software Engineering for Digital Twins](../../downloads/paper/A_cross_domain_systematic_mapping_study_on_software_engineering_for_Digital_Twins.pdf). In: Journal of Systems and Software, 111361.
 
@@ -137,7 +138,7 @@ You can find the domains in which digital twins are used and the related publica
 - Eckhart M., Ekelhart A.. [A Specification-based State Replication Approach for Digital Twins](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056743057&doi=10.1145%2f3264888.3264892&partnerID=40&md5=e02caa59945e87fe4dacc8f0fc4345a7)
 - Hatakeyama S.J., Seal D.W., Farr D., Haase S.C.. [An alternate view of the systems engineeringV in a model-based engineering environment](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056169963&doi=10.2514%2f6.2018-5326&partnerID=40&md5=91f20f05591db0c9a91933ca0f1304b9)
 - Zheng Y., Yang S., Cheng H.. [An application framework of digital twin and its case study](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049576881&doi=10.1007%2fs12652-018-0911-3&partnerID=40&md5=e619e967a8ded2fe63780bf500766c88)
-- Yifei  Tan and Wenhe Yang and Kohtaroh Yoshida and Soemon Takakuwa. [Application of IoT-aided Simulation for a Cyber-physical System]()
+- Yifei Tan and Wenhe Yang and Kohtaroh Yoshida and Soemon Takakuwa. [Application of IoT-aided Simulation for a Cyber-physical System]()
 - Kychkin A., Deryabin A., Vikentyeva O., Shestakova L.. [Architecture of compressor equipment monitoring and control cyber-physical system based on influxdata platform](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068783443&doi=10.1109%2fICIEAM.2019.8742963&partnerID=40&md5=8f15246b647fef4b3a28570f939a9ea8)
 - Artem A. NazarenkoLuis M. Camarinha-Matos. [Basis for an Approach to Design Collaborative Cyber-Physical Systems](http://link.springer.com/chapter/10.1007/978-3-030-17771-3_16)
 - Di Maio M., Kapos G.-D., Klusmann N., Atorf L., Dahmen U., Schluse M., Rossmann J.. [Closed-loop systems engineering (close): integrating experimentable digital twins with the model-driven engineering process](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059973689&doi=10.1109%2fSysEng.2018.8544392&partnerID=40&md5=0a3ab88395e27ec0559aa2f2254b2356)
@@ -363,7 +364,7 @@ You can find the domains in which digital twins are used and the related publica
 - Um J., Popper J., Ruskowski M.. [Modular augmented reality platform for smart operator in production environment](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050119167&doi=10.1109%2fICPHYS.2018.8390796&partnerID=40&md5=f7398c16900e9a3db4fbc795d7555d27)
 - Vathoopan M., Johny M., Zoitl A., Knoll A.. [Modular Fault Ascription and Corrective Maintenance Using a Digital Twin](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052966280&doi=10.1016%2fj.ifacol.2018.08.470&partnerID=40&md5=fb359b51d73aec2265a6ed4bddfb59da)
 - Shahriar M.R., Sunny S.M.N.A., Liu X., Leu M.C., Hu L., Nguyen N.-T.. [MTComm Based Virtualization and Integration of Physical Machine Operations with Digital-Twins in Cyber-Physical Manufacturing Cloud](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051552529&doi=10.1109%2fCSCloud%2fEdgeCom.2018.00018&partnerID=40&md5=f794a1ef95bbc91ca77959c1ad077bcc)
-- Tim Delbrügger, Matthias Meißner, Andreas Wirtz, Dirk Biermann, Johanna Myrzik, Jürgen Rossmann and Petra Wiederkehr  . [Multi-level simulation concept for multidisciplinary analysis and optimization of production systems](http://link.springer.com/article/10.1007/s00170-019-03722-1)
+- Tim Delbrügger, Matthias Meißner, Andreas Wirtz, Dirk Biermann, Johanna Myrzik, Jürgen Rossmann and Petra Wiederkehr . [Multi-level simulation concept for multidisciplinary analysis and optimization of production systems](http://link.springer.com/article/10.1007/s00170-019-03722-1)
 - Hauf D., Sus S., Strahilov A., Franke J.. [Multifunctional use of functional mock-up units for application in production engineering](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041220724&doi=10.1109%2fINDIN.2017.8104925&partnerID=40&md5=d313a79c8d1fcc02196b88ccf9aae623)
 - Demkovich N., Yablochnikov E., Abaev G.. [Multiscale modeling and simulation for industrial cyber-physical systems](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050070699&doi=10.1109%2fICPHYS.2018.8387674&partnerID=40&md5=d4b4cdcc045a17fa35e9c31557568881)
 - Wendenburg, Michael. [Online life cycle assessment for fluid power manufacturing systems - challenges and opportunities](https://link.springer.com/chapter/10.1007/978-3-319-99707-0_17)

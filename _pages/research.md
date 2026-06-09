@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: 
+description:
 nav: true
 nav_order: 1
 ---
@@ -17,7 +17,7 @@ Modern automotive systems demand complex software for driver assistance, Car2X c
 
 ### Digital Twins
 
-Digital twins are used across industries—automotive, avionics, medicine—to monitor and optimize cyber-physical systems. Despite varied definitions (often ambiguous, narrow, or utopian), we define them as software systems using models and data to represent, predict, and prescribe behavior for specific purposes. They are not tied to any technology or domain and don’t require completeness. This perspective raises key questions, some explored in my talk, [*Ceci n’est pas un jumeau numérique*](https://edt.community/events/event/ceci-nest-pas-un-jumeau-numerique/).
+Digital twins are used across industries—automotive, avionics, medicine—to monitor and optimize cyber-physical systems. Despite varied definitions (often ambiguous, narrow, or utopian), we define them as software systems using models and data to represent, predict, and prescribe behavior for specific purposes. They are not tied to any technology or domain and don’t require completeness. This perspective raises key questions, some explored in my talk, [_Ceci n’est pas un jumeau numérique_](https://edt.community/events/event/ceci-nest-pas-un-jumeau-numerique/).
 
 &#8594; [Continue reading](../research/digital-twins).
 

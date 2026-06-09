@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Flexible Software- Defined Manufacturing
-description: 
+description:
 img: /assets/img/project-icm-sdmflex.jpg
 importance: 1
 category: work
@@ -15,7 +15,6 @@ The vision of Software-Defined Manufacturing (SDM) and Industry 4.0 is industria
 - Lehner, D., Zhang, J., Pfeiffer, J., Sint, S., Splettstößer, A. K., Wimmer, M., & Wortmann, A. (2025). [Model-driven engineering for digital twins: a systematic mapping study](https://link.springer.com/content/pdf/10.1007/s10270-025-01264-7.pdf). Software and Systems Modeling, 1-39.
 - Martinelli, M., Zhang, J., Splettstoßer, A. K., Picone, M., Lippi, M., & Wortmann, A. (2024). [Hierarchical Digital Twin Ecosystem for Industrial Manufacturing Scenarios](https://awortmann.github.io/downloads/paper/Hierarchical_Digital_Twin_Ecosystem_for_Industrial_Manufacturing_Scenarios.pdf). In 2024 50th Euromicro Conference on Software Engineering and Advanced Applications (SEAA) (pp. 56-63). IEEE.
 - Splettstößer, A. K., Ellwein, C., & Wortmann, A. (2023). [Self-adaptive digital twin reference architecture to improve process quality](https://awortmann.github.io/downloads/paper/Self_adaptive_digital_twin_reference_architecture_to_improve_process_quality.pdf). Procedia CIRP, 119, 867-872.
-
 
 The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
 

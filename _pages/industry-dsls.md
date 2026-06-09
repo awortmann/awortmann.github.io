@@ -2,13 +2,13 @@
 layout: page
 permalink: /industry-dsls/
 title: Domain-Specific Languages in Industry
-description: 
+description:
 nav: false
 ---
 
-## Modeling virtual platforms 
+## Modeling virtual platforms
 
-- The [Device Modeling Language](https://community.intel.com/t5/Blogs/Products-and-Solutions/Software/Opening-up-the-Device-Modeling-Language/post/1417739) is a domain-specific language for creating fast functional transaction-level virtual platform models. 
+- The [Device Modeling Language](https://community.intel.com/t5/Blogs/Products-and-Solutions/Software/Opening-up-the-Device-Modeling-Language/post/1417739) is a domain-specific language for creating fast functional transaction-level virtual platform models.
 - In use at Intel.
 
 ## Modeling engineering information with AutomationML

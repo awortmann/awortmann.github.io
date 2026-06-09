@@ -2,7 +2,7 @@
 layout: page
 permalink: /preprints/
 title: Preprints
-description: 
+description:
 nav: false
 ---
 
@@ -25,13 +25,11 @@ Digital twins enable optimization and flexibilityin cyber-physical production sy
 
 - [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Towards_Formless_Production_with_Skill-Based_Industrial_Digital_Twins.pdf)
 
-
 ## A Container-based Approach For Proactive Asset Administration Shell Digital Twins (MODELS 2025)
 
 In manufacturing, digital twins, realized as Asset Administration Shells (AAS), have emerged as a prevalent practice. These digital replicas, often utilized as structured repositories of asset-related data, facilitate interoperability across diverse systems. However, extant approaches treat the AAS as a static information model, lacking support for dynamic service integration and system adaptation. The existing body of literature has not yet thoroughly explored the potential for integrating executable behavior, particularly in the form of containerized services, into or from the AAS. This integration could serve to enable proactive functionality. In this paper, we propose a submodel-based architecture that introduces a structured service notion to the AAS, enabling services to dynamically interact with and adapt AAS instances at runtime. This concept is implemented through the extension of a submodel with behavioral definitions, resulting in a modular event-driven architecture capable of deploying containerized services based on embedded trigger conditions. The approach is illustrated through a case study on a 3-axis milling machine. Our contribution enables the AAS to serve not only as a passive digital representation but also as an active interface for executing added-value services.
 
 - [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/A_Container-based_Approach_For_Proactive_Asset_Administration_Shell_Digital_Twins.pdf)
-
 
 ## On the Challenges of Integrating Digital Twins (EDTconf 2025)
 
@@ -40,11 +38,9 @@ endeavor. After giving a historical overview of system adaptation, we review the
 
 - [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/On_the_Challenges_of_Integrating_Digital_Twins.pdf)
 
-
 ## Digital Twins for Machine Tools: A Systematic Mapping Study (Digital Twin Journal)
 
 Machine tools are essential for modern manufacturing and drive the production of precise and high-quality components across various industries. For smart manufacturing, DTs–virtual representations of cyber-physical entities–have emerged to enhance machine tools with intelligent capabilities, such as real-time monitoring, predictive maintenance, or performance optimization. Despite their potential, the availability and application of Digital Twins in machine tools remain largely unexplored. This first systematic mapping study specifically on Digital Twins for machine tools investigates the purpose for their deployment to machine tools, the development methods to create such Digital Twins, and support for their connectivity to the machine tool and to other related systems. Our findings highlight the critical role of DTs in improving the efficiency and reliability of machine tools.
-
 
 - [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Digital_Twins_for_Machine_Tools_-_A_Systematic_Mapping_Study.pdf)
 
@@ -54,19 +50,16 @@ Digital twins are sophisticated software systems for the representation, monitor
 
 - [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Towards_a_Unifying_Reference_Model_for_Digital_Twins_of_Cyber-Physical_Systems.pdf)
 
-
-
 ## Navigating the Future - Essential Considerations for the Engineering of Software-Defined Vehicles (IEEE Computer)
 
-Software Defined Vehicles (SDVs) represent a transformative shift in the automotive industry, moving from traditional vehicle development to software-driven mobility solutions. The engineering of SDVs is inherently complex and involves numerous technological and organizational challenges. Future challenges include increased software complexity, managing software updates, cultural gaps, and complying with international standards and regulations. Additionally, the rapid pace of  technological change demands an efficient and effective engineering process. To remain competitive and achieve their business goals, automotive organizations must adopt new strategies and undergo significant changes in the following software development concerns: architecture, process, and organization. These changes are necessary to boost productivity and improve the efficiency of the engineering process of SDVs.
+Software Defined Vehicles (SDVs) represent a transformative shift in the automotive industry, moving from traditional vehicle development to software-driven mobility solutions. The engineering of SDVs is inherently complex and involves numerous technological and organizational challenges. Future challenges include increased software complexity, managing software updates, cultural gaps, and complying with international standards and regulations. Additionally, the rapid pace of technological change demands an efficient and effective engineering process. To remain competitive and achieve their business goals, automotive organizations must adopt new strategies and undergo significant changes in the following software development concerns: architecture, process, and organization. These changes are necessary to boost productivity and improve the efficiency of the engineering process of SDVs.
 
 - [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Navigating_the_Future_-_Essential_Considerations_for_the_Engineering_of_Software-Defined_Vehicles.pdf)
-
-
 
 ## Two Decades of Automated AI Planning Methods in Construction and Fabrication: A Systematic Review (ACM Computing Surveys)
 
 Task planning and scheduling are crucial for construction or fabrication (CF) processes. Automating them is necessary for more efficient plans in terms of time and resources. However, most construction planning processes are still performed manually despite the existence of various AI methods. Symbolic AI automated task planning (ATP) techniques offer a variety of features to tackle task planning problems, but their application to CF has not been researched yet. This study identifies the current state of research and gaps in the literature regarding these AI techniques while providing directions for future research. We conduct a systematic review that evaluates existing literature on ATP in terms of environmental characteristics, modeling languages, ATP techniques, and results. We searched the ACM, IEEE, Scopus, WOS, and SpringerLink databases for papers published in the last 20 years (2002-2022) that discuss symbolic AI methods used in task planning within the CF fields. Our findings indicate that research on automated planning is currently limited regarding the characteristics of CF environments. Only a few papers have utilized symbolic languages, AI planners, and ATP techniques. No paper has evaluated their planning system in an on-site CF process. As a result, many symbolic languages, planners, and ATP techniques remain unexplored.
+
 - [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Two_Decades_of_Automated_AI_Planning_Methods_in_Construction_and_Fabrication_-_A_Systematic_Review.pdf)
 
 ## Analysis and Review of Use Case Representations in OPC UA Companion Specifications
@@ -77,23 +70,25 @@ are to be addressed, however with different approaches. In this work, these use 
 the specification. The textual representations and the graphics used are compared and the use cases are categorized by expressiveness. A
 categorization of use case contents is performed. The findings are discussed and suggestions for use case representations are derived from the
 results. These suggestions serve as a tool to editors of the companion specifications and aim to improve understandability.
+
 - [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Analysis_and_Review_of_Use_Case_Representations_in_OPC_UA_Companion_Specifications.pdf)
 
 ## Energy Efficiency in ROS Communication: A Comparison Across Programming Languages and Workloads (Frontiers in Robotics and AI)
 
 The Robot Operating System (ROS) is a widely used framework for robotic software development, providing robust client libraries for both C++ and Python. These languages, with their differing levels of abstraction, exhibit distinct resource usage patterns, including power and energy consumption -an increasingly critical quality metric in robotics.Methods: In this study, we evaluate the energy efficiency of ROS 2 nodes implemented in C++ and Python, focusing on the primary ROS communication paradigms: topics, services, and actions.Through a series of empirical experiments, with programming language, message interval, and number of clients as independent variables, we analyze the impact on energy efficiency across implementations of the three paradigms.Results: Our data analysis demonstrates that Python consistently demands more computational resources, leading to higher power consumption compared to C++. Furthermore, we find that message frequency is a highly influential factor, while the number of clients has a more variable and less significant effect on resource usage, despite revealing unexpected architectural behaviors of underlying programming and communication layers.
+
 - [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Energy_Efficiency_in_ROS_Communication_-_A_Comparison_Across_Programming_Languages_and_Workloads.pdf)
 
 ## Digital Twins for Software Engineering Processes (ICSE 2025 NIER)
 
 Digital twins promise a better understanding and use of complex systems. To this end, they represent these systems at their runtime and may interact with them to control their processes. Software engineering is a wicked challenge in which stakeholders from many domains collaborate to produce software artifacts together. In the presence of skilled software engineer shortage, our vision is to leverage DTs as means for better representing, understanding, and optimizing software engineering processes to (i) enable software experts making the best use of their time and (ii) support domain experts in producing high-quality software. This paper outlines why this would be beneficial, what such a digital twin could look like, and what is missing for realizing and deploying software engineering digital twins.
+
 - [Download the preprint](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/preprints/Digital_Twins_for_Software_Engineering_Processes.pdf)
 
 ## Identifying machine times with OPC UA for Equipment as a Service (CIRP CMS 2024)
 
-With Equipment as a Service (EaaS), subscription-based business models are becoming increasingly popular in mechanical and plant engineering. The main argument in favor for EaaS is a better overall equipment effectiveness (OEE) when a factory supplier operates the equipment. Therefore, the constant determination of the OEE in EaaS operations becomes crucial. This value is usually determined combining data retrieved from the equipment itself in combination with data from higher level systems like the manufacturing execution system (MES) of the customers. The latter are not accessible by the factory supplier. To bridge this information gap, the OEE of a piece of equipment is determined based solely on the available equipment data retrieved through data exchange standards such as the Open Platform Communications Unified Architecture (OPC UA). To achieve this, the time information needed to determine the OEE as defined in the ISO 22400-2 standard is either directly determined from OPC UA data from the machines or approximated through assumptions and exclusions. As an example for the mapping of equipment data to different time information, machine tools are focused and, hence, OPC UA 40501 and OPC UA 40001. In addition, the findings are analyzed regarding limitations in using the available time data via OPC UA. The mapping’s applicability is demonstrated with an exemplary use case and the OEE is compared when calculated only with equipment data retrieved via OPC UA with the OEE calculation having the additional information from a higher level system. This comparison allows to evaluate the uncertainty introduced by making assumptions and exclusions. The results are a valuable input to supplement the OPC UA Companion Specifications in order to cover the OEE determination in EaaS use cases. 
+With Equipment as a Service (EaaS), subscription-based business models are becoming increasingly popular in mechanical and plant engineering. The main argument in favor for EaaS is a better overall equipment effectiveness (OEE) when a factory supplier operates the equipment. Therefore, the constant determination of the OEE in EaaS operations becomes crucial. This value is usually determined combining data retrieved from the equipment itself in combination with data from higher level systems like the manufacturing execution system (MES) of the customers. The latter are not accessible by the factory supplier. To bridge this information gap, the OEE of a piece of equipment is determined based solely on the available equipment data retrieved through data exchange standards such as the Open Platform Communications Unified Architecture (OPC UA). To achieve this, the time information needed to determine the OEE as defined in the ISO 22400-2 standard is either directly determined from OPC UA data from the machines or approximated through assumptions and exclusions. As an example for the mapping of equipment data to different time information, machine tools are focused and, hence, OPC UA 40501 and OPC UA 40001. In addition, the findings are analyzed regarding limitations in using the available time data via OPC UA. The mapping’s applicability is demonstrated with an exemplary use case and the OEE is compared when calculated only with equipment data retrieved via OPC UA with the OEE calculation having the additional information from a higher level system. This comparison allows to evaluate the uncertainty introduced by making assumptions and exclusions. The results are a valuable input to supplement the OPC UA Companion Specifications in order to cover the OEE determination in EaaS use cases.
 
 - [Download the preprint](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/preprints/Identifying_machine_times_with_OPC_UA_for_Equipment_as_a_Service.pdf)
-
 
 Find my other [publications here](https://awortmann.github.io/publications/).

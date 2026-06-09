@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Autonomous Universal Manufacturing
-description: 
+description:
 img: /assets/img/project-icm-autounimanu.jpg
 importance: 1
 category: work
@@ -12,7 +12,7 @@ This research project seeks to revolutionize manufacturing by transitioning from
 
 Key focus areas include: (1) advanced laser technologies for higher productivity and sustainability, (2) autonomous process optimization using AI and real-time data, and (3) modular, reconfigurable architectures for agile manufacturing. By leveraging machine learning and interconnected systems, the project aims to enhance quality, reduce costs, and strengthen Baden-Württemberg’s global competitiveness in high-tech manufacturing.
 
-### Publications 
+### Publications
 
 The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
 
