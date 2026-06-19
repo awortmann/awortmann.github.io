@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-19'
 papers:
   6ImtercAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: Composition of heterogeneous modeling languages
     year: '2015'
   6ImtercAAAAJ:1yQoGdGgb4wC:
-    citations: 157
+    citations: 160
     title: 'Digital twin platforms: requirements, capabilities, and future prospects'
     year: '2021'
   6ImtercAAAAJ:2KloaMYe4IUC:
@@ -62,11 +62,11 @@ papers:
     title: SMArDT modeling for automotive software testing
     year: '2019'
   6ImtercAAAAJ:4DMP91E08xMC:
-    citations: 16
+    citations: 15
     title: Modeling reusable, platform-independent robot assembly processes
     year: '2016'
   6ImtercAAAAJ:4JMBOYKVnBMC:
-    citations: 41
+    citations: 40
     title: Language engineering with the GEMOC studio
     year: '2017'
   6ImtercAAAAJ:4TOpqqG69KYC:
@@ -94,7 +94,7 @@ papers:
     title: Editorial to theme section on interplay of model-driven and component-based software engineering
     year: '2020'
   6ImtercAAAAJ:5awf1xo2G04C:
-    citations: 189
+    citations: 190
     title: A computer science perspective on digital transformation in production
     year: '2022'
   6ImtercAAAAJ:5icHVeHT4IsC:
@@ -126,7 +126,7 @@ papers:
     title: European Robotics Forum
     year: '2015'
   6ImtercAAAAJ:7T2F9Uy0os0C:
-    citations: 108
+    citations: 109
     title: Integration challenges for digital twin systems-of-systems
     year: '2022'
   6ImtercAAAAJ:86PQX7AUzd4C:
@@ -142,7 +142,7 @@ papers:
     title: Challenges of Collaborative MBSE in the Presence of Practical Intellectual Property Requirements
     year: '2025'
   6ImtercAAAAJ:9c2xU6iGI7YC:
-    citations: 39
+    citations: 43
     title: 'Model-driven engineering for digital twins: a systematic mapping study: D. Lehner et al.'
     year: '2025'
   6ImtercAAAAJ:9pM33mqn1YgC:
@@ -150,7 +150,7 @@ papers:
     title: Modeling Variability of Hierarchical Component-Based Systems.
     year: '2024'
   6ImtercAAAAJ:9vf0nzSNQJEC:
-    citations: 94
+    citations: 93
     title: Process prediction with digital twins
     year: '2021'
   6ImtercAAAAJ:9yKSN-GCB0IC:
@@ -198,7 +198,7 @@ papers:
     title: Towards a unifying reference model for digital twins of cyber-physical systems
     year: '2025'
   6ImtercAAAAJ:DUooU5lO8OsC:
-    citations: 58
+    citations: 62
     title: 'Digital twin and the asset administration shell: J. Zhang et al.'
     year: '2025'
   6ImtercAAAAJ:D_sINldO8mEC:
@@ -206,7 +206,7 @@ papers:
     title: 'The design thinking of co-located vs. distributed software developers: distance strikes again!'
     year: '2020'
   6ImtercAAAAJ:EYYDruWGBe4C:
-    citations: 26
+    citations: 27
     title: Explaining cyberphysical system behavior with digital twins
     year: '2023'
   6ImtercAAAAJ:Ehil0879vHcC:
@@ -222,7 +222,7 @@ papers:
     title: Modellierung 2022 Satellite Events
     year: '2022'
   6ImtercAAAAJ:F9fV5C73w3QC:
-    citations: 0
+    citations: 1
     title: Digital Twins in Manufacturing and the Use of Models
     year: '2025'
   6ImtercAAAAJ:FAceZFleit8C:
@@ -230,7 +230,7 @@ papers:
     title: Nadia Hammoudeh Garcia, Fraunhofer, Germany Juergen Dingel, Queen's University, Canada Jesus Martinez, University of Malaga, Spain Michel Albonico, VU, Netherlands
     year: Unknown Year
   6ImtercAAAAJ:Fu2w8maKXqMC:
-    citations: 191
+    citations: 192
     title: A cross-domain systematic mapping study on software engineering for digital twins
     year: '2022'
   6ImtercAAAAJ:GFxP56DSvIMC:
@@ -266,7 +266,7 @@ papers:
     title: Model-based testing of software-based system functions
     year: '2018'
   6ImtercAAAAJ:HtEfBTGE9r8C:
-    citations: 15
+    citations: 18
     title: Generating plc code with universal large language models
     year: '2024'
   6ImtercAAAAJ:ILKRHgRFtOwC:
@@ -278,7 +278,7 @@ papers:
     title: 'ConfMod: A Simple Modeling of Confidentiality Requirements for Inter-Organizational Data Sharing'
     year: '2025'
   6ImtercAAAAJ:IUKN3-7HHlwC:
-    citations: 40
+    citations: 41
     title: "Model\u2010driven engineering for digital twins: opportunities and challenges"
     year: '2025'
   6ImtercAAAAJ:IjCSPb-OGe4C:
@@ -306,11 +306,11 @@ papers:
     title: Towards component-based development of textual domain-specific languages
     year: '2019'
   6ImtercAAAAJ:KUbvn5osdkgC:
-    citations: 13
+    citations: 15
     title: 'Monitoring of tool and component wear for self-adaptive digital twins: A multi-stage approach through anomaly detection and wear cycle analysis'
     year: '2023'
   6ImtercAAAAJ:KbBQZpvPDL4C:
-    citations: 6
+    citations: 8
     title: 'Digital twins for machine tools: A systematic mapping study'
     year: '2025'
   6ImtercAAAAJ:KlAtU1dfN6UC:
@@ -330,7 +330,7 @@ papers:
     title: MontiArc Automaton
     year: '2013'
   6ImtercAAAAJ:LPZeul_q3PIC:
-    citations: 160
+    citations: 161
     title: 'Model-driven digital twin construction: synthesizing the integration of cyber-physical systems with their information systems'
     year: '2020'
   6ImtercAAAAJ:LgRImbQfgY4C:
@@ -342,11 +342,11 @@ papers:
     title: Evaluation of a model-driven approach for the integration of robot operating system-based complex robot systems
     year: '2025'
   6ImtercAAAAJ:LjlpjdlvIbIC:
-    citations: 186
+    citations: 191
     title: Conceptualizing digital twins
     year: '2021'
   6ImtercAAAAJ:M05iB0D1s5AC:
-    citations: 69
+    citations: 70
     title: 'Software language engineering in the large: towards composing and deriving languages'
     year: '2018'
   6ImtercAAAAJ:M3NEmzRMIkIC:
@@ -370,11 +370,11 @@ papers:
     title: Preface to 2nd International Workshop on Modeling Language Engineering and Execution (MLE 2020)
     year: '2020'
   6ImtercAAAAJ:N5tVd3kTz84C:
-    citations: 32
+    citations: 33
     title: An ecosystem for digital shadows in manufacturing
     year: '2021'
   6ImtercAAAAJ:NJ774b8OgUMC:
-    citations: 50
+    citations: 51
     title: Modeling capabilities of digital twin platforms-old wine in new bottles?
     year: '2024'
   6ImtercAAAAJ:NMxIlDl6LWMC:
@@ -382,7 +382,7 @@ papers:
     title: Report on the 4th international workshop on model-driven robot software engineering (MORSE)
     year: '2018'
   6ImtercAAAAJ:NXb4pA-qfm4C:
-    citations: 7
+    citations: 8
     title: Toward automating the composition of digital twins within system-of-systems
     year: '2024'
   6ImtercAAAAJ:NaGl4SEjCO4C:
@@ -398,7 +398,7 @@ papers:
     title: Shepherding Model Evolution in Model-Driven Development.
     year: '2018'
   6ImtercAAAAJ:ODE9OILHJdcC:
-    citations: 1
+    citations: 3
     title: AI-powered semantic matching and data harmonization for industrial applications with OPC UA & asset administration shells
     year: '2025'
   6ImtercAAAAJ:OP4eGU-M3BUC:
@@ -428,7 +428,7 @@ papers:
   6ImtercAAAAJ:P7Ujq4OLJYoC:
     citations: 0
     title: 'Declarative Policy Control for Data Spaces: A DSL-Based Approach for Manufacturing-X'
-    year: '2025'
+    year: '2026'
   6ImtercAAAAJ:PELIpwtuRlgC:
     citations: 5
     title: Model-driven architecture and behavior of cyber-physical systems
@@ -462,7 +462,7 @@ papers:
     title: Patterns and tools in Robotic Systems Integration
     year: '2022'
   6ImtercAAAAJ:SP6oXDckpogC:
-    citations: 196
+    citations: 197
     title: 'Modeling languages in Industry 4.0: an extended systematic mapping study'
     year: '2020'
   6ImtercAAAAJ:SdhP9T11ey4C:
@@ -490,7 +490,7 @@ papers:
     title: MiSE 2019 Program Committee
     year: Unknown Year
   6ImtercAAAAJ:UHK10RUVsp4C:
-    citations: 87
+    citations: 86
     title: Generating customized low-code development platforms for digital twins
     year: '2022'
   6ImtercAAAAJ:ULOm3_A8WrAC:
@@ -498,7 +498,7 @@ papers:
     title: Generating domain-specific transformation languages for component & connector architecture descriptions
     year: '2015'
   6ImtercAAAAJ:URolC5Kub84C:
-    citations: 8
+    citations: 9
     title: Self-adaptive digital twin reference architecture to improve process quality
     year: '2023'
   6ImtercAAAAJ:UeHWp8X0CEIC:
@@ -518,7 +518,7 @@ papers:
     title: Modeling Languages, Tools and Architectures
     year: Unknown Year
   6ImtercAAAAJ:VLnqNzywnoUC:
-    citations: 13
+    citations: 14
     title: Case study on automated and continuous reliability assessment of software-defined manufacturing based on digital twins
     year: '2022'
   6ImtercAAAAJ:VOx2b1Wkg3QC:
@@ -546,7 +546,7 @@ papers:
     title: 'MontiArcAutomaton: Architecture and Behavior Modeling of Cyber-Physical Systems with MontiArcAutomaton'
     year: '2014'
   6ImtercAAAAJ:WqliGbK-hY8C:
-    citations: 124
+    citations: 127
     title: A conceptual model for digital shadows in industry and its application
     year: '2021'
   6ImtercAAAAJ:XD-gHx7UXLsC:
@@ -606,7 +606,7 @@ papers:
     title: Workshop on Software Engineering in Cyber-Physical Production Systems (SECPPS)
     year: '2022'
   6ImtercAAAAJ:_FM0Bhl9EiAC:
-    citations: 8
+    citations: 10
     title: 'Modeling languages for automotive digital twins: A survey among the german automotive industry'
     year: '2024'
   6ImtercAAAAJ:_OXeSy2IsFwC:
@@ -614,7 +614,7 @@ papers:
     title: Towards Formless Production with Skill-Based Industrial Digital Twins
     year: Unknown Year
   6ImtercAAAAJ:_Qo2XoVZTnwC:
-    citations: 73
+    citations: 74
     title: A systematic mapping study on modeling for industry 4.0
     year: '2017'
   6ImtercAAAAJ:_Re3VWB3Y0AC:
@@ -686,7 +686,7 @@ papers:
     title: Model-based specification of component behavior with controlled underspecification
     year: '2016'
   6ImtercAAAAJ:dshw04ExmUIC:
-    citations: 72
+    citations: 74
     title: Towards self-explainable cyber-physical systems
     year: '2019'
   6ImtercAAAAJ:e5wmG9Sq2KIC:
@@ -718,7 +718,7 @@ papers:
     title: The influence of software design representation on the design communication of teams with diverse personalities
     year: '2022'
   6ImtercAAAAJ:fFSKOagxvKUC:
-    citations: 5
+    citations: 6
     title: On the Challenges of Integrating Digital Twins
     year: '2025'
   6ImtercAAAAJ:fQNAKQ3IYiAC:
@@ -766,7 +766,7 @@ papers:
     title: Proceedings of the 1st Workshop on Model-Driven Knowledge Engineering for Improved Software Modularity in Robotics and Automation:(MDKE) 2015
     year: '2015'
   6ImtercAAAAJ:hMsQuOkrut0C:
-    citations: 4
+    citations: 6
     title: A low-code platform for systematic component-oriented language composition
     year: '2023'
   6ImtercAAAAJ:hkOj_22Ku90C:
@@ -806,7 +806,7 @@ papers:
     title: "Entwicklung einer Pr\xFCfmethode zur messtechnischen Evaluation abrasiver Verschlei\xDFresistenz auf der Mikroskala"
     year: '2002'
   6ImtercAAAAJ:kzcrU_BdoSEC:
-    citations: 47
+    citations: 49
     title: The Language of SysML v2 under the Magnifying Glass.
     year: '2022'
   6ImtercAAAAJ:l7t_Zn2s7bgC:
@@ -834,7 +834,7 @@ papers:
     title: Journal of Computer Languages
     year: Unknown Year
   6ImtercAAAAJ:mVmsd5A6BfQC:
-    citations: 1
+    citations: 0
     title: Der Weg zur Modellbasierten Evolution und Adaption medizinischer Leitlinien.
     year: '2016'
   6ImtercAAAAJ:maZDTaKrznsC:
@@ -910,11 +910,11 @@ papers:
     title: An Expert Survey on the Use of Informal Models in the Automotive Industry
     year: '2023'
   6ImtercAAAAJ:sNmaIFBj_lkC:
-    citations: 7
+    citations: 8
     title: Hierarchical digital twin ecosystem for industrial manufacturing scenarios
     year: '2024'
   6ImtercAAAAJ:sSrBHYA8nusC:
-    citations: 63
+    citations: 62
     title: 'Software engineering whispers: The effect of textual vs. graphical software design descriptions on software design communication'
     year: '2020'
   6ImtercAAAAJ:t6usbXjVLHcC:
@@ -950,7 +950,7 @@ papers:
     title: Model-driven systems engineering for virtual product design
     year: '2019'
   6ImtercAAAAJ:uJ-U7cs_P_0C:
-    citations: 3
+    citations: 4
     title: Automated Model-Based Reliability Assessment of Software-Defined Manufacturing.
     year: '2022'
   6ImtercAAAAJ:uWQEDVKXjbEC:
@@ -958,7 +958,7 @@ papers:
     title: RoSE 2019 Organizing Committee
     year: '2019'
   6ImtercAAAAJ:uWiczbcajpAC:
-    citations: 1
+    citations: 2
     title: Residential complex design as a Constraint Satisfaction Problem
     year: '2023'
   6ImtercAAAAJ:uc_IGeMz5qoC:
