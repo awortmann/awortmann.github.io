@@ -6,6 +6,11 @@ description:
 nav: false
 ---
 
+## Model-Driven Industrial Digital Twins and AI
+
+- Invited talk in the IRT [Seminar@SystemX](https://www.irt-systemx.fr/evenement/seminarsystemx-anime-par-andreas-wortmann/) seminar series (English)
+- [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/presentations/26.07.09.SystemX.pdf)
+
 ## Models and AI in Software Engineering for Production
 
 - Keynote of the [SECPPS 2026 Workshop](https://se2026.inf.unibe.ch/de/workshops/secpps/) at SE 2026 (English)
