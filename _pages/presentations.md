@@ -6,6 +6,16 @@ description:
 nav: false
 ---
 
+## Model-Driven Industrial Digital Twins and AI
+
+- Keynote of the [Pohang AI Summit](https://www.gb.go.kr/Main/page.do?mnu_uid=6792&BD_CODE=bbs_gongji&cmd=2&B_NUM=509110801&B_STEP=509110800&) seminar series (English)
+- [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/presentations/26.07.22.AI_Summit_Keynote.pdf)
+
+## Model-Driven Industrial Digital Twins and AI
+
+- Invited talk in the [SystemX seminar series](https://www.youtube.com/user/IRTSystemX) (English)
+- [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/presentations/26.07.09.SystemX.pdf)
+
 ## Models and AI in Software Engineering for Production
 
 - Keynote of the [SECPPS 2026 Workshop](https://se2026.inf.unibe.ch/de/workshops/secpps/) at SE 2026 (English)
