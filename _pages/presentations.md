@@ -6,6 +6,12 @@ description:
 nav: false
 ---
 
+
+## The Future of Industrial AI: Model-Driven Digital Twins and Autonomous Systems
+
+- Keynote of the [Pohang AI Summit](https://www.gb.go.kr/Main/page.do?mnu_uid=6792&BD_CODE=bbs_gongji&cmd=2&B_NUM=509110801&B_STEP=509110800&) (English)
+- [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/master/downloads/presentations/26.07.22.AI_Summit_Keynote.pdf)
+
 ## Model-Driven Industrial Digital Twins and AI
 
 - Invited talk in the IRT [Seminar@SystemX](https://www.irt-systemx.fr/evenement/seminarsystemx-anime-par-andreas-wortmann/) seminar series (English)
