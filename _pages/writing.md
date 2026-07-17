@@ -2,7 +2,7 @@
 layout: page
 permalink: /writing/
 title: Notes on Scientifc Writing and Presentation
-description: 
+description:
 nav: false
 ---
 
@@ -17,8 +17,7 @@ nav: false
 - How to Write a Great Research Paper by Simon Peyton Jones: [Video](https://www.youtube.com/watch?v=WP-FkUaOcOM), [Presentation slides](../downloads/writing/peyton-jones.pdf)
   - [Comments](https://eelcovisser.org/wiki/teaching/how-to-write-a-great-research-paper/) by Prof. Eelco Visser.
 - [How to Write More Clearly, Think More Clearly, and
-Learn Complex Material More Easily](http://www.covingtoninnovations.com/mc/WriteThinkLearn.pdf) by Michael A. Covington
-
+  Learn Complex Material More Easily](http://www.covingtoninnovations.com/mc/WriteThinkLearn.pdf) by Michael A. Covington
 
 ### Style guidelines and tools
 
@@ -29,24 +28,28 @@ Learn Complex Material More Easily](http://www.covingtoninnovations.com/mc/Write
 - The [Hemingway Tool](http://www.hemingwayapp.com/) can help writing less complicated sentences
 
 ### Figures
+
 - Illustrations are suitable for b/w printing
 - No undesired oblique lines
 - ISW template used
 - Captions: in complete sentences end with period, in incomplete sentences end without period
-- Captions use [Sentence style](https://www.chicagomanualofstyle.org/book/ed17/part1/ch03/psec021.html) 
+- Captions use [Sentence style](https://www.chicagomanualofstyle.org/book/ed17/part1/ch03/psec021.html)
 
 ### Abbreviations
+
 - All abbreviations introduced
 - Only abbreviations introduced that have been used at least five times
-- The full form is written in lower case in [most cases](https://www.chicagomanualofstyle.org/book/ed17/part2/ch10/psec006.html): 
+- The full form is written in lower case in [most cases](https://www.chicagomanualofstyle.org/book/ed17/part2/ch10/psec006.html):
 - For instance "transmission-control protocol/internet protocol (TCP/IP)" is correct
 
 ### Phrasing and wording
-- Correct use of "enable" and "allow": 
+
+- Correct use of "enable" and "allow":
   - Semantically: [allow](https://www.merriam-webster.com/dictionary/allow) vs [enable](https://www.merriam-webster.com/dictionary/enable)
   - [Grammatically](https://www.grammaring.com/to-infinitive-or-gerund-advise-recommend-allow-permit-forbid-require)
 
 ### Spelling
+
 - Consistently used american english?
 - [Capitalization correct](https://blog.apastyle.org/apastyle/2012/02/do-i-capitalize-this-word.html) and consistent
   - Capitalize [proper nouns](https://en.wikipedia.org/wiki/Proper_noun) only
@@ -56,10 +59,12 @@ Learn Complex Material More Easily](http://www.covingtoninnovations.com/mc/Write
 - Captions use [Heading Style](https://www.chicagomanualofstyle.org/book/ed17/part1/ch02/psec058.html)
 
 ### Numbering
+
 - Numbers between 0 and 10 represented as [proper number words](https://www.chicagomanualofstyle.org/book/ed17/part2/ch09/psec003.html)
 - Words used with index numbers (e.g., "Section 1", "Figure 2", "Table 3") are captitalized
 
 ### Latex
+
 - Use \autoref{} instead of \ref{} consistently
 
 ## Reviewing

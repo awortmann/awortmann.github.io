@@ -1,17 +1,16 @@
 ---
 layout: page
 title: Model-Driven Architecture
-description: 
+description:
 img: /assets/img/project-montiarcautomaton.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-MontiArcAutomaton is an architecture and behavior modeling framework that is semantically grounded in the Focus theory of interacting stream-processing functions. MonitArcAutomaton provides an integrated, platform-independent structure and behavior modeling language with an extensible code generation framework. MontiArcAutomaton’s central concept is encapsulation and decomposition known from component &amp; connector architecture description languages. Its quintessential focus is modularity: from the straightforward extension of its modeling languages, to highly reusable architecture models and their parts, to an easily extensible code generation toolchain. 
+MontiArcAutomaton is an architecture and behavior modeling framework that is semantically grounded in the Focus theory of interacting stream-processing functions. MonitArcAutomaton provides an integrated, platform-independent structure and behavior modeling language with an extensible code generation framework. MontiArcAutomaton’s central concept is encapsulation and decomposition known from component &amp; connector architecture description languages. Its quintessential focus is modularity: from the straightforward extension of its modeling languages, to highly reusable architecture models and their parts, to an easily extensible code generation toolchain.
 MonitArcAutomaton is an <a href="https://monticore.github.io/monticore/docs/DevelopedLanguages/">extension</a> of the MontiArc 3 architecture description language and has been integrated into MontiArc 4. It has been applied in a variety of domains, including automotive, manufacturing, and robotics.
 Find out more at the <a href="https://monticore.github.io/monticore/docs/DevelopedLanguages/">MontiArcAutomaton website</a>.
-
 
 ### Publications
 
@@ -48,5 +47,3 @@ The complete list of publications is available from my [publications](https://aw
 ### Related Topics
 
 → [Industry 4.0](https://wortmann.ac/i40/)
-
-

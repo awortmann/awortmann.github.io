@@ -2,11 +2,11 @@
 layout: page
 permalink: /research/sle/
 title: Software Language Engineering
-description: 
+description:
 nav: false
 ---
 
-Identifying or engineering appropriate languages for the various activities in software and systems development is one of the most important issues in Software Engineering. Programming and modeling languages are still subject to improvement. In various domains, it is appropriate to employ Domain-Specific Languages (DSLs) to enable non-software developers to specify properties, configuring their systems, etc. in terms of established domain concepts and corresponding language elements. With increasing digitalization, we expect a growth in DSLs and increasing efforts in their efficient engineering, integration, and composition. But designing DSLs is challenging, because, on one hand, they need to be precise enough for being processed by a computer and, on the other hand, comprehensible by humans. The monolithic design of a language can already benefit from methods for language engineering in the small including design guidelines and tooling. Therefore, we conduct research on the systematic engineering  of (domain-specific) modeling languages and reusable modeling language libraries  leveraging concepts from component-based software engineering and software product lines for a variety of different domains .
+Identifying or engineering appropriate languages for the various activities in software and systems development is one of the most important issues in Software Engineering. Programming and modeling languages are still subject to improvement. In various domains, it is appropriate to employ Domain-Specific Languages (DSLs) to enable non-software developers to specify properties, configuring their systems, etc. in terms of established domain concepts and corresponding language elements. With increasing digitalization, we expect a growth in DSLs and increasing efforts in their efficient engineering, integration, and composition. But designing DSLs is challenging, because, on one hand, they need to be precise enough for being processed by a computer and, on the other hand, comprehensible by humans. The monolithic design of a language can already benefit from methods for language engineering in the small including design guidelines and tooling. Therefore, we conduct research on the systematic engineering of (domain-specific) modeling languages and reusable modeling language libraries leveraging concepts from component-based software engineering and software product lines for a variety of different domains .
 
 ### Compositional Reuse of Software Languages
 
@@ -40,13 +40,13 @@ The paper introduces a low-code platform for systematic component-oriented langu
 
 The paper introduces a method for modularizing and composing domain-specific modeling languages (DSLs) using language components, enabling systematic reuse and customization for collaborative embedded systems (CESs). By leveraging the MontiCore language workbench, the approach supports language extension, embedding, and aggregation, facilitating the creation of language product lines tailored to specific application domains. This reduces accidental complexity and promotes efficient model-driven development (MDD) by allowing domain experts to contribute using familiar terminology. The method enhances maintainability, reusability, and adaptability of DSLs, addressing challenges in engineering heterogeneous CESs.
 
-[PDF](https://awortmann.github.io/downloads/paper/Language_Engineering_for_Heterogeneous_Collaborative_Embedded_Systems.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label cps">Cyber-Physical Systems</span> <span class="label sle">Software Language Engineering</span> 
+[PDF](https://awortmann.github.io/downloads/paper/Language_Engineering_for_Heterogeneous_Collaborative_Embedded_Systems.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label cps">Cyber-Physical Systems</span> <span class="label sle">Software Language Engineering</span>
 
 #### Maturity Evaluation of Domain-Specific Language Ecosystems for Cyber-Physical Production Systems
 
 The paper introduces a maturity evaluation model for domain-specific language (DSL) ecosystems in cyber-physical production systems (CPPSs), addressing the need for structured assessment of DSL maturity. The model evaluates nine components—grammar and syntax, semantics, naming conventions, style guides, libraries, patterns, analyses, tools, and documentation—using qualitative criteria. Applied to five CPPS DSLs (IEC 61499, SysML, MontiArc, IVML, PPR-DSL), the model reveals that all components are relevant, with SysML and MontiArc scoring highest in maturity. The study highlights the influence of community support and open accessibility on DSL ecosystem maturity, suggesting future research to refine and validate the model with industry practitioners.
 
-[PDF](https://awortmann.github.io/downloads/paper/Maturity_Evaluation_of_Domain_Specific_Language_Ecosystems_for_Cyber_Physical_Production_Systems.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label cps">Cyber-Physical Systems</span> <span class="label sle">Software Language Engineering</span> 
+[PDF](https://awortmann.github.io/downloads/paper/Maturity_Evaluation_of_Domain_Specific_Language_Ecosystems_for_Cyber_Physical_Production_Systems.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label cps">Cyber-Physical Systems</span> <span class="label sle">Software Language Engineering</span>
 
 ### Software Language Evolution
 
@@ -56,19 +56,17 @@ The paper presents a taxonomy of change types for textual domain-specific langua
 
 [PDF](https://awortmann.github.io/downloads/paper/A_Taxonomy_of_Change_Types_for_Textual_DSL_Grammars.pdf) &#124; [Bibtex](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/_bibliography/andreaswortmann.bib) &#124; Topics <span class="label sle">Software Language Engineering</span>
 
-
 ### Further Selected Publications
 
 - Pfeiffer, J., Rumpe, B., Schmalzing, D., & Wortmann, A. (2023). [Composition operators for modeling languages: A literature review](../../downloads/paper/Composition_operators_for_modeling_languages__A_literature_review.pdf). Journal of Computer Languages, 76, 101226. Elsevier.
 
 - Pfeiffer, J., & Wortmann, A. (2023). [A low-code platform for systematic component-oriented language composition](../../downloads/paper/A_Low_Code_Platform_for_Systematic_Component_Oriented_Language_Composition.pdf). In Proceedings of the 16th ACM SIGPLAN International Conference on Software Language Engineering (pp. 208-213), ACM.
 
-- Butting, A., & Wortmann, A. (2021). [Language Engineering for Heterogeneous Collaborative Embedded Systems](../../downloads/paper/Language_Engineering_for_Heterogeneous_Collaborative_Embedded_Systems.pdf). In W. Böhm, M. Broy, C. Klein, K. Pohl, B. Rumpe, & S. Schröck (Eds.), *Model-Based Engineering of Collaborative Embedded Systems*, (pp. 239–253). Springer.
+- Butting, A., & Wortmann, A. (2021). [Language Engineering for Heterogeneous Collaborative Embedded Systems](../../downloads/paper/Language_Engineering_for_Heterogeneous_Collaborative_Embedded_Systems.pdf). In W. Böhm, M. Broy, C. Klein, K. Pohl, B. Rumpe, & S. Schröck (Eds.), _Model-Based Engineering of Collaborative Embedded Systems_, (pp. 239–253). Springer.
 
-- Butting, A., Eikermann, R., Hölldobler, K., Jansen, N., Rumpe, B., & Wortmann, A. (2020). [A Library of Literals, Expressions, Types, and Statements for Compositional Language Design](../../downloads/paper/A_Library_of_Literals__Expressions__Types__and_Statements_for_Compositional_Language_Design.pdf). In L. Hamann, R. Paige, A. Pierantonio, B. Rumpe, & A. Vallecillo (Eds.), *Special Issue dedicated to Martin Gogolla on his 65th Birthday, Journal of Object Technology, 19*(3), (pp. 3:1-16). AITO.
+- Butting, A., Eikermann, R., Hölldobler, K., Jansen, N., Rumpe, B., & Wortmann, A. (2020). [A Library of Literals, Expressions, Types, and Statements for Compositional Language Design](../../downloads/paper/A_Library_of_Literals__Expressions__Types__and_Statements_for_Compositional_Language_Design.pdf). In L. Hamann, R. Paige, A. Pierantonio, B. Rumpe, & A. Vallecillo (Eds.), _Special Issue dedicated to Martin Gogolla on his 65th Birthday, Journal of Object Technology, 19_(3), (pp. 3:1-16). AITO.
 
-- Butting, A., Pfeiffer, J., Rumpe, B., & Wortmann, A. (2020). [A Compositional Framework for Systematic Modeling Language Reuse](../../downloads/paper/A_Compositional_Framework_for_Systematic_Modeling_Language_Reuse.pdf). In *Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'20)*, (pp. 35-46). ACM.
-
+- Butting, A., Pfeiffer, J., Rumpe, B., & Wortmann, A. (2020). [A Compositional Framework for Systematic Modeling Language Reuse](../../downloads/paper/A_Compositional_Framework_for_Systematic_Modeling_Language_Reuse.pdf). In _Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS'20)_, (pp. 35-46). ACM.
 
 ### Related Topics
 

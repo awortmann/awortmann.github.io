@@ -2,11 +2,11 @@
 layout: page
 permalink: /companion/skill-based-manufacturing/
 title: Skill-Based Manufacturing - A Systematic Mapping Study
-description: 
+description:
 nav: false
 ---
 
-*This is the companion website for the manuscript "Skill-Based Manufacturing: A Systematic Mapping Study" by Alexander Uhl, David Dietrich, Carsten Ellwein, Max Hossfeld, and Andreas Wortmann, which currently is under submission. After acceptance, this website will be moved into an archive with a persistent DOI, e.g., at [Zenodo](https://zenodo.org/).*
+_This is the companion website for the manuscript "Skill-Based Manufacturing: A Systematic Mapping Study" by Alexander Uhl, David Dietrich, Carsten Ellwein, Max Hossfeld, and Andreas Wortmann, which currently is under submission. After acceptance, this website will be moved into an archive with a persistent DOI, e.g., at [Zenodo](https://zenodo.org/)._
 
 ### Motivation
 
@@ -48,11 +48,10 @@ Would you like me to convert these lists into a comparison table for easier view
 
 ### Corpus
 
-Applying this method has led to a final corpus of 87 publications, which were analyzed to answer the research questions listed above. 
+Applying this method has led to a final corpus of 87 publications, which were analyzed to answer the research questions listed above.
 
 - This corpus of included publications is available [here](https://github.com/awortmann/awortmann.github.io/raw/gh-pages/_pages/companion/skill-based-manufacturing/included_corpus.csv)
 - The corpus of initially collected publications (including snowballing) is available [here](https://github.com/awortmann/awortmann.github.io/raw/gh-pages/_pages/companion/skill-based-manufacturing/full_corpus.csv)
-
 
 ### Related Topics
 

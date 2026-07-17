@@ -15,6 +15,7 @@ nav: false
 ## Topic search
 
 ### When to start?
+
 - 3-6 months before the planned starting date
 
 ### How to search?
@@ -42,8 +43,8 @@ nav: false
   - Which courses did you pass that may qualify you for a thesis at the respective institute?
 - Planned starting date of your thesis
 - Please note: The person who reads that e-mail possibly receives several requests per
-week and very often he/she may not know you personally. Thus you have to tell him/her
-everything that may be helpful for the decision process
+  week and very often he/she may not know you personally. Thus you have to tell him/her
+  everything that may be helpful for the decision process
 
 ### What if the contact person does not respond?
 
@@ -61,4 +62,4 @@ everything that may be helpful for the decision process
 - Contacting potential examiners early is mandatory to discuss/adjust the topic, to involve the external supervisor, to clarify legal issues
 - Topic description
 - Often the description of the topic is fairly generic (e.g. identify and improve best method), i.e., neither the student nor the examiner knows exactly what to do
-- Sometimes thesis topics have lower scientific claims such that it is not sufficiently demanding for the degree you want to obtain 
+- Sometimes thesis topics have lower scientific claims such that it is not sufficiently demanding for the degree you want to obtain

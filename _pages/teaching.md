@@ -2,36 +2,33 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description:
 nav: true
 nav_order: 6
 calendar: false
 ---
 
-
 Research and teaching mutually benefit from each other. Through research, we find new concepts, theories, and methods that we then teach to future researchers and practitioners. Through teaching, we organize, reflect, and possibly scrutinize these results.
 
-## Lectures 
-
+## Lectures
 
 #### Software Engineering for Engineers
 
 In this lecture, students with a programming background can learn about the activities, methods, and tools required before one starts programming, such as requirements engineering and softwware design, and the activities starting in the implementation phase, such as software quality assurance, verification, and validiation.
 
-- [Since Summer 2022](https://www.isw.uni-stuttgart.de/lehre/vorlesungen/) 
+- [Since Summer 2022](https://www.isw.uni-stuttgart.de/lehre/vorlesungen/)
 
 #### Modeling Software-Intensive Systems
 
 This lecture focuses on object-oriented modeling techniques, their integrated use, and application. To this end, it includes a subset of UML/P, parts of SysML, formal software arcihtecture modeling, and others.
 
-- [Since Summer 2021](https://www.isw.uni-stuttgart.de/lehre/vorlesungen/) 
-
+- [Since Summer 2021](https://www.isw.uni-stuttgart.de/lehre/vorlesungen/)
 
 #### Informatik im Maschinenbau 1
 
 The goal of the lecture is to teach the basics of object-oriented programming with Java, distributed systems, techniques of software engineering, and applications of artificial intelligence to Bachelor level students in mechanical engineering.
 
-- [Summer 2020](https://www.se-rwth.de/teaching/ss20/imb1/) 
+- [Summer 2020](https://www.se-rwth.de/teaching/ss20/imb1/)
 
 #### Model-Based Software Engineering
 
@@ -39,7 +36,7 @@ The lecture teaches the model-based development of complex software systems. It 
 
 - [Summer 2022](https://campus.uni-stuttgart.de/cusonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/337982?$ctx=design=ca;lang=de&$scrollTo=toc_overview)
 
-- [Winter 2019/20](https://www.se-rwth.de/teaching/ws1920/mbse/) 
+- [Winter 2019/20](https://www.se-rwth.de/teaching/ws1920/mbse/)
 
 #### Software Language Engineering
 
@@ -55,7 +52,7 @@ The lecture teaches the basics of the development of complex software systems. I
 
 #### Generative Software Engineering
 
-After completing this course, the students will have a deeper understanding of the use of generative techniques for the development of software systems. They will be able to develop generators for UML or other DSLs and different target platforms. Furthermore, they will be able to judge the quality of systems and generators. 
+After completing this course, the students will have a deeper understanding of the use of generative techniques for the development of software systems. They will be able to develop generators for UML or other DSLs and different target platforms. Furthermore, they will be able to judge the quality of systems and generators.
 
 - [Summer 2011](https://www.se-rwth.de/teaching/ss11/gse/)
 
@@ -101,17 +98,17 @@ This lab course focuses on the development of a service robotics assistance syst
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TIspANC9TY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-- [Winter 2013/14](https://www.se-rwth.de/teaching/ws1314/lab_robotics/) 
+- [Winter 2013/14](https://www.se-rwth.de/teaching/ws1314/lab_robotics/)
 
 <p style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u6LF8KjvDgM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-- [Winter 2012/13](https://www.se-rwth.de/teaching/ws1213/mbserob/) 
+- [Winter 2012/13](https://www.se-rwth.de/teaching/ws1213/mbserob/)
 
 ## Seminars
 
-#### A Journey into Software Language Workbenches 
+#### A Journey into Software Language Workbenches
 
 In this seminar, students will systematically investigate the expressiveness and tool support of state-of-the-art language workbenches (such as Xtext, MPS, or Rascal). The intended result is a shared understanding of the capabilities of modern language workbenches.
 
