@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-14'
 papers:
   6ImtercAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -150,7 +150,7 @@ papers:
     title: "Message from the SE\u201922 Workshop Chairs"
     year: '2022'
   6ImtercAAAAJ:8k81kl-MbHgC:
-    citations: 28
+    citations: 29
     title: Code generator composition for model-driven engineering of robotics component & connector systems
     year: '2015'
   6ImtercAAAAJ:8xutWZnSdmoC:
@@ -210,7 +210,7 @@ papers:
     title: Towards a unifying reference model for digital twins of cyber-physical systems
     year: '2025'
   6ImtercAAAAJ:DUooU5lO8OsC:
-    citations: 77
+    citations: 79
     title: 'Digital twin and the asset administration shell: J. Zhang et al.'
     year: '2025'
   6ImtercAAAAJ:D_sINldO8mEC:
@@ -274,7 +274,7 @@ papers:
     title: Model-based testing of software-based system functions
     year: '2018'
   6ImtercAAAAJ:HtEfBTGE9r8C:
-    citations: 20
+    citations: 21
     title: Generating PLC code with universal large language models
     year: '2024'
   6ImtercAAAAJ:ILKRHgRFtOwC:
@@ -290,7 +290,7 @@ papers:
     title: "Model\u2010driven engineering for digital twins: opportunities and challenges"
     year: '2025'
   6ImtercAAAAJ:IjCSPb-OGe4C:
-    citations: 56
+    citations: 57
     title: 'MontiArcAutomaton: modeling architecture and behavior of robotic systems'
     year: '2014'
   6ImtercAAAAJ:J-pR_7NvFogC:
@@ -314,7 +314,7 @@ papers:
     title: Towards component-based development of textual domain-specific languages
     year: '2019'
   6ImtercAAAAJ:KUbvn5osdkgC:
-    citations: 15
+    citations: 16
     title: 'Monitoring of tool and component wear for self-adaptive digital twins: A multi-stage approach through anomaly detection and wear cycle analysis'
     year: '2023'
   6ImtercAAAAJ:KbBQZpvPDL4C:
@@ -806,7 +806,7 @@ papers:
     title: "Kulturelle Einfl\xFCsse auf Enterprise Resource Planning Systeme: Eine Kartographie der Forschungslandschaft"
     year: Unknown Year
   6ImtercAAAAJ:kRWSkSYxWN8C:
-    citations: 67
+    citations: 68
     title: Engineering of collaborative embedded systems
     year: '2020'
   6ImtercAAAAJ:k_IJM867U9cC:
