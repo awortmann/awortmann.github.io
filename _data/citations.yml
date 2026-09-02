@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-31'
+  last_updated: '2026-09-02'
 papers:
   6ImtercAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -82,7 +82,7 @@ papers:
     title: A Software Architecture for Real-Time Digital Twins in Machining
     year: '2026'
   6ImtercAAAAJ:4fGpz3EwCPoC:
-    citations: 3
+    citations: 4
     title: 'Energy Efficiency of ROS Nodes in Different Languages: Publisher/Subscriber Case Studies'
     year: '2024'
   6ImtercAAAAJ:4fKUyHm3Qg0C:
@@ -210,7 +210,7 @@ papers:
     title: Towards a unifying reference model for digital twins of cyber-physical systems
     year: '2025'
   6ImtercAAAAJ:DUooU5lO8OsC:
-    citations: 83
+    citations: 85
     title: 'Digital twin and the asset administration shell: J. Zhang et al.'
     year: '2025'
   6ImtercAAAAJ:D_sINldO8mEC:
@@ -386,7 +386,7 @@ papers:
     title: Report on the 4th international workshop on model-driven robot software engineering (MORSE)
     year: '2018'
   6ImtercAAAAJ:NXb4pA-qfm4C:
-    citations: 8
+    citations: 9
     title: Toward automating the composition of digital twins within system-of-systems
     year: '2024'
   6ImtercAAAAJ:NaGl4SEjCO4C:
@@ -486,7 +486,7 @@ papers:
     title: Advances in modeling language engineering
     year: '2017'
   6ImtercAAAAJ:TIZ-Mc8IlK0C:
-    citations: 15
+    citations: 16
     title: 'Navigating the low-code landscape: A comparison of development platforms'
     year: '2023'
   6ImtercAAAAJ:TQgYirikUcIC:
@@ -878,7 +878,7 @@ papers:
     title: "\" Engineering a Rover Language in GEMOC Studio & MontiCore: A Comparison of Language Reuse Support\"; Vortrag: Workshop on Model Driven Engineering Tools (MDETools 2017), Austin \u2026"
     year: Unknown Year
   6ImtercAAAAJ:olpn-zPbct0C:
-    citations: 51
+    citations: 52
     title: 'Model-driven engineering for mobile robotic systems: a systematic mapping study'
     year: '2022'
   6ImtercAAAAJ:p2g8aNsByqUC:
