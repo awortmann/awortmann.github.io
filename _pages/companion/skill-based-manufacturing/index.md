@@ -44,8 +44,6 @@ We applied the following criteria for filtering articles:
 4. Studies presenting literature reviews or mapping studies (discussed as related work).
 5. Publications where the term “skill” is referring to human skill in the sense of manual labor or “workers.”
 
-Would you like me to convert these lists into a comparison table for easier viewing on your website?
-
 ### Corpus
 
 Applying this method has led to a final corpus of 87 publications, which were analyzed to answer the research questions listed above.
