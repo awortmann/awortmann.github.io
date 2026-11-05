@@ -6,6 +6,10 @@ description:
 nav: false
 ---
 
+## Model-Driven Digital Twins and AI in Industry 4.0
+
+- Invited talk in the [GSaME Colloquium](https://www.gsame.uni-stuttgart.de/ueber_uns/aktuelles/veranstaltung/GSaME-Kolloquium-Model-Driven-Digital-Twins-and-AI-in-Industry-4.0/) (English)
+- [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/main/downloads/presentations/26.11.05.GSaME.pdf)
 
 ## The Future of Industrial AI: Model-Driven Digital Twins and Autonomous Systems
 
