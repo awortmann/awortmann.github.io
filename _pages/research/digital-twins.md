@@ -24,7 +24,7 @@ This entails that a digital twin
 - does not need to be a model but may use models
 - may change the behavior of the original system
 
-From this, interesting questions arise. Some of which I have discussed in my talk [Ceci n’est pas un jumeau numérique](https://edt.community/events/event/ceci-nest-pas-un-jumeau-numerique/) in the [Engineering Digital Twins Community](https://edt.community/).
+From this, interesting questions arise. Some of which I have discussed in my talk [Ceci n’est pas un jumeau numérique](https://edt.community) in the [Engineering Digital Twins Community](https://edt.community/).
 
 Selected publications below highlight how we leverage this notion of digital twins to facilitate their engineering and operations
 
