@@ -44,7 +44,7 @@ nav: false
 
 ### Artificial Intelligent Industrial Software Engineering
 
-- Keynote at the [Stuttgarter Innovationstage 2024](https://www.stuttgarter-innovationstage.de/) (English)
+- Keynote at the [Stuttgarter Innovationstage 2024](https://web.archive.org/web/20240912011611/https://www.stuttgarter-innovationstage.de/) (English)
 - [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/main/downloads/presentations/24.09.18.InnoTage_Keynote.pdf)
 
 ### Software-Defined Manufacturing
@@ -54,7 +54,7 @@ nav: false
 
 ### Digital Twins - An Introduction
 
-- Keynote at the [Stuttgarter Innovationstage 2023](https://www.stuttgarter-innovationstage.de/) (English)
+- Keynote at the [Stuttgarter Innovationstage 2023](https://web.archive.org/web/20221208223834/https://www.stuttgarter-innovationstage.de/) (English)
 - [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/main/downloads/presentations/23.02.28.InnoTage_Keynote.pdf)
 
 ### Reflections on Digital Twins
@@ -69,7 +69,7 @@ nav: false
 
 ### Über Digitale Zwillinge
 
-- Invited talk to the [Software-Defined Car](https://sofdcar.de/language/en/) (SofDCar) project channel meeting on metamodels of digital twins (German)
+- Invited talk to the [Software-Defined Car](https://web.archive.org/web/20220625142214/https://sofdcar.de/language/en/) (SofDCar) project channel meeting on metamodels of digital twins (German)
 - [Presentation slides](https://github.com/awortmann/awortmann.github.io/raw/main/downloads/presentations/22.05.18.Ueber_Digitale_Zwillinge.pdf)
 
 ### Modellgetriebene Entwicklung Digitaler Zwillinge
