@@ -1,3 +1,7 @@
+# .lycheeignore – eine Regex pro Zeile, wird gegen die URL geprüft.
+# Zeilen mit # sind Kommentare.
+
+# --- Bestehende Einträge aus al-folio ----------------------------------------
 .github/instructions/bibtex-bibliography.instructions.md
 .github/instructions/liquid-templates.instructions.md
 .github/instructions/markdown-content.instructions.md
@@ -8,7 +12,31 @@ _pages/blog.md
 _posts/2018-12-22-distill.md
 _posts/2023-04-24-videos.md
 AGENTS.md
-https://www.linkedin.com/
-https://www.reddit.com/
 README.md
 SEO.md
+https://www.reddit.com/
+
+# --- Verlage und Datenbanken mit Bot-Sperre (403 bei automatischem Abruf) ----
+# ACM Digital Library, auch ACM-DOIs (10.1145), die dorthin weiterleiten
+^https?://dl\.acm\.org/
+^https?://(dx\.)?doi\.org/10\.1145/
+# Wiley (inkl. incose.onlinelibrary.wiley.com)
+^https?://([a-z0-9-]+\.)?onlinelibrary\.wiley\.com/
+# Elsevier
+^https?://(www\.)?sciencedirect\.com/
+^https?://(www\.)?scopus\.com/
+# MDPI, Emerald
+^https?://(www\.)?mdpi\.com/
+^https?://(www\.)?emerald\.com/
+# VDI eLibrary (leitet auf inlibra.com weiter), auch VDI-DOIs (10.37544)
+^https?://elibrary\.vdi-verlag\.de/
+^https?://(www\.)?inlibra\.com/
+^https?://(dx\.)?doi\.org/10\.37544/
+
+# --- Soziale Netzwerke / Plattformen mit Bot-Sperre -------------------------
+^https?://(www\.)?researchgate\.net/
+^https?://([a-z]+\.)?linkedin\.com/
+^https?://(www\.)?unsplash\.com
+
+# --- Wayback Machine: drosselt automatische Abrufe (429), Snapshots bleiben stabil
+^https?://web\.archive\.org/web/
