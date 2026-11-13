@@ -2,6 +2,7 @@
 layout: page
 permalink: /language-composition/
 title: Composition Operators for Modeling Languages - A Literature Review
+meta_description: "Replication package for the literature review on composition operators for modeling languages, submitted to the Journal of Computer Languages."
 description:
 nav: false
 ---

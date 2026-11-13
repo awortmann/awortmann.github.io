@@ -1,6 +1,7 @@
 ---
 layout: page
 title: OPC UA Universal Setup Environment
+meta_description: "OPC UA Universal Setup Environment: simplifying the configuration and commissioning of OPC UA communication, especially for SMEs."
 description:
 img: /assets/img/project-icm-use.jpg
 importance: 1

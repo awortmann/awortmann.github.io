@@ -2,6 +2,7 @@
 layout: page
 permalink: /preprints/
 title: Preprints
+meta_description: "Preprints of accepted and in-press publications by Andreas Wortmann and colleagues on model-driven engineering, digital twins, and AI in manufacturing."
 description:
 nav: false
 ---
@@ -18,20 +19,20 @@ Virtual Commissioning (VC) links plant models and control software so that behav
 
 Robots are increasingly used in diverse application areas, where autonomous navigation plays a central role. As these systems become more widespread, improving their energy efficiency is critical to extending operational time and reducing environmental impact. The Robot Operating System (ROS) is a widely adopted middleware for robotics, offering a rich set of configurable packages. However, this flexibility can result in suboptimal software configurations in dynamic environments, negatively affecting both performance and energy consumption. This paper investigates the impact of ROS 2 package reconfigurations on the energy efficiency of mobile robot navigation. We conduct a controlled experiment in two warehouse-like scenarios (small and large) with varying obstacle layouts and Costmap 2D configurations (essential to the Nav2 stack). Through repeated trials, we measure energy usage, power profile, CPU load, memory consumption, and navigation performance. Results show that configurations must be carefully chosen for the specific robotic environment, and we were able to identify critical settings that lead to good and poor performance and energy consumption
 
-- [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Tuning_ROS_2_for_Energy-Efficient_Navigation_-_Empirical_Insights_from_Costmap_2D_Configurations.pdf)
+- [Download the preprint](https://awortmann.github.io/downloads/preprints/Tuning_ROS_2_for_Energy-Efficient_Navigation_-_Empirical_Insights_from_Costmap_2D_Configurations.pdf)
 
 ## Industrial Semantics-Aware Digital Twins: A Hybrid Graph Matching Approach for Asset Administration Shells (IDETWIN 2025)
 
 Although the Asset Administration Shell (AAS) standard provides a structured and machine-readable representation of industrial assets, their semantic comparability remains a ajor
 challenge, particularly when different vocabularies and modeling practices are used. Engineering would benefit from retrieving existing AAS models that are similar to the target in order to reuse submodels, parameters, and metadata. In practice, however, heterogeneous vocabularies and divergent modeling conventions hinder automated, content-level comparison across AAS. This paper proposes a hybrid graph matching approach to enable semantics-aware comparison of Digital Twin representations. The method combines rule-based pre-filtering using SPARQL with embedding-based similarity calculation leveraging RDF2vec to capture both structural and semantic relationships between AAS models. This contribution provides a foundation for enhanced discovery, reuse, and automated configuration in Digital Twin networks.
 
-- [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Industrial_Semantics-Aware_Digital_Twins_-_A_Hybrid_Graph_Matching_Approach_for_Asset_Administration_Shells.pdf)
+- [Download the preprint](https://awortmann.github.io/downloads/preprints/Industrial_Semantics-Aware_Digital_Twins_-_A_Hybrid_Graph_Matching_Approach_for_Asset_Administration_Shells.pdf)
 
 ## Towards Formless Production with Skill-Based Industrial Digital Twins (IDETWIN 2025)
 
 Digital twins enable optimization and flexibilityin cyber-physical production systems (CPPSs). However, mostimplementations still replicate static production structures ratherthan supporting dynamic adaptability. This paper introducesFormless Production as a paradigm in which production systemsemerge dynamically from modular, interoperable skills repre-sented through Skill-Based Digital Twins (SBDTs). In this ap-proach, skills encapsulate the operational knowledge of resources,enabling their flexible orchestration based on system state andcontext. The paper outlines the conceptual foundations of form-less production, illustrates how SBDTs realize this vision, andproposes a roadmap toward software-defined, self-configuringmanufacturing systems.
 
-- [Download the preprint](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Towards_Formless_Production_with_Skill-Based_Industrial_Digital_Twins.pdf)
+- [Download the preprint](https://awortmann.github.io/downloads/preprints/Towards_Formless_Production_with_Skill-Based_Industrial_Digital_Twins.pdf)
 
 
 Find my other [publications here](https://awortmann.github.io/publications/).

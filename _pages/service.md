@@ -2,6 +2,7 @@
 layout: page
 permalink: /service/
 title: Service
+meta_description: "Academic service of Andreas Wortmann: conference and workshop organization (program chair of SE 2024 and SEAA 2023), editorial boards, and reviewing."
 description:
 nav: true
 nav_order: 4

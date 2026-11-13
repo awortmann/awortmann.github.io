@@ -1,6 +1,7 @@
 ---
 layout: about
 title: About
+meta_description: "Andreas Wortmann, Full Professor for Model-Driven Engineering in Production at ISW, University of Stuttgart: modeling languages, digital twins, and software engineering for cyber-physical systems."
 permalink: /
 subtitle:
 

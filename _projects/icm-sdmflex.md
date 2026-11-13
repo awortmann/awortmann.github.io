@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Flexible Software- Defined Manufacturing
+meta_description: "SDMflex: flexible software-defined manufacturing through precise detection of process states and machine capabilities."
 description:
 img: /assets/img/project-icm-sdmflex.jpg
 importance: 1

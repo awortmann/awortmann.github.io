@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Center for Systems Engineering
+meta_description: "Center for Systems Engineering: key technologies for an integrated, iterative, and partly automated model-based product development process."
 description:
 img: /assets/img/project-cse.jpg
 importance: 1

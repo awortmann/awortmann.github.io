@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Model-Based DevOps (MBDO)
+meta_description: "Model-Based DevOps: using models to automate the feedback from runtime to design in the DevOps of IoT and adaptive systems."
 description:
 img: /assets/img/project-dfg-mbdo.jpg
 importance: 1

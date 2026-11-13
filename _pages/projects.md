@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+meta_description: "Research projects of Andreas Wortmann at ISW, University of Stuttgart, including Factory-X, Model-Based DevOps, digital twins, and software-defined manufacturing."
 permalink: /projects/
 description:
 nav: true

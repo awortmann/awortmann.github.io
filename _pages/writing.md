@@ -2,6 +2,7 @@
 layout: page
 permalink: /writing/
 title: Notes on Scientifc Writing and Presentation
+meta_description: "Curated notes and resources on scientific writing and presentation: identifying venues, writing guidelines, style tools, and giving talks."
 description:
 nav: false
 ---

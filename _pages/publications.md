@@ -2,6 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
+meta_description: "Complete list of publications by Andreas Wortmann on model-driven systems engineering, software languages, digital twins, and Industry 4.0, with PDFs and BibTeX."
 description:
 nav: true
 nav_order: 2

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Intelligent Modular Service Robotics
+meta_description: "iserveU: pervasive model-driven software engineering for complex, modular service robotics applications."
 description:
 img: /assets/img/project-bmbf-iserveu.png
 importance: 1

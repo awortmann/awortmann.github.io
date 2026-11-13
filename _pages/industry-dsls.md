@@ -2,6 +2,7 @@
 layout: page
 permalink: /industry-dsls/
 title: Domain-Specific Languages in Industry
+meta_description: "A collection of domain-specific languages used in industry, such as the Device Modeling Language and AutomationML, with short descriptions."
 description:
 nav: false
 ---

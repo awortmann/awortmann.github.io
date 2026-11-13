@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Autonomous Universal Manufacturing
+meta_description: "Autonomous universal manufacturing: laser-based production combining AI-driven R&D labs with flexible production units for lot size one."
 description:
 img: /assets/img/project-icm-autounimanu.jpg
 importance: 1

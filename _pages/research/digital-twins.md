@@ -2,6 +2,7 @@
 layout: page
 permalink: /research/digital-twins/
 title: Digital Twins
+meta_description: "Research on the systematic, model-driven engineering of digital twins for cyber-physical systems in manufacturing, automotive, and other domains, with publications and literature."
 description:
 nav: false
 ---
@@ -30,8 +31,8 @@ Selected publications below highlight how we leverage this notion of digital twi
 
 #### 10 Selected Publications
 
-1. Pfeiffer, J., Zhang, J., Combemale, B., Michael, J., Rumpe, B., Wimmer, M., & Wortmann, A. (2025). [Towards a Unifying Reference Model for Digital Twins of Cyber-Physical Systems](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Towards_a_Unifying_Reference_Model_for_Digital_Twins_of_Cyber-Physical_Systems.pdf).In ETFA 2025. IEEE. (to appear)
-1. Kimmel, R., Michael, J., Wortmann, A., & Zhang, J. (2025). [Digital Twins for Software Engineering Processes](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Digital_Twins_for_Software_Engineering_Processes.pdf). In 2025 IEEE/ACM 47th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER) (pp. 16-20). IEEE.
+1. Pfeiffer, J., Zhang, J., Combemale, B., Michael, J., Rumpe, B., Wimmer, M., & Wortmann, A. (2025). [Towards a Unifying Reference Model for Digital Twins of Cyber-Physical Systems](https://awortmann.github.io/downloads/preprints/Towards_a_Unifying_Reference_Model_for_Digital_Twins_of_Cyber-Physical_Systems.pdf).In ETFA 2025. IEEE. (to appear)
+1. Kimmel, R., Michael, J., Wortmann, A., & Zhang, J. (2025). [Digital Twins for Software Engineering Processes](https://awortmann.github.io/downloads/preprints/Digital_Twins_for_Software_Engineering_Processes.pdf). In 2025 IEEE/ACM 47th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER) (pp. 16-20). IEEE.
 1. Michael, J., Cleophas, L., Zschaler, S., Clark, T., Combemale, B., Godfrey, T., ... & Vangheluwe, H. (2025). [Model‐Driven Engineering for Digital Twins: Opportunities and Challenges](https://incose.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sys.21815). Systems Engineering. Wiley.
 1. Lehner, D., Zhang, J., Pfeiffer, J., Sint, S., Splettstößer, A. K., Wimmer, M., & Wortmann, A. (2025). [Model-driven engineering for digital twins: a systematic mapping study](https://link.springer.com/content/pdf/10.1007/s10270-025-01264-7.pdf). Software and Systems Modeling, 1-39.
 1. Zhang, J., Ellwein, C., Heithoff, M., Michael, J., & Wortmann, A. (2025). [Digital twin and the asset administration shell: An Analysis of the Three Types of AASs and their Feasibility for Digital Twin Engineering](https://link.springer.com/content/pdf/10.1007/s10270-024-01255-0.pdf). Software and Systems Modeling, 1-23.

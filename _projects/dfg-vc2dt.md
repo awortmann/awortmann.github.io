@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Virtual Commissioning to Digital Twins
+meta_description: "VC2DT: from virtual commissioning models to digital twins of cyber-physical production systems."
 description:
 img: /assets/img/project-dfg-vc2dt.jpg
 importance: 1

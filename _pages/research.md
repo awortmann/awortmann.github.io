@@ -2,6 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
+meta_description: "Overview of Andreas Wortmann's research topics: automotive software engineering, digital twins, Industry 4.0, robotics software engineering, and software language engineering."
 description:
 nav: true
 nav_order: 1

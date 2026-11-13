@@ -2,6 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
+meta_description: "Teaching by Andreas Wortmann at the University of Stuttgart: lectures on software engineering for engineers, model-driven engineering, and related seminars."
 description:
 nav: true
 nav_order: 6

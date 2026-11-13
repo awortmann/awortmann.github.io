@@ -2,6 +2,7 @@
 layout: page
 permalink: /theses/
 title: Theses
+meta_description: "Information on writing a bachelor or master thesis with Andreas Wortmann at ISW, University of Stuttgart: rules, topic search, and supervision."
 description:
 nav: false
 ---

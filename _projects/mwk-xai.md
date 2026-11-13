@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Explainable AI for Manufacturing
+meta_description: "Explainable AI for additive-subtractive manufacturing: transparent, AI-based control and coordination of process steps for highly stressed components."
 description:
 img: /assets/img/project-mwk-xai.jpg
 importance: 1

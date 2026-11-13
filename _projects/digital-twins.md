@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Systematic Engineering of Digital Twins
+meta_description: "Systematic engineering of digital twins for manufacturing systems: integrating SysML v2 engineering models to detect deviations at runtime."
 description:
 img: /assets/img/project-digital-twins.jpg
 importance: 1
@@ -16,9 +17,9 @@ Digital Twins of manufacturing systems should help to control production to redu
 
 - [A cross-domain systematic mapping study on software engineering for Digital Twins](https://awortmann.github.io/downloads/paper/A_Cross-Domain_Systematic_Mapping_Study_on_Software_Engineering_for_Digital_Twins.pdf). Dalibor, Manuela, Jansen, Nico, Rumpe, Bernhard, Schmalzing, David, Wachtmeister, Louis, Wimmer, Manuel, and Wortmann, Andreas. In Journal of Systems and Software, pp. 111361, 2022.
 
-- [Modeling Capabilities of Digital Twin Platforms - Old Wine in New Bottles?](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/paper/Modeling_Capabilities_of_Digital_Twin_Platforms_-_Old_Wine_in_New_Bottles.pdf). Pfeiffer, Jérôme, Lehner, Daniel, Wortmann, Andreas, and Wimmer, Manuel. In Journal of Object Technology, Vol. 21, Vol. 3, pp. 3:1-14, 2022.
+- [Modeling Capabilities of Digital Twin Platforms - Old Wine in New Bottles?](https://awortmann.github.io/downloads/paper/Modeling_Capabilities_of_Digital_Twin_Platforms_-_Old_Wine_in_New_Bottles.pdf). Pfeiffer, Jérôme, Lehner, Daniel, Wortmann, Andreas, and Wimmer, Manuel. In Journal of Object Technology, Vol. 21, Vol. 3, pp. 3:1-14, 2022.
 
-- [Generating customized low-code development platforms for digital twins](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/paper/Generating_Customized_Low-Code_Development_Platforms_for_Digital_Twins.pdf). Dalibor, Manuela, Heithoff, Malte, Michael, Judith, Netz, Lukas, Pfeiffer, Jérôme, Rumpe, Bernhard, Varga, Simon, and Wortmann, Andreas. In Journal of Computer Languages, Vol. 70, pp. 101117, 2022.
+- [Generating customized low-code development platforms for digital twins](https://awortmann.github.io/downloads/paper/Generating_Customized_Low-Code_Development_Platforms_for_Digital_Twins.pdf). Dalibor, Manuela, Heithoff, Malte, Michael, Judith, Netz, Lukas, Pfeiffer, Jérôme, Rumpe, Bernhard, Varga, Simon, and Wortmann, Andreas. In Journal of Computer Languages, Vol. 70, pp. 101117, 2022.
 
 The complete list of publications is available from my [publications](https://awortmann.github.io/publications/) website.
 

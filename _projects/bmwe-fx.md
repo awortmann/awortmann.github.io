@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Factory X - The Digital Ecosystem
+meta_description: "Factory-X: a secure, interoperable, and sovereign data ecosystem for European manufacturing, with eleven application-focused use cases."
 description:
 img: /assets/img/project-bmwe-fx.jpg
 importance: 1
@@ -14,7 +15,7 @@ Our research in this consortium focuses on interconnecting models across differe
 
 ### Publications
 
-- Kimmel, R., Michael, J., Wortmann, A., & Zhang, J. (2025). [Digital Twins for Software Engineering Processes](https://raw.githubusercontent.com/awortmann/awortmann.github.io/master/downloads/preprints/Digital_Twins_for_Software_Engineering_Processes.pdf). In 2025 IEEE/ACM 47th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER) (pp. 16-20). IEEE.
+- Kimmel, R., Michael, J., Wortmann, A., & Zhang, J. (2025). [Digital Twins for Software Engineering Processes](https://awortmann.github.io/downloads/preprints/Digital_Twins_for_Software_Engineering_Processes.pdf). In 2025 IEEE/ACM 47th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER) (pp. 16-20). IEEE.
 - Ajdinović, S., Maisch, N., Kimmel, R., Rasouli, T., Lechler, A., Wortmann, A., & Riedel, O. (2025). [AI-Powered Semantic Matching and Data Harmonization for Industrial Applications with OPC UA & Asset Administration Shells](https://www.researchgate.net/publication/394119437_AI-Powered_Semantic_Matching_and_Data_Harmonization_for_Industrial_Applications_with_OPC_UA_Asset_Administration_Shells). In 2025 The 16th International Conference on Mechanical and Intelligent Manufacturing Technologies (ICMIMT) (pp. 248-252). IEEE.
 - Kimmel, R., Pfeiffer, J., Zhang, J., & Wortmann, A. (2024). [Large Language Model Based Agents for Generating Industrial Dashboards](https://link.springer.com/chapter/10.1007/978-3-031-86893-1_57). In Congress of the German Academic Association for Production Technology (pp. 525-532). Cham: Springer Nature Switzerland.
 

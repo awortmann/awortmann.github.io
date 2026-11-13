@@ -2,6 +2,7 @@
 layout: page
 permalink: /cv/
 title: Short Bio
+meta_description: "Short bio of Andreas Wortmann, Full Professor for Model-Driven Engineering in Production at the University of Stuttgart and member of the ISW leadership team."
 description:
 nav: false
 ---

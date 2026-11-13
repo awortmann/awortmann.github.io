@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Systematic Software Language Engineering
+meta_description: "SCOLaR (DFG): systematic, black-box composition of modeling languages from reusable language components and language product lines."
 description:
 img: /assets/img/project-dfg-scolar.jpg
 importance: 1

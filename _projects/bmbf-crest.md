@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Collaborative Embedded Systems
+meta_description: "CrESt: a comprehensive framework for the model-driven development of collaborative embedded systems for German industry."
 img: /assets/img/project-bmwe-fx.jpg
 importance: 1
 category: work

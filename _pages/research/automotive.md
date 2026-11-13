@@ -2,6 +2,7 @@
 layout: page
 permalink: /research/automotive/
 title: Automotive Software Engineering
+meta_description: "Research on automotive software engineering: model-based development, variant management, and testing of complex, feature-rich software-intensive vehicle systems."
 description:
 nav: false
 ---

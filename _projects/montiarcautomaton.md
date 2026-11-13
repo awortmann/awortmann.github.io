@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Model-Driven Architecture
+meta_description: "MontiArcAutomaton: an architecture and behavior modeling framework with platform-independent component-and-connector models and extensible code generation."
 description:
 img: /assets/img/project-montiarcautomaton.jpg
 importance: 1

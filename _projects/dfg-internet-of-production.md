@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Internet of Production Excellence Cluster
+meta_description: "Internet of Production: integrating production, development, and usage data along the product lifecycle through semantically adequate, contextual data."
 description:
 img: /assets/img/project-dfg-internet-of-production.jpg
 importance: 1
