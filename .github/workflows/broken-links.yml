@@ -3,51 +3,55 @@ name: Check for broken links
 on:
   push:
     branches:
-      - master
       - main
     paths:
-      - "assets/**"
-      - "**.html"
-      - "**.js"
-      - "**.liquid"
-      - "**/*.md"
-      - "**.yml"
-      - "!.github/workflows/axe.yml"
-      - "!.github/workflows/deploy-docker-tag.yml"
-      - "!.github/workflows/deploy-image.yml"
-      - "!.github/workflows/docker-slim.yml"
-      - "!.github/workflows/lighthouse-badger.yml"
-      - "!.github/workflows/prettier.yml"
-      - "!lighthouse_results/**"
+      - "_pages/**"
+      - "_projects/**"
+      - "_news/**"
+      - "_bibliography/**"
+      - ".lycheeignore"
+      - ".github/workflows/broken-links.yml"
   pull_request:
     branches:
-      - master
       - main
     paths:
-      - "assets/**"
-      - "**.html"
-      - "**.js"
-      - "**.liquid"
-      - "**/*.md"
-      - "**.yml"
-      - "!.github/workflows/axe.yml"
-      - "!.github/workflows/deploy-docker-tag.yml"
-      - "!.github/workflows/deploy-image.yml"
-      - "!.github/workflows/docker-slim.yml"
-      - "!.github/workflows/lighthouse-badger.yml"
-      - "!.github/workflows/prettier.yml"
-      - "!lighthouse_results/**"
+      - "_pages/**"
+      - "_projects/**"
+      - "_news/**"
+      - "_bibliography/**"
+      - ".lycheeignore"
+      - ".github/workflows/broken-links.yml"
+  schedule:
+    - cron: "0 6 * * 1" # jeden Montag 06:00 UTC – findet Links, die von selbst sterben
+  workflow_dispatch: # Start per Hand unter Actions → "Check for broken links" → "Run workflow"
 
 jobs:
   link-checker:
     runs-on: ubuntu-latest
-    # only run on the main repo
     steps:
       - uses: actions/checkout@v4
 
       - name: Link Checker 🔗
-        uses: lycheeverse/lychee-action@v2.0.2
+        uses: lycheeverse/lychee-action@v2
         with:
           fail: true
-          # removed md files that include liquid tags
-          args: --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --exclude-path _books/the_godfather.md  --exclude-path .github/instructions/bibtex-bibliography.instructions.md --exclude-path .github/instructions/yaml-configuration.instructions.md --exclude-path .github/instructions/markdown-content.instructions.md --exclude-path .github/instructions/liquid-templates.instructions.md --exclude-path AGENTS.md --exclude-path SEO.md --verbose --no-progress './**/*.md' './**/*.html'
+          # Geprüft werden nur deine Inhalte (Seiten, Projekte, News, Bibliographie),
+          # nicht die Doku-Dateien des Themes (FAQ.md, CUSTOMIZE.md, ...).
+          # Nur http(s)-Links: interne Links wie /publications/ oder ../digital-twins/
+          # kann lychee in den Quelldateien nicht auflösen; die prüft schon
+          # "Check for broken links on site" auf der gebauten Seite.
+          args: >-
+            --scheme https --scheme http
+            --user-agent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'
+            --cookie-jar cookies.json
+            --accept '100..=103,200..=299,429'
+            --max-concurrency 8
+            --max-retries 3
+            --retry-wait-time 5
+            --timeout 30
+            --exclude-path '_pages/404.md'
+            --no-progress
+            './_pages/**/*.md'
+            './_projects/**/*.md'
+            './_news/**/*.md'
+            './_bibliography/*.bib'

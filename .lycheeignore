@@ -1,42 +1,36 @@
 # .lycheeignore – eine Regex pro Zeile, wird gegen die URL geprüft.
 # Zeilen mit # sind Kommentare.
 
-# --- Bestehende Einträge aus al-folio ----------------------------------------
-.github/instructions/bibtex-bibliography.instructions.md
-.github/instructions/liquid-templates.instructions.md
-.github/instructions/markdown-content.instructions.md
-.github/instructions/yaml-configuration.instructions.md
-_books/the_godfather.md
-_pages/404.md
-_pages/blog.md
-_posts/2018-12-22-distill.md
-_posts/2023-04-24-videos.md
-AGENTS.md
-README.md
-SEO.md
-https://www.reddit.com/
+# --- DOIs, die auf Verlage mit Bot-Sperre weiterleiten -----------------------
+# (doi.org, dx.doi.org und www.doi.org)
+#   10.1145 ACM · 10.37544 VDI · 10.1080 Taylor & Francis · 10.1063 AIP
+#   10.2514 AIAA · 10.1115 ASME · 10.3390 MDPI · 10.1051 EDP Sciences · 10.4043 OnePetro
+^https?://(dx\.|www\.)?doi\.org/10\.(1145|37544|1080|1063|2514|1115|3390|1051|4043)/
 
-# --- Verlage und Datenbanken mit Bot-Sperre (403 bei automatischem Abruf) ----
-# ACM Digital Library, auch ACM-DOIs (10.1145), die dorthin weiterleiten
+# --- Verlage und Datenbanken mit Bot-Sperre (403 bzw. 418) -------------------
 ^https?://dl\.acm\.org/
-^https?://(dx\.)?doi\.org/10\.1145/
-# Wiley (inkl. incose.onlinelibrary.wiley.com)
+^https?://ieeexplore\.ieee\.org/
 ^https?://([a-z0-9-]+\.)?onlinelibrary\.wiley\.com/
-# Elsevier
 ^https?://(www\.)?sciencedirect\.com/
 ^https?://(www\.)?scopus\.com/
-# MDPI, Emerald
 ^https?://(www\.)?mdpi\.com/
 ^https?://(www\.)?emerald\.com/
-# VDI eLibrary (leitet auf inlibra.com weiter), auch VDI-DOIs (10.37544)
+^https?://(www\.)?tandfonline\.com/
+^https?://(www\.)?annualreviews\.org/
+^https?://onepetro\.org/
+^https?://asmedigitalcollection\.asme\.org/
+^https?://arc\.aiaa\.org/
 ^https?://elibrary\.vdi-verlag\.de/
 ^https?://(www\.)?inlibra\.com/
-^https?://(dx\.)?doi\.org/10\.37544/
 
-# --- Soziale Netzwerke / Plattformen mit Bot-Sperre -------------------------
+# --- Plattformen und Wörterbücher mit Bot-Sperre ----------------------------
 ^https?://(www\.)?researchgate\.net/
 ^https?://([a-z]+\.)?linkedin\.com/
 ^https?://(www\.)?unsplash\.com
+^https?://(www\.)?reddit\.com/
+^https?://(www\.)?merriam-webster\.com/
+^https?://(www\.)?bartleby\.com/
+^https?://(www\.)?guide2research\.com/
 
-# --- Wayback Machine: drosselt automatische Abrufe (429), Snapshots bleiben stabil
+# --- Wayback Machine: drosselt automatische Abrufe, Snapshots bleiben stabil -
 ^https?://web\.archive\.org/web/
