@@ -12,14 +12,14 @@ nav_order: 4
 Overall, I have chaired for over 25 conferences and workshops. Please find selected highlights below.
 
 - We have funded the 1st International Conference on Engineering Digital Twins: [EDTconf](https://www.edtconf.org/)
-- Program chair of the [Software Engineering 2024](https://se2024.se.jku.at/) conference
-- Program chair of the [SEAA 2023](https://dsd-seaa2023.com/) conference
+- Program chair of the [Software Engineering 2024](https://web.archive.org/web/20240303001103/https://se2024.se.jku.at/) conference
+- Program chair of the [SEAA 2023](https://web.archive.org/web/20231001022943/https://dsd-seaa2023.com/) conference
 - Workshop chair of the [Modellierung 2022](https://qfam.gi.de/modellierung2022) conference
 - Workshop chair of the [Software Engineering 2021 Conference](https://www.se-2022.de/)
-- Track chair of the track "Industry 4.0" at the [International Conference on Business Informatics 2021](https://cbi2021.events.unibz.it/)
+- Track chair of the track "Industry 4.0" at the [International Conference on Business Informatics 2021](https://web.archive.org/web/20210418082916/https://cbi2021.events.unibz.it/)
 - Organizer of the [1st International Workshop on Model-Driven Engineering for Digital Twins](http://gemoc.org/events/moddit2021.html) at the MODELS 2021 conference.
 - Session Chair of the special session "Low-Code and Model-Driven Engineering for Production Systems" at [APMS 2021](https://www.apms-conference.org/).
-- Track chair of the track “Model-Driven Engineering and Modeling Languages” of the [SEAA 2020](https://dsd-seaa2020.um.si/seaa/) conference
+- Track chair of the track “Model-Driven Engineering and Modeling Languages” of the [SEAA 2020](https://web.archive.org/web/20200511143425/https://dsd-seaa2020.um.si/seaa/) conference
 - Steering committee member of the [Robotics Software Engineering](https://rose-workshops.github.io/) (RoSE) workshop series.
 - Founder and steering committee member of the [Engineering Digital Twins (EDTconf)](http://www.edtconf.org) conference
 - Steering committee member of the [Modeling Language Engineering (MLE) workshop](https://mleworkshop.github.io/steeringcommittee/) series
