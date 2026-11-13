@@ -128,7 +128,7 @@ we have produced a collection of 112 definitions of the term "digital twin" from
 
 - "digital twin is a digital replica of a physical object, device, system, place or person". A. Fricke, H. Asche. [Geospatial Database for the Generation of Multidimensional Virtual City Models Dedicated to Urban Analysis and Decision-Making](https://link.springer.com/chapter/10.1007/978-3-030-24302-9_52). In: Computational Science and Its Applications ICCSA 2019, 2019
 
-- "The term digital twin refers to a digital replica of physical assets, processes and systems that can be used in real-time for control and decision purposes.". J. Vatn. [Industry 4.0 and real-time synchronization of operation and maintenance](http://www.doi.org/XXQUERYXXeid=2-s2.0-85058076521). In: Safety and Reliability - Safe Societies in a Changing World - Proceedings of the 28th International European Safety and Reliability Conference, ESREL 2018, 2018
+- "The term digital twin refers to a digital replica of physical assets, processes and systems that can be used in real-time for control and decision purposes.". J. Vatn. [Industry 4.0 and real-time synchronization of operation and maintenance](https://doi.org/10.1201/9781351174664-84). In: Safety and Reliability - Safe Societies in a Changing World - Proceedings of the 28th International European Safety and Reliability Conference, ESREL 2018, 2018
 
 - "Generally, the term [Digital Twin] is used to describe two things: the administration shell of a CPS and simulation models.". J. Reitz, M. Schluse, J. Rossmann. [Industry 4.0 beyond the Factory: An Application to Forestry](https://link.springer.com/chapter/10.1007/978-3-662-59317-2_11). In: Tagungsband des 4. Kongresses Montage Handhabung Industrieroboter, 2019
 
@@ -136,7 +136,7 @@ we have produced a collection of 112 definitions of the term "digital twin" from
 
 - "In this approach the term is used to describe a virtual representation based on AR-technology of a physical object which can or already exists in the real world.". H. Pargmann, D. Euhausen, R. Faber. [Intelligent big data processing for wind farm monitoring and analysis based on cloud-technologies and digital twins: A quantitative approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8386518). In: 2018 IEEE 3rd International Conference on Cloud Computing and Big Data Analysis (ICCCBDA), 2018
 
-- "The Digital Twin can be defined as an evolving profile of the history of current behaviour of a physical object or a process. That helps to optimize the performance of a production factory.". M. Krajcovic, P. Grznar, M. Fusko, R. Skokan. [Intelligent logistics for intelligent production systems](http://www.doi.org/XXQUERYXXeid=2-s2.0-85058798736). In: Communications - Scientific Letters of the University of Zilina, 2018
+- "The Digital Twin can be defined as an evolving profile of the history of current behaviour of a physical object or a process. That helps to optimize the performance of a production factory.". M. Krajcovic, P. Grznar, M. Fusko, R. Skokan. [Intelligent logistics for intelligent production systems](https://doi.org/10.26552/com.c.2018.4.16-23). In: Communications - Scientific Letters of the University of Zilina, 2018
 
 - "A DT is the virtual representation of a real technical asset, including its appearance, behavior, and interfaces.". L. Atorf, J. Rossmann. [Interactive Analysis and Visualization of Digital Twins in High-Dimensional State Spaces](http://www.doi.org/10.1109/ICARCV.2018.8581126). In: 2018 15th International Conference on Control, Automation, Robotics and Vision, ICARCV 2018, 2018
 
@@ -164,7 +164,7 @@ we have produced a collection of 112 definitions of the term "digital twin" from
 
 - "digital duplicate of the physical entity". D. Shangguan, L. Chen, J. Ding. [A hierarchical digital twin model framework for dynamic cyber-physical system design](http://www.doi.org/10.1145/3314493.3314504). In: ACM International Conference Proceeding Series, 2019
 
-- "A virtual replica that mirrors the physical facility in near real-time". E. La Grange. [A roadmap for adopting a digital lifecycle approach to offshore oil and gas production](http://www.doi.org/XXQUERYXXeid=2-s2.0-85050518738). In: Proceedings of the Annual Offshore Technology Conference, 2018
+- "A virtual replica that mirrors the physical facility in near real-time". E. La Grange. [A roadmap for adopting a digital lifecycle approach to offshore oil and gas production](https://doi.org/10.4043/28669-ms). In: Proceedings of the Annual Offshore Technology Conference, 2018
 
 - "The digital twin in essence is the both the representation of the physical system and the intelligence for controlling and/or modifying the production line". S. J. Hatakeyama, D. W. Seal, D. Farr, S. C. Haase. [An alternate view of the systems engineeringV in a model-based engineering environment](http://www.doi.org/10.2514/6.2018-5326). In: 2018 AIAA SPACE and Astronautics Forum and Exposition, 2018
 
@@ -216,7 +216,7 @@ we have produced a collection of 112 definitions of the term "digital twin" from
 
 - "The digital twin, conceived during the early concept phase (or retrofit to existing assets), draws together diverse data sources into an integrated format which can be managed and enriched as the asset progresses through its lifecycle.". A. F. Tjønn. [Digital twin through the life of a field](https://onepetro.org/SPEADIP/proceedings-abstract/18ADIP/2-18ADIP/D021S029R004/213014). In: Society of Petroleum Engineers - Abu Dhabi International Petroleum Exhibition and Conference 2018, ADIPEC 2018, 2019
 
-- "a digital, real-time, in-context, operational mime of an asset, which connects the digital and real world representations towards actionable insights". A. Bekker. [Exploring the blue skies potential of digital twin technology for a polar supply and research vessel](http://www.doi.org/XXQUERYXXeid=2-s2.0-85061387046&origin=resultslist). In: Marine Design XIII, 2018
+- "a digital, real-time, in-context, operational mime of an asset, which connects the digital and real world representations towards actionable insights". A. Bekker. [Exploring the blue skies potential of digital twin technology for a polar supply and research vessel](https://www.scopus.com/record/display.uri?eid=2-s2.0-85061387046). In: Marine Design XIII, 2018
 
 - "A digital twin is a digital representation of something that exists in the physical world.". F. Laborie, O. C. Røed, G. Engdahl, A. Camp. [Extracting value from data using an industrial data platform to provide a foundational digital twin](https://onepetro.org/OTCONF/proceedings-abstract/19OTC/1-19OTC/D011S010R005/181452). In: Proceedings of the Annual Offshore Technology Conference, 2019"
 
@@ -232,7 +232,7 @@ we have produced a collection of 112 definitions of the term "digital twin" from
 
 - "A Digital Twin is usually seen as more powerful than a Digital Shadow, which accumulates data from a real system". T. Delbruegger, J. Rossmann. [Representing adaptation options in experimentable digital twins of production systems](https://www.tandfonline.com/doi/full/10.1080/0951192X.2019.1599433?needAccess=true). In: INTERNATIONAL JOURNAL OF COMPUTER INTEGRATED MANUFACTURING, 2019"
 
-- "A digital twin is a dynamic virtual representation of a physical system that can be used for operational insight and life-cycle management". M. Schirmann, M. Collette, J. Gose. [Ship motion and fatigue damage estimation via a digital twin](http://www.doi.org/XXQUERYXXeid=2-s2.0-85063962295&origin=resultslist). In: Life-Cycle Analysis and Assessment in Civil Engineering: Towards an Integrated Vision - Proceedings of the 6th International Symposium on Life-Cycle Civil Engineering, IALCCE 2018, 2019"
+- "A digital twin is a dynamic virtual representation of a physical system that can be used for operational insight and life-cycle management". M. Schirmann, M. Collette, J. Gose. [Ship motion and fatigue damage estimation via a digital twin](https://www.scopus.com/record/display.uri?eid=2-s2.0-85063962295). In: Life-Cycle Analysis and Assessment in Civil Engineering: Towards an Integrated Vision - Proceedings of the 6th International Symposium on Life-Cycle Civil Engineering, IALCCE 2018, 2019"
 
 - "A detailed digital model of the entire asset, which represents all relevant aspects of the asset". D. J. Knezevic, H. Kang, P. Sharma, G. Malinowski, T. T. Nguyen. [Structural integrity management of offshore structures via RB-FEA and fast full load mapping based digital twins](https://onepetro.org/ISOPEIOPEC/proceedings-abstract/ISOPE18/All-ISOPE18/ISOPE-I-18-185/20398). In: Proceedings of the International Offshore and Polar Engineering Conference, 2018
 
